@@ -10,9 +10,9 @@
   url: /board/
   side: left
 
-- title: Funding
-  url: /funding/
-  side: left
+# - title: Funding
+#   url: /funding/
+#   side: left
 
 - title: IRMA
   url: https://www.irmacard.org
