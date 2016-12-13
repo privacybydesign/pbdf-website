@@ -39,4 +39,4 @@ Dan compileert hij de website en start hij lokaal op je computer een tijdelijke 
 
 `bundle exec jekyll build --config _config.yml,_config_staging.yml`
 
-De gecompileerde website staat nu in `_site`. Die kan gekopiëerd worden naar `/www/pbdf/test/htdocs` op lilo, bijvoorbeeld met `rsync -avz _site/* lilo:/www/pbdf/test/htdocs` (aangenomen dat lilo in je `.ssh/config` staat). Het resultaat is dan zichtbaar op [privacybydesign.foundation:4432](https://privacybydesign.foundation:4432/).
+De gecompileerde website staat nu in `_site`. Die kan gekopiëerd worden naar `/www/pbdf/test/htdocs` op lilo, bijvoorbeeld met `rsync -rlvz --chmod=ugo=rwX _site/* lilo:/www/pbdf/test/htdocs` (aangenomen dat lilo in je `.ssh/config` staat). Het resultaat is dan zichtbaar op [privacybydesign.foundation:4432](https://privacybydesign.foundation:4432/).
