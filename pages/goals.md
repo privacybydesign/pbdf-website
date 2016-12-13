@@ -9,10 +9,10 @@ permalink: /goals/
 ---
 
 Meer in het bijzonder richt de stichthing zich op de ontwikkeling en
-het gebruik van het systeem [IMRA](/irma), een afkorting voor I Reveal
+het gebruik van het systeem [IRMA](/irma), een afkorting voor I Reveal
 My Attributes.  Met IRMA kun je op een privacy-vriendelijke manier
 eigenschappen (attributes) van jezelf onthullen (zoals: ik ben boven
 de 18), zonder dat je verdere informatie over jezelf weggeeft.
 
 Ook kun je met IRMA attribuut-gebaseerde handtekeningen zetten,
-zie [IMRA](/irma) voor meer informatie.
+zie [IRMA](/irma) voor meer informatie.
