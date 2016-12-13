@@ -1,13 +1,14 @@
 ---
 layout: page
-title: Board
-meta_title: Board
+title: Bestuur
+meta_title: Bestuur
 header:
   image_fullwidth: header_unsplash_4.jpg
 permalink: /board/
 ---
-The board of the foundation consists of:
+Het bestuur van de stichting Privacy by Design bestaat uit
+de volgende drie personen:
 
- * President: Bart Jacobs
- * Secretary: Thea van Kemenade
- * Treasury: Sietse Ringers
+ * Voorzitter: Bart Jacobs
+ * Secretaris: Thea van Kemenade
+ * Penningmeester: Sietse Ringers
