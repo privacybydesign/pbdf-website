@@ -2,12 +2,12 @@
   url: "/"
   side: left
 
-- title: Goals
-  url: /goals/
+- title: Doelstelling
+  url: /doelstelling/
   side: left
 
-- title: The Board
-  url: /board/
+- title: Bestuur
+  url: /bestuur/
   side: left
 
 # - title: Funding

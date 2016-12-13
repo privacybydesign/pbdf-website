@@ -5,7 +5,7 @@ meta_title: Doelstelling
 teaser: De stichting Privacy by Design wil in algemene zin de ontwikkeling en het gebruik van privacy-vriendelijke en goed-beveiligde ICT bevorderen.
 header:
   image_fullwidth: header_unsplash_4.jpg
-permalink: /goals/
+permalink: /doelstelling/
 ---
 
 Meer in het bijzonder richt de stichthing zich op de ontwikkeling en

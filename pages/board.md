@@ -4,7 +4,7 @@ title: Bestuur
 meta_title: Bestuur
 header:
   image_fullwidth: header_unsplash_4.jpg
-permalink: /board/
+permalink: /bestuur/
 ---
 Het bestuur van de stichting Privacy by Design bestaat uit
 de volgende drie personen:
