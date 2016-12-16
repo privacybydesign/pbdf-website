@@ -18,11 +18,12 @@ eigenschappen op je mobiele telefoon op kunt slaan. Hiermee heb je een
 flexibel paspoort, waaruit je sommige dingen wel en andere dingen niet
 laat zien, afhankelijk van de situatie.
 
-IRMA staat nog in de kinderschoenen, maar wordt druk verder
-ontwikkeld. Via onderstaande links kun je meer informatie krijgen.
+IRMA staat nog in de kinderschoenen, maar wordt door de stichting
+Privacy by Design en partners actief verder ontwikkeld. Via
+onderstaande links kun je meer informatie krijgen.
 
-* Algemene [uitleg](uitleg) over attributen en IRMA
+* Algemene [uitleg](irma-uitleg) over attributen en IRMA
 
-* Waar wordt IRMA gebruikt?
+* Waar wordt IRMA nu gebruikt?
 
 * De IRMA [app](installatie) installeren (Engels)
