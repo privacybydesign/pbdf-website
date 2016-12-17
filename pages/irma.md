@@ -9,6 +9,8 @@ header:
 permalink: /irma/
 ---
 
+<p align="center"><a href="https://www.youtube.com/watch?v=q6IihEQFPys"><img src="../images/irma-video-screenshot.png" alt="IRMA video" style="width: 50%; height: 50%"/></a></p>
+
 Op het web moet je vaak bewijzen wie je bent. Dat heet
 *authenticatie*. Je moet dan bijvoorbeeld je naam geven, je
 geboortedatum en je emailadres, terwijl enkel nodig is dat je boven de

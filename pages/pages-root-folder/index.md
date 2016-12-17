@@ -7,13 +7,13 @@ permalink: /index.html
 homepage: true
 ---
 
-## Stichting Privacy by Design
+### Stichting Privacy by Design
 
 De stichting Privacy by Design is in 2016 voortgekomen uit de [Digital
 Security](http://www.ru.nl/ds/) onderzoeksgroep van de Radboud
 Universiteit. De stichting is een onafhankelijke non-profit spin-off.
 
-De stichting richt zich vooral op het eigen [IRMA](irma-uitleg)
+De stichting richt zich vooral op het eigen [IRMA](/irma)
 systeem voor privacy-vriendelijke attribuut-gebaseerde
 authenticatie. De aanpak is gebaseerd op gratis beschikbare open
 source software. Voor het gebruik van IRMA is er een eigen [Android
