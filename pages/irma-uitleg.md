@@ -3,6 +3,7 @@ layout: page
 title: IRMA in detail
 header:
   image_fullwidth: header_unsplash_1.jpg
+  title: Privacy by Design Foundation
 permalink: /irma-uitleg
 ---
 
@@ -228,7 +229,7 @@ sommigen van hen kijken wel serieus naar de mogelijkheden.
 Als je een attribuut wil ontvangen van zo'n issuer moet je je eerst op
 een of andere wijze authenticeren (bewijzen wie je bent). Vervolgens
 kan de issuers bij jou horende attributen in het eigen systeem
-opzoeken en aan jou uitgeven. 
+opzoeken en aan jou uitgeven.
 
 Als je IRMA app eenmaal een paar attributen heeft kun je die gaan
 gebruiken voor transacties. In zulke transacties zal een andere partij
@@ -259,7 +260,7 @@ heb je een nieuwe nodig. Het verversen van IRMA attributen is echter
 veel makkelijker: dat kan gewoon online.
 
 Dit downloaden en tonen van attributen is een natuurlijke vorm van
-modern `identity management'. Het lijkt een beetje op het beheren
+modern 'identity management'. Het lijkt een beetje op het beheren
 van de verschillende apps op een telefoon of tablet.
 
 
@@ -286,7 +287,7 @@ implementatie is gezamenlijk eigendom van de stichting en de Radboud
 Universiteit, waar in eerste instantie deze implementatie ontwikkeld
 is.
 
-Zoals gezegd worden attributen in groepjes gecombineerd in een 
+Zoals gezegd worden attributen in groepjes gecombineerd in een
 credentials. Bijvoorbeeld, je kunt een credential hebben met de
 volgende attributen.
 
@@ -341,10 +342,8 @@ gecontroleerd. Alleen als die PIN klopt, zal de server meedoen.
 Deze geheime sleutel is nodig bij iedere IRMA-handeling, zoals het
 uitgeven en tonen van attributen. Zolang mijn sleutel bij mij blijft,
 kunnen mijn attributen niet door anderen gebruikt worden. Daarmee
-zijn attributen niet overdraagbaar. 
+zijn attributen niet overdraagbaar.
 
 (Natuurlijk kan iemand zijn telefoon en PIN aan iemand anders geven.
 Dat is natuurlijk erg onverstandig. Daarmee kan die ander zich als
 jou voordoen, en allerlei nare dingen in jouw naam doen.)
-
-
