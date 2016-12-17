@@ -89,6 +89,13 @@ h1, h2, h3, h4, h5, h6 {
     font-family: $header-font-family;
     font-weight: normal;
     padding: 0;
+    a {
+      position: relative;
+      top: -2em;
+      display: block;
+      height: 0;
+      width: 0;
+    }
 }
 
 h1 {

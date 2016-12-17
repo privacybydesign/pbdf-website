@@ -11,23 +11,17 @@ Op deze pagina worden de idee&euml;n achter het IRMA systeem
 beschreven en ook hoe het systeem werkt en is opgezet. De volgende
 onderwerpen komen achtereenvolgens aan de orde.
 
-1 [Waar gaat IRMA eigenlijk over?](#onderwerp)
-
-2 [Waarom zou je attributen willen gebruiken in plaats van identiteiten?](#waarom)
-
-3 [Hoe kom ik aan attributen en hoe gebruik ik ze?](#hoe)
-
-4 [Wat zit er bij IRMA onder de motorkap?](#motorkap)
-
-5 Hoe is IRMA opgezet? Wat is de onderliggende architectuur?
-
-6 Wie zit er achter IRMA?
-
-7 Hoe kan ik meedoen of bijdragen?
+ 1. [Waar gaat IRMA eigenlijk over?](#onderwerp)
+ 2. [Waarom zou je attributen willen gebruiken in plaats van identiteiten?](#waarom)
+ 3. [Hoe kom ik aan attributen en hoe gebruik ik ze?](#hoe)
+ 4. [Wat zit er bij IRMA onder de motorkap?](#motorkap)
+ 5. Hoe is IRMA opgezet? Wat is de onderliggende architectuur?
+ 6. Wie zit er achter IRMA?
+ 7. Hoe kan ik meedoen of bijdragen?
 
 Deze vragen zullen hieronder een voor een beantwoord worden.
 
-### <a name="onderwerp">1. Waar gaat IRMA eigenlijk over?</a>
+### <a name="onderwerp"></a>1. Waar gaat IRMA eigenlijk over?
 
 Wanneer je een fles whiskey koopt moet je bewijzen dat je boven de 18
 bent. Je hoeft niet te vertellen wie je bent. Enkel deze persoonlijke
@@ -53,33 +47,19 @@ bijvoorbeeld bij een webwinkel, bij de overheid, op een webforum, bij
 een bank, enz.
 
 * Ik ben een student (of een oudere)
-
 * Ik ben boven de 12 (of 16, of 18, of 21, of 65)
-
 * Ik ben onder de 12 (of ...)
-
 * Mijn nationaliteit is ...
-
-* Mijn geslacht is mannelijk / vrouwelijk
-
+* Mijn geslacht is ...
 * Mijn banknummer is ...
-
 * Mijn huisadres is ...
-
 * Mijn voor/achter-naam is ...
-
 * Mijn burger service nummer (BSN) is ...
-
 * Mijn verzekersnummer is ...
-
 * Mijn email adres is ...
-
 * Mijn mobiele nummer is ...
-
 * Mijn klantenkaart van bedrijf X is brons / zilver / goed
-
 * Mijn treinabonnement is eerste / tweede klas
-
 * etc. etc.
 
 Sommige van deze attributen zijn uniek-bepalend, zoals je BSN: er
@@ -98,14 +78,11 @@ een transactie.
   wil doen in een online discussie groep van mensen met een bepaalde
   gevoelige ziekte, kan deze ziekte een attribuut zijn dat anoniem
   toegang geeft tot de groep.
-
 * Wanneer je een gewelddadige game/video/boek online wil kopen moet je
   bewijzen dat je boven de 16 bent, of misschien zelfs boven de 18.
-
 * Als je het "student" attribuut hebt kun je bijvoorbeeld korting
   krijgen bij de kapper; en als je het "gehandicapt" attribuut van een
   bepaalde soort hebt, heb je recht op speciaal vervoer.
-
 * Als je online iets wil kopen moet je je bankrekeningnummer tonen
   voor de betaling, en je adres voor de bezorging. Eventuele korting
   kun je krijgen via een lidmaatschapsattribuut van de webwinkel.
@@ -123,7 +100,7 @@ we het soort attributen als in IRMA gebruiken voor betrouwbare omgang.
 
 
 
-### <a name="waarom">2. Waarom zou je attributen willen gebruiken in plaats van identiteiten?</a>
+### <a name="waarom"></a>2. Waarom zou je attributen willen gebruiken in plaats van identiteiten?
 
 Kortweg: attributen beschermen je en stellen je in staat om veel
 dingen te doen.
@@ -148,15 +125,12 @@ meer voordelen.
 * Het is privacy-vriendelijk vanwege *data-minimalisatie*. Alleen die
   attributen die relevant en noodzakelijk zijn voor een transactie
   hoeven onthuld te worden.
-
 * Het voorkomt het onderling koppelen van verschillende transacties,
   zolang daar geen uniek-identificerende attributen voor nodig
   zijn. Daarmee wordt openlijk of stiekem profileren tegengegaan, en
   alles wat daarmee samenhangt als prijsdifferentiatie (de prijs die
   aan jou genoemd wordt hangt af van je profiel).
-
 * Het is flexibel en past in veel verschillende situaties.
-
 * Het geeft de gebruiker werkelijke controle en zicht op wie welke
   gegevens vraagt!
 
@@ -181,7 +155,7 @@ onthullen, bijvoorbeeld dat ze vrouw zijn of onder de 12, in
 discussiegroepen speciaal voor vrouwen of voor kinderen.
 
 
-### <a name="hoe">3. Hoe kom ik aan attributen en hoe gebruik ik ze?</a>
+### <a name="hoe"></a>3. Hoe kom ik aan attributen en hoe gebruik ik ze?
 
 Jouw persoonlijke attributen worden opgeslagen in de IRMA app op je
 eigen telefoon (of tablet). De app heeft een eigen PIN die nodig is
@@ -200,26 +174,19 @@ zoals:
 * de nationale overheid, of een gemeente, voor attributen als: naam,
   adres, geboortedatum, BSN, rijbevoegdheid, categorie van inkomen,
   etc.
-
 * banken en verzekeringsmaatschappijen, voor attributen als: bank- en
   verzekeringsnummers, soort van verzekering, etc.
-
 * internet service providers, telecom operators, voor:
   mail/IP-adressen, en telefoonnummers
-
 * de Facebook's / Google's / Apple's van deze wereld, voor login
   gegevens
-
 * grote of kleine webshops, voor eigen klantenkaarten met bijbehorende
   status, coupons, etc.
-
 * bedrijven en andere organisaties, voor attributen ten behoeve van
   verfijnde rol-gebaseerde toegangscontrole
-
 * ziekenhuizen en andere gezondheidsinstellingen, voor regulering van
   toegang niet alleen voor het eigen personeel, maar ook voor
   pati&euml;nten
-
 * etc.
 
 Op dit moment wordt IRMA helaas nog niet zo breed geaccepteerd en
@@ -264,7 +231,7 @@ modern 'identity management'. Het lijkt een beetje op het beheren
 van de verschillende apps op een telefoon of tablet.
 
 
-### <a name="motorkap">4. Wat zit er bij IRMA onder de motorkap?</a>
+### <a name="motorkap"></a>4. Wat zit er bij IRMA onder de motorkap?
 
 Met iets meer technische details zal hier uitgelegd worden waarom IRMA
 privacy-vriendelijk en goed-beveiligd is. IRMA is gebaseerd op
@@ -292,9 +259,7 @@ credentials. Bijvoorbeeld, je kunt een credential hebben met de
 volgende attributen.
 
 * nationaliteit
-
 * geboorteplaats
-
 * geboortedatum
 
 Zo'n credential kan bijvoorbeeld uitgegeven worden door de gemeente,
@@ -316,10 +281,8 @@ credentials, controleert heet een *verifier*. Zo'n verifier
 controleert een aantal dingen:
 
 * zijn de attributen nog geldig (niet verlopen)
-
 * klopt de digitale handtekening op de credentials, en daarmee de
   integriteit en de authenticteit van de attributen
-
 * indien er meerdere credentials getoond worden: behoren ze tot
   dezelfde persoon.
 
