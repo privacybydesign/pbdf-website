@@ -92,10 +92,10 @@ niet zozeer *wie* je bent, maar *wat* je bent. Dat is heel natuurlijk
 en intu&iuml;tief. Als je een arts in het ziekenhuis bezoekt wil je
 diens naam misschien weten voor de communicatie, maar een veel
 belangrijker attribuut is dat de betreffende persoon daadwerkelijk
-arts is. In de niet-digitale wereld vertrouwen we erg op de contekst:
+arts is. In de niet-digitale wereld vertrouwen we erg op de context:
 de persoon draagt een witte jas en ontvangt je in een werkkamer in een
 ziekenhuis. Dat geeft vertrouwen. Maar in de online wereld ontbreekt
-een dergelijke contekst (of is die makkelijk te vervalsen) en moeten
+een dergelijke context (of is die makkelijk te vervalsen) en moeten
 we het soort attributen als in IRMA gebruiken voor betrouwbare omgang.
 
 
@@ -255,7 +255,7 @@ Universiteit, waar in eerste instantie deze implementatie ontwikkeld
 is.
 
 Zoals gezegd worden attributen in groepjes gecombineerd in een
-credentials. Bijvoorbeeld, je kunt een credential hebben met de
+credential. Bijvoorbeeld, je kunt een credential hebben met de
 volgende attributen.
 
 * nationaliteit
@@ -272,7 +272,7 @@ bent. In het engels heet dit *selective disclosure*.
 De partij die credentials uitgeeft heet een *issuer*. Bij de uitgifte
 zet de issuer een zogenaamde *blinde* handtekening. Het resultaat
 daarvan is dat de issuer na uitgifte van een credential niet kan
-nagaan waar dit credentials gebruikt wordt, zelfs niet als de issuer
+nagaan waar dit credential gebruikt wordt, zelfs niet als de issuer
 samenspant met alle webwinkels. De stichting stelt open source
 software beschikbaar voor het vervullen van zo'n issuer rol.
 
@@ -283,7 +283,7 @@ controleert een aantal dingen:
 * zijn de attributen nog geldig (niet verlopen)
 * klopt de digitale handtekening op de credentials, en daarmee de
   integriteit en de authenticteit van de attributen
-* indien er meerdere credentials getoond worden: behoren ze tot
+* indien er attributen uit meerdere credentials getoond worden: behoren ze tot
   dezelfde persoon.
 
 Ook voor deze verifier rol heeft de stichting open source gratis
@@ -297,7 +297,7 @@ Credentials zijn cryptografisch aan de telefoon, en aan elkaar,
 gebonden via een geheime sleutel. Die geheime sleutel is cruciaal voor
 de beveiliging en dient goed beschermd opgeslagen te worden.  Dat is
 moeilijk om op een telefoon te doen, omdat een telefoon ge-root of
-ge-hackt kan worden. Daarom wordt de geheime sleutel bij IRMA voor een
+gehackt kan worden. Daarom wordt de geheime sleutel bij IRMA voor een
 klein, maar cruciaal deel buiten de telefoon opgeslagen op een
 zogenaamde *keyserver*. De IRMA PIN code wordt door de keyserver
 gecontroleerd. Alleen als die PIN klopt, zal de server meedoen.
