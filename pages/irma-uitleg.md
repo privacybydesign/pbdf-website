@@ -4,7 +4,7 @@ title: IRMA in detail
 header:
   image_fullwidth: header_unsplash_1.jpg
   title: Privacy by Design Foundation
-permalink: /irma-uitleg
+permalink: /irma-uitleg/
 ---
 
 Op deze pagina worden de idee&euml;n achter het IRMA systeem
