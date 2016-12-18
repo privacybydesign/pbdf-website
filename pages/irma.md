@@ -2,7 +2,7 @@
 layout: page
 title: IRMA
 meta_title: IRMA
-teaser: Steeds meer partijen willen van alles van je weten. Met IRMA kun je dat zelf in de hand houden&#58; je laat alleen die dingen van je zelf zien die nodig zijn en die je zelf ook wil onthullen.
+teaser: Steeds meer partijen willen van alles van je weten. Met IRMA kun je dat zelf in de hand houden&#58; je laat alleen die dingen van je zelf zien die nodig zijn en die je zelf ook wil onthullen, zie de introductie-video&#58;
 header:
   image_fullwidth: header_unsplash_1.jpg
   title: Privacy by Design Foundation
@@ -26,6 +26,6 @@ onderstaande links kun je meer informatie krijgen.
 
 * Algemene [uitleg](/irma-uitleg) over attributen en IRMA
 
-* Waar wordt IRMA nu gebruikt?
+* Waar wordt IRMA nu [gebruikt](/gebruik)?
 
 * De IRMA [app](/irma-installatie) installeren (Engels)

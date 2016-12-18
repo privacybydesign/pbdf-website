@@ -7,17 +7,17 @@ header:
 permalink: /irma-uitleg/
 ---
 
-Op deze pagina worden de idee&euml;n achter het IRMA systeem
-beschreven en ook hoe het systeem werkt en is opgezet. De volgende
-onderwerpen komen achtereenvolgens aan de orde.
+<a name="top"></a> Op deze pagina worden de idee&euml;n achter het
+IRMA systeem beschreven en wordt ook uiteengezet hoe het systeem werkt
+en is opgezet. De volgende onderwerpen komen achtereenvolgens aan bod.
 
  1. [Waar gaat IRMA eigenlijk over?](#onderwerp)
  2. [Waarom zou je attributen willen gebruiken in plaats van identiteiten?](#waarom)
  3. [Hoe kom ik aan attributen en hoe gebruik ik ze?](#hoe)
  4. [Wat zit er bij IRMA onder de motorkap?](#motorkap)
- 5. Hoe is IRMA opgezet? Wat is de onderliggende architectuur?
- 6. Wie zit er achter IRMA?
- 7. Hoe kan ik meedoen of bijdragen?
+ 5. [Wat zijn attribuut-gebaseerde handtekeningen?](#signature)
+ 6. [Hoe is IRMA opgezet? Wat is de onderliggende architectuur?](#architectuur)
+ 7. [Hoe kan ik meedoen of bijdragen?](#meedoen)
 
 Deze vragen zullen hieronder een voor een beantwoord worden.
 
@@ -40,13 +40,13 @@ ICT-systemen.
 
 Naast intrinsieke privacy-bescherming biedt IRMA ook bescherming tegen
 identiteitsfraude: als je bankrekeningnummer of geboortedatum niet
-genoemd wordt, kan het ook niet misbruikt worden.
+genoemd worden, kunnen ze ook niet misbruikt worden.
 
 Hieronder staat een lijstje attributen die nuttig kunnen zijn,
 bijvoorbeeld bij een webwinkel, bij de overheid, op een webforum, bij
 een bank, enz.
 
-* Ik ben een student (of een oudere)
+* Ik ben een student (of een gepensioneerde)
 * Ik ben boven de 12 (of 16, of 18, of 21, of 65)
 * Ik ben onder de 12 (of ...)
 * Mijn nationaliteit is ...
@@ -55,10 +55,10 @@ een bank, enz.
 * Mijn huisadres is ...
 * Mijn voor/achter-naam is ...
 * Mijn burger service nummer (BSN) is ...
-* Mijn verzekersnummer is ...
+* Mijn verzekeringsnummer is ...
 * Mijn email adres is ...
 * Mijn mobiele nummer is ...
-* Mijn klantenkaart van bedrijf X is brons / zilver / goed
+* Mijn klantenkaart van bedrijf X heeft status brons / zilver / goed
 * Mijn treinabonnement is eerste / tweede klas
 * etc. etc.
 
@@ -95,10 +95,10 @@ belangrijker attribuut is dat de betreffende persoon daadwerkelijk
 arts is. In de niet-digitale wereld vertrouwen we erg op de context:
 de persoon draagt een witte jas en ontvangt je in een werkkamer in een
 ziekenhuis. Dat geeft vertrouwen. Maar in de online wereld ontbreekt
-een dergelijke context (of is die makkelijk te vervalsen) en moeten
-we het soort attributen als in IRMA gebruiken voor betrouwbare omgang.
+een dergelijke context (of is die makkelijk te vervalsen) en moeten we
+attributen als in IRMA gebruiken voor betrouwbare omgang.
 
-
+[Naar boven](#top)
 
 ### <a name="waarom"></a>2. Waarom zou je attributen willen gebruiken in plaats van identiteiten?
 
@@ -119,8 +119,8 @@ gebruikt voor een transactie, dan speelt je identiteit helemaal geen
 rol en kan daarom ook niet gestolen worden. In die zin bieden
 attributen bescherming.
 
-Het gebruik van attributen in plaatsvan identiteiten heeft nog
-meer voordelen.
+Het gebruik van attributen in plaats van identiteiten heeft nog meer
+voordelen.
 
 * Het is privacy-vriendelijk vanwege *data-minimalisatie*. Alleen die
   attributen die relevant en noodzakelijk zijn voor een transactie
@@ -138,14 +138,14 @@ In veel digitaliseringsprojecten in de afgelopen decennia zijn
 attributen uit het dagelijkse leven vervangen door vaste digitale
 identiteiten. Een voorbeeld is de OV-chipkaart. Traditioneel voldeed
 een papieren kaartje voor de bus of trein. Daarmee kon je anoniem
-reizen, zonder dat je verschillende reizen onderling gekoppeld konden
-worden. Tegenwoordig moet je je identiteit onthullen om te reizen via
-het unieke nummer van een OV-chipkaart. Via zulke kaarten kunnen al je
-reizen bijgehouden en gekoppeld worden, gebruikt worden voor marketing
-doeleinden, en mogelijk openbaar worden door een hack of door
-slordigheid. Anonieme OV-chipkaarten bieden weinig bescherming, omdat
-bij herstel van een fout of geld-teruggave van een verlopen kaart je
-toch je identiteit moet onthullen.
+reizen, zonder dat jouw verschillende reizen onderling gekoppeld
+konden worden. Tegenwoordig moet je je identiteit onthullen om te
+reizen via het unieke nummer van een OV-chipkaart. Via zulke kaarten
+kunnen al je reizen bijgehouden en gekoppeld worden, gebruikt worden
+voor marketing doeleinden, en mogelijk openbaar worden door een hack
+of door slordigheid. Anonieme OV-chipkaarten bieden weinig
+bescherming, omdat bij herstel van een fout of geld-teruggave van een
+verlopen kaart je toch je identiteit moet onthullen.
 
 Attribuut-gebaseerde systemen brengen de traditionele bescherming en
 flexibiliteit voor een deel weer terug. Daarnaast bieden ze
@@ -154,6 +154,7 @@ omdat je kunt vereisen dat deelnemers toch iets van zichzelf
 onthullen, bijvoorbeeld dat ze vrouw zijn of onder de 12, in
 discussiegroepen speciaal voor vrouwen of voor kinderen.
 
+[Naar boven](#top)
 
 ### <a name="hoe"></a>3. Hoe kom ik aan attributen en hoe gebruik ik ze?
 
@@ -230,6 +231,7 @@ Dit downloaden en tonen van attributen is een natuurlijke vorm van
 modern 'identity management'. Het lijkt een beetje op het beheren
 van de verschillende apps op een telefoon of tablet.
 
+[Naar boven](#top)
 
 ### <a name="motorkap"></a>4. Wat zit er bij IRMA onder de motorkap?
 
@@ -273,8 +275,9 @@ De partij die credentials uitgeeft heet een *issuer*. Bij de uitgifte
 zet de issuer een zogenaamde *blinde* handtekening. Het resultaat
 daarvan is dat de issuer na uitgifte van een credential niet kan
 nagaan waar dit credential gebruikt wordt, zelfs niet als de issuer
-samenspant met alle webwinkels. De stichting stelt open source
-software beschikbaar voor het vervullen van zo'n issuer rol.
+samenspant met alle webwinkels. De stichting heeft open source
+software [beschikbaar](https://credentials.github.io/) voor het
+vervullen van zo'n issuer rol.
 
 De partij die een of meerdere attributen, uit een of meerdere
 credentials, controleert heet een *verifier*. Zo'n verifier
@@ -287,11 +290,12 @@ controleert een aantal dingen:
   dezelfde persoon.
 
 Ook voor deze verifier rol heeft de stichting open source gratis
-software. Een webwinkel kan daarmee zelf attributen controleren.
-Kleinere webwinkels zullen misschien liever die controle misschien
-liever aan andere partijen uitbesteden, net zoals ze betalingen vaak
-uitbesteden. Dat kan ook, maar is minder goed voor de privacy omdat
-deze externe controlerende partijen veel attributen te zien krijgen.
+[software](https://credentials.github.io/). Een webwinkel kan daarmee
+zelf attributen controleren.  Kleinere webwinkels zullen misschien
+liever die controle misschien liever aan andere partijen uitbesteden,
+net zoals ze betalingen vaak uitbesteden. Dat kan ook, maar is minder
+goed voor de privacy omdat deze externe controlerende partijen veel
+attributen te zien krijgen.
 
 Credentials zijn cryptografisch aan de telefoon, en aan elkaar,
 gebonden via een geheime sleutel. Die geheime sleutel is cruciaal voor
@@ -310,3 +314,128 @@ zijn attributen niet overdraagbaar.
 (Natuurlijk kan iemand zijn telefoon en PIN aan iemand anders geven.
 Dat is natuurlijk erg onverstandig. Daarmee kan die ander zich als
 jou voordoen, en allerlei nare dingen in jouw naam doen.)
+
+[Naar boven](#top)
+
+### <a name="signature"></a>5. Wat zijn attribuut-gebaseerde handtekeningen?
+
+IRMA is primair een systeem voor attribuut-gebaseerde authenticatie:
+je kunt met IRMA selectief attributen van je zelf laten zien. Maar
+IRMA biedt nog meer, namelijk attribuut-gebaseerde digitale
+handtekeningen. 
+
+Met een *traditionele* "natte" handtekening verklaart een
+ondertekenaar zich akkoord met de inhoud van het ondertekende
+document. Zo'n traditionele handtekening omvat typisch de naam van de
+ondertekenaar, het tijdstip van ondertekening, en de handgeschreven,
+eigen "krabbel".
+
+Een *digitale* handtekening is een toevoeging aan een digitaal
+document die alleen gegenereerd kan worden met de persoonlijke
+(cryptografische) sleutel van de ondertekenaar. Deze persoonlijke
+*private* sleutel is aan een persoon gebonden via een certificaat,
+waarin de bijbehorende *public* key opgenomen is. Digitale
+handtekeningen die aan bepaalde eisen voldoen worden wettelijk
+geaccepteerd.
+
+Een groot nadeel van zowel tranditionele als huidige digitale
+handtekeningen is dat ze weinig informatie geven over wie nu precies
+de handtekening zet, in welke rol.
+
+Een attribuut-gebaseerde handtekening is een speciale digitale
+handtekening waarbij in de toevoeging aan het document ook een aantal
+attributen van de ondertekenaar opgenomen worden. Deze attributen zijn
+zichtbaar voor eenieder die de handtekening controleert. Zo kun je
+bijvoorbeeld zien dat een bepaalde ziekteverklaring ondertekend is
+door een arts, via het "arts" attribuut, eventueel gecombineerd met de
+medische specialisatie of met het BIG nummer, als attribuut. Een ander
+voorbeeld is een verzoek van een burger aan de overheid, zeg over een
+vergunning, dat ondertekend is met het eigen BSN attribuut. Daarmee
+herkent de overheid direct dat dit verzoek daadwerkelijk van een
+bepaalde burger afkomstig is. Ook betaalopdrachten kunnen via een
+attribuut-gebaseerde handtekening gerealiseerd worden, door het
+rekeningnummer van de ondertekenaar als attribuut in de handtekening
+te stoppen.
+
+Attribuut-gebaseerde handtekeningen worden door IRMA ondersteund,
+vooralsnog in experimentele vorm. Deze vorm moet nog uitkristalliseren
+in toepassingen. Attribuut-gebaseerde handtekeningen vormen een nieuw
+concept met ongekende toepassingsmogelijkheden.
+
+
+[Naar boven](#top)
+
+### <a name="architectuur"></a>6. Hoe is IRMA opgezet? Wat is de onderliggende architectuur?
+
+IRMA onderscheidt zich van andere identity management systemen zoals
+[idensys](https://www.idensys.nl/) of [iDIN](http://www.idin.nl) door
+een *decentrale* architectuur. Jouw attributen zijn alleen bij jou op
+de telefoon opgeslagen, en niet bij een of andere "identity broker" in
+de cloud. Wanneer jij wil bewijzen dat je boven de 18 bent tegenover
+een webshop doe jij dat rechtstreeks tegenover de webshop, zonder
+tussenkomst van een "makelaar" of een "broker" of wie dan ook die hier
+niks mee te maken heeft. Door deze decentrale architectuur van IRMA
+kan dus niet door derde partijen bijgehouden worden:
+
+* welke attributen jij hebt
+* waar je die gebruikt
+* wanneer je die gebruikt.
+
+Op deze manier biedt IRMA optimale privacy-bescherming.
+
+Ter vergelijking: als je het systeem iDIN van de banken gebruikt voor
+authenticatie kan jouw bank zien of en wanneer je inlogt bij een
+slijter of bij een psychiatrische kliniek. De banken beweren dat ze
+die informatie niet voor andere doeleinden zullen gebruiken,
+bijvoorbeeld bij beslissingen of jij wel of niet een hypotheek
+krijgt. De decentrale architectuur van IRMA zorgt ervoor dat dit soort
+vraagstukken helemaal niet optreden.
+
+Het IRMA systeem vereist dat er wel enige coordinatie is over hoe
+attributen en credentials georganiseerd worden en welke (publieke)
+cryptografische sleutels waar voor nodig zijn. Deze coordinerende rol
+wordt vervuld door de stichting Privacy by Design.
+
+De stichting monopoliseert echter niet. Het IRMA systeem is open en
+gratis beschikbaar en in principe voor iedereen te gebruiken. Ook
+andere partijen kunnen de coordinerende rol van de stichting
+vervullen.
+
+De openheid van IRMA is belangrijk voor brede acceptatie. Er is geen
+sprake van commerci&euml;le "lock-in" en ook niet van afgedwongen
+vertrouwen. Hiereen kan en mag zien hoe IRMA werkt. 
+
+Het IRMA systeem sluit commerci&euml;le verdienmodellen zeker niet
+uit.  Maar deze commerci&euml;le activiteiten moeten *bovenop* een
+open infrastructuur plaatsvinden, en niet daarbinnen. De
+internetprotocollen als TCP en IP zijn ook open, en vormen ook de
+basis voor commerci&euml;le activiteiten die gebruik maken van de open
+internet infrastructuur.
+
+[Naar boven](#top)
+
+### <a name="meedoen"></a>7. Hoe kan ik meedoen of bijdragen?
+
+IRMA is een systeem dat van onderaf opgebouwd wordt, en niet van
+bovenaf opgelegd. IRMA zal zich moeten bewijzen via overtuigende
+toepassingen. Daar wordt nu door verschillende partijen aan gewerkt.
+
+Heb je ook een idee voor een goede toepassing van IRMA, neem
+dan [contact](/contact) met ons op. Wat wij als stichting kunnen doen is
+bijvoorbeeld:
+
+* adviseren bij de organisatie van attributen bij de beoogde
+  toepassing;
+* zonodig uitbreiden van de IRMA software voor een optimale inzet bij deze 
+  toepassing; deze uitbreidingen zullen dan in principe ook als open
+  source software voor anderen beschikbaar zijn.
+
+De stichting zal voor dergelijke ondersteuning een nader te bepalen
+financi&euml;le bijdrage verwachten, om de eigen activiteiten in stand
+te houden.
+
+Ook als je geen concrete toepassing voor ogen hebt, maar wil bijdragen
+aan het IRMA gedachtengoed, door je inzet of door een financi&euml;le
+bijdrage, staan wij open voor [contact](/contact).
+
+[Naar boven](#top)
