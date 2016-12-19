@@ -409,9 +409,9 @@ Bij [idensys](https://www.idensys.nl/) spelen dezelfde privacy
 problemen als bij iDIN: je moet eerst een inlogmiddel kopen bij een
 [leverancier](https://www.idensys.nl/inloggen-met-idensys/inlogmiddel-aanvragen/leveranciers-inlogmiddelen)
 en je kunt daarna alleen maar via die leverancier online inloggen. Die
-leverancier komt dus ook te weten wanneer jij waar inlogt.
+leverancier komt dus ook precies te weten wanneer jij waar inlogt.
 
-Het IRMA systeem heeft niet zulke privacy hotspots. IRMA vereist wel
+Het IRMA systeem heeft niet zulke "privacy hotspots". IRMA vereist wel
 dat er enige coordinatie is over hoe attributen en credentials
 georganiseerd worden en welke (publieke) cryptografische sleutels waar
 voor nodig zijn. Deze coordinerende rol wordt vervuld door de
@@ -433,6 +433,13 @@ internetprotocollen als TCP en IP zijn ook open, en vormen ook de
 basis voor commerci&euml;le activiteiten die gebruik maken van de open
 internet infrastructuur.
 
+IRMA en idensys/iDIN kunnen goed naast elkaar bestaan. IRMA is
+het best te gebruiken voor toepassingen waar privacy een (grote) rol
+speelt, of waar je meer attributen nodig hebt dan de paar basis
+attributen die door idensys/iDIN geleverd kunnen worden.
+
+
+
 [Naar boven](#top)
 
 ### <a name="nadelen"></a>7. Wat zijn de nadelen van IRMA?
@@ -451,7 +458,7 @@ je ze kunt gebruiken. En als attributen verlopen zijn moet je ze
 verversen. En als je je telefoon vervangt, moet je jouw attributen
 weer opnieuw ophalen voordat je weer online kunt inloggen.  Dat is
 allemaal "gedoe" dat hoort bij een zorgvuldige omgang met jouw
-digitale identiteit.  IRMA dwingt je er toe net zo zorgvuldig in de
+digitale identiteit.  IRMA helpt je erbij om net zo zorgvuldig in de
 online wereld met je IRMA app om te gaan als je in de offline wereld
 met je paspoort omgaat.
 
