@@ -8,8 +8,21 @@ header:
 permalink: /bestuur/
 ---
 Het bestuur van de stichting Privacy by Design bestaat uit
-de volgende drie personen:
+onderstaande personen. Zij allen vervullen de bestuursfunctie op 
+persoonlijke titel en worden hiervoor niet betaald.
 
- * Voorzitter: Bart Jacobs
- * Secretaris: Thea van Kemenade
- * Penningmeester: Sietse Ringers
+ * **Voorzitter**: Bart Jacobs
+
+ [Bart Jacobs](http://www.cs.ru.nl/~bart) is hoogleraar
+ computerbeveiliging aan de Radboud Universiteit Nijmegen. Hij heeft
+ samen met zijn onderzoeksgroep gewerkt van veel maatschappelijk
+ relevante security en privacy onderwerpen, zoals de OV-chipkaart,
+ elektronisch stemmen en medische privacy.
+
+ * **Secretaris**: Thea van Kemenade
+
+Thea van Kemenade is ...
+
+ * **Penningmeester**: Sietse Ringers
+
+Sietse Ringers is in 2016 gepromoveerd op het gebied ...
