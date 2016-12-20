@@ -7,7 +7,7 @@ header:
 permalink: /irma-uitleg/
 ---
 
-<a name="top"></a> Op deze pagina worden de idee&euml;n achter het
+<a name="top"></a> Op deze pagina worden de ideeën achter het
 IRMA systeem beschreven en wordt ook uiteengezet hoe het systeem werkt
 en is opgezet. De volgende onderwerpen komen achtereenvolgens aan bod.
 
@@ -24,10 +24,10 @@ Deze vragen zullen hieronder een voor een beantwoord worden.
 
 ### <a name="onderwerp"></a>1. Waar gaat IRMA eigenlijk over?
 
-Wanneer je een fles whiskey koopt moet je volgens de wet bewijzen dat
+Wanneer je een fles whisky koopt moet je volgens de wet bewijzen dat
 je boven de 18 bent. Je hoeft echter niet te vertellen wie je
 bent. Enkel deze persoonlijke eigenschap, dat je boven de 18 bent, is
-genoeg voor de whiskey aankoop. Zulke persoonlijke eigenschappen
+genoeg voor de whisky aankoop. Zulke persoonlijke eigenschappen
 worden attributen genoemd.
 
 IRMA is de naam voor een systeem dat precies dit doet. IRMA staat
@@ -55,8 +55,8 @@ een bank, enz.
 * Mijn geslacht is ...
 * Mijn banknummer is ...
 * Mijn huisadres is ...
-* Mijn voor/achter-naam is ...
-* Mijn burger service nummer (BSN) is ...
+* Mijn voor/achternaam is ...
+* Mijn burgerservicenummer (BSN) is ...
 * Mijn verzekeringsnummer is ...
 * Mijn email adres is ...
 * Mijn mobiele nummer is ...
@@ -66,7 +66,7 @@ een bank, enz.
 
 Sommige van deze attributen zijn uniek-bepalend, zoals je BSN: er
 hoort een unieke persoon bij. Maar sommige andere attributen kunnen
-annoniem gebruikt worden, zonder dat daarbij bekend wordt om wie het
+anoniem gebruikt worden, zonder dat daarbij bekend wordt om wie het
 precies gaat. Deze niet-identificerende attributen gelden voor
 meerdere mensen.
 
@@ -91,7 +91,7 @@ zijn voor een transactie.
 
 Kortom: IRMA gaat over attribuut-gebaseerde authenticatie: je bewijst
 niet zozeer *wie* je bent, maar *wat* je bent. Dat is heel natuurlijk
-en intu&iuml;tief. Als je een arts in het ziekenhuis bezoekt wil je
+en intuïtief. Als je een arts in het ziekenhuis bezoekt wil je
 diens naam misschien weten voor de communicatie, maar een veel
 belangrijker attribuut is dat de betreffende persoon daadwerkelijk
 arts is. In de niet-digitale wereld vertrouwen we erg op de context:
@@ -191,9 +191,9 @@ zoals:
   verfijnde rol-gebaseerde toegangscontrole
 * ziekenhuizen en andere gezondheidsinstellingen, voor regulering van
   toegang niet alleen voor het eigen personeel, maar ook voor
-  pati&euml;nten
-* militaire organisaties, voor al hun verschillende rangen, 
-  compartimentalisaties, en leden van special forces van wie 
+  patiënten
+* militaire organisaties, voor al hun verschillende rangen,
+  compartimentalisaties, en leden van special forces van wie
   identificerende gegevens niet onthuld worden
 * etc.
 
@@ -236,8 +236,9 @@ heb je een nieuwe nodig. Het verversen van IRMA attributen is echter
 veel makkelijker: dat kan gewoon online.
 
 Dit downloaden en tonen van attributen is een natuurlijke vorm van
-modern 'identity management'. Het lijkt een beetje op het beheren
-van de verschillende apps op een telefoon of tablet.
+modern 'identity management'. Het lijkt een beetje op het installeren,
+beheren en verwijderen van de verschillende apps op een telefoon of
+tablet.
 
 [Naar boven](#top)
 
@@ -245,12 +246,12 @@ van de verschillende apps op een telefoon of tablet.
 
 Met iets meer technische details zal hier uitgelegd worden waarom IRMA
 privacy-vriendelijk en goed-beveiligd is. IRMA is gebaseerd op
-niet-triviale cryptografie, voor attribuut-gebaseerde credentials.
+geavanceerde cryptografie, voor attribuut-gebaseerde credentials.
 Deze credentials zijn containers met daarin een aantal attributen,
 voorzien van een geldigheidsdatum en een digitale handtekening. De
 onderliggende cryptografie is gebaseerd op
 [Idemix](http://www.research.ibm.com/labs/zurich/idemix/) dat vanaf
-eind jaren negentig bij IBM in Z&uuml;rich is ontworpen.  De
+eind jaren negentig bij IBM in Zürich is ontworpen.  De
 technologie is *open*. Er is uitgebreid over gepubliceerd in de
 wetenschappelijke literatuur. Dit geeft vertrouwen.
 
@@ -294,7 +295,7 @@ controleert een aantal dingen:
 
 * zijn de attributen nog geldig (niet verlopen)
 * klopt de digitale handtekening op de credentials, en daarmee de
-  integriteit en de authenticteit van de attributen
+  integriteit en de authenticiteit van de attributen
 * indien er attributen uit meerdere credentials getoond worden: behoren ze tot
   dezelfde persoon.
 
@@ -312,12 +313,15 @@ geheime sleutel is cruciaal voor de beveiliging en dient goed
 beschermd opgeslagen te worden.  Dat is moeilijk om op een telefoon te
 doen, omdat een telefoon ge-root of gehackt kan worden. Daarom wordt
 de geheime sleutel bij IRMA voor een klein, maar cruciaal deel buiten
-de telefoon opgeslagen op een zogenaamde *keyserver*. De IRMA PIN code
-wordt door de keyserver gecontroleerd. Alleen als die PIN klopt, zal
-de server meedoen en kunnen attributen getoond worden.
+de telefoon opgeslagen op een zogenaamde *keyshare-server*. De IRMA PIN code
+wordt door de keyshare-server gecontroleerd. Alleen als die PIN klopt, zal
+de server meedoen en kunnen attributen getoond worden. De keyshare-server
+krijgt de attributen die je vrijgeeft niet te zien, en ook niet aan wie je
+ze vrijgeeft.
 
-Deze geheime persoonlijke sleutel is nodig bij iedere IRMA-handeling,
-zoals het ontvangen en tonen van attributen. Zolang mijn sleutel bij
+Deze geheime persoonlijke sleutel, en dus de medewerking van de
+keyshare-server, is nodig bij iedere IRMA-handeling zoals het ontvangen
+en tonen van attributen. Zolang mijn sleutel bij
 mij blijft, kunnen mijn attributen niet door anderen gebruikt
 worden. Daarmee zijn attributen niet overdraagbaar.
 
@@ -333,7 +337,7 @@ dingen in jouw naam doen, waarvoor jij de rekening krijgt.)
 IRMA is primair een systeem voor attribuut-gebaseerde authenticatie:
 je kunt met IRMA selectief attributen van je zelf laten zien. Maar
 IRMA biedt nog meer, namelijk attribuut-gebaseerde digitale
-handtekeningen. 
+handtekeningen.
 
 Met een *traditionele* "natte" handtekening verklaart een
 ondertekenaar zich akkoord met de inhoud van het ondertekende
@@ -349,7 +353,7 @@ waarin de bijbehorende *public* key opgenomen is. Digitale
 handtekeningen die aan bepaalde eisen voldoen worden wettelijk
 geaccepteerd.
 
-Een groot nadeel van zowel tranditionele als huidige digitale
+Een groot nadeel van zowel traditionele als huidige digitale
 handtekeningen is dat ze weinig informatie geven over wie nu precies
 de handtekening zet, in welke rol.
 
@@ -412,25 +416,25 @@ en je kunt daarna alleen maar via die leverancier online inloggen. Die
 leverancier komt dus ook precies te weten wanneer jij waar inlogt.
 
 Het IRMA systeem heeft niet zulke "privacy hotspots". IRMA vereist wel
-dat er enige coordinatie is over hoe attributen en credentials
+dat er enige coördinatie is over hoe attributen en credentials
 georganiseerd worden en welke (publieke) cryptografische sleutels waar
-voor nodig zijn. Deze coordinerende rol wordt vervuld door de
+voor nodig zijn. Deze coördinerende rol wordt vervuld door de
 stichting Privacy by Design. De stichting kan echter op geen enkele
 manier zien wie welke attributen waar gebruikt.
 
 De stichting monopoliseert niet. Het IRMA systeem is open en gratis
 beschikbaar en in principe voor iedereen te gebruiken. Ook andere
-partijen kunnen de coordinerende rol van de stichting vervullen.
+partijen kunnen de coördinerende rol van de stichting vervullen.
 
 De openheid van IRMA is belangrijk voor brede acceptatie. Er is geen
-sprake van commerci&euml;le "lock-in" en ook niet van afgedwongen
-vertrouwen. Hiereen kan en mag zien hoe IRMA werkt. 
+sprake van commerciële "lock-in" en ook niet van afgedwongen
+vertrouwen. Iedereen kan en mag zien hoe IRMA werkt.
 
-Het IRMA systeem sluit commerci&euml;le verdienmodellen zeker niet
-uit.  Maar deze commerci&euml;le activiteiten moeten *bovenop* een
+Het IRMA systeem sluit commerciële verdienmodellen zeker niet
+uit.  Maar deze commerciële activiteiten moeten *bovenop* een
 open infrastructuur plaatsvinden, en niet daarbinnen. De
 internetprotocollen als TCP en IP zijn ook open, en vormen ook de
-basis voor commerci&euml;le activiteiten die gebruik maken van de open
+basis voor commerciële activiteiten die gebruik maken van de open
 internet infrastructuur.
 
 IRMA en idensys/iDIN kunnen goed naast elkaar bestaan. IRMA is
@@ -479,7 +483,7 @@ bovenaf opgelegd. IRMA zal zich moeten bewijzen via overtuigende
 toepassingen. Daar wordt nu door verschillende partijen aan gewerkt.
 
 Hecht je aan zorgvuldige privacy-vriendelijke omgang met je klanten,
-gebruikers of pati&euml;nten, en heb je een goed idee voor een
+gebruikers of patiënten, en heb je een goed idee voor een
 toepassing van IRMA, bijvoorbeeld bij jou in de webwinkel of binnen
 jouw organisatie, neem dan [contact](/contact) op met de stichting
 Privacy by Design. Wat de stichting kan doen is bijvoorbeeld:
@@ -487,17 +491,17 @@ Privacy by Design. Wat de stichting kan doen is bijvoorbeeld:
 * adviseren bij de organisatie van attributen voor de beoogde
   toepassing;
 * adviseren bij het gebruik van de open source software van de stichting;
-* zonodig uitbreiden van deze software voor een optimale inzet bij deze 
+* zonodig uitbreiden van deze software voor een optimale inzet bij deze
   toepassing; deze uitbreidingen zullen dan in principe ook als open
   source software ook voor anderen beschikbaar zijn.
 
 De stichting zal voor dergelijke ondersteuning een nader te bepalen
-financi&euml;le bijdrage verwachten, om de eigen activiteiten in stand
+financiële bijdrage verwachten, om de eigen activiteiten in stand
 te houden. De stichting is een non-profit organisatie, zonder
-commerci&euml;le doelstelling.
+commerciële doelstelling.
 
 Ook als je geen concrete toepassing voor ogen hebt, maar wil bijdragen
-aan het IRMA gedachtengoed, door je inzet of door een financi&euml;le
+aan het IRMA gedachtengoed, door je inzet of door een financiële
 bijdrage, staan wij open voor [contact](/contact).
 
 [Naar boven](#top)
