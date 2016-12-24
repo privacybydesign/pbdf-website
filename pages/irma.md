@@ -2,7 +2,7 @@
 layout: page
 title: IRMA
 meta_title: IRMA
-teaser: Steeds meer partijen willen van alles van je weten. Met IRMA kun je dat zelf in de hand houden&#58; je laat alleen die dingen van je zelf zien die nodig zijn en die je zelf ook wil onthullen, zie de introductie-video&#58;
+teaser: Steeds meer partijen willen van alles van je weten. Met IRMA kun je dat zelf in de hand houden&#58; je laat alleen die dingen van je zelf zien die nodig zijn en die je zelf ook wil onthullen, zie de volgende introductie-video (van de Radboud Universiteit, uit 2016)&#58;
 header:
   image_fullwidth: header_unsplash_1.jpg
   title: Privacy by Design Foundation
