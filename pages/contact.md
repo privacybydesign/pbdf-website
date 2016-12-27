@@ -7,4 +7,9 @@ header:
   title: Privacy by Design Foundation
 permalink: /contact/
 ---
-Our contact data here
+
+ * E-mail: [contact@privacybydesign.foundation](email:contact@privacybydesign.foundation)
+ * Voor email-adressen van de bestuursleden, zie [Bestuur](/bestuur)
+ * Post: Toernooiveld 212, 6525EC Nijmegen
+ * KvK: 67144128
+ * Bank: NL54INGB0007522950
