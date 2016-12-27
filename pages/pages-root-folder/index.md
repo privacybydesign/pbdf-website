@@ -23,8 +23,5 @@ Een iOS app is in ontwikkeling.
 De stichting heeft twee belangrijke operationele rollen met betrekking
 tot IRMA.
 
-1. Ontwikkeling en beheer van de IRMA
-[software](https://credentials.github.io/). 
-
+1. Ontwikkeling en beheer van de IRMA [software](https://credentials.github.io/). 
 2. Beheer van infrastructuur voor het uitgeven van attributen.
-

@@ -25,7 +25,5 @@ Privacy by Design en partners actief verder ontwikkeld. Via
 onderstaande links kun je meer informatie krijgen.
 
 * Algemene [uitleg](/irma-uitleg) over attributen en IRMA
-
 * Waar wordt IRMA nu [gebruikt](/gebruik)?
-
 * De IRMA [app](/irma-installatie) installeren (Engels)
