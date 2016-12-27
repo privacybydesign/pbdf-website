@@ -32,13 +32,13 @@ worden attributen genoemd.
 
 IRMA is de naam voor een systeem dat precies dit doet. IRMA staat
 voor: I Reveal My Attributes. IRMA stelt je in staat om online, via je
-mobiele telefoon, bepaalde attributen van je zelf wel te laten ("boven
-de 18"), maar ook om andere attributen juist niet te laten zien (je
-naam of telefoonnummer). IRMA beschermt daarmee je privacy. Deze
-privacy-bescherming zit ingebakken in het systeem, en wordt daarom ook
-*privacy by design* genoemd. In de meeste recente nationale en
-Europese wetgeving wordt privacy by design vereist voor nieuwe
-ICT-systemen.
+mobiele telefoon, bepaalde attributen van je zelf wel te laten zien
+("boven de 18"), maar ook om andere attributen juist niet te laten
+zien (je naam of telefoonnummer). IRMA beschermt daarmee je
+privacy. Deze privacy-bescherming zit ingebakken in het systeem, en
+wordt daarom ook *privacy by design* genoemd. In de meeste recente
+nationale en Europese wetgeving wordt privacy by design vereist voor
+nieuwe ICT-systemen.
 
 Naast intrinsieke privacy-bescherming biedt IRMA ook bescherming tegen
 identiteitsfraude: als je bankrekeningnummer of geboortedatum niet
@@ -81,7 +81,7 @@ zijn voor een transactie.
   gevoelige ziekte, kan deze ziekte een attribuut zijn dat anoniem
   toegang geeft tot de groep.
 * Wanneer je een gewelddadige game/video/boek online wil kopen moet je
-  bewijzen dat je boven de 16 bent, of misschien zelfs boven de 18.
+  bewijzen dat je ouder dan 16 bent, of misschien zelfs ouder dan 18.
 * Als je het "student" attribuut hebt kun je bijvoorbeeld korting
   krijgen bij de kapper; en als je het "gehandicapt" attribuut van een
   bepaalde soort hebt, heb je recht op speciaal vervoer.
@@ -151,7 +151,9 @@ reizen bijgehouden en gekoppeld worden, gebruikt worden voor marketing
 doeleinden, en mogelijk openbaar worden door een hack of door
 slordigheid. Anonieme OV-chipkaarten bieden weinig bescherming, omdat
 bij herstel van een fout of geld-teruggave van een verlopen kaart je
-toch je identiteit moet onthullen.
+toch je identiteit moet onthullen. Daarmee wordt er een koppeling
+gelegd tussen jouw en al jouw eerdere reizen, waarvan je dacht dat
+ze anoniem waren.
 
 Attribuut-gebaseerde systemen brengen de traditionele bescherming en
 flexibiliteit voor een deel weer terug. Daarnaast bieden ze
@@ -241,6 +243,17 @@ paspoort, identiteitskaart, of rijbewijs: op een goed moment is het
 verlopen, en heb je een nieuwe nodig. Het verversen van IRMA
 attributen is echter veel makkelijker: dat kan gewoon online.
 
+De onderstaande drie plaatjes geven een schematisch overzicht, eerst
+van het downloaden van attributen bij een uitgever, en
+vervolgens van het gebruik bij verschillende webwinkels.
+<hr>
+<p align="center"><img src="../images/Transactions_IRMA_voorbereiding.png" alt="IRMA uitgever" style="width: 50%; height: 50%"/></p>
+<hr>
+<p align="center"><img src="../images/Transactions_IRMA_eerste_gebruik.png" alt="IRMA gebruik" style="width: 50%; height: 50%"/></p>
+<hr>
+<p align="center"><img src="../images/Transactions_IRMA_enzovoort.png" alt="IRMA gebruik" style="width: 50%; height: 50%"/></p>
+<hr>
+
 Dit downloaden en tonen van attributen is een natuurlijke vorm van
 modern 'identity management'. Dit soort "regie op gegevens" of
 "personal data management" lijkt een beetje op het installeren,
@@ -256,7 +269,7 @@ zoals [idensys](https://www.idensys.nl/) of
 [iDIN](http://www.idin.nl).  IRMA heeft een *decentrale*
 architectuur. Jouw attributen zijn alleen bij jou op de telefoon
 opgeslagen, en niet centraal op de computer van een of andere
-"identity broker". Wanneer jij wil bewijzen dat je boven de 18 bent
+"identity broker". Wanneer jij wil bewijzen dat je ouder dan 18 bent
 tegenover een webshop doe jij dat met IRMA rechtstreeks met die
 webshop, zonder tussenkomst van een "makelaar" of een "broker" of wie
 dan ook die hier niks mee te maken heeft. Door deze decentrale
@@ -289,7 +302,14 @@ dat er enige coördinatie is over hoe attributen en credentials
 georganiseerd worden en welke (publieke) cryptografische sleutels waar
 voor nodig zijn. Deze coördinerende rol wordt vervuld door de
 stichting Privacy by Design. De stichting kan echter op geen enkele
-manier zien wie welke attributen waar gebruikt.
+manier zien wie welke attributen waar gebruikt. 
+
+Het verschil tussen een decentrale (IRMA) en centrale (niet-IRMA)
+opzet wordt hieronder nog eens beschreven.
+<p align="center"><img src="../images/Transactions_all.png" alt="overzicht" style="width: 100%; height: 100%"/></p>
+
+Duidelijk is dat in de niet-IRMA opzet de uitgever van attributen een
+"privacy hotspot" is die alle transacties ziet.
 
 De stichting monopoliseert niet. Het IRMA systeem is open en gratis
 beschikbaar en in principe voor iedereen te gebruiken. Ook andere
@@ -483,8 +503,8 @@ je in de offline wereld met je paspoort omgaat.
 Dit zijn (mogelijk) nadelen voor gebruikers. Een "systeem" nadeel van
 IRMA is dat er niet op de traditionele manier geld aan te verdienen
 is: IRMA gebruikers kunnen niet door attribuut uitgevers of
-geprofileerd worden, en er zijn ook centrale partijen die voor iedere
-authenticatie een prijs kunnen vragen. Voor gebruikers is dat
+geprofileerd worden, en er zijn ook geen centrale partijen die voor
+iedere authenticatie een prijs kunnen vragen. Voor gebruikers is dat
 misschien juist weer een voordeel.
 
 Echter, met het IRMA ecosysteem is wel degelijk economisch
