@@ -80,7 +80,7 @@ exclude:
 
 
 # The language setting is used in /includes/header.html for html-settings
-language: 'en'
+language: 'nl'
 
 
 # Used › default.html front-matter and compress.html
