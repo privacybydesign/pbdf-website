@@ -79,8 +79,8 @@ exclude:
     - .DS_Store
 
 
-# The language setting is used in /includes/header.html for html-settings
-language: 'nl'
+# The language setting is used in _layouts/default.html for html-settings
+language: nl
 
 
 # Used › default.html front-matter and compress.html

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Installing IRMA
+language: en
 header:
   image_fullwidth: header_unsplash_1.jpg
   title: Privacy by Design Foundation
