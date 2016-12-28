@@ -25,7 +25,7 @@ Deze vragen zullen hieronder een voor een beantwoord worden.
 ### <a name="onderwerp"></a>1. Waar gaat IRMA eigenlijk over?
 
 Wanneer je een fles whisky koopt moet je volgens de wet bewijzen dat
-je boven de 18 bent. Je hoeft echter niet te vertellen wie je
+je ouder dan 18 bent. Je hoeft echter niet te vertellen wie je
 bent. Enkel deze persoonlijke eigenschap, dat je boven de 18 bent, is
 genoeg voor de whisky aankoop. Zulke persoonlijke eigenschappen
 worden attributen genoemd.
@@ -49,8 +49,8 @@ bijvoorbeeld bij een webwinkel, bij de overheid, op een webforum, bij
 een bank, enz.
 
 * Ik ben een student (of een gepensioneerde)
-* Ik ben boven de 12 (of 16, of 18, of 21, of 65)
-* Ik ben onder de 12 (of ...)
+* Ik ben ouder dan 12 (of 16, of 18, of 21, of 65)
+* Ik ben jonger dan 12 (of ...)
 * Mijn nationaliteit is ...
 * Mijn geslacht is ...
 * Mijn banknummer is ...
@@ -247,7 +247,7 @@ De onderstaande drie plaatjes geven een schematisch overzicht, eerst
 van het downloaden van attributen bij een uitgever, en
 vervolgens van het gebruik bij verschillende webwinkels.
 <hr>
-<p align="center"><img src="../images/Transactions_IRMA_voorbereiding.png" alt="IRMA uitgever" style="width: 50%; height: 50%"/></p>
+<p align="center"><img src="../images/Transactions_IRMA_voorbereiding.png" alt="IRMA uitgever" style="width: 55%; height: 55%"/></p>
 <hr>
 <p align="center"><img src="../images/Transactions_IRMA_eerste_gebruik.png" alt="IRMA gebruik" style="width: 50%; height: 50%"/></p>
 <hr>
@@ -306,10 +306,18 @@ manier zien wie welke attributen waar gebruikt.
 
 Het verschil tussen een decentrale (IRMA) en centrale (niet-IRMA)
 opzet wordt hieronder nog eens beschreven.
-<p align="center"><img src="../images/Transactions_all.png" alt="overzicht" style="width: 100%; height: 100%"/></p>
+<p align="center"><img src="../images/Transactions_all_lowres.png" alt="overzicht" style="width: 100%; height: 100%"/></p>
 
 Duidelijk is dat in de niet-IRMA opzet de uitgever van attributen een
-"privacy hotspot" is die alle transacties ziet.
+"privacy hotspot" is die bij alle transacties een vinger in de pap
+heeft. Met IRMA toon je zelf je eigen attributen, net zo als je zelf
+je eigen paspoort kunt tonen, zonder bemoeienis van iemand anders.
+Dat is een heel fundamenteel verschil.
+
+Uit de niet-IRMA plaatjes blijkt ook dat een kwaadaardige uitgever in
+principe kan doen alsof hij jou is, zonder dat jij dat tegen kunt
+houden. Je hebt in deze opzet geen volledige controle over het gebruik
+van jouw gegevens.
 
 De stichting monopoliseert niet. Het IRMA systeem is open en gratis
 beschikbaar en in principe voor iedereen te gebruiken. Ook andere
