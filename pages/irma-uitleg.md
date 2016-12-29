@@ -522,8 +522,8 @@ uitgevoerd wordt. Ook kan voor de uitgifte van speciale attributen,
 bijvoorbeeld voor een bepaalde beroepsgroep, geld gevraagd worden van
 de IRMA gebruiker. Mogelijk zal de stichting Privacy by Design om de
 eigen activiteiten mogelijk te maken in de toekomst ook een prijs
-vragen, bijvoorbeeld per gebruiker een euro voor een basis set
-attributen.
+vragen, bijvoorbeeld per gebruiker een euro per jaar, voor een basis
+set attributen.
 
 
 
