@@ -83,7 +83,8 @@ In addition, Dutch users can enroll via their passport, identity card,
 and also driver's licence (when provided with an embedded chip).
 
 
-### Using the app The main purpose of the IRMA phone app is to allow
+### Using the app
+The main purpose of the IRMA phone app is to allow
 you to do online authentication at service providers. Each
 authentication process reveals a subset of your available
 attributes. The service provider chooses which attributes it wants to
@@ -140,7 +141,7 @@ credentials. Tapping a credential in the main view will reveal details
 and long clicking a credential allows for credential deletion.  Please
 try it!
 
-## Security implications 
+## Security implications
 
 IRMA is a privacy enhancing technology, based on
 privacy-by-design. The IRMA infrastructure will not leak any
@@ -210,7 +211,7 @@ revealed in this way.
 
 ## What do I need?
 
-### System requirements 
+### System requirements
 
 To use the IRMA phone app, you will need a smart phone (or tablet)
 running Android 4.1 (Jelly Bean) or higher. Your phone needs to be
