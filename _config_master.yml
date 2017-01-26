@@ -1,0 +1,10 @@
+#
+# This config-file is only needed for the live website. Instead of changing the url
+# everytime you work locally on the project, you start both config-files, overwriting
+# the first one with the development variables needed.
+#
+# Start development with › $ jekyll serve --config _config.yml,_config_master.yml
+
+url: 'https://privacybydesign.foundation'
+baseurl: ''
+urlimg: 'https://privacybydesign.foundation/images/'
