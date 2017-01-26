@@ -114,8 +114,8 @@ site](https://demo.irmacard.org/tomcat/irma_api_server/examples/multiple-attribu
 select the attributes you wish to verify and click _Authenticate with
 IRMA_. A pop-up with a QR-code will appear.
 
-[<img src="https://www.irmacard.org/wp-content/uploads/2015/10/screenshot-300x176.png"
-class="alignleft" alt="" width="300" />](https://www.irmacard.org/wp-content/uploads/2015/10/screenshot.png)
+[<img src="/images/qr-screenshot.png"
+class="alignleft" alt="" width="300" />](/images/qr-screenshot.png)
 
 <a name="QR_code"></a>You can scan this QR code with your IRMA app, by
 pressing the "_Tap to scan QR_" text in the app's main view.  This QR
@@ -124,8 +124,8 @@ this connection has been made, the IRMA phone app will show the user
 which attributes (s)he is about to reveal to the verifier, by clicking
 "_YES_".
 
-[<img src="https://www.irmacard.org/wp-content/uploads/2015/10/Screenshot_2015-10-07-21-21-34-180x300.png"
-class="alignright" width="180" />](https://www.irmacard.org/wp-content/uploads/2015/10/Screenshot_2015-10-07-21-21-34.png)
+[<img src="/images/disclosure-screenshot.png"
+class="alignright" width="180" />](/images/disclosure-screenshot.png)
 
 After clicking YES, the verifier will see signed attributes with the
 information requested (and approved by the user) and nothing else. The
