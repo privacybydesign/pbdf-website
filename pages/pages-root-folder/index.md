@@ -42,11 +42,11 @@ tot IRMA.
 1. Ontwikkeling en beheer van de IRMA [software](https://credentials.github.io/).
 2. Beheer van infrastructuur voor het uitgeven van attributen.
 
+De stichting werkt graag samen om IRMA van de grond te krijgen. Pilots zijn in voorbereiding, in samenwerking met verschillende andere partijen.
+
 <div id="videoModal" class="reveal-modal large" data-reveal="">
   <div class="flex-video widescreen vimeo" style="display: block;">
     <iframe width="1280" height="720" src="https://www.youtube.com/embed/q6IihEQFPys" frameborder="0" allowfullscreen></iframe>
   </div>
   <a class="close-reveal-modal">&#215;</a>
 </div>
-
-De stichting werkt graag samen om IRMA van de grond te krijgen. Pilots zijn in voorbereiding, in samenwerking met verschillende andere partijen.
