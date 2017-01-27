@@ -21,7 +21,8 @@ persoonlijke titel en worden hiervoor niet betaald.
 
  * **Secretaris**: Thea van Kemenade (t.vankemenade 'at' privacybydesign.foundation)
 
-   Thea van Kemenade is ...
+   Thea van Kemenade is Business Development Consultant van het
+Radboud innovation center.
 
  * **Penningmeester**: Sietse Ringers (s.ringers 'at' privacybydesign.foundation)
 
