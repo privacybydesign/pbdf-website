@@ -46,7 +46,7 @@ De stichting werkt graag samen om IRMA van de grond te krijgen. Pilots zijn in v
 
 <div id="videoModal" class="reveal-modal large" data-reveal="">
   <div class="flex-video widescreen vimeo" style="display: block;">
-    <iframe width="1280" height="720" src="https://www.youtube.com/embed/q6IihEQFPys" frameborder="0" allowfullscreen></iframe>
+    <iframe width="1280" height="720" src="https://www.youtube-nocookie.com/embed/q6IihEQFPys" frameborder="0" allowfullscreen></iframe>
   </div>
   <a class="close-reveal-modal">&#215;</a>
 </div>
