@@ -21,8 +21,13 @@ persoonlijke titel en worden hiervoor niet betaald.
 
  * **Secretaris**: Thea van Kemenade (t.vankemenade 'at' privacybydesign.foundation)
 
-   Thea van Kemenade is Business Development Consultant van het
-Radboud innovation center.
+   Thea van Kemenade is business development consultant bij Radboud
+   Innovation, het centrum voor business en projectontwikkeling van de
+   Radboud Universiteit. Haar centrale doel is het bijeen brengen van
+   publieke en private en meestal open-innovatie partners rondom een
+   maatschappelijk thema, het verwerven van investeringsmiddelen en
+   het daadwerkelijk realiseren en implementeren van deze innovaties.
+
 
  * **Penningmeester**: Sietse Ringers (s.ringers 'at' privacybydesign.foundation)
 
