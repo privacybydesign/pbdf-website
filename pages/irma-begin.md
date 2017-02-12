@@ -79,18 +79,92 @@ mogelijkheden om nog meer attributen op te nemen in de app. Dit
 lijstje mogelijkheden ligt niet vast en zal groeien naarmate meer
 partijen aan IRMA meedoen. 
 
+ * iDIN: inloggen met je bank middelen. Hiermee kun je je naam, adres,
+   woonplaats, en geboortedatum attributen in je IRMA app zetten. Deze
+   gegevens komen van je eigen bank. Dit is beschikbaar voor iedereen
+   met een persoonlijke (niet-gedeelde) bankrekening in Nederland, zie
+   [iDIN](https://www.idin.nl).
+
+ * Surfconext: inloggen met je hoger onderwijs identiteit. Deze is in
+   principe beschikbaar voor studenten en medewerkers van instellingen
+   voor onderwijs en onderzoek in Nederland die aangesloten zijn op
+   [Surfconext](https://www.surfconext.nl). Je eigen instelling moet
+   IRMA toegang wel expliciet goedkeuren. Via Surfconext kunnen
+   "onderwijs attributen" in je IRMA app gezet worden.
+
+ * ...
+
 
  4. **Eeste gebruik**
 
-Op dit moment kun je het tonen van attributen uit proberen op de
-volgende [test](??) pagina. Daar wordt je om je email adres gevraagd
-en kun je via de IRMA app het adres tonen dat je bij registratie
-opgegeven hebt. Een webwinkel zou dit attribuut op een zelfde
-manier aan je kunnen vragen.
+Op dit moment kun je het tonen van attributen uitproberen op de
+volgende eigen [test](??) pagina van de stichting. Daar wordt je om je
+email adres gevraagd en kun je via de IRMA app het adres tonen dat je
+(zojuist) bij registratie opgegeven hebt. Een webwinkel zou dit
+attribuut op een zelfde manier aan je kunnen vragen.
+
+Nog te doen: informatie toevoegen over wanneer je je PIN moet
+gebruiken.
+
+Mogelijk ook nog een vijfde onderwerp: inloggen op de server??
 
 
 
 ### <a name="achtergrond"></a>2. Uitleg van wat er op de achtergrond gebeurt.
+
+Het onderstaande gaat dieper in op wat er onder de motorkap gebeurt
+wanneer je jezelf via de IRMA app registreert. Deze achtergrond
+informatie is niet nodig voor het daadwerkelijke gebruik van IRMA,
+maar is bedoeld voor mensen die geinteresseerd zijn en willen weten
+hoe de zaken opgezet zijn en hoe beveiliging en privacy bescherming in
+IRMA georganiseerd zijn.
+
+Een eerste uitgangspunt is dat de IRMA app strikt persoonlijk is en
+niet makkelijk door een ander misbruikt kan worden. Dit gebeurt via
+een persoonlijke PIN code. Natuurlijk kun je je telefoon met eigen
+attributen in een IRMA app tezamen met de PIN aan iemand anders geven.
+Dat is net zo onverstandig als je bankpas met PIN aan een ander geven.
+Daar is geen beveiligingsmechanisme tegen opgewassen.
+
+We gaan er dus van uit dat IRMA gebruikers hun PIN geheim houden. De
+vraag is dan: waar is de PIN opgeslagen? Hetzelfde geldt voor de
+geheime persoonlijke cryptografische sleutel die nodig is om de
+IRMA app voor jou te laten werken.
+
+De IRMA implementatie gebruikt een "truuk", waarbij zulke cruciale
+geheime informatie verdeeld wordt tussen de app en een server van
+de stichting, de zogenaamde *keyshare server*. De app en de server
+moeten heel precies samenwerken om IRMA te laten werken. Ze hebben
+daar ieder niet genoeg informatie voor: ze moeten hun geheimen
+bij elkaar leggen.
+
+De server kan in zijn eentje zich dus nooit als jou voordoen: daar is
+jouw app op jouw telefoon voor nodig. Wel kun je op de server zien
+wanneer en hoe vaak jouw IRMA app gebruikt is (maar niet waar, en
+waarvoor). Als je telefoon gestolen is, of als je denkt dat er iets
+niet klopt, kun je het gebruik van de IRMA app stil leggen via de
+server.
+
+Kortom: de *keyshare* server biedt jou extra bescherming en controle
+mogelijkheden, maar kan zelf niks doen. De stichting Privacy by Design
+draait een *keyshare* server om IRMA mogelijk te maken. Andere
+partijen kunnen dat in principe ook doen.
+
+De *keyshare* server speelt ook een beschermende rol bij het gebruik
+van je PIN. Het is onverstandig om je PIN in de app op te slaan, omdat
+die eruit gehaald zou kunnen worden als je telefoon gehackt wordt.  De
+app slaat de PIN dus niet op, maar wel een willekeurig groot getal dat
+een *nonce* genoemd wordt. De *keyshare* server weet ook je PIN niet,
+maar krijgt bij registratie de hash waarde *hash( PIN | nonce )*.
+Hieruit is de PIN niet af te leiden.
+
+Wanneer je op je app inlogt met je PIN, stuurt de app dit (grote) getal
+*hash( PIN | nonce )* naar de server. Als dat klopt, slaagt je login.
+Een aanvaller die de nonce uit je app kan halen is nog niet in staat
+om als jou in te loggen, bijvoorbeeld door veel verschillende PIN
+combinaties uit te proberen. De server ziet dan dat zoiets geprobeerd
+wordt en sluit het account tot nader orde.
+
 
 
 
