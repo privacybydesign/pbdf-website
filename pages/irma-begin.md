@@ -112,19 +112,20 @@ Mogelijk ook nog een vijfde onderwerp: inloggen op de server??
 
 ### <a name="achtergrond"></a>2. Uitleg van wat er op de achtergrond gebeurt.
 
-Het onderstaande gaat dieper in op wat er onder de motorkap gebeurt
+De tekst hieronder gaat dieper in op wat er onder de motorkap gebeurt
 wanneer je jezelf via de IRMA app registreert. Deze achtergrond
 informatie is niet nodig voor het daadwerkelijke gebruik van IRMA,
-maar is bedoeld voor mensen die geinteresseerd zijn en willen weten
-hoe de zaken opgezet zijn en hoe beveiliging en privacy bescherming in
-IRMA georganiseerd zijn.
+maar is bedoeld voor mensen die technisch geinteresseerd zijn en
+willen weten hoe de zaken opgezet zijn en hoe beveiliging en privacy
+bescherming in IRMA georganiseerd zijn.
 
 Een eerste uitgangspunt is dat de IRMA app strikt persoonlijk is en
-niet makkelijk door een ander misbruikt kan worden. Dit gebeurt via
-een persoonlijke PIN code. Natuurlijk kun je je telefoon met eigen
-attributen in een IRMA app tezamen met de PIN aan iemand anders geven.
-Dat is net zo onverstandig als je bankpas met PIN aan een ander geven.
-Daar is geen beveiligingsmechanisme tegen opgewassen.
+niet makkelijk door een ander misbruikt moet kunnen worden. Dit
+gebeurt via een persoonlijke PIN code. Natuurlijk kun je je telefoon
+met eigen attributen in een IRMA app tezamen met de PIN aan iemand
+anders geven.  Dat is net zo onverstandig als je bankpas met PIN aan
+een ander geven.  Daar is geen beveiligingsmechanisme tegen
+opgewassen.
 
 We gaan er dus van uit dat IRMA gebruikers hun PIN geheim houden. De
 vraag is dan: waar is de PIN opgeslagen? Hetzelfde geldt voor de
@@ -132,38 +133,46 @@ geheime persoonlijke cryptografische sleutel die nodig is om de
 IRMA app voor jou te laten werken.
 
 De IRMA implementatie gebruikt een "truuk", waarbij zulke cruciale
-geheime informatie verdeeld wordt tussen de app en een server van
-de stichting, de zogenaamde *keyshare server*. De app en de server
-moeten heel precies samenwerken om IRMA te laten werken. Ze hebben
-daar ieder niet genoeg informatie voor: ze moeten hun geheimen
-bij elkaar leggen.
+geheime informatie verdeeld wordt tussen de app en een server van de
+stichting, de zogenaamde *keyshare server*. De app en de server moeten
+heel precies samenwerken om IRMA te laten werken. Ze hebben daar ieder
+alleen niet genoeg informatie voor: ze moeten samenwerken en hun
+geheimen bij elkaar leggen.
 
-De server kan in zijn eentje zich dus nooit als jou voordoen: daar is
+De server kan zich in zijn eentje dus nooit als jou voordoen: daar is
 jouw app op jouw telefoon voor nodig. Wel kun je op de server zien
-wanneer en hoe vaak jouw IRMA app gebruikt is (maar niet waar, en
-waarvoor). Als je telefoon gestolen is, of als je denkt dat er iets
-niet klopt, kun je het gebruik van de IRMA app stil leggen via de
-server.
+wanneer en hoe vaak jouw IRMA app gebruikt is (maar niet waar, en met
+welke attributen). Als je telefoon gestolen is, of als je denkt dat er
+iets niet klopt, kun je het gebruik van de IRMA app stil leggen via de
+server: je kunt de server vertellen niet meer mee te doen, waardoor
+de IRMA app op de telefoon het niet meer doet.
 
 Kortom: de *keyshare* server biedt jou extra bescherming en controle
-mogelijkheden, maar kan zelf niks doen. De stichting Privacy by Design
-draait een *keyshare* server om IRMA mogelijk te maken. Andere
-partijen kunnen dat in principe ook doen.
+mogelijkheden, maar kan zelf niks alleen doen -- behalve blokkeren. De
+stichting Privacy by Design beheert een *keyshare* server om het
+gebruik van IRMA mogelijk te maken. Andere partijen kunnen in
+principe ook een *keyshare* server draaien.
 
 De *keyshare* server speelt ook een beschermende rol bij het gebruik
-van je PIN. Het is onverstandig om je PIN in de app op te slaan, omdat
-die eruit gehaald zou kunnen worden als je telefoon gehackt wordt.  De
-app slaat de PIN dus niet op, maar wel een willekeurig groot getal dat
-een *nonce* genoemd wordt. De *keyshare* server weet ook je PIN niet,
-maar krijgt bij registratie de hash waarde *hash( PIN | nonce )*.
-Hieruit is de PIN niet af te leiden.
+van je PIN. Het is in het algemeen onverstandig als een PIN in een app
+opgeslagen wordt, omdat die eruit gehaald zou kunnen worden als een
+telefoon gehackt wordt.  De IRMA app slaat de PIN dus niet op, maar
+wel een willekeurig groot getal dat een *nonce* genoemd wordt. De
+*keyshare* server weet ook jouw PIN niet, maar krijgt bij registratie
+de hash waarde *hash( PIN | nonce )*.  Hieruit is de PIN niet af te
+leiden.
 
-Wanneer je op je app inlogt met je PIN, stuurt de app dit (grote) getal
-*hash( PIN | nonce )* naar de server. Als dat klopt, slaagt je login.
-Een aanvaller die de nonce uit je app kan halen is nog niet in staat
-om als jou in te loggen, bijvoorbeeld door veel verschillende PIN
-combinaties uit te proberen. De server ziet dan dat zoiets geprobeerd
-wordt en sluit het account tot nader orde.
+Wanneer je op je app inlogt met je PIN, berekent de app dit (grote)
+getal *hash( PIN | nonce )*, stuurt deze hash waarde naar de server,
+en verwijdert de PIN uit het eigen geheugen. Als de hash waarde klopt,
+zijn de app en de server onderling gekoppeld en is de inlog geslaagd.
+Een succesvolle aanvaller kan eventueel wel de nonce uit je app halen,
+maar heeft daar niet zo veel aan. Het enige wat de aanvaller kan doen
+is alle 100.000 mogelijkheden van je PIN uitproberen, en als bij
+iedere poging *X* het getal *hash( X | nonce )* naar de server
+sturen. De server ziet dan dat zoiets geprobeerd wordt en sluit het
+account tot nader orde. In dat geval krijgt de eigenaar via het
+registratie email adres een waarschuwing.
 
 
 
