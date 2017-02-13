@@ -1,16 +1,15 @@
 ---
 layout: page
-title: van start met de IRMA app 
+title: Van start met de IRMA app
 header:
   image_fullwidth: header_unsplash_1.jpg
   title: Privacy by Design Foundation
-permalink: /gebruik/
+permalink: /irma-begin/
 ---
 Deze pagina bevat twee onderdelen:
 
- 1. [wat je moet doen om met IRMA van start te gaan](#vanstart)
-
- 2. [een uitleg van wat er op de achtergrond gebeurt](#achtergrond)
+ 1. [Wat je moet doen om met IRMA van start te gaan](#vanstart)
+ 2. [Een uitleg van wat er op de achtergrond gebeurt](#achtergrond)
 
 Het tweede punt is helemaal niet nodig voor het eerste; het geeft
 alleen aanvullende achtergrond informatie voor mensen die meer van
@@ -29,7 +28,7 @@ omdat je ervoor naar het gemeentehuis moet gaan. Net als een paspoort
 is het ook IRMA echt persoonlijk: het is niet de bedoeling dat iemand
 anders er gebruik van kan maken.
 
- 1. **Installatie**
+#### 1. Installatie
 
 De IRMA app is beschikbaar in de [Android Play
 store](https://play.google.com/store/apps/details?id=org.irmacard.cardemu).
@@ -39,14 +38,12 @@ Download en installeer deze app.
 en tablets; aan een iOS versie voor iPhones en iPads wordt nog
 gewerkt.)
 
-
- 2. **Registratie**
+#### 2. Registratie
 
 Open de IRMA app. Als je dit voor de eerste keer doet, wordt je
 gevraagd om twee dingen in te typen:
 
  * je email adres
-
  * een PIN code van 5 cijfers
 
 Het email adres wordt gebruikt om contact met je te houden over jouw
@@ -70,32 +67,30 @@ extra registratie stappen. Als je die stappen niet zet en je raakt je
 PIN kwijt, dan moet je je opnieuw voor IRMA registreren en gaan al je
 tot dan toe verzamelde attributen verloren.
 
- 3. **Personalisatie**
+#### 3. Personalisatie
 
 In deze derde stap kun je de eerste eigen attributen in je IRMA app
 zetten. Het eerste attribuut is het email adres dat je opgegeven hebt
 in de registratie stap. Vervolgens biedt de IRMA app je verschillende
 mogelijkheden om nog meer attributen op te nemen in de app. Dit
 lijstje mogelijkheden ligt niet vast en zal groeien naarmate meer
-partijen aan IRMA meedoen. 
+partijen aan IRMA meedoen.
 
  * iDIN: inloggen met je bank middelen. Hiermee kun je je naam, adres,
    woonplaats, en geboortedatum attributen in je IRMA app zetten. Deze
    gegevens komen van je eigen bank. Dit is beschikbaar voor iedereen
    met een persoonlijke (niet-gedeelde) bankrekening in Nederland, zie
    [iDIN](https://www.idin.nl).
-
  * Surfconext: inloggen met je hoger onderwijs identiteit. Deze is in
    principe beschikbaar voor studenten en medewerkers van instellingen
    voor onderwijs en onderzoek in Nederland die aangesloten zijn op
    [Surfconext](https://www.surfconext.nl). Je eigen instelling moet
    IRMA toegang wel expliciet goedkeuren. Via Surfconext kunnen
    "onderwijs attributen" in je IRMA app gezet worden.
-
  * ...
 
 
- 4. **Eeste gebruik**
+#### 4. Eerste gebruik
 
 Op dit moment kun je het tonen van attributen uitproberen op de
 volgende eigen [test](??) pagina van de stichting. Daar wordt je om je
@@ -173,7 +168,3 @@ iedere poging *X* het getal *hash( X | nonce )* naar de server
 sturen. De server ziet dan dat zoiets geprobeerd wordt en sluit het
 account tot nader orde. In dat geval krijgt de eigenaar via het
 registratie email adres een waarschuwing.
-
-
-
-
