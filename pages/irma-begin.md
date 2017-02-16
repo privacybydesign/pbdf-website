@@ -98,12 +98,21 @@ email adres gevraagd en kun je via de IRMA app het adres tonen dat je
 (zojuist) bij registratie opgegeven hebt. Een webwinkel zou dit
 attribuut op een zelfde manier aan je kunnen vragen.
 
-Nog te doen: informatie toevoegen over wanneer je je PIN moet
-gebruiken.
+Op de website van de [*keyshare* server](??) van de stichting Privacy by Design
+kun je een log inzien van recente transacties die je IRMA app heeft uitgevoerd.
+Je logt in op deze server door je email adres attribuut te tonen. Ook kun je
+hier je IRMA app blokkeren wanneer bijvoorbeeld je telefoon is gestolen.
+De attributen in je IRMA app zijn dan onbruikbaar, zelfs als de dief je PIN
+zou weten, totdat je je IRMA app weer deblokeert. Je kunt ook je registratie
+helemaal ongedaan maken. Jouw gegevens worden dan verwijderd uit de server,
+en je attributen zijn dan permanent onbruikbaar.
 
-Mogelijk ook nog een vijfde onderwerp: inloggen op de server??
-
-
+De IRMA app zal iedere keer dat je attributen ontvangt, toont, of gebruikt
+om een attribuut-gebaseerde handtekening te maken om je PIN vragen.
+Alleen als de correcte PIN ingevoerd wordt kun je je attributen gebruiken.
+Wanneer drie keer een foute PIN ingevoerd wordt, wordt je IRMA app automatisch
+geblokkeerd. Voordat je je attributen dan weer kunt gebruiken moet je eerst
+inloggen op de *keyshare* server en daar je app deblokkeren.
 
 ### <a name="achtergrond"></a>2. Uitleg van wat er op de achtergrond gebeurt.
 
