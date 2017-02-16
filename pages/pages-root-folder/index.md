@@ -17,10 +17,10 @@ widget2:
   # image: irma-video-youtube.png
   video: <a href="#" data-reveal-id="videoModal"><img src="/images/irma-video-youtube.png" width="302" height="182" alt=""/></a>
 widget3:
-  title: Decentrale architectuur
-  url: /irma-uitleg/
-  image: IRMA-decentraal.png
-  text: Met IRMA toon je rechtstreeks je attributen aan een ander, zoals een webwinkel, zonder dat een andere organisatie daar tussen zit. Daarmee is IRMA uniek&#58; anderen kunnen niet meekijken bij wat jij online doet, en daarmee ook geen profiel van je aanmaken. Nog mooier&#58; IRMA is vrij beschikbaar.
+  title: Jacobs wint award
+  url: https://www.surf.nl/persberichten/2017/02/surf-security-en-privacy-award-2017-voor-bart-jacobs.html
+  image: security-privacy-award.jpg
+  text: Bart Jacobs heeft de SURF Security en Privacy Award 2017 ontvangen. Jacobs kreeg de prijs voor zijn verdiensten op het gebied van security en privacy. De prijs, die 2500 euro bedraagt, zal ten goede komen van de stichting Privacy by Design.
 ---
 
 ### Stichting Privacy by Design
