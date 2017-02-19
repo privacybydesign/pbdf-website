@@ -180,16 +180,6 @@ telefoon gestolen is. Als je je mail op een ander apparaat leest, kun
 je vandaaruit inloggen op mijnIRMA en je IRMA account stopzetten.
 
 
-De IRMA app zal iedere keer dat je attributen ontvangt, toont, of
-gebruikt om een attribuut-gebaseerde handtekening te maken om je PIN
-vragen.  Alleen als de correcte PIN ingevoerd wordt kun je je
-attributen gebruiken.  Wanneer drie keer een foute PIN ingevoerd
-wordt, wordt je IRMA app automatisch geblokkeerd. Voordat je je
-attributen dan weer kunt gebruiken moet je eerst inloggen op de
-*keyshare* server en daar je app deblokkeren.
-
-
-
 ### <a name="achtergrond"></a>3. Wat gebeurt er op de achtergrond?
 
 De tekst hieronder gaat dieper in op wat er onder de motorkap gebeurt
@@ -254,7 +244,8 @@ aanvaller kan doen is alle 100.000 mogelijkheden van je PIN
 uitproberen, en als bij iedere poging *X* het getal *hash( X | nonce
 )* naar de mijnIRMA server sturen. De server ziet dan dat zoiets
 geprobeerd wordt en sluit het account tot nader orde. In dat geval
-krijgt de eigenaar via het registratie email adres een waarschuwing.
+krijgt de eigenaar via het registratie email adres een waarschuwing,
+en ook een link waarmee de blokkade ongedaan gemaakt kan worden.
 
 Het onderstaande plaatje vat de twee rollen van de stichting Privacy
 by Design samen. Enerzijds is de stichting uitgever van een aantal
