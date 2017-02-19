@@ -19,9 +19,7 @@ van IRMA willen begrijpen.
 ### <a name="vanstart"></a>1. Wat je moet doen om met IRMA van start te gaan?
 
 Hieronder wordt in een paar stappen verteld wat je moet doen om de IRMA
-app te kunnen gebruiken. Deze stappen zijn: installatie, registratie,
-personalisatie, en (eerste) gebruik, zoals beschreven in het onderstaande
-plaatje.
+app te kunnen gebruiken:
 
 <p align="center"><img src="../images/Registratie_Stappenplan.png" alt="IRMA uitgever" style="width: 50%; height: 50%"/></p>
 
@@ -30,8 +28,8 @@ kosten een klein beetje tijd en aandacht. Je gaat nu een persoonlijke
 elektronische identiteit voor jezelf maken die je nog lang kunt
 gebruiken, voor soms gevoelige persoonlijke zaken, zoals inloggen of
 digitaal ondertekenen. Dit lijkt een beetje op het aanvragen en
-ophalen van een paspoort.  Maar zo'n paspoort kost heel veel meer
-moeite, bijvoorbeeld omdat je er (twee keer) voor naar een
+ophalen van een paspoort.  Maar zo'n paspoort kost heel veel meer tijd
+en moeite, bijvoorbeeld omdat je er (twee keer) voor naar een
 gemeentehuis moet gaan. Net als een paspoort is het ook IRMA echt
 persoonlijk: het is niet de bedoeling dat iemand anders er gebruik van
 kan maken.
@@ -258,11 +256,18 @@ uitproberen, en als bij iedere poging *X* het getal *hash( X | nonce
 geprobeerd wordt en sluit het account tot nader orde. In dat geval
 krijgt de eigenaar via het registratie email adres een waarschuwing.
 
-Het onderstaande plaatje vat de twee rollen van de stichting
-samen. Enerzijds is de stichting uitgever van een aantal attributen.
-Anderzijds zorgt de stichting voor mijnIRMA, voor inzage in het
-eigen IRMA gebruik en voor het (tijdelijk) stopzetten van het
-gebruik van IRMA.
+Het onderstaande plaatje vat de twee rollen van de stichting Privacy
+by Design samen. Enerzijds is de stichting uitgever van een aantal
+attributen voor personalisatie.  Anderzijds zorgt de stichting via
+mijnIRMA voor inzage in het eigen IRMA gebruik en voor de mogelijkheid
+om het gebruik van IRMA (tijdelijk) stopzetten.
 
 <p align="center"><img src="../images/Rollen_Stichting.png" alt="IRMA
-uitgever" style="width: 50%; height: 50%"/></p>
+uitgever" style="width: 70%; height: 70%"/></p>
+
+In het begin is de stichting de enige uitgever van IRMA
+attributen. Hopelijk zullen andere partijen spoedig volgen.
+
+De stichting verifieert ook attributen, maar alleen voor zichzelf,
+wanneer IRMA gebruikers inloggen op mijnIRMA. Zulke verificaties
+worden niet voor anderen gedaan.
