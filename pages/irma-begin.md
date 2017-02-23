@@ -113,17 +113,18 @@ verschillende mogelijkheden om nog meer attributen op te nemen in de
 app. Dit lijstje mogelijkheden ligt niet vast en zal groeien naarmate
 meer partijen aan IRMA meedoen.
 
- * iDIN: inloggen met je bank middelen. Hiermee kun je je naam, adres,
-   woonplaats, en geboortedatum attributen in je IRMA app zetten. Deze
-   gegevens komen van je eigen bank. Dit is beschikbaar voor iedereen
-   met een persoonlijke (niet-gedeelde) bankrekening in Nederland, zie
-   [iDIN](https://www.idin.nl).
  * Surfconext: inloggen met je hoger onderwijs identiteit. Deze is in
    principe beschikbaar voor studenten en medewerkers van instellingen
    voor onderwijs en onderzoek in Nederland die aangesloten zijn op
    [Surfconext](https://www.surfconext.nl). Je eigen instelling moet
    IRMA toegang wel expliciet goedkeuren. Via Surfconext kunnen
    "onderwijs attributen" in je IRMA app gezet worden.
+
+ * iDIN: inloggen met je bank middelen. Hiermee kun je je naam, adres,
+   woonplaats, en geboortedatum attributen in je IRMA app zetten. Deze
+   gegevens komen van je eigen bank. Dit is beschikbaar voor iedereen
+   met een persoonlijke (niet-gedeelde) bankrekening in Nederland, zie
+   [iDIN](https://www.idin.nl).
  * ...
 
 
@@ -161,26 +162,26 @@ mogelijkheden.
   en kan ze daarom ook niet aan je laten zien. Dit is verankert in het
   *privacy by design* ontwerp van IRMA.
 
-* Je kunt op de mijnIRMA webpagina het gebruik van IRMA **definitief**
-stop zetten en al je gegevens wissen. Daarmee wordt je account
-helemaal verwijderd en kun je je IRMA app op je telefoon ook niet meer
-gebruiken. Dit moet je dus doen als je helemaal wil stoppen met IRMA.
+  Het is verstandig af en toe eens naar deze loggegevens te
+  kijken. Als daar blijkt dat jouw IRMA app gebruikt wordt terwijl jij
+  daar helemaal niet van weet is er iets aan de hand: iemand anders
+  gebruikt jouw app om zich als jou voor te doen. Dat is reden om
+  direct in te grijpen. Hiermee komen we aan de tweede mogelijkheid
+  die de mijnIRMA pagina biedt.
 
-  Mocht je hierna IRMA ooit toch nog willen gaan gebruiken, dan moet
-  je je helemaal opnieuw, van voor af aan registreren.
+* Je kunt op de mijnIRMA webpagina het gebruik van IRMA stop zetten.
+  Natuurlijk kun je dat doen als je IRMA niet langer wil
+  gebruiken. Maar daarnaast is het belangrijk om aan deze "noodrem" te
+  trekken als je telefoon gestolen is, zodat een ander zeker geen
+  misbruik kan maken van jouw identiteit.
 
-* Je kunt op de mijnIRMA webpagina het gebruik van IRMA ook
-  **tijdelijk** stopzetten. Het is verstandig dit meteen te doen als
-  je je telefoon kwijt bent of verloren denkt te hebben, om zeker te
-  weten dat niemand anders zich als jou voor kan doen. Als je je
-  telefoon weer terug gevonden hebt, kun je IRMA op de mijnIRMA
-  webpagina weer aan te zetten.
+  Als je op mijnIRMA aangeeft te willen stoppen worden al je gegevens
+  gewist en kun je IRMA niet meer gebruiken, ook staat de app nog op
+  je telefoon. Mocht je hierna IRMA ooit toch nog willen gaan
+  gebruiken, dan moet je je helemaal opnieuw, van voor af aan
+  registreren.
 
-Als je IRMA tijdelijk stopzet krijg je een code te zien die je nodig
-hebt om je account weer aan te zetten. Schrijf deze code op, of maak
-een foto van de code. Verdere uitleg staat op de mijnIRMA webpagina.
-
-Je kunt op twee manieren inloggen op mijnIRMA.
+Inloggen op de mijnIRMA webpagina kan op twee manieren:
 
 * Met IRMA zelf, via je email attribuut
 
