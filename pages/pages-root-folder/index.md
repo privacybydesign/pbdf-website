@@ -42,7 +42,19 @@ tot IRMA.
 1. Ontwikkeling en beheer van de IRMA [software](https://credentials.github.io/).
 2. Beheer van infrastructuur voor het uitgeven van attributen.
 
-De stichting werkt graag samen om IRMA van de grond te krijgen. Pilots zijn in voorbereiding, in samenwerking met verschillende andere partijen.
+De stichting werkt graag samen om IRMA van de grond te krijgen. Pilots
+zijn in voorbereiding, in samenwerking met verschillende andere
+partijen, waaronder:
+
+ * de [Raboud Universiteit](https://www.ru.nl), voor (sterke)
+   authenticatie van studenten en medewerkers en digitale
+   ondertekening van bijv. tentamenuitslagen;
+
+ * [Surfnet](https://www.surfnet.nl), voor uitgifte en controle van
+   attributen via [surfconext](https://www.surfconext.nl);
+
+ * [Alliander](http://www.alliander.nl), voor authenticatie en
+   ondertekening in de context van `slimme' huizen.
 
 <div id="videoModal" class="reveal-modal large" data-reveal="">
   <div class="flex-video widescreen vimeo" style="display: block;">
