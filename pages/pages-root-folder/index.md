@@ -27,7 +27,9 @@ widget3:
 
 De stichting Privacy by Design is in 2016 voortgekomen uit de [Digital
 Security](http://www.ru.nl/ds/) onderzoeksgroep van de Radboud
-Universiteit. De stichting is een onafhankelijke non-profit spin-off.
+Universiteit en het Privacy and Identity Lab
+[PI.lab](http://www.pilab.nl). De stichting is een onafhankelijke
+non-profit spin-off.
 
 De stichting richt zich vooral op het eigen [IRMA](/irma)
 systeem voor privacy-vriendelijke attribuut-gebaseerde
