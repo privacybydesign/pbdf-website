@@ -1,0 +1,3 @@
+[submodule "enroll/surfnet"]
+	path = enroll/surfnet
+	url = https://github.com/credentials/surfenroll
