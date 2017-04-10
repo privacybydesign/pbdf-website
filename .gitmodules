@@ -1,3 +1,6 @@
 [submodule "enroll/surfnet"]
 	path = enroll/surfnet
 	url = https://github.com/credentials/surfenroll
+[submodule "schememanager/pbdf"]
+	path = schememanager/pbdf
+	url = https://github.com/credentials/pbdf-schememanager
