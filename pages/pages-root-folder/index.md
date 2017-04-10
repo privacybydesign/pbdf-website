@@ -51,13 +51,10 @@ partijen, waaronder:
  * de [Raboud Universiteit](https://www.ru.nl), voor (sterke)
    authenticatie van studenten en medewerkers en digitale
    ondertekening van bijv. tentamenuitslagen;
-
  * [Surfnet](https://www.surfnet.nl), voor uitgifte en controle van
    attributen via [surfconext](https://www.surfconext.nl);
-
  * [Alliander](http://www.alliander.nl), voor authenticatie en
    ondertekening in de context van `slimme' huizen.
-
 
 <div id="videoModal" class="reveal-modal large" data-reveal="">
   <div class="flex-video widescreen vimeo" style="display: block;">
