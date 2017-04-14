@@ -19,4 +19,4 @@ Via deze pagina kan de Privacy by Design Foundation u verschillende attributen g
 * Naam en medewerker/studentnummer van uw hoger onderwijs-instelling via [Surfnet](https://surfconext.nl/)
   <br/><a class="button" href="/enroll/surfnet">Laad Surfnet-attributen</a>
 * Naam, adres, geboortedatum etc. van uw bank-login via [iDIN](https://www.idin.nl/consumenten/)
-  <br/><a class="button" href="/tomcat/irma_idin_server">Laad iDIN-attributen</a>
+  <br/><a class="button" href="/tomcat/irma_idin_server/">Laad iDIN-attributen</a>
