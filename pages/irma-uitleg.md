@@ -26,14 +26,14 @@ Deze vragen zullen hieronder een voor een beantwoord worden.
 
 Wanneer je een fles whisky koopt moet je volgens de wet bewijzen dat
 je ouder dan 18 bent. Je hoeft echter niet te vertellen wie je
-bent. Enkel deze persoonlijke eigenschap, dat je boven de 18 bent, is
-genoeg voor de whisky aankoop. Zulke persoonlijke eigenschappen
-worden attributen genoemd.
+bent. Enkel deze persoonlijke eigenschap, dat je ouder dan 18 bent, is
+genoeg voor de whisky aankoop. Zulke persoonlijke eigenschappen worden
+attributen genoemd.
 
 IRMA is de naam voor een systeem dat precies dit doet. IRMA staat
 voor: I Reveal My Attributes. IRMA stelt je in staat om online, via je
 mobiele telefoon, bepaalde attributen van je zelf wel te laten zien
-("boven de 18"), maar ook om andere attributen juist niet te laten
+("ouder dan 18"), maar ook om andere attributen juist niet te laten
 zien (je naam of telefoonnummer). IRMA beschermt daarmee je
 privacy. Deze privacy-bescherming zit ingebakken in het systeem, en
 wordt daarom ook *privacy by design* genoemd. In de meeste recente
