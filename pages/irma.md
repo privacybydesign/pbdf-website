@@ -16,10 +16,10 @@ permalink: /irma/
     U kunt IRMA uitproberen door de IRMA app te
     [installeren](https://play.google.com/store/apps/details?id=org.irmacard.cardemu)
     (op een Android telefoon) en u bij de stichting Privacy by Design
-    te [registreren](), enkel met een email adres. U kunt daarna
-    eventueel nog andere attributen in uw app [toevoegen](), waarmee u
+    te registreren, enkel met een email adres. U kunt daarna
+    eventueel nog andere attributen in uw app [toevoegen](/enroll), waarmee u
     een soort digitaal paspoort op uw telefoon vult. Ook kunt u het
-    gebruik van de app volgen in een eigen [mijnIRMA]() omgeving. U
+    gebruik van de app volgen in een eigen [mijnIRMA](/mijnirma) omgeving. U
     kunt uzelf daar op ieder moment afmelden en al uw gegevens wissen.
     Hier zijn geen kosten aan verbonden.
 
@@ -54,5 +54,4 @@ permalink: /irma/
     andere dingen niet laat zien, afhankelijk van de situatie.
 
     Op een aparte pagina staat nog [veel meer uitleg](/irma-uitleg)
-    over attributen en IRMA
-
+    over attributen en IRMA.
