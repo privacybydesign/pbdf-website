@@ -2,22 +2,26 @@
   url: "/"
   side: left
 
+- title: Mijn IRMA
+  url: /mijnirma/
+  side: left
+
+- title: Over IRMA
+  url: /irma/
+  side: left
+
 - title: Doelstelling
   url: /doelstelling/
-  side: left
+  side: right
 
 - title: Bestuur
   url: /bestuur/
-  side: left
-
-# - title: Funding
-#   url: /funding/
-#   side: left
-
-- title: IRMA info
-  url: /irma/
-  side: left
+  side: right
 
 - title: Contact
   url: /contact/
   side: right
+
+# - title: Funding
+#   url: /funding/
+#   side: left
