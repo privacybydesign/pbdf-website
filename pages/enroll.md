@@ -14,9 +14,6 @@ permalink: /enroll/
   }
 </style>
 
-Via deze pagina kan de Privacy by Design Foundation u verschillende attributen geven.
+Via deze pagina kan de Privacy by Design Foundation u Surfnet-attributen geven. In de toekomst zullen we hier ook attributen uit andere bronnen aanbieden (via onder andere [iDIN](https://www.idin.nl/consumenten/)).
 
-* Naam en medewerker/studentnummer van uw hoger onderwijs-instelling via [Surfnet](https://surfconext.nl/)
-  <br/><a class="button" href="/enroll/surfnet">Laad Surfnet-attributen</a>
-* Naam, adres, geboortedatum etc. van uw bank-login via [iDIN](https://www.idin.nl/consumenten/)
-  <br/><a class="button" href="/tomcat/irma_idin_server/">Laad iDIN-attributen</a>
+<a class="button" href="/enroll/surfnet">Laad Surfnet-attributen</a>
