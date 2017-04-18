@@ -23,6 +23,8 @@ permalink: /irma/
     kunt uzelf daar op ieder moment afmelden en al uw gegevens wissen.
     Hier zijn geen kosten aan verbonden.
 
+    Wilt u eerst meer lezen over IRMA, bekijk dan [deze pagina](/irma-uitleg).
+
  2. Ik ben van een **webwinkel** of andere **organisatie** die IRMA
     misschien wil gebruiken om klanten/leden in te laten loggen.
 

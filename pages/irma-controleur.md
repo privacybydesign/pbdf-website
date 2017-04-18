@@ -122,12 +122,12 @@ van een bepaalde loyalty status, zoals brons, zilver, goud, platina,
 enz. Dit is mogelijk, maar vraagt enige voorbereiding.
 
 De stichting Privacy by Design beheert de IRMA infrastructuur. Een
-belangrijk onderdeel daarvan is het register van attributen. Dit
-register moet op eenduidige manier vastliggen, zodat iedere gebruiker
-de betekenis van de verschillende attributen kent. Nieuwe attributen
-moeten hierin opgenomen worden. Daarvoor is [contact](/contact) met de
-stichting noodzakelijk. Voor registratie van nieuwe attributen zal de
-stichting kosten in rekening brengen.
+belangrijk onderdeel daarvan is het register van mogelijke
+attributen. Dit register moet op eenduidige manier vastliggen, zodat
+iedere gebruiker de betekenis van de verschillende attributen
+kent. Nieuwe attributen moeten hierin opgenomen worden. Daarvoor is
+[contact](/contact) met de stichting noodzakelijk. Voor registratie
+van nieuwe attributen zal de stichting kosten in rekening brengen.
 
 Is dit eenmaal geregeld, dan zijn er verschillende mogelijkheden om
 daadwerkelijk attributen uit te geven. Daarbij moeten attributen aan
