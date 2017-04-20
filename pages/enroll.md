@@ -16,4 +16,4 @@ permalink: /enroll/
 
 Via deze pagina kan de Privacy by Design Foundation u Surfnet-attributen geven. In de toekomst zullen we hier ook attributen uit andere bronnen aanbieden (via onder andere [iDIN](https://www.idin.nl/consumenten/)).
 
-<a class="button" href="/enroll/surfnet">Laad Surfnet-attributen</a>
+<a class="button" href="/enroll/surfnet?action=login">Laad Surfnet-attributen</a>
