@@ -60,7 +60,7 @@ krijgt direct een eerste mailtje op dit adres met een link voor de
 bevestiging. Hiermee wordt gecontroleerd of het adres wel echt van jou
 is.
 
-Dit email adres kun je later eventueel nog veranderen, in mijnIRMA.
+Dit email adres kun je later eventueel nog veranderen, in MijnIRMA.
 
 Denk even goed na voordat je de PIN code kiest. Je zult deze code
 regelmatig nodig hebben bij het gebruik van IRMA. Deze code garandeert
@@ -84,7 +84,7 @@ Het adres dat je opgegeven hebt bij registratie kan nu als attribuut
 in de IRMA app in je telefoon gezet worden. Na de vorige registratie
 stappen, waarin je je email adres en PIN gegeven hebt, krijg je een
 link (webadres) toegestuurd per email. Via deze link log je in je
-mijnIRMA account. Daarmee wordt je registratie bevestigd.
+MijnIRMA account. Daarmee wordt je registratie bevestigd.
 
 Wanneer je in een webbrowser naar het toegstuurde webadres gaat krijg
 je een "Email Uitgifte" knop te zien. Hier zie je hoe het uitgeven en
@@ -108,15 +108,15 @@ ontvangen van attributen werkt.
 
 Het is mogelijk nog meer attributen te ontvangen dan je email adres.
 Je kunt dat meteen bij registratie doen, maar het kan ook later.  Je
-gaat daarvoor naar de [IRMA uitgifte](??) pagina. Je ziet daar
+gaat daarvoor naar de [IRMA uitgifte](/enroll) pagina. Je ziet daar
 verschillende mogelijkheden om nog meer attributen op te nemen in de
 app. Dit lijstje mogelijkheden ligt niet vast en zal groeien naarmate
 meer partijen aan IRMA meedoen.
 
- * Surfconext: inloggen met je hoger onderwijs identiteit. Deze is in
+ * SURFconext: inloggen met je hoger onderwijs identiteit. Deze is in
    principe beschikbaar voor studenten en medewerkers van instellingen
    voor onderwijs en onderzoek in Nederland die aangesloten zijn op
-   [Surfconext](https://www.surfconext.nl). Je eigen instelling moet
+   [SURFconext](https://www.surfconext.nl). Je eigen instelling moet
    IRMA toegang wel expliciet goedkeuren. Via Surfconext kunnen
    "onderwijs attributen" in je IRMA app gezet worden.
 
@@ -128,29 +128,9 @@ meer partijen aan IRMA meedoen.
  * ...
 
 
-#### 5. Eerste IRMA gebruik: toon je email adres 
-
-Op dit moment kun je het tonen van attributen uitproberen op de eigen
-[IRMA controle](??) webpagina van de stichting. Daar wordt je om je
-email adres gevraagd en kun je via de IRMA app het adres tonen dat je
-(zojuist) bij registratie opgegeven hebt. Een webwinkel zou dit
-attribuut op een zelfde manier aan je kunnen vragen. 
-
-Op deze webpagina staat een "Toon Emailadres" knop. Als je hier op
-drukt op een PC of laptop, krijg je een QR code te zien die met je app
-gescand kan worden, zoals hierboven beschreven. Als je een webbrowser
-op je telefoon gebruikt en daar op deze "Toon Emailadres" knop drukt,
-wordt de app vanzelf gestart. Binnen de app krijg je de vraag of je
-akkoord ben met het tonen van je email adres. Om dat te bevestigen
-moet je de PIN code van de IRMA app invoeren.
-
-Je kunt je email adres attribuut ook gebruiken om op je
-mijnIrma account in te loggen.
-
-
 ### <a name="mijnirma"></a>2. Waarvoor is MijnIRMA?
 
-De [mijnIRMA](??) website van de stichting biedt de volgende
+De [MijnIRMA](/mijnirma) website van de stichting biedt de volgende
 mogelijkheden.
 
 * Je kunt er het gebruik van je eigen IRMA app volgen: de *log*
@@ -167,21 +147,21 @@ mogelijkheden.
   daar helemaal niet van weet is er iets aan de hand: iemand anders
   gebruikt jouw app om zich als jou voor te doen. Dat is reden om
   direct in te grijpen. Hiermee komen we aan de tweede mogelijkheid
-  die de mijnIRMA pagina biedt.
+  die de MijnIRMA pagina biedt.
 
-* Je kunt op de mijnIRMA webpagina het gebruik van IRMA stop zetten.
+* Je kunt op de MijnIRMA webpagina het gebruik van IRMA stop zetten.
   Natuurlijk kun je dat doen als je IRMA niet langer wil
   gebruiken. Maar daarnaast is het belangrijk om aan deze "noodrem" te
   trekken als je telefoon gestolen is, zodat een ander zeker geen
   misbruik kan maken van jouw identiteit.
 
-  Als je op mijnIRMA aangeeft te willen stoppen worden al je gegevens
+  Als je op MijnIRMA aangeeft te willen stoppen worden al je gegevens
   gewist en kun je IRMA niet meer gebruiken, ook staat de app nog op
   je telefoon. Mocht je hierna IRMA ooit toch nog willen gaan
   gebruiken, dan moet je je helemaal opnieuw, van voor af aan
   registreren.
 
-Inloggen op de mijnIRMA webpagina kan op twee manieren:
+Inloggen op de MijnIRMA webpagina kan op twee manieren:
 
 * Met IRMA zelf, via je email attribuut
 
@@ -190,7 +170,7 @@ Inloggen op de mijnIRMA webpagina kan op twee manieren:
 
 Deze laatste optie kun je altijd gebruiken, vooral ook wanneer je
 telefoon gestolen is. Als je je mail op een ander apparaat leest, kun
-je vandaaruit inloggen op mijnIRMA en je IRMA account stopzetten.
+je vandaaruit inloggen op MijnIRMA en je IRMA account stopzetten.
 
 
 ### <a name="achtergrond"></a>3. Wat gebeurt er op de achtergrond?
@@ -216,48 +196,48 @@ geldt voor de geheime persoonlijke cryptografische sleutel die nodig
 is om de IRMA app voor jou te laten werken.
 
 De IRMA implementatie gebruikt een "truuk", waarbij zulke cruciale
-geheime informatie verdeeld wordt tussen de app en de mijnIRMA server
+geheime informatie verdeeld wordt tussen de app en de MijnIRMA server
 van de stichting. De app en de server moeten heel precies samenwerken
 om IRMA te laten werken. Ze hebben daar ieder alleen niet genoeg
 informatie voor: ze moeten samenwerken en hun eigen geheimen apart
 gebruiken voor een gezamenlijke berekening. Dit heet een *multi-party
 computation*.
 
-De mijnIRMA server kan zich in zijn eentje dus nooit als jou voordoen:
+De MijnIRMA server kan zich in zijn eentje dus nooit als jou voordoen:
 daar is jouw app op jouw telefoon voor nodig. Wat je wel op de server
 kunt doen staat [hierboven](#mijnirma) beschreven. Het inloggen op de
-mijnIRMA server kan via IRMA, maar ook via een link die per email
+MijnIRMA server kan via IRMA, maar ook via een link die per email
 toegestuurd wordt. Als je telefoon gestolen wordt, heeft de dief
 mogelijk ook toegang tot je email. De dief kan daarmee ook op jouw
-mijnIRMA inloggen. Maar het enige wat de dief daar kan doen is je
+MijnIRMA inloggen. Maar het enige wat de dief daar kan doen is je
 account stopzetten. Als het goed is heb je dat zelf al gedaan zodra je
 de diefstal bemerkt. Daarbij krijg je een eenmalige code te zien om je
 account weer aan te kunnen zetten.
 
-Kortom: de mijnIRMA server biedt jou extra bescherming en controle
+Kortom: de MijnIRMA server biedt jou extra bescherming en controle
 mogelijkheden, maar kan zelf niks alleen doen -- behalve blokkeren. De
-stichting Privacy by Design beheert de mijnIRMA server om het gebruik
+stichting Privacy by Design beheert de MijnIRMA server om het gebruik
 van IRMA mogelijk te maken. Andere partijen kunnen in principe ook
 zo'n server draaien.
 
-De mijnIRMA server speelt ook een beschermende rol bij het gebruik
+De MijnIRMA server speelt ook een beschermende rol bij het gebruik
 van je PIN. Het is in het algemeen onverstandig als een PIN in een app
 opgeslagen wordt, omdat die eruit gehaald zou kunnen worden als een
 telefoon gehackt wordt.  De IRMA app slaat de PIN dus niet op, maar
 wel een willekeurig groot getal dat een *nonce* genoemd wordt. De
-mijnIRMA server weet ook jouw PIN niet, maar krijgt bij registratie
+MijnIRMA server weet ook jouw PIN niet, maar krijgt bij registratie
 de hash waarde *hash( PIN | nonce )*.  Hieruit is de PIN niet af te
 leiden.
 
 Wanneer je op je app inlogt met je PIN code, berekent de app dit
 (grote) getal *hash( PIN | nonce )* en stuurt deze hash waarde naar de
-mijnIRMA server. Daarna wordt de PIN verwijdert. Als de hash waarde
+MijnIRMA server. Daarna wordt de PIN verwijdert. Als de hash waarde
 klopt, zijn de app en de server onderling gekoppeld en is de inlog
 geslaagd.  Een succesvolle aanvaller kan eventueel wel de nonce uit je
 app halen, maar heeft daar niet zo veel aan. Het enige wat de
 aanvaller kan doen is alle 100.000 mogelijkheden van je PIN
 uitproberen, en bij iedere poging *X* het getal *hash( X | nonce )*
-naar de mijnIRMA server sturen. De server ziet dan dat zoiets
+naar de MijnIRMA server sturen. De server ziet dan dat zoiets
 geprobeerd wordt en sluit het account tot nader orde af. In dat geval
 krijgt de eigenaar via het registratie email adres een waarschuwing,
 en ook een link waarmee de blokkade ongedaan gemaakt kan worden.
@@ -265,7 +245,7 @@ en ook een link waarmee de blokkade ongedaan gemaakt kan worden.
 Het onderstaande plaatje vat de twee rollen van de stichting Privacy
 by Design samen. Enerzijds is de stichting uitgever van een aantal
 attributen voor personalisatie.  Anderzijds zorgt de stichting via
-mijnIRMA voor inzage in het eigen IRMA gebruik en voor de mogelijkheid
+MijnIRMA voor inzage in het eigen IRMA gebruik en voor de mogelijkheid
 om het gebruik van IRMA (tijdelijk) stop te zetten.
 
 <p align="center"><img src="../images/Rollen_Stichting.png" alt="IRMA
@@ -275,6 +255,6 @@ In het begin is de stichting de enige uitgever van IRMA
 attributen. Hopelijk zullen andere partijen spoedig volgen.
 
 De stichting verifieert ook attributen, maar alleen voor zichzelf,
-wanneer IRMA gebruikers inloggen op mijnIRMA. Zulke verificaties
+wanneer IRMA gebruikers inloggen op MijnIRMA. Zulke verificaties
 worden niet voor anderen gedaan. De stichting beperkt haar rol tot
 uitgifte en inzage.
