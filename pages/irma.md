@@ -17,7 +17,7 @@ permalink: /irma/
     [installeren](https://play.google.com/store/apps/details?id=org.irmacard.cardemu)
     (op een Android telefoon) en u bij de stichting Privacy by Design
     te registreren, enkel met een email adres. U kunt daarna
-    eventueel nog andere attributen in uw app [toevoegen](/enroll), waarmee u
+    eventueel nog andere attributen in uw app [toevoegen](/uitgifte), waarmee u
     een soort digitaal paspoort op uw telefoon vult. Ook kunt u het
     gebruik van de app volgen in een eigen [mijnIRMA](/mijnirma) omgeving. U
     kunt uzelf daar op ieder moment afmelden en al uw gegevens wissen.
