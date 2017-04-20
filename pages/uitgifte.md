@@ -4,7 +4,7 @@ title: Attribuut-uitgifte
 header:
   image_fullwidth: header_unsplash_1.jpg
   title: Privacy by Design Foundation
-permalink: /enroll/
+permalink: /uitgifte/
 ---
 
 <style type="text/css">
@@ -27,7 +27,7 @@ groeien.  Nu gaat het alleen om attributen via [Surfconext](https://www.surfcone
 hier ook attributen uit andere bronnen aanbieden (via onder andere
 [iDIN](https://www.idin.nl/consumenten/)).
 
- * <a class="button" href="/enroll/surfnet?action=login">Laad
+ * <a class="button" href="/uitgifte/surfnet?action=login">Laad
    attributen via Surfconext</a>
 
    **Attributen**: Voornaam, achternaam, emailadres, instelling,

@@ -108,7 +108,7 @@ ontvangen van attributen werkt.
 
 Het is mogelijk nog meer attributen te ontvangen dan je email adres.
 Je kunt dat meteen bij registratie doen, maar het kan ook later.  Je
-gaat daarvoor naar de [IRMA uitgifte](/enroll) pagina. Je ziet daar
+gaat daarvoor naar de [IRMA uitgifte](/uitgifte) pagina. Je ziet daar
 verschillende mogelijkheden om nog meer attributen op te nemen in de
 app. Dit lijstje mogelijkheden ligt niet vast en zal groeien naarmate
 meer partijen aan IRMA meedoen.
