@@ -14,6 +14,25 @@ permalink: /enroll/
   }
 </style>
 
-Via deze pagina kan de Privacy by Design Foundation u Surfnet-attributen geven. In de toekomst zullen we hier ook attributen uit andere bronnen aanbieden (via onder andere [iDIN](https://www.idin.nl/consumenten/)).
+Via deze pagina kan de Privacy by Design Foundation attributen aan u
+uitgeven die u in uw IRMA app kunt opslaan om later te gebruiken om in
+te loggen. Hiervoor is het nodig dat u de IRMA app niet alleen reeds
+geinstalleerd, maar ook geregistreerd heeft. Installatie kan via
+[Android Play
+store](https://play.google.com/store/apps/details?id=org.irmacard.cardemu);
+het registratie proces wordt vanzelf gestart wanneer u de app opent.
 
-<a class="button" href="/enroll/surfnet?action=login">Laad Surfnet-attributen</a>
+Het aantal mogelijkheden om via deze pagina attributen te laden zal
+groeien.  Nu gaat het alleen om attributen via [Surfconext](https://www.surfconext.nl), voor het hoger onderwijs. In de nabije toekomst zullen we
+hier ook attributen uit andere bronnen aanbieden (via onder andere
+[iDIN](https://www.idin.nl/consumenten/)).
+
+ * <a class="button" href="/enroll/surfnet?action=login">Laad
+   attributen via Surfconext</a>
+
+   **Attributen**: Voornaam, achternaam, emailadres, instelling,
+   medewerker/student, locaal registratienummer
+
+   (Vooralsnog is deze mogelijkheid alleen beschikbaar voor studenten
+   en medewerkers van de Radboud universiteit; andere instellingen
+   moeten deze mogelijkheid zelf explicit "aanzetten".)
