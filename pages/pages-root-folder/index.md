@@ -17,10 +17,10 @@ widget2:
   # image: irma-video-youtube.png
   video: <a href="#" data-reveal-id="videoModal"><img src="/images/irma-video-youtube.png" width="302" height="182" alt=""/></a>
 widget3:
-  title: Jacobs wint award
-  url: https://www.surf.nl/persberichten/2017/02/surf-security-en-privacy-award-2017-voor-bart-jacobs.html
-  image: security-privacy-award.jpg
-  text: Bart Jacobs heeft de SURF Security en Privacy Award 2017 ontvangen. Jacobs kreeg de prijs voor zijn verdiensten op het gebied van security en privacy. De prijs, die 2500 euro bedraagt, zal ten goede komen van de stichting Privacy by Design.
+  title: Nieuwe attributen
+  url: /uitgifte/
+  image: surfidin.png
+  text: Na installatie van de IRMA app en registratie bij <a href="/mijnirma">MijnIRMA</a> kunt u nu <a href="https://www.idin.nl/consumenten">iDIN</a>-attributen van uw bank laden, en als u medewerker of student bent aan de Radboud-universiteit, ook via <a href="https://surfconext.nl/">Surfnet</a>.
 ---
 
 ### Stichting Privacy by Design
