@@ -23,16 +23,22 @@ store](https://play.google.com/store/apps/details?id=org.irmacard.cardemu);
 het registratie proces wordt vanzelf gestart wanneer u de app opent.
 
 Het aantal mogelijkheden om via deze pagina attributen te laden zal
-groeien.  Nu gaat het alleen om attributen via [Surfconext](https://www.surfconext.nl), voor het hoger onderwijs. In de nabije toekomst zullen we
-hier ook attributen uit andere bronnen aanbieden (via onder andere
-[iDIN](https://www.idin.nl/consumenten/)).
+groeien. Nu gaat het alleen om attributen via
+[Surfconext](https://www.surfconext.nl) voor het hoger onderwijs, en
+[iDIN](https://www.idin.nl/consumenten/). In de nabije toekomst zullen we
+hier ook attributen uit andere bronnen aanbieden.
 
- * <a class="button" href="/uitgifte/surfnet?action=login">Laad
-   attributen via Surfconext</a>
-
-   **Attributen**: Voornaam, achternaam, emailadres, instelling,
-   medewerker/student, locaal registratienummer
+* **Attributen via Surfnet** (voornaam, achternaam, emailadres, instelling,
+   medewerker/student, locaal registratienummer)
 
    (Vooralsnog is deze mogelijkheid alleen beschikbaar voor studenten
    en medewerkers van de Radboud universiteit; andere instellingen
    moeten deze mogelijkheid zelf explicit "aanzetten".)
+
+   <a class="button" href="/uitgifte/surfnet?action=login">Laad
+   attributen via Surfconext</a>
+
+* **Attributen via iDIN** (initialen, achternaam, geboortedatum, geslacht,
+   adres, postcode, stad)
+
+   <a class="button" href="/uitgifte/idin">Laad attributen via iDIN</a>
