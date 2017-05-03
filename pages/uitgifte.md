@@ -28,17 +28,17 @@ groeien. Nu gaat het alleen om attributen via
 [iDIN](https://www.idin.nl/consumenten/). In de nabije toekomst zullen we
 hier ook attributen uit andere bronnen aanbieden.
 
-* **Attributen via Surfnet** (voornaam, achternaam, emailadres, instelling,
-   medewerker/student, locaal registratienummer)
-
-   (Vooralsnog is deze mogelijkheid alleen beschikbaar voor studenten
-   en medewerkers van de Radboud universiteit; andere instellingen
-   moeten deze mogelijkheid zelf explicit "aanzetten".)
+* **Attributen via Surfnet**: voornaam, achternaam, emailadres, instelling,
+   medewerker/student, locaal registratienummer
 
    <a class="button" href="/uitgifte/surfnet?action=login">Laad
    attributen via Surfconext</a>
 
-* **Attributen via iDIN** (initialen, achternaam, geboortedatum, geslacht,
-   adres, postcode, stad)
+  [Meer informatie](/uitgifte-surfconext)
+
+* **Attributen via iDIN**: initialen, achternaam, geboortedatum, geslacht,
+   adres, postcode, stad
 
    <a class="button" href="/uitgifte/idin">Laad attributen via iDIN</a>
+
+  [Meer informatie](/uitgifte-idin)
