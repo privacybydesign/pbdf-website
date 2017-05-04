@@ -8,9 +8,14 @@ permalink: /uitgifte/
 ---
 
 <style type="text/css">
-  a.button {
-    margin-bottom: 5px;
-    margin-top: 5px;
+  article a.button {
+    margin-bottom: 0.5rem;
+    margin-top: 0.5rem;
+    background-color: #44667A;
+  }
+  article a img {
+    height: 1.75rem;
+    padding-right: 1rem;
   }
 </style>
 
@@ -24,16 +29,18 @@ het registratie proces wordt vanzelf gestart wanneer u de app opent.
 
 Het aantal mogelijkheden om via deze pagina attributen te laden zal
 groeien. Nu gaat het alleen om attributen via
-[Surfconext](https://www.surfconext.nl) voor het hoger onderwijs, en
+[SURFconext](https://www.surfconext.nl) voor het hoger onderwijs, en
 [iDIN](https://www.idin.nl/consumenten/). In de nabije toekomst zullen we
 hier ook attributen uit andere bronnen aanbieden.
 
 Attributen via Surfnet
 :   Attributen: voornaam, achternaam, emailadres, instelling, medewerker/student, locaal registratienummer  
-    <a class="button" href="/uitgifte/surfnet?action=login">Laad attributen via Surfconext</a>  
+    <a class="button" href="/uitgifte/surfnet?action=login">
+    <img src="/images/surfnet.png">Laad attributen via SURFconext</a>  
     [Meer informatie](/uitgifte-surfconext)
 
 Attributen via iDIN
 :   Attributen: initialen, achternaam, geboortedatum, geslacht, adres, postcode, stad  
-    <a class="button" href="/uitgifte/idin">Laad attributen via iDIN</a>  
+    <a class="button" href="/uitgifte/idin">
+    <img src="/images/idin.png">Laad attributen via iDIN</a>  
     [Meer informatie](/uitgifte-idin)
