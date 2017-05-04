@@ -14,16 +14,11 @@ ook zo'n dienst en kan zo attributen krijgen over degene die inlogt,
 namelijk:
 
  * voornaam
-
  * achternaam
-
  * emailadres
-
  * instelling
-
  * medewerker/student
-
- * locaal registratienummer.
+ * lokaal registratienummer.
 
 Deze persoonlijke attributen zijn afkomstig van de onderwijsinstelling
 van de gebruiker. De juistheid van deze attributen is de
