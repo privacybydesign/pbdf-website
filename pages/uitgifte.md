@@ -40,7 +40,7 @@ Attributen via Surfnet
     [Meer informatie](/uitgifte-surfconext)
 
 Attributen via iDIN
-:   Attributen: initialen, achternaam, geboortedatum, geslacht, adres, postcode, stad  
+:   Attributen: initialen, achternaam, geboortedatum, geslacht, adres, postcode, plaats  
     <a class="button" href="/uitgifte/idin">
     <img src="/images/idin.png">Laad attributen via iDIN</a>  
     [Meer informatie](/uitgifte-idin)
