@@ -9,6 +9,18 @@
 - title: Over IRMA
   url: /irma/
   side: left
+  dropdown:
+    - title: Van start met IRMA
+      url: /irma-begin/
+    - title: Ontvang IRMA-attributen
+      url: /uitgifte/
+    - title: Integreer IRMA in uw website
+      url: /irma-controleur/
+    - title: IRMA in detail
+      url: /irma-uitleg/
+    - title: Download IRMA app
+      url: https://play.google.com/store/apps/details?id=org.irmacard.cardemu
+
 
 - title: Doelstelling
   url: /doelstelling/
