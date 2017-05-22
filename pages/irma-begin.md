@@ -34,7 +34,7 @@ gemeentehuis moet gaan. Net als een paspoort is het ook IRMA echt
 persoonlijk: het is niet de bedoeling dat iemand anders er gebruik van
 kan maken.
 
-#### 1. Installatie
+#### 1.1. Installatie
 
 De IRMA app is beschikbaar in de [Android Play
 store](https://play.google.com/store/apps/details?id=org.irmacard.cardemu).
@@ -44,7 +44,7 @@ De IRMA app is tot nu alleen maar beschikbaar voor Android telefoons
 en tablets; aan een iOS versie voor iPhones en iPads wordt nog
 gewerkt.
 
-#### 2. Registratie
+#### 1.2. Registratie
 
 Open de IRMA app. Als u dit voor de eerste keer doet, wordt u
 gevraagd om twee dingen in te typen:
@@ -77,7 +77,7 @@ mogelijk.  Als u uw PIN code kwijtraakt, moet u zich opnieuw voor IRMA
 registreren en gaan al uw tot dan toe verzamelde attributen
 verloren. Dat is gedoe.
 
-#### 3. Personalisatie met uw email adres
+#### 1.3. Personalisatie met uw email adres
 
 Het adres dat u opgegeven heeft bij registratie kan nu als attribuut
 in de IRMA app in uw telefoon gezet worden. Na de vorige registratie
@@ -96,14 +96,13 @@ ontvangen van attributen werkt.
    de QR code kunt scannen. Nadat u dit gedaan heeft, vraagt de app u
    of u uw email adres als attribuut wil accepteren in de IRMA app op
    uw telefoon.
-
  * Wanneer uw de webpagina in een browser op de telefoon zelf opent en
    op de "Email Uitgifte" knopt drukt, wordt de IRMA app op uw
    telefoon vanzelf geopend. U krijgt dan ook de vraag of u uw email
    adres als attribuut wil accepteren op uw telefoon.
 
 
-#### 4. Personalisatie met andere attributen
+#### 1.4. Personalisatie met andere attributen
 
 Het is mogelijk nog meer attributen te ontvangen dan uw email adres.
 U kunt dat meteen bij registratie doen, maar het kan ook later.  U
@@ -145,7 +144,6 @@ mogelijkheden.
   gebruikt uw app om zich als u voor te doen. Dat is reden om
   direct in te grijpen. Hiermee komen we aan de tweede mogelijkheid
   die de MijnIRMA pagina biedt.
-
 * U kunt op de MijnIRMA webpagina het gebruik van IRMA stop zetten.
   Natuurlijk kunt u dat doen als u IRMA niet langer wil
   gebruiken. Maar daarnaast is het belangrijk om aan deze "noodrem" te
@@ -159,8 +157,7 @@ mogelijkheden.
 
 Inloggen op de MijnIRMA webpagina kan op twee manieren:
 
-* Met IRMA zelf, via uw email attribuut
-
+* Met IRMA zelf, via uw email attribuut.
 * Door uw email adres in te typen. u krijgt dan een link toegestuurd
   op dit adres, die u toegang geeft tot uw account.
 
@@ -207,7 +204,7 @@ toegestuurd wordt. Als uw telefoon gestolen wordt, heeft de dief
 mogelijk ook toegang tot uw email. De dief kan daarmee ook op uw
 MijnIRMA inloggen. Maar het enige wat de dief daar kan doen is uw
 account stopzetten. Als het goed is heeft u dat zelf al gedaan zodra u
-de diefstal bemerkt. 
+de diefstal bemerkt.
 
 Kortom: de MijnIRMA server biedt u extra bescherming en controle
 mogelijkheden, maar kan zelf niks alleen doen -- behalve blokkeren. De
