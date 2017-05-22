@@ -18,6 +18,8 @@
       url: /irma-controleur/
     - title: IRMA in detail
       url: /irma-uitleg/
+    - title: IRMA demo's
+      url: /demo/
     - title: Download IRMA app
       url: https://play.google.com/store/apps/details?id=org.irmacard.cardemu
 
