@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Achtergrond informatie over attribuut-uitgifte vanuit het BIG-register 
+title: Achtergrond informatie over attribuut-uitgifte vanuit het BIG-register
 header:
   image_fullwidth: header_unsplash_1.jpg
   title: Privacy by Design Foundation
@@ -11,7 +11,7 @@ Het [BIG-register](https://www.bigregister.nl/) is een openbaar
 register van zorgverleners, zoals artsen, tandartsen, verpleegkundigen
 en verloskundigen.  Iedere zorgverlener in Nederland staat onder een
 BIG-nummer ingeschreven in dit register. BIG is een afkorting voor:
-Beroepen in de Individuele Gezondheidszorg. 
+Beroepen in de Individuele Gezondheidszorg.
 
 Als u een zorgverlener bent en ingeschreven staat in dit register kan
 de stichting Privacy by Design uw registratie op basis van uw naam en
@@ -49,13 +49,11 @@ addres op [contact](/contact).
 In de huidge opzet worden de volgende regels gehanteerd.
 
 * Indien een BIG registratie verlopen is, worden geen attributen
-  uitgegeven
-
+  uitgegeven.
 * Indien meerdere personen, met zowel dezelfde naam als dezelfde
   geboortedatum, in het BIG register voorkomen worden ook geen
   attributen uitgegeven: de stichting kan immers geen onderscheid
   tussen deze personen maken.
-
 * Indien een persoon met meerdere beroepen in het BIG register
   voorkomt wordt voor ieder van die beroepen een aparte IRMA
   credential uitgegeven. U kunt dan zelf kiezen welk beroep u bij

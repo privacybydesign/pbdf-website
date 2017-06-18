@@ -38,7 +38,6 @@ aangeboden worden. Daarbij gelden soms beperkingen:
   Surfnet attributen is een registratie bij een Nederlandse instelling
   voor (hoger) onderwijs noodzakelijk --- en moet die instelling
   "IRMA" ook toestaan.
-
 * Er bestaan afhankelijkheden tussen sommige bronnen. Bijvoorbeeld, om
   zorg attributen uit het BIG register te verkrijgen moeten eerst
   andere attributen aanwezig zijn en opgevraagd worden, namelijk uit
