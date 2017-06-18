@@ -49,5 +49,5 @@ Attributen via het BIG-register
 :   Voor zorgerleners met een [BIG-registratie](https://www.bigregister.nl/)  
     Attributen: BIG-nummer, beroep, specialisme  
     <a class="button" href="/uitgifte/big">
-    <img src="/images/big.png">Laad attributen via iDIN</a>  
+    <img src="/images/big.png">Laad attributen via BIG</a>  
     [Meer informatie](/uitgifte-big)
