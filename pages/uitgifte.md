@@ -19,25 +19,31 @@ permalink: /uitgifte/
   }
 </style>
 
-Via deze pagina kan de Privacy by Design Foundation attributen aan u
-uitgeven die u in uw IRMA app kunt opslaan om later te gebruiken om in
-te loggen. Hiervoor is het nodig dat u de IRMA app niet alleen reeds
-geinstalleerd, maar ook geregistreerd heeft. Installatie kan via
-[Android Play
+Via deze pagina kan de stichting Privacy by Design digitaal
+ondertekende attributen aan u uitgeven die u in uw IRMA app kunt
+opslaan om later te gebruiken om in te loggen. Hiervoor is het nodig
+dat u de IRMA app niet alleen reeds geinstalleerd, maar ook
+geregistreerd heeft. Installatie kan via [Android Play
 store](https://play.google.com/store/apps/details?id=org.irmacard.cardemu);
 het registratie proces wordt vanzelf gestart wanneer u de app opent.
 
-Het aantal mogelijkheden om via deze pagina attributen te laden zal
-groeien. Nu gaat het alleen om attributen via
-[SURFconext](https://www.surfconext.nl) voor het hoger onderwijs, en
-[iDIN](https://www.idin.nl/consumenten/). In de nabije toekomst zullen we
-hier ook attributen uit andere bronnen aanbieden.
+Hieronder staat een lijst met knoppen waarmee verschillende attributen
+geladen kunnen worden. Het aantal mogelijkheden zal nog toenemen: in
+de nabije toekomst zullen hier ook attributen uit meer bronnen
+aangeboden worden. Daarbij gelden soms beperkingen:
 
-Attributen via Surfnet
-:   Attributen: voornaam, achternaam, emailadres, instelling, medewerker/student, locaal registratienummer  
-    <a class="button" href="/uitgifte/surfnet?action=login">
-    <img src="/images/surfnet.png">Laad attributen via SURFconext</a>  
-    [Meer informatie](/uitgifte-surfconext)
+* Niet alle bronnen van attributen kunnen door iedereen gebruikt
+  worden. Bijvoorbeeld, voor iDIN moet men een Nederlandse
+  bankrekening hebben en daar elektronisch op in kunnen loggen; voor
+  Surfnet attributen is een registratie bij een Nederlandse instelling
+  voor (hoger) onderwijs noodzakelijk --- en moet die instelling
+  "IRMA" ook toestaan.
+
+* Er bestaan afhankelijkheden tussen sommige bronnen. Bijvoorbeeld, om
+  zorg attributen uit het BIG register te verkrijgen moeten eerst
+  andere attributen aanwezig zijn en opgevraagd worden, namelijk uit
+  iDIN (naam + geboortedatum). Daarnaast is natuurlijk een BIG
+  registratie noodzakelijk.
 
 Attributen via iDIN
 :   Attributen: initialen, achternaam, geboortedatum, geslacht, adres, postcode, plaats  
@@ -45,9 +51,14 @@ Attributen via iDIN
     <img src="/images/idin.png">Laad attributen via iDIN</a>  
     [Meer informatie](/uitgifte-idin)
 
-Attributen via het BIG-register
-:   Voor zorgerleners met een [BIG-registratie](https://www.bigregister.nl/)  
-    Attributen: BIG-nummer, beroep, specialisme  
+Attributen via Surfconext
+:   Attributen: voornaam, achternaam, emailadres, instelling, medewerker/student, locaal registratienummer  
+    <a class="button" href="/uitgifte/surfnet?action=login">
+    <img src="/images/surfnet.png">Laad attributen via SURFconext</a>  
+    [Meer informatie](/uitgifte-surfconext)
+
+Attributen via het BIG-register --- op basis van iDIN gegevens
+:   Attributen: BIG-nummer, beroep, specialisme  
     <a class="button" href="/uitgifte/big">
     <img src="/images/big.png">Laad attributen via BIG</a>  
     [Meer informatie](/uitgifte-big)
