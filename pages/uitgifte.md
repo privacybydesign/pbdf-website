@@ -50,17 +50,17 @@ Attributen via iDIN
     <img src="/images/idin.png">Laad attributen via iDIN</a>  
     [Meer informatie](/uitgifte-idin)
 
-Attributen via Surfconext
-:   Attributen: voornaam, achternaam, emailadres, instelling, medewerker/student, locaal registratienummer  
-    <a class="button" href="/uitgifte/surfnet?action=login">
-    <img src="/images/surfnet.png">Laad attributen via SURFconext</a>  
-    [Meer informatie](/uitgifte-surfconext)
-
 E-mailadres attribuut
 :   Attribuut: e-mailadres  
     <a class="button" href="/uitgifte/email">
     <img src="/images/email.png">Laad e-mailadres attribuut</a>  
     [Meer informatie](/uitgifte-email)
+
+Attributen via Surfconext
+:   Attributen: voornaam, achternaam, emailadres, instelling, medewerker/student, locaal registratienummer  
+    <a class="button" href="/uitgifte/surfnet?action=login">
+    <img src="/images/surfnet.png">Laad attributen via SURFconext</a>  
+    [Meer informatie](/uitgifte-surfconext)
 
 Attributen via het BIG-register --- op basis van iDIN gegevens
 :   Attributen: BIG-nummer, beroep, specialisme  
