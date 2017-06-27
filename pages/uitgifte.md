@@ -57,9 +57,9 @@ Attributen via Surfconext
     [Meer informatie](/uitgifte-surfconext)
 
 E-mailadres attribuut
-:   Attribuut: E-mailadres  
+:   Attribuut: e-mailadres  
     <a class="button" href="/uitgifte/email">
-    <img src="/images/email.png">Laad E-mailadres attribuut</a>  
+    <img src="/images/email.png">Laad e-mailadres attribuut</a>  
     [Meer informatie](/uitgifte-email)
 
 Attributen via het BIG-register --- op basis van iDIN gegevens
