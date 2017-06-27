@@ -56,6 +56,12 @@ Attributen via Surfconext
     <img src="/images/surfnet.png">Laad attributen via SURFconext</a>  
     [Meer informatie](/uitgifte-surfconext)
 
+E-mailadres attribuut
+:   Attribuut: E-mailadres  
+    <a class="button" href="/uitgifte/email">
+    <img src="/images/email.png">Laad E-mailadres attribuut</a>  
+    [Meer informatie](/uitgifte-email)
+
 Attributen via het BIG-register --- op basis van iDIN gegevens
 :   Attributen: BIG-nummer, beroep, specialisme  
     <a class="button" href="/uitgifte/big">
