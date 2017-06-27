@@ -11,7 +11,7 @@ permalink: /uitgifte/
   article a.button {
     margin-bottom: 0.5rem;
     margin-top: 0.5rem;
-    background-color: #44667A;
+    background-color: #568099;
   }
   article a img {
     height: 1.75rem;
