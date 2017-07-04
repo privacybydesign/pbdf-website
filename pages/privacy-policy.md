@@ -22,7 +22,7 @@ nader verklaard wordt.
 
 Door de stichting worden op twee manieren persoonsgegevens verwerkt.
 
-1. **Continue.** Bij registratie creëert een gebruiker van IRMA een
+1. **Continu.** Bij registratie creëert een gebruiker van IRMA een
    account en geeft daarbij een zelfgekozen email adres op. Dit email
    adres wordt door de stichting bewaard en beschermd, totdat de
    gebruiker de gegevens verwijdert en/of het account opheft, in de
@@ -43,7 +43,7 @@ Door de stichting worden op twee manieren persoonsgegevens verwerkt.
    sluiten. Deze log-gegevens worden bewaard en beschermd totdat ze
    door de gebruiker verwijderd worden. De logs bevatten enkel
    tijdstippen van gebruik en het soort actie dat met het account op
-   genoemde tijdstippen verricht is, zoals *PIN geverifiëerd* of *IRMA
+   genoemde tijdstippen verricht is, zoals *PIN geverifieerd* of *IRMA
    sessie uitgevoerd*. In het bijzonder bevatten deze logs geen
    persoonsgegevens, zoals attributen, of gegevens over de partij aan
    wie attributen getoond zijn, of van wie attributen ontvangen
