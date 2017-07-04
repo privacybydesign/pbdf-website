@@ -23,18 +23,18 @@
     - title: Download IRMA app
       url: https://play.google.com/store/apps/details?id=org.irmacard.cardemu
 
-
-- title: Doelstelling
+- title: Over
+  side: right
   url: /doelstelling/
-  side: right
-
-- title: Bestuur
-  url: /bestuur/
-  side: right
-
-- title: Contact
-  url: /contact/
-  side: right
+  dropdown:
+    - title: Doelstelling
+      url: /doelstelling/
+    - title: Bestuur
+      url: /bestuur/
+    - title: Contact
+      url: /contact/
+    - title: Privacy policy
+      url: /privacy-policy/
 
 # - title: Funding
 #   url: /funding/
