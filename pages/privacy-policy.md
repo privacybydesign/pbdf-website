@@ -100,10 +100,11 @@ privacy policy. De stichting behoudt zich het recht voor om dergelijke
 wijzigingen door te voeren en zal de nieuwe privacy policy zo snel
 mogelijk via deze pagina bekend maken.
 
-Voor eventuele vragen, opmerkingen, of klachten over deze privacy
-policy kan [contact](/contact) opgenomen worden met de stichting
-Privacy by Design. Voor klachten over de verwerking van gegevens door
-de stichting kan contact opgenomen worden met de [Autoriteit
+Voor eventuele vragen, opmerkingen, of klachten over deze verwerkingen
+door de stichting Privacy by Design ten behoeve van IRMA kan
+[contact](/contact) opgenomen worden met de stichting. Voor klachten
+over de verwerking van gegevens door de stichting kan ook contact
+opgenomen worden met de [Autoriteit
 Persoonsgegevens](https://autoriteitpersoonsgegevens.nl).
 
-Datum: 6 juli 2017.
+Datum: 10 juli 2017.
