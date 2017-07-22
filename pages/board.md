@@ -14,8 +14,8 @@ persoonlijke titel en worden hiervoor niet betaald.
  * **Voorzitter**: Bart Jacobs (b.jacobs 'at' privacybydesign.foundation)
 
    [Bart Jacobs](http://www.cs.ru.nl/~bart) is hoogleraar
-   computerbeveiliging aan de Radboud Universiteit Nijmegen. Hij heeft
-   samen met zijn onderzoeksgroep gewerkt van veel maatschappelijk
+   computerbeveiliging aan de Radboud Universiteit Nijmegen. Hij werkt
+   daar samen met zijn onderzoeksgroep aan veel maatschappelijk
    relevante security en privacy onderwerpen, zoals de OV-chipkaart,
    elektronisch stemmen en medische privacy.
 
