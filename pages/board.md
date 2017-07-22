@@ -34,3 +34,7 @@ persoonlijke titel en worden hiervoor niet betaald.
    [Sietse Ringers](https://sietseringers.net/) is in 2016 gepromoveerd op het
    gebied van credentialschema's (de cryptografische basis van IRMA).
    Hij is een van de programmeurs van de IRMA-infrastructuur.
+
+ * Jaap Akkermans
+
+ * Tim Vermeulen
