@@ -40,7 +40,11 @@ pas in 2017 goed op gang. Deze activiteiten zijn met name gericht op:
 
 * Het daadwerkelijk aanbieden van attribuut-gebaseerde authenticatie
   via ontwikkeling en uitrol van het IRMA systeem. De
-  [uitgifte](/uitgifte) van verschillende attributen is nu mogelijk.
+  [uitgifte](/uitgifte) van verschillende attributen is nu mogelijk,
+  waaronder (medische) BIG attributen. Het verifiëren van attributen
+  wordt niet als dienst door de stiching aangeboden, maar wordt wel
+  ontwikkeld voor verschillende andere partijen (waaronder met name
+  Surfnet).
 
 * De ontwikkeling van een IRMA app voor iOS, naast de bestaande IRMA
   app voor Android.
