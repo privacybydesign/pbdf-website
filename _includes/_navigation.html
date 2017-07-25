@@ -8,6 +8,13 @@
       <li class="toggle-topbar menu-icon"><a href="#"><span>Navigation</span></a></li>
     </ul>
     <section class="top-bar-section">
+
+    {% if page.language %}
+      {% assign language = page.language %}
+    {% else %}
+      {% assign language = 'nl' %}
+    {% endif %}
+
 {% comment %}
 
     ____  _       __    __     _   __            _             __  _
@@ -19,15 +26,15 @@
 
 {% endcomment %}
       <ul class="right">
-        {% for link in site.data.navigation %}
+        {% for link in site.data.navigation[language] %}
 
-              {% if link.url contains 'http' %}
-                {% assign domain = '' %}
-              {% elsif link.url == '#' %}
-                {% assign domain = '' %}
-              {% else %}
-                {% assign domain = site.url %}
-              {% endif %}
+          {% if link.url contains 'http' %}
+            {% assign domain = '' %}
+          {% elsif link.url == '#' %}
+            {% assign domain = '' %}
+          {% else %}
+            {% assign domain = site.url %}
+          {% endif %}
 
           {% comment %}   If there are links for right side begin   {% endcomment %}
           {% if link.side == 'right' %}
@@ -60,6 +67,16 @@
             {% endif %}
           {% endif %}
         {% endfor %}
+        {% if page.languagelinks %}
+          <li class="divider"></li>
+          <li class="langicons">
+            <ul>
+              {% for lang in page.languagelinks %}
+                <li><a href="{{ lang[1] }}"><img src="{{ site.urlimg }}{{ lang[0] }}.png" alt="{{ lang[0] }}"></a></li>
+              {% endfor %}
+            </ul>
+          </li>
+        {% endif %}
         {% comment %}   First loop finished 1   {% endcomment %}
       </ul>
 {% comment %}
@@ -73,15 +90,15 @@
 
 {% endcomment %}
       <ul class="left">
-        {% for link in site.data.navigation %}
+        {% for link in site.data.navigation[language] %}
 
-              {% if link.url contains 'http' %}
-                {% assign domain = '' %}
-              {% elsif link.url == '#' %}
-                {% assign domain = '' %}
-              {% else %}
-                {% assign domain = site.url %}
-              {% endif %}
+          {% if link.url contains 'http' %}
+            {% assign domain = '' %}
+          {% elsif link.url == '#' %}
+            {% assign domain = '' %}
+          {% else %}
+            {% assign domain = site.url %}
+          {% endif %}
 
           {% comment %}   If there are links for left side begin   {% endcomment %}
           {% if link.side == 'left' %}

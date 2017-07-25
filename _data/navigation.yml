@@ -1,41 +1,47 @@
-- title: Home
-  url: "/"
-  side: left
+nl:
+  - title: Home
+    url: "/"
+    side: left
 
-- title: Mijn IRMA
-  url: /mijnirma/
-  side: left
+  - title: Mijn IRMA
+    url: /mijnirma/
+    side: left
 
-- title: Over IRMA
-  url: /irma/
-  side: left
-  dropdown:
-    - title: Van start met IRMA
-      url: /irma-begin/
-    - title: Ontvang IRMA-attributen
-      url: /uitgifte/
-    - title: Integreer IRMA in uw website
-      url: /irma-controleur/
-    - title: IRMA in detail
-      url: /irma-uitleg/
-    - title: IRMA demo's
-      url: /demo/
-    - title: Download IRMA app
-      url: https://play.google.com/store/apps/details?id=org.irmacard.cardemu
+  - title: Over IRMA
+    url: /irma/
+    side: left
+    dropdown:
+      - title: Van start met IRMA
+        url: /irma-begin/
+      - title: Ontvang IRMA-attributen
+        url: /uitgifte/
+      - title: Integreer IRMA in uw website
+        url: /irma-controleur/
+      - title: IRMA in detail
+        url: /irma-uitleg/
+      - title: IRMA demo's
+        url: /demo/
+      - title: Download IRMA app
+        url: https://play.google.com/store/apps/details?id=org.irmacard.cardemu
 
-- title: Over de stichting
-  side: right
-  url: /doelstelling/
-  dropdown:
-    - title: Doelstelling
-      url: /doelstelling/
-    - title: Bestuur
-      url: /bestuur/
-    - title: Contact
-      url: /contact/
-    - title: Privacy policy
-      url: /privacy-policy/
+  - title: Over de stichting
+    side: right
+    url: /doelstelling/
+    dropdown:
+      - title: Doelstelling
+        url: /doelstelling/
+      - title: Bestuur
+        url: /bestuur/
+      - title: Contact
+        url: /contact/
+      - title: Privacy policy
+        url: /privacy-policy/
 
-# - title: Funding
-#   url: /funding/
-#   side: left
+en:
+  - title: Home
+    url: "/"
+    side: left
+
+  - title: My IRMA
+    url: /mijnirma/
+    side: left

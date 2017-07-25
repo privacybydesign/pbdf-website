@@ -4,6 +4,8 @@ header:
   image_fullwidth: header_unsplash_1.jpg
   title: Privacy by Design Foundation
 permalink: /index.html
+languagelinks:
+  en: /en
 homepage: true
 widget1:
   title: Privacy by Design
