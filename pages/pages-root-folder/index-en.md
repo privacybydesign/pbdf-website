@@ -5,7 +5,7 @@ header:
   title: Privacy by Design Foundation
 permalink: /en/
 language: en
-languagelinks:
+translations:
   nl: /
 homepage: true
 widget1:

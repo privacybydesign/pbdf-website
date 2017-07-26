@@ -67,11 +67,11 @@
             {% endif %}
           {% endif %}
         {% endfor %}
-        {% if page.languagelinks %}
+        {% if page.translations %}
           <li class="divider"></li>
           <li class="langicons">
             <ul>
-              {% for lang in page.languagelinks %}
+              {% for lang in page.translations %}
                 <li><a href="{{ lang[1] }}"><img src="{{ site.urlimg }}{{ lang[0] }}.png" alt="{{ lang[0] }}"></a></li>
               {% endfor %}
             </ul>
