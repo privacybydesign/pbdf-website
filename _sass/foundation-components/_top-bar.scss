@@ -313,6 +313,11 @@ $topbar-dropdown-arrows: true !default; //Set false to remove the \00bb >> text 
 
       ul li {
         background: $topbar-dropdown-bg;
+        &.langicons {
+          li img {
+            max-height: 2rem;
+          }
+        }
         & > a {
           display: block;
           width: 100%;
@@ -496,13 +501,6 @@ $topbar-dropdown-arrows: true !default; //Set false to remove the \00bb >> text 
         }
 
         li {
-          &.langicons {
-            li {
-              img {
-                max-height: 2rem;
-              }
-            }
-          }
           &.hover {
             > a:not(.button) {
               background-color: $topbar-link-bg-color-hover;
