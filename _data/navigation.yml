@@ -45,3 +45,7 @@ en:
   - title: My IRMA
     url: /mijnirma/
     side: left
+
+  - title: About IRMA
+    url: /irma-en/
+    side: left
