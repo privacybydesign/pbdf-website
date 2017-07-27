@@ -1,0 +1,57 @@
+<div id="up-to-top" class="row">
+	<div class="small-12 columns" style="text-align: right;">
+		<a class="iconfont" href="#top-of-page">&#xf108;</a>
+	</div><!-- /.small-12.columns -->
+</div><!-- /.row -->
+
+
+<footer id="footer-content" class="bg-grau">
+	<div id="footer">
+		<div class="row">
+			<div class="medium-6 large-5 columns">
+				<h5 class="shadow-black">{{ site.title }}</h5>
+
+				<p class="shadow-black">
+					{{ site.data.language[language].slogan }}
+					<a href="{{ site.url }}{{ site.baseurl }}">{{ site.data.language[language].more }}</a>
+				</p>
+			</div><!-- /.large-6.columns -->
+
+
+			<!-- Middle clink column -->
+			<div class="small-6 medium-3 large-3 large-offset-1 columns">
+				{% for service_item in site.data.services %}
+					{% if forloop.first == true %}
+						<h5 class="shadow-black">{{ service_item.menu_name }}</h5>
+					{% endif %}
+				{% endfor %}
+
+					<ul class="no-bullet shadow-black">
+					{% for service_item in site.data.services %}
+						{% if service_item.url contains 'http' %}{% assign domain = '' %}{% else %}{% assign domain = site.url + site.baseurl %}{% endif %}
+							<li {% if service_item.class %}class="{{ service_item.class }}" {% endif %}>
+								<a href="{{ domain }}{{ service_item.url }}" {% if service_item.url contains 'http' %}target="_blank" {% endif %} title="{{ service_item.title }}">{{ service_item.name }}</a>
+							</li>
+					{% endfor %}
+					</ul>
+			</div><!-- /.large-4.columns -->
+
+
+			<div class="small-6 medium-3 large-3 columns">
+				{% for lang in page.translations %}
+					{% if forloop.first %}
+						<h5 class="shadow-black">{{ site.data.language[language].languages }}</h5>
+						<ul class="no-bullet shadow-black">
+					{% endif %}
+					{% assign temp = lang[0] %}
+						<li><a href="{{ lang[1] }}">{{ site.data.language[temp].language }}</a></li>
+					{% if forloop.first %}
+						</ul>
+					{% endif %}
+				{% endfor %}
+			</div><!-- /.large-3.columns -->
+		</div><!-- /.row -->
+
+	</div><!-- /#footer -->
+
+</footer>
