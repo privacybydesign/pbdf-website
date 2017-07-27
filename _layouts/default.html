@@ -1,6 +1,13 @@
 ---
 layout: compress
 ---
+{% if page.language %}
+	{% assign language = page.language %}
+{% elsif site.language %}
+	{% assign language = site.language %}
+{% else %}
+	{% assign language = 'nl' %}
+{% endif %}
 <!doctype html>
 <html class="no-js" lang="{% if page.language != nil %}{{ page.language }}{% elsif site.language != nil %}{{ site.language }}{% else %}en{% endif %}">
 <head>

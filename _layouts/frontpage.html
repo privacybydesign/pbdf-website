@@ -2,6 +2,14 @@
 layout: default
 format: frontpage
 ---
+{% if page.language %}
+	{% assign language = page.language %}
+{% elsif site.language %}
+	{% assign language = site.language %}
+{% else %}
+	{% assign language = 'nl' %}
+{% endif %}
+
 <div id="header-home">
     <div class="row">
         <div class="small-12 columns">
