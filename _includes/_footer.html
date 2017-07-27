@@ -20,20 +20,22 @@
 
 			<!-- Middle clink column -->
 			<div class="small-6 medium-3 large-3 large-offset-1 columns">
-				{% for service_item in site.data.services %}
-					{% if forloop.first == true %}
-						<h5 class="shadow-black">{{ service_item.menu_name }}</h5>
+				{% assign menucounter = 0 %}
+				{% for link in site.data.navigation[language] %}
+					{% if link.side == 'bottom' %}
+						{% if menucounter == 0 %}
+							<h5 class="shadow-black">{{ site.data.language[language].sources }}</h5>
+							<ul class="no-bullet shadow-black">
+							{% assign menucounter = menucounter | plus: 1 %}
+						{% endif %}
+						<li>
+							<a href="{{ domain }}{{ link.url }}" {% if service_item.url contains 'http' %}target="_blank" {% endif %} title="{{ link.title }}">{{ link.title }}</a>
+						</li>
 					{% endif %}
 				{% endfor %}
-
-					<ul class="no-bullet shadow-black">
-					{% for service_item in site.data.services %}
-						{% if service_item.url contains 'http' %}{% assign domain = '' %}{% else %}{% assign domain = site.url + site.baseurl %}{% endif %}
-							<li {% if service_item.class %}class="{{ service_item.class }}" {% endif %}>
-								<a href="{{ domain }}{{ service_item.url }}" {% if service_item.url contains 'http' %}target="_blank" {% endif %} title="{{ service_item.title }}">{{ service_item.name }}</a>
-							</li>
-					{% endfor %}
+				{% if mencounter != 0 %}
 					</ul>
+				{% endif %}
 			</div><!-- /.large-4.columns -->
 
 

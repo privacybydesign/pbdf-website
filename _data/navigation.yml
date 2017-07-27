@@ -37,6 +37,14 @@ nl:
       - title: Privacy policy
         url: /privacy-policy/
 
+  - title: Broncode
+    side: bottom
+    url: https://github.com/credentials
+
+  - title: Documentatie
+    side: bottom
+    url: https://credentials.github.io
+
 en:
   - title: Home
     url: "/"
@@ -49,3 +57,11 @@ en:
   - title: About IRMA
     url: /irma-en/
     side: left
+
+  - title: Source Code
+    side: bottom
+    url: https://github.com/credentials
+
+  - title: Documentation
+    side: bottom
+    url: https://credentials.github.io

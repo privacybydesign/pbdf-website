@@ -3,6 +3,7 @@ nl:
   language: "Nederlands"
   title: "Stichting Privacy by Design"
   slogan: "Ontwikkelt en ondersteunt privacy-vriendelijke software."
+  sources: Software
   info_website: "Over deze website"
   archive: "Archief"
   blog_archive: "Blog archief"
@@ -33,6 +34,7 @@ en:
   language: "English"
   title: "Privacy by Design Foundation"
   slogan: "Developing and supporting usage of privacy-friendly software."
+  sources: Development
   info_website: "About This Site"
   archive: "Archive"
   blog_archive: "Blog Archive"
