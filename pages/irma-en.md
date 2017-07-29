@@ -12,51 +12,55 @@ translations:
   nl: /irma/
 ---
 
+ 1. I'm an **individual** who may want to use IRMA for the purpose of
+    logging in online.
 
- 1. Ik ben een **persoon** die IRMA misschien wil gebruiken om online
-    in te kunnen loggen.
+    You can try out the IRMA app by
+    [installing](https://play.google.com/store/apps/details?id=org.irmacard.cardemu)
+    it (on an Android phone) and registering yourself via the app as
+    IRMA user at the Privacy by Design foundation, with your email
+    address (and nothing else). Subsequently, you [load](/issuance)
+    additional attributes into your app, in order to assemble a kind
+    of digital passport on your phone. Also, you can monitor the usage
+    of your app via the [my IRMA](/myirma) environment. You can
+    unsubscribe at any time and delete all your attributes. You can do
+    all this free of charge.
 
-    U kunt IRMA uitproberen door de IRMA app te
-    [installeren](https://play.google.com/store/apps/details?id=org.irmacard.cardemu)
-    (op een Android telefoon) en u bij de stichting Privacy by Design
-    te registreren, enkel met een email adres. U kunt daarna
-    eventueel nog andere attributen in uw app [toevoegen](/uitgifte), waarmee u
-    een soort digitaal paspoort op uw telefoon vult. Ook kunt u het
-    gebruik van de app volgen in een eigen [mijnIRMA](/mijnirma) omgeving. U
-    kunt uzelf daar op ieder moment afmelden en al uw gegevens wissen.
-    Hier zijn geen kosten aan verbonden.
+    In case you prefer to read more about IRMA first, please consult
+    [this page](/irma-explanation).
 
-    Wilt u eerst meer lezen over IRMA, bekijk dan [deze pagina](/irma-uitleg).
+ 2. I'm from a **webshop** or another **organisation** that may want
+    to use IRMA in order to let customers/members log in
+    (authenticate).
 
- 2. Ik ben van een **webwinkel** of andere **organisatie** die IRMA
-    misschien wil gebruiken om klanten/leden in te laten loggen.
+    The first relevant question for you is: which attributes do I need
+    to verify about my customers when they log in? Possibly, an email
+    address or a mobile phone number suffices&#58; but may be you need
+    (physical) address information. More [information](/irma-verifier)
+    about this is available on a separate page.
 
-    De eerste vraag die u zich hierbij moet stellen is: welke
-    attributen wil ik van mijn klanten controleren bij het inloggen? U
-    heeft misschien voldoende aan een emailadres of een mobiel nummer,
-    maar mogelijk heeft u ook adresgegevens nodig. Op een aparte
-    pagina wordt meer [informatie](/irma-controleur) hierover gegeven.
+ 3. I'm simply **curious** and like to learn more about IRMA.
 
- 3. Ik ben gewoon **nieuwsgierig** en wil meer over IRMA weten.
-
-    Met IRMA kun gebruikers zelf hun inloggegevens beheren&#58; met
-    IRMA laten gebruikers alleen die dingen van zichzelf zien die
-    nodig zijn en die ze zelf ook wil onthullen, zie de volgende
-    introductie-video (van de Radboud Universiteit, uit 2016)&#58;
+    With IRMA users fully control the release of their own attributes
+    when they log in&#58; users only reveal those aspects of
+    themselves that they are willing to show, see the following
+    instruction video (from Radboud University, 2016)&#58;
 
     <p align="center"><a
     href="https://www.youtube.com/watch?v=q6IihEQFPys"><img
     src="../images/irma-video-screenshot.png" alt="IRMA video"
     style="width: 50%; height: 50%"/></a></p>
 
-    Op het web moet u vaak bewijzen wie u bent. Dat heet
-    *authenticatie*. U moet dan bijvoorbeeld uw naam geven, uw
-    geboortedatum en uw emailadres, terwijl enkel nodig is dat u boven
-    de 16 bent. Met IRMA kunt u heel selectief zulke eigenschappen
-    (attributen) van uzelf onthullen. Er is een IRMA app, waarmee u
-    deze eigenschappen op uw mobiele telefoon op kunt slaan. Hiermee
-    hebt u een flexibel paspoort, waaruit u sommige dingen wel en
-    andere dingen niet laat zien, afhankelijk van de situatie.
+    On the web you often have to prove who you are. This is called
+    *authentication*. It involves, for instance, revealing your name,
+    date of birth, or address, whereas all that is needed is proving
+    that you are over 16. With IRMA you can selectively disclose only
+    relevant properties (attributes) of yourself. There is an IRMA app
+    that lets you store these attributes on your own mobile phone ---
+    and nowhere else. This provides you with a flexible passport, from
+    which you may or may not disclose certain parts, depending on the
+    (login) situation.
 
-    Op een aparte pagina staat nog [veel meer uitleg](/irma-uitleg)
-    over attributen en IRMA.
+    On a separate page [much more information](/irma-explanation) is
+    available about personal attributes and about IRMA.
+
