@@ -4,10 +4,11 @@ title: Van start met de IRMA app
 header:
   image_fullwidth: header_unsplash_1.jpg
   title: Privacy by Design Foundation
-permalink: /irma-begin/
-language: nl
+permalink: /irma-start/
+language: en
 translations:
-  en: /irma-start
+  nl: /irma-begin
+teaser: This page has not yet been translated.
 ---
 Deze pagina geeft antwoord op de volgende vragen.
 

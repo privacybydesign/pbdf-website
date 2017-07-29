@@ -5,11 +5,10 @@ meta_title: Bestuur
 header:
   image_fullwidth: header_unsplash_4.jpg
   title: Privacy by Design Foundation
-permalink: /board/
-language: en
+permalink: /bestuur/
+language: nl
 translations:
-  nl: /bestuur
-teaser: This page has not yet been translated.
+  en: /board
 ---
 Het bestuur van de stichting Privacy by Design bestaat uit
 onderstaande personen. Zij allen vervullen de bestuursfunctie op

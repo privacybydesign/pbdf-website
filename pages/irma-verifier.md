@@ -2,14 +2,14 @@
 layout: page
 title: Gebruikers laten inloggen op mijn webpagina met IRMA
 meta_title: IRMA controleur
-teaser: Ik heb een webpagina waarop ik mijn klanten wil laten inloggen. Hoe kan dat met IRMA? Wat moet ik daar voor doen? En waar zitten de kosten? [Aan deze pagina wordt nog gewerkt.]
+teaser: (This page has not yet been translated.) Ik heb een webpagina waarop ik mijn klanten wil laten inloggen. Hoe kan dat met IRMA? Wat moet ik daar voor doen? En waar zitten de kosten? [Aan deze pagina wordt nog gewerkt.]
 header:
   image_fullwidth: header_unsplash_1.jpg
   title: Privacy by Design Foundation
-permalink: /irma-controleur/
-language: nl
+permalink: /irma-verifier/
+language: en
 translations:
-  en: /irma-verifier
+  nl: /irma-controleur
 ---
 
 <a name="top"></a> Stel u heeft een eigen webpagina, bijvoorbeeld van

@@ -57,6 +57,32 @@ en:
   - title: About IRMA
     url: /irma-en/
     side: left
+    dropdown:
+      - title: Starting with IRMA
+        url: /irma-start/
+      - title: Receive IRMA-attributes
+        url: /issuance/
+      - title: Integrate IRMA in your website
+        url: /irma-verifier/
+      - title: IRMA in detail
+        url: /irma-explanation/
+      - title: IRMA demos
+        url: /demo-en/
+      - title: Download IRMA app
+        url: https://play.google.com/store/apps/details?id=org.irmacard.cardemu
+
+  - title: About the foundation
+    side: right
+    url: /goals/
+    dropdown:
+      - title: Goals
+        url: /goals/
+      - title: Board
+        url: /board/
+      - title: Contact
+        url: /contact-en/
+      - title: Privacy policy
+        url: /privacy-policy-en/
 
   - title: Source Code
     side: bottom

@@ -4,10 +4,11 @@ title: IRMA in detail
 header:
   image_fullwidth: header_unsplash_1.jpg
   title: Privacy by Design Foundation
-permalink: /irma-uitleg/
-language: nl
+permalink: /irma-explanation/
+language: en
 translations:
-  en: /irma-explanation
+  nl: /irma-uitleg
+teaser: This page has not yet been translated.
 ---
 
 <a name="top"></a> Op deze pagina worden de ideeën achter het

@@ -4,10 +4,11 @@ title: Attribuut-uitgifte
 header:
   image_fullwidth: header_unsplash_1.jpg
   title: Privacy by Design Foundation
-permalink: /uitgifte/
-language: nl
+permalink: /issuance/
+teaser: This page has not yet been translated.
+language: en
 translations:
-  en: /issuance
+  nl: /uitgifte
 ---
 
 <style type="text/css">

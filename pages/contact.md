@@ -6,6 +6,9 @@ header:
   image_fullwidth: header_unsplash_1.jpg
   title: Privacy by Design Foundation
 permalink: /contact/
+language: nl
+translations:
+  en: /contact-en
 ---
 
  * E-mail: info 'at' privacybydesign.foundation

@@ -4,10 +4,11 @@ title: Privacy Policy
 header:
   image_fullwidth: header_unsplash_1.jpg
   title: Privacy by Design Foundation
-permalink: /privacy-policy/
-language: nl
+permalink: /privacy-policy-en/
+language: en
 translations:
-  en: /privacy-policy-en
+  nl: /privacy-policy
+teaser: This page has not yet been translated.
 ---
 
 De stichting Privacy by Design verwerkt persoonsgegevens voor het

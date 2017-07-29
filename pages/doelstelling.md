@@ -6,11 +6,10 @@ teaser: De stichting Privacy by Design wil in algemene zin de ontwikkeling en he
 header:
   image_fullwidth: header_unsplash_4.jpg
   title: Privacy by Design Foundation
-permalink: /goals/
-language: en
+permalink: /doelstelling/
+language: nl
 translations:
-  nl: /doelstelling
-teaser: This page has not yet been translated.
+  en: /goals
 ---
 
 Meer in het bijzonder richt de stichting zich op de ontwikkeling en

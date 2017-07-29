@@ -4,10 +4,11 @@ title: IRMA demo's
 header:
   image_fullwidth: header_unsplash_4.jpg
   title: Privacy by Design Foundation
-permalink: /demo/
-language: nl
+permalink: /demo-en/
+language: en
 translations:
-  en: /demo-en
+  nl: /demo
+teaser: This page has not yet been translated.
 ---
 De [IRMATube demo](/demo/irmaTube) is een fictieve video-streaming service, die meerdere aspecten
 van IRMA demonstreert. Door "lid" te worden van IRMATube ontvangt u
