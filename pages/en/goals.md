@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Doelstelling
-meta_title: Doelstelling
-teaser: De stichting Privacy by Design wil in algemene zin de ontwikkeling en het gebruik van open, privacy-vriendelijke en goed-beveiligde ICT bevorderen.
+title: Goals
+meta_title: Goals
+teaser: (This page has not yet been translated.) The Privacy by Design Foundation in general aims to improve the development and the use of open, privacy-friendly and secure software.
 header:
   image_fullwidth: header_unsplash_4.jpg
   title: Privacy by Design Foundation
@@ -10,7 +10,6 @@ permalink: /goals/
 language: en
 translations:
   nl: /doelstelling
-teaser: This page has not yet been translated.
 ---
 
 Meer in het bijzonder richt de stichting zich op de ontwikkeling en

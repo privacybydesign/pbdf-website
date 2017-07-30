@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Bestuur
-meta_title: Bestuur
+title: Board
+meta_title: Board
 header:
   image_fullwidth: header_unsplash_4.jpg
   title: Privacy by Design Foundation

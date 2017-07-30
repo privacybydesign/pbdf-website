@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Van start met de IRMA app
+title: Starting with the IRMA app
 header:
   image_fullwidth: header_unsplash_1.jpg
   title: Privacy by Design Foundation

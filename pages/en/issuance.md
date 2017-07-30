@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Attribuut-uitgifte
+title: Attribute issuance
 header:
   image_fullwidth: header_unsplash_1.jpg
   title: Privacy by Design Foundation

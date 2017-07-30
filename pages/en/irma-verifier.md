@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Gebruikers laten inloggen op mijn webpagina met IRMA
+title: Letting users log in on my website using IRMA
 meta_title: IRMA controleur
 teaser: (This page has not yet been translated.) Ik heb een webpagina waarop ik mijn klanten wil laten inloggen. Hoe kan dat met IRMA? Wat moet ik daar voor doen? En waar zitten de kosten? [Aan deze pagina wordt nog gewerkt.]
 header:

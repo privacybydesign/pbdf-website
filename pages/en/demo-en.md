@@ -1,6 +1,6 @@
 ---
 layout: page
-title: IRMA demo's
+title: IRMA demos
 header:
   image_fullwidth: header_unsplash_4.jpg
   title: Privacy by Design Foundation
