@@ -38,7 +38,7 @@
 
             {% comment %}   If left side WITHOUT dropdown menu do   {% endcomment %}
             {% if link.dropdown == nil %}
-              <li{% if link.url == page.url %} class="active"{% endif %}><a href="{{ domain }}{{ site.baseurl }}{{ link.url }}"{% if link.url contains 'http' %} target="_blank"{% endif %}>{% if link.url == '/' %}<img src="{{ site.urlimg }}logo.png" class="sitelogo">{% else %}{{ link.title | escape }}{% endif %}</a></li>
+              <li{% if link.url == page.url %} class="active"{% endif %}><a href="{{ domain }}{{ site.baseurl }}{{ link.url }}"{% if link.url contains 'http' %} target="_blank"{% endif %}>{% if link.image %}<img src="{{ site.urlimg }}{{ link.image }}" class="show-for-large-up menu-image"><span class="show-for-medium-down">{{ link.title | escape }}</span>{% else %}{{ link.title | escape }}{% endif %}</a></li>
               <li class="divider"></li>
 
             {% comment %}   If left side WITH dropdown menu do   {% endcomment %}

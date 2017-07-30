@@ -1,5 +1,6 @@
 nl:
   - title: Home
+    image: logo.png
     url: "/"
     side: left
 
@@ -47,7 +48,8 @@ nl:
 
 en:
   - title: Home
-    url: "/"
+    image: logo.png
+    url: "/en"
     side: left
 
   - title: My IRMA
