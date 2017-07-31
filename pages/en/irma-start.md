@@ -10,121 +10,129 @@ translations:
   nl: /irma-begin
 teaser: This page has not yet been translated.
 ---
+
+These page provides answers to the following questions.
+
+ 1. [How to get started with IRMA](#getstarted)
+ 2. [What does MyIRMA provide?](#myirma)
+ 3. [What happens under the hood?](#hood)
+
+Knowing about this last point is not essential for using IRMA; it only
+provides additional background information for people who wish to
+understand more about IRMA.
+
 Deze pagina geeft antwoord op de volgende vragen.
 
- 1. [Wat u moet doen om met IRMA van start te gaan](#vanstart)
- 2. [Waarvoor is MijnIRMA?](#mijnirma)
- 3. [Wat gebeurt er op de achtergrond?](#achtergrond)
+### <a name="getstarted"></a>1. How to get started with IRMA
 
-Het laatste punt is helemaal niet nodig voor het gebruik van IRMA; het
-geeft alleen aanvullende achtergrond informatie voor mensen die meer
-van IRMA willen begrijpen.
-
-### <a name="vanstart"></a>1. Wat u moet doen om met IRMA van start te gaan?
-
-Hieronder wordt in een paar stappen verteld wat u moet doen om de IRMA
-app te kunnen gebruiken:
+The next diagram summarises the initial steps, when you wish to start
+using IRMA.
 
 <p align="center"><img src="../images/Registratie_Stappenplan.png" alt="IRMA uitgever" style="width: 50%; height: 50%"/></p>
 
-Het is verstandig hier even rustig voor te gaan zitten.  Deze stappen
-kosten een klein beetje tijd en aandacht. U gaat nu een persoonlijke
-elektronische identiteit voor uzelf maken die u nog lang kunt
-gebruiken, voor soms gevoelige persoonlijke zaken, zoals inloggen of
-digitaal ondertekenen. Dit lijkt een beetje op het aanvragen en
-ophalen van een paspoort.  Maar zo'n paspoort kost heel veel meer tijd
-en moeite, bijvoorbeeld omdat u er (twee keer) voor naar een
-gemeentehuis moet gaan. Net als een paspoort is het ook IRMA echt
-persoonlijk: het is niet de bedoeling dat iemand anders er gebruik van
-kan maken.
+It is wise to take a bit of time for this, since these steps require
+some care and attention. You are about to make a digital identity for
+yourself, which you can use in principle for a long time, for
+sensitive personal matters, such as logging in, or digital
+signing. This is a bit like applying for, and collecting, a passport.
+But such a passport requires much more time and effort, for instance
+because you have to visit your local authorities (twice). Just like a
+passport, IRMA is strictly personal: no-one else should be able to
+(ab)use your IRMA identity.
 
-#### 1.1. Installatie
+#### 1.1. Installation
 
-De IRMA app is beschikbaar in de [Android Play
+The IRMA app is available in the [Android Play
 store](https://play.google.com/store/apps/details?id=org.irmacard.cardemu).
-Download en installeer deze app op uw telefoon (of tablet).
+Download and install this app on your phone (or tablet).
 
-De IRMA app is tot nu alleen maar beschikbaar voor Android telefoons
-en tablets; aan een iOS versie voor iPhones en iPads wordt nog
-gewerkt.
+So far, the IRMA app exists only for Android phones or tablets.  An
+iOS version for iPones and iPads is under development; it is expected
+to be available in the fall of 2017.
 
-#### 1.2. Registratie
+#### 1.2. Registration
 
-Open de IRMA app. Als u dit voor de eerste keer doet, wordt u
-gevraagd om twee dingen in te typen:
+Open the IRMA app. When you do this for the first time, you will
+be asked to provide two things:
 
- * een email adres
- * een PIN code van 5 cijfers
+ * an email address
+ * a PIN code of 5 digits
 
-Het email adres wordt gebruikt om contact met u te houden over jouw
-gebruik van IRMA. Het adres wordt niet met anderen gedeeld. U zult
-maar heel af en toe een berichtje op dit adres krijgen. Gebruik wel
-een adres dat echt van u is en dat u nog lang zult gebruiken. U krijgt
-direct een eerste mailtje op dit adres met een link voor de
-bevestiging. Hiermee wordt gecontroleerd of het adres wel echt van u
-is.
+The email address will be used to contact you, if needed, about your
+usage of IRMA. This address will not be shared with others. Only
+rarely you will receive a message at this address. Please, do use an
+address that actually belongs to you --- and to no-one else --- and
+that you will be able to use for a longer period of time. You will
+immediately receive an email message at this address with a link for
+confirmation. In this way it is checked that the email address is
+under your control.
 
-Denk AUB even goed na voordat u de PIN code kiest. U zult deze code
-regelmatig nodig hebben bij het gebruik van IRMA. Deze code garandeert
-dat u echt degene bent die IRMA gebruikt. Kies geen voor de hand
-liggende code als 00000. Als u de code ergens opschrijft, doe dat dan
-zorgvuldig op een speciale plaats (of manier) zodat anderen er niet
-snel bij kunnen. De app vraagt om de ingetypte code nog een keer te
-herhalen, om onbedoelde fouten bij het intypen te voorkomen.
+Please choose your PIN code with care. You will regularly need it when
+you use the IRMA app. This code guarantees that you are the only one
+who is using your IRMA app. Avoid obvious codes like 00000. If you
+write down your PIN code, please use a special place (or manner) so
+that others cannot get to it easily. The app asks you to re-type the
+chosen code, in order to avoid typing errors.
 
-Iedere keer dat u uzelf authenticeert met IRMA, door het tonen van
-IRMA attributen, is deze PIN code nodig. Ook voor het zetten van een
-digitale handtekening met IRMA is de PIN code nodig.
+Every time you authenticate with IRMA, by revealing IRMA attributes,
+this PIN code is required. Digital signatures also require it.
 
-Het veranderen of opvragen van de PIN code is (op dit moment) niet
-mogelijk.  Als u uw PIN code kwijtraakt, moet u zich opnieuw voor IRMA
-registreren en gaan al uw tot dan toe verzamelde attributen
-verloren. Dat is gedoe.
+Changing or retrieving your PIN code is (currently) not possible.  If
+you loose your PIN code, you have to start all over and
+re-register. All the attributes that you have collected at that stage
+will be lost. This is a hassle.
 
-#### 1.3. Personalisatie met uw email adres
+#### 1.3. Personalisation with your email address
 
-Het adres dat u opgegeven heeft bij registratie kan nu als attribuut
-in de IRMA app in uw telefoon gezet worden. Na de vorige registratie
-stappen, waarin u uw email adres en PIN gegeven hebt, krijg u een
-link (webadres) toegestuurd per email. Via deze link logt u in uw
-MijnIRMA account. Daarmee wordt uw registratie bevestigd.
+The email address that you submit upon registration kan now be
+loaded into your IRMA app on your phone. After the previous registration
+steps, in which you have chosen your email address and PIN code, you
+will receive a link (webaddress) by email. Via this link you log into
+your MyIRMA account. At that stage your registration is confirmed.
 
-Wanneer u in een webbrowser naar het toegstuurde webadres gaat krijg
-je een "Email Uitgifte" knop te zien. Hier zie je hoe het uitgeven en
-ontvangen van attributen werkt.
+When you go in a webbrowser to the webaddress in this link (received
+by email), you will see an "Email Issue" button. It illustrates how
+issuing and receiving of attributes works.
 
- * Wanneer u de webpagina in een browser op een PC of laptop geopend
-   heeft en op de "Email Uitgifte" knop drukt wordt een QR code
-   getoond. Pak uw telefoon, open de IRMA app en tik op de "scan balk"
-   bovenin de app. De camera van uw telefoon wordt nu gestart, zodat u
-   de QR code kunt scannen. Nadat u dit gedaan heeft, vraagt de app u
-   of u uw email adres als attribuut wil accepteren in de IRMA app op
-   uw telefoon.
- * Wanneer uw de webpagina in een browser op de telefoon zelf opent en
-   op de "Email Uitgifte" knopt drukt, wordt de IRMA app op uw
-   telefoon vanzelf geopend. U krijgt dan ook de vraag of u uw email
-   adres als attribuut wil accepteren op uw telefoon.
+ * When you open the webpage in a browser on a PC or laptop and push
+   the "Email Issue" button, a QR code appears. Now open the IRMA app
+   on your phone and touch the "scan banner" at the top of the
+   app. This starts the camera of phone, so that you can scan the QR
+   code. Having done so, the app asks you if you wish to accept your
+   email address as new attribute in your app on your phone. 
+
+ * When you open the webpage in a browser on your phone itself and
+   press the "Email Issue" button, the IRMA app on your phone opens
+   automatically. You are also asked if you wish to accept your email
+   address as attribute on your phone.
 
 
-#### 1.4. Personalisatie met andere attributen
+#### 1.4. Personalisation with additional attributes
 
-Het is mogelijk nog meer attributen te ontvangen dan uw email adres.
-U kunt dat meteen bij registratie doen, maar het kan ook later.  U
-gaat daarvoor naar de [IRMA uitgifte](/uitgifte) pagina. U ziet daar
-verschillende mogelijkheden om nog meer attributen op te nemen in de
-app. Dit lijstje mogelijkheden ligt niet vast en zal groeien naarmate
-meer partijen aan IRMA meedoen.
+It is possible to receive more attributes, in addition to your email
+address. You can do this immediately upon registration, but also
+later. To do so, please visit the [IRMA issuance](/issance) page.
+There you will see several possiblities to load additional attributes.
+This list of possibilities is not fixed, and will grow in the future,
+as more parties join IRMA. At this stage the focus is on attributes
+from Dutch sources. If you wish to join with other, possibly
+international, attributes, please do [contact](/contact-en) the
+foundation.
 
- * SURFconext: inloggen met uw hoger onderwijs identiteit. Deze is in
-   principe beschikbaar voor studenten en medewerkers van instellingen
-   voor onderwijs en onderzoek in Nederland die aangesloten zijn op
-   [SURFconext](https://www.surfconext.nl). Uw eigen instelling moet
-   IRMA toegang wel expliciet goedkeuren. Via Surfconext kunnen
-   "onderwijs attributen" in uw IRMA app gezet worden.
- * iDIN: inloggen met uw bank middelen. Hiermee kunt u uw naam, adres,
-   woonplaats, en geboortedatum attributen in uw IRMA app zetten. Deze
-   gegevens komen van uw eigen bank. Dit is beschikbaar voor iedereen
-   met een bankrekening in Nederland, zie [iDIN](https://www.idin.nl).
+ * Surfconext provides attributes from the (mainly Dutch) higher
+   education sector. It is available, in principle, for students and
+   staff members from educational institutes in the Netherlands, with
+   a [SURFconext](https://www.surfconext.nl) registration. Your own
+   institution will have to explicitly approve IRMA access. Via
+   Surfconext "educational" attributes can be loaded into your IRMA
+   app.
+
+ * iDIN provides attributes from your bank, like name, address, town,
+   and date of birth. After logging into your own bank, with your the
+   bank's own login mechanism, these attributes can be loaded into
+   your IRMA app. This service if available for everyone with a bank
+   account in the Netherlands, see [iDIN](https://www.idin.nl).
+
  * ...
 
 

@@ -44,8 +44,9 @@ store](https://play.google.com/store/apps/details?id=org.irmacard.cardemu).
 Download en installeer deze app op uw telefoon (of tablet).
 
 De IRMA app is tot nu alleen maar beschikbaar voor Android telefoons
-en tablets; aan een iOS versie voor iPhones en iPads wordt nog
-gewerkt.
+en tablets. Aan een iOS versie voor iPhones en iPads wordt nog
+gewerkt; deze zal naar verwachting in de loop van najaar 2017
+beschikbaar komen.
 
 #### 1.2. Registratie
 
@@ -55,21 +56,21 @@ gevraagd om twee dingen in te typen:
  * een email adres
  * een PIN code van 5 cijfers
 
-Het email adres wordt gebruikt om contact met u te houden over jouw
-gebruik van IRMA. Het adres wordt niet met anderen gedeeld. U zult
-maar heel af en toe een berichtje op dit adres krijgen. Gebruik wel
-een adres dat echt van u is en dat u nog lang zult gebruiken. U krijgt
-direct een eerste mailtje op dit adres met een link voor de
-bevestiging. Hiermee wordt gecontroleerd of het adres wel echt van u
-is.
+Het email adres wordt zonodig gebruikt om contact met u te houden over
+jouw gebruik van IRMA. Het adres wordt niet met anderen gedeeld. U
+zult maar heel af en toe een berichtje op dit adres krijgen. Gebruik
+wel een adres dat echt (en exclusief) van u is en dat u nog lang zult
+gebruiken. U krijgt direct een eerste mailtje op dit adres met een
+link voor de bevestiging. Hiermee wordt gecontroleerd of het adres wel
+echt van u is.
 
 Denk AUB even goed na voordat u de PIN code kiest. U zult deze code
-regelmatig nodig hebben bij het gebruik van IRMA. Deze code garandeert
-dat u echt degene bent die IRMA gebruikt. Kies geen voor de hand
-liggende code als 00000. Als u de code ergens opschrijft, doe dat dan
-zorgvuldig op een speciale plaats (of manier) zodat anderen er niet
-snel bij kunnen. De app vraagt om de ingetypte code nog een keer te
-herhalen, om onbedoelde fouten bij het intypen te voorkomen.
+regelmatig nodig hebben bij het gebruik van de IRMA app. Deze code
+garandeert dat u echt degene bent die uw IRMA app gebruikt. Kies geen
+voor de hand liggende code als 00000. Als u de code ergens opschrijft,
+doe dat dan zorgvuldig op een speciale plaats (of manier) zodat
+anderen er niet snel bij kunnen. De app vraagt om de ingetypte code
+nog een keer te herhalen, om fouten bij het intypen te voorkomen.
 
 Iedere keer dat u uzelf authenticeert met IRMA, door het tonen van
 IRMA attributen, is deze PIN code nodig. Ook voor het zetten van een
@@ -114,17 +115,21 @@ verschillende mogelijkheden om nog meer attributen op te nemen in de
 app. Dit lijstje mogelijkheden ligt niet vast en zal groeien naarmate
 meer partijen aan IRMA meedoen.
 
- * SURFconext: inloggen met uw hoger onderwijs identiteit. Deze is in
-   principe beschikbaar voor studenten en medewerkers van instellingen
-   voor onderwijs en onderzoek in Nederland die aangesloten zijn op
+ * Surfconext levert attributen van uw (eventuele) hoger onderwijs
+   identiteit. Deze is in principe beschikbaar voor studenten en
+   medewerkers van instellingen voor onderwijs en onderzoek in
+   Nederland die aangesloten zijn op
    [SURFconext](https://www.surfconext.nl). Uw eigen instelling moet
    IRMA toegang wel expliciet goedkeuren. Via Surfconext kunnen
    "onderwijs attributen" in uw IRMA app gezet worden.
- * iDIN: inloggen met uw bank middelen. Hiermee kunt u uw naam, adres,
-   woonplaats, en geboortedatum attributen in uw IRMA app zetten. Deze
-   gegevens komen van uw eigen bank. Dit is beschikbaar voor iedereen
-   met een bankrekening in Nederland, zie [iDIN](https://www.idin.nl).
- * ...
+
+ * iDIN levert uw naam, adres, woonplaats, en geboortedatum
+   attributen.  Nadat u bij uw eigen bank, met eigen middelen, heeft
+   ingelogd, kunnen deze attributen in uw IRMA app gezet worden. Dit is
+   beschikbaar voor iedereen met een bankrekening in Nederland, zie
+   [iDIN](https://www.idin.nl).  
+
+* ...
 
 
 ### <a name="mijnirma"></a>2. Waarvoor is MijnIRMA?

@@ -62,9 +62,9 @@ en:
     dropdown:
       - title: Starting with IRMA
         url: /irma-start/
-      - title: Receive IRMA-attributes
+      - title: Receiving IRMA-attributes
         url: /issuance/
-      - title: Integrate IRMA in your website
+      - title: Integrating IRMA in your website
         url: /irma-verifier/
       - title: IRMA in detail
         url: /irma-explanation/

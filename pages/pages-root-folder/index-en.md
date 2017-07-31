@@ -28,33 +28,40 @@ widget3:
 
 ### Privacy by Design Foundation
 
-The Privacy by Design foundation was created in 2016 out of the [Digital
-Security](http://www.ru.nl/ds/) research group of the Radboud University
-and the Privacy and Identity Lab [PI.lab](http://www.pilab.nl).
-The foundation is an independent non-profit spin-off.
+The Privacy by Design foundation set-up in 2016. It arose from the
+[Digital Security](http://www.ru.nl/ds/) research group of the Radboud
+University and from the Privacy and Identity Lab
+[PI.lab](http://www.pilab.nl).  The foundation is an independent
+non-profit spin-off.
 
 The foundation primarily works on its [IRMA](/irma-en) system for
-privacy-friendly attribute-based authentication, based on freely available
-open source software. For using IRMA the foundation provides an [Android
+privacy-friendly attribute-based authentication, based on freely
+available open source software. For the purpose of using IRMA, the
+foundation provides an [Android
 app](https://play.google.com/store/apps/details?id=org.irmacard.cardemu).
-An iOS app is in development.
+An iOS app is under development.
 
 The foundation has two important operational roles in IRMA:
 
-1. Development and supporting the IRMA [software](https://credentials.github.io/).
+1. Development and supporting the IRMA
+[software](https://credentials.github.io/).
+
 2. Supporting infrastructure for issuing attributes.
 
-The foundation welcomes collaboration with others to get IRMA up and running.
-Pilots are now being prepared with the help of a number of other parties,
-among which:
+The foundation welcomes collaboration with others to get IRMA up and
+running.  Pilots are now being prepared with the help of a number of
+other parties, among which:
 
  * The [Radboud University](https://www.ru.nl/english/), for (strong)
    authentication of student and employees and for digital signing of,
    e.g., examination grades.
+
  * [Surfnet](https://www.surf.nl/en/services-and-products/surfconext/index.html),
    for issuing and verifying of attributes through SURFconext.
- * [Alliander](http://www.alliander.nl), for authentication and signing within
-   the context of `smart' homes.
+
+ * [Alliander](http://www.alliander.nl), for authentication and
+   signing within the context of `smart' homes. In addition, the
+   foundation is structurally supported by Alliander.
 
 <div id="videoModal" class="reveal-modal large" data-reveal="">
   <div class="flex-video widescreen vimeo" style="display: block;">
