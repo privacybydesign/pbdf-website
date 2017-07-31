@@ -10,7 +10,7 @@ translations:
   nl: /demo
 ---
 
-The [IRMATube demo](/demo/irmaTube) is een fictious video-streaming
+The [IRMATube demo](/demo/irmaTube) is a fictious video-streaming
 service that demonstrates several aspects of IRMA. When you become
 IRMATube "member" you receive membership attributes. Subsequently, you
 can use these to watch (trailers of) movies on the IRMATube main page.

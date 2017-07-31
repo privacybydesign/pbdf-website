@@ -19,7 +19,7 @@ uit een emailadres of een (mobiel) telefoonnummer, of een huisadres,
 of een minimum leeftijd, of een klantnummer. Zulke persoonlijke
 eigenschappen worden attributen genoemd. IRMA is een middel waarmee
 gebruikers op betrouwbare wijze aan u kunnen bewijzen wat die
-attributen zijn.
+persoonlijke attributen zijn.
 
 De stichting Privacy by Design heeft IRMA software ontwikkeld waarmee
 u zulke attributen kunt controleren. Deze software is open source en
@@ -33,28 +33,22 @@ controleren van IRMA attributen. Algemene uitleg over
 IRMA staat [elders](/irma-uitleg).
 
  1. [Welke attributen kan ik controleren van mijn gebruikers?](#welkeattributen)
-
  2. [Hoe zet ik IRMA op mijn webpagina?](#software)
-
  3. [Kan ik ook zelf attributen uitgeven aan mijn klanten?](#uitgeven)
-
  4. [Hoeveel kost het gebruik van IRMA?](#kosten)
-
  5. [Welk betrouwbaarheidsniveau biedt IRMA?](#niveau)
-
- 6. [Is de stichting gecertificeerd? Welke garanties worden
- geboden?](#certificatie)
+ 6. [Is de stichting gecertificeerd? Welke garanties worden geboden?](#certificatie)
 
 Deze vragen zullen hieronder een voor een beantwoord worden.
 
 ### <a name="welkeattributen"></a>1. Welke attributen kan ik controleren van mijn gebruikers?
 
-In principe kunt u zelf kiezen welke attributen u wilt controleren.
-Een praktische voorwaarde is dat gebruikers de attributen die u wil
-controleren wel zelf ergens kunnen krijgen. De stichting Privacy by
-Design geeft gebruikers de mogelijkheid om na registratie een aantal
-attributen in hun IRMA app te laden. Die kunt u vervolgens
-controleren.
+In principe kunt u zelf kiezen welke attributen u wilt controleren om
+een gebruiker te authenticeren.  Een praktische voorwaarde is dat
+gebruikers de attributen die u wil controleren wel zelf ergens kunnen
+krijgen. De stichting Privacy by Design geeft gebruikers de
+mogelijkheid om na registratie een aantal attributen in hun IRMA app
+te laden. Die kunt u vervolgens controleren.
 
 Het is de verwachting dat dit aanbod van attributen in de toekomst zal
 groeien. Ook andere partijen dan de stichting kunnen attributen
@@ -126,11 +120,12 @@ enz. Dit is mogelijk, maar vraagt enige voorbereiding.
 
 De stichting Privacy by Design beheert de IRMA infrastructuur. Een
 belangrijk onderdeel daarvan is het register van mogelijke
-attributen. Dit register moet op eenduidige manier vastliggen, zodat
-iedere gebruiker de betekenis van de verschillende attributen
-kent. Nieuwe attributen moeten hierin opgenomen worden. Daarvoor is
-[contact](/contact) met de stichting noodzakelijk. Voor registratie
-van nieuwe attributen zal de stichting kosten in rekening brengen.
+attributen. Dit register moet op eenduidige, transparante manier
+vastliggen, zodat iedere gebruiker de betekenis van de verschillende
+attributen kent. Nieuwe attributen moeten hierin opgenomen
+worden. Daarvoor is [contact](/contact) met de stichting
+noodzakelijk. Voor (voortgezette) registratie van nieuwe attributen
+zal de stichting kosten in rekening brengen.
 
 Is dit eenmaal geregeld, dan zijn er verschillende mogelijkheden om
 daadwerkelijk attributen uit te geven. Daarbij moeten attributen aan
@@ -195,13 +190,13 @@ niet kapitaalkrachtig genoeg). Het is wel de bedoeling dat de
 stichting op enig moment in de toekomst, bij uitgebreider gebruik van
 IRMA, gecertificeerd zal worden.
 
-Op dit moment biedt de stichting haar diensten gratis, als "best
-effort" aan. De stichting biedt geen garanties en accepteert in dit
-stadium geen aansprakelijkheid voor zaken die mogelijk misgaan bij het
-gebruik van IRMA. De stichting probeert gerapporteerde problemen zo
-snel mogelijk te verhelpen. De verantwoordelijkheid voor het gebruik
-van IRMA ligt geheel bij de gebruiker (de drager van attributen in de
-IRMA app), bij de controleur van attributen en bij de eventuele
-uitgever van eigen attributen (niet zijnde de stichting).
+Op dit moment biedt de stichting haar operationele diensten gratis,
+als "best effort" aan. De stichting biedt geen garanties en accepteert
+in dit stadium geen aansprakelijkheid voor zaken die mogelijk misgaan
+bij het gebruik van IRMA. De stichting probeert gerapporteerde
+problemen zo snel mogelijk te verhelpen. De verantwoordelijkheid voor
+het gebruik van IRMA ligt geheel bij de gebruiker (de drager van
+attributen in de IRMA app), bij de controleur van attributen en bij de
+eventuele uitgever van eigen attributen (niet zijnde de stichting).
 
 [Naar boven](#top)

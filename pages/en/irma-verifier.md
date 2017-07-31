@@ -2,7 +2,7 @@
 layout: page
 title: Letting users log in on my website using IRMA
 meta_title: IRMA controleur
-teaser: (This page has not yet been translated.) Ik heb een webpagina waarop ik mijn klanten wil laten inloggen. Hoe kan dat met IRMA? Wat moet ik daar voor doen? En waar zitten de kosten? [Aan deze pagina wordt nog gewerkt.]
+teaser: I operate a webpage where I would like my customers to log in. How can I do that with IRMA? What are the costs?
 header:
   image_fullwidth: header_unsplash_1.jpg
   title: Privacy by Design Foundation
@@ -12,196 +12,192 @@ translations:
   nl: /irma-controleur
 ---
 
-<a name="top"></a> Stel u heeft een eigen webpagina, bijvoorbeeld van
-een webwinkel of van een dienstaanbieder, en u wilt iets van uw
-gebruikers weten voordat ze bij u binnenkomen. Dit "iets" kan bestaan
-uit een emailadres of een (mobiel) telefoonnummer, of een huisadres,
-of een minimum leeftijd, of een klantnummer. Zulke persoonlijke
-eigenschappen worden attributen genoemd. IRMA is een middel waarmee
-gebruikers op betrouwbare wijze aan u kunnen bewijzen wat die
-attributen zijn.
+<a name="top"></a>Suppose you have your own website, for instance of a
+webshop or of a service provider, and you would like to know something
+more about your users. This "something" can be an email address or a
+(mobile) phone number, or a home address, or a minimum age, or a
+membership number. IRMA provides a mechanism that allows users to
+prove to you in a reliable manner what these personal attributes are.
 
-De stichting Privacy by Design heeft IRMA software ontwikkeld waarmee
-u zulke attributen kunt controleren. Deze software is open source en
-gratis beschikbaar. In principe is het integreren van de gratis IRMA
-(verificatie) software in uw eigen webpagina het enige wat u hoeft te
-doen om IRMA te kunnen gebruiken.
+The Privacy by Design foundation has developed IRMA software that
+allows you to verify such attributes. This software is open source and
+is freely available. In principle, the only thing that you have to do
+to start using IRMA is to integrate this software into your own
+webpage.
 
-In de praktijk komt er iets meer bij kijken. Hieronder wordt een
-aantal onderwerp besproken die specifiek gericht zijn op het
-controleren van IRMA attributen. Algemene uitleg over
-IRMA staat [elders](/irma-uitleg).
+In practice, a bit more is required. Below, several topics are
+discussed which are directly relevant for verification of IRMA
+attributes. General explanations about how IRMA works can be found
+[elsewhere](/irma-explanation).
 
- 1. [Welke attributen kan ik controleren van mijn gebruikers?](#welkeattributen)
+ 1. [Which attributes of my users can I verify?](#whichattributen)
+ 2. [How do I intergrate IRMA software in my webpage?](#software)
+ 3. [Can I also issue attributes myself to my customers?](#issue)
+ 4. [What are the costs of using IRMA?](#costs)
+ 5. [What level of certainty does IRMA provide?](#level)
+ 6. [Is the foundation certified? Which guarantees exist?](#certification)
 
- 2. [Hoe zet ik IRMA op mijn webpagina?](#software)
+Below, these questions will be answered one by one.
 
- 3. [Kan ik ook zelf attributen uitgeven aan mijn klanten?](#uitgeven)
+### <a name="whichattributen"></a>1. Which attributes of my users can I verify?
 
- 4. [Hoeveel kost het gebruik van IRMA?](#kosten)
+In principle you can choose yourself which attributes you wish to
+verify in order to authenticate a user. A practical requirement is
+that users must be able to somehow obtain the attributes that you want
+to verify. The Privacy by Design Foundation offers IRMA users, after
+registration, the possibility to load a number of attributes into
+their IRMA app --- see the [issuance](/issuance)
+webpage. Subsequently, you can verify these attributes.
 
- 5. [Welk betrouwbaarheidsniveau biedt IRMA?](#niveau)
+It is expected that the range of attributes will grow in the future.
+Other parties than the foundation can issue attributes as well.
+Maybe you yourself, see [below](#issue).
 
- 6. [Is de stichting gecertificeerd? Welke garanties worden
- geboden?](#certificatie)
+In the current initial phase, only relatively simple, general
+attributes are available, like name, email address, phone number, home
+address, age limits (below 16, or 18, or 65), or student. This can
+already be very useful, in many situations, for instance in order to
+give discounts to special groups of users (students, the elderly), and
+bind them to you in this manner. But this can also be useful to obtain
+certainty about an address for delivery.
 
-Deze vragen zullen hieronder een voor een beantwoord worden.
+In case you would like to verify an attribute that a particular user
+does not possess --- or that has expired --- you can redirect this
+user to a website where the attribute is available. After loading the
+relevant attribute, the user can authenticate at your website.
 
-### <a name="welkeattributen"></a>1. Welke attributen kan ik controleren van mijn gebruikers?
+It is up to you to ask for all sorts of attributes from your users.
+But please be careful: upon loging into your website with IRMA, your
+customers must explicitly agree to reveal these attributes to you.
+When you ask too many, non-relevant or non-neccessary, attributes, you
+may scare away (potential) customers. An important idea underlying
+IRMA is that only strictly necessary attributes are requested at
+login. European privacy laws require *data minimalisation* and
+*purpose binding*, so that you are allowed to process only those
+personal data of your customers that are strictly necessary for the
+service that you offer.
 
-In principe kunt u zelf kiezen welke attributen u wilt controleren.
-Een praktische voorwaarde is dat gebruikers de attributen die u wil
-controleren wel zelf ergens kunnen krijgen. De stichting Privacy by
-Design geeft gebruikers de mogelijkheid om na registratie een aantal
-attributen in hun IRMA app te laden. Die kunt u vervolgens
-controleren.
+[To the top](#top)
 
-Het is de verwachting dat dit aanbod van attributen in de toekomst zal
-groeien. Ook andere partijen dan de stichting kunnen attributen
-uitgeven. Misschien u zelf wel, zie [hieronder](#uitgeven).
+### <a name="software"></a>2. How do I intergrate IRMA software in my webpage?
 
-In de huidige beginfase zal het vooral gaan om simpele attributen als
-naam, emailadres, telefoonnummer, huisadres, leeftijdsgrenzen (boven
-de 16, of 18, of 65), student. Dit kan al heel nuttig zijn in
-verschillende situaties, bijvoorbeeld om bepaalde groepen gebruikers
-(studenten, ouderen) korting te kunnen geven -- en zo aan u te
-binden. Maar ook om zekerheid te krijgen over een afleveradres.
+All software for verification of IRMA attributes is open source and
+freely [available](https://credentials.github.io/) to everyone. There
+are several ways to deploy this software.
 
-Als u een attribuut wil controleren dat een bepaalde gebruiker niet
-heeft -- of dat verlopen is -- kunt u de gebruiker doorverwijzen naar
-een webpagina waar dat attribuut te verkrijgen is. Na het ophalen van
-dat attribuut kan de gebruiker alsnog bij u inloggen.
+ * If you have ICT skills yourself, or have people with such skills in
+   your organisation, you can install the software on your own
+   computers and integrate it in your webpages.
 
-U heeft de mogelijkheid om allerlei attributen te vragen. Maar let op:
-uw klanten moeten er bij het inloggen expliciet mee akkoord gaan om u
-die attributen te laten zien. Als u te veel, niet-relevante of
-niet-noodzakelijke, attributen vraagt schrikt u (potentiële) klanten
-af. Een belangrijk idee achter IRMA is dat bij het inloggen alleen om
-de strikt noodzakelijke attributen gevraagd wordt. Privacywetten eisen
-*data minimalistie* en *doelbinding*, waarbij u alleen die gegevens
-van uw klanten mag verwerken die strikt noodzakelijk zijn voor de
-dienst die u biedt.
+ * If your website has been built and is operated by an external
+   company, you can ask this company to do the integration for you.
 
-[Naar boven](#top)
+ * Possibly, commerical parties will emerge that will offer
+   verification of IRMA attributes as a service.
 
-### <a name="software"></a>2. Hoe zet ik IRMA op mijn webpagina?
+ * In particular, existing *Payment Service Providers* may start
+   offering such attribute verification services, together with their
+   existing payment processing services.
 
-Alle software voor het controleren van IRMA attributen is open source
-en gratis voor iedereen [beschikbaar](https://credentials.github.io/).
-Er zijn verschillende mogelijkheden om daar gebruik van te maken.
+The Privacy by Design foundation will not offer attribute verification
+services. The foundation focuses on operating the IRMA infrastructure
+and on issuing a basic set of attributes. In the current initial phase
+the foundation can offer advise, but it will not do this
+free-of-charge. For more information, feel free to [get in
+touch](/contact-en).
 
- * Als u zelf handig bent met ICT, of zulke mensen hebt in uw
-   organisatie, kunt u de software zelf op eigen computers installeren
-   en in uw webpagina integreren.
+To summarise: IRMA can be used without any costs, at least if you do
+everything yourself.
 
- * Als uw webpagina door een extern bedrijf gemaakt en beheerd wordt
-   kunt u dat bedrijf vragen deze IRMA integratie voor u te doen.
+[To the top](#top)
 
- * Mogelijk komen er binnenkort commerciële partijen die het
-   controleren van IRMA attributen als dienst aan gaan bieden.
+### <a name="issue"></a>3. Can I also issue attributes myself to my customers?
 
- * In het bijzonder zullen misschien bestaande *Payment Service
-   Providers* deze attribuut-controle diensten gaan aanbieden, samen
-   met hun bestaande betalingsverwerkingen.
+Suppose you wish to give customers your own attributes, belonging to
+your own organisation, such as membership numbers or specific loyalty
+statuses, like bronse, silver, gold, platina, etc. This is possible,
+but requires some preparation.
 
-De stichting Privacy by Design zal zelf geen attribuut-controle
-diensten aanbieden. De stichting richt zich op het beheer van de IRMA
-infrastructuur, en op het uitgeven van een basisset van attributen.
-De stichting kan in de huidige beginfase wel advies geven, maar zal
-daarvoor kosten in rekening brengen. Voor meer informatie kunt u
-[contact](/contact) opnemen.
+The Privacy by Design foundation runs the IRMA infrastructure. An
+important part of this work is keeping a register of all possible
+attributes. This register must provider transparancy and clarity,
+so that each user knows the meanings of the various attributes.
+New attributes must become part of this register. It requires
+[contact](/contact-en) with the foundation. The foundation does have
+a charge for (continued) registration of new attributes.
 
-Kortom, IRMA is in principe gratis te gebruiken, als u tenminste alles
-zelf wil doen.
+Once this has been organised, there are several ways to actually issue
+attributes to your customers. This involves providing these attributes
+with a digital signature. Also for this purpose open source software
+is freely available. There are several options.
 
+ * You can do this yourself, in case you possess sufficient
+   ICT-expertise.
 
-[Naar boven](#top)
+ * You can have a deal with the Privacy by Design foundation, whereby
+   the foundation does the issuing of new attributes for you --- just
+   like it already now [issues](/issuance) several attributes.
 
-### <a name="uitgeven"></a>3. Kan ik ook zelf attributen uitgeven aan mijn klanten?
+ * Possibly, service providers will emerge who issue IRMA attributes
+   for others on a commercial basis.
 
-Stel u wil uw klanten eigen attributen geven, horend bij uw eigen
-organisatie, bijvoorbeeld in de vorm van een lidmaatschapsnummer, of
-van een bepaalde loyalty status, zoals brons, zilver, goud, platina,
-enz. Dit is mogelijk, maar vraagt enige voorbereiding.
-
-De stichting Privacy by Design beheert de IRMA infrastructuur. Een
-belangrijk onderdeel daarvan is het register van mogelijke
-attributen. Dit register moet op eenduidige manier vastliggen, zodat
-iedere gebruiker de betekenis van de verschillende attributen
-kent. Nieuwe attributen moeten hierin opgenomen worden. Daarvoor is
-[contact](/contact) met de stichting noodzakelijk. Voor registratie
-van nieuwe attributen zal de stichting kosten in rekening brengen.
-
-Is dit eenmaal geregeld, dan zijn er verschillende mogelijkheden om
-daadwerkelijk attributen uit te geven. Daarbij moeten attributen aan
-gebruikers toegekend worden, voorzien van een digitale handtekening.
-Ook hiervoor is open source software gratis beschikbaar. Er zijn
-weer verschillende mogelijkheden.
-
- * U kunt dit zelf doen, indien u voldoende ICT-kennis in huis heeft.
-
- * U kunt een overeenkomst met de stichting Privacy by Design sluiten,
-   waarbij de stichting de nieuwe attributen uitgeeft -- net zoals de
-   stichting nu al een aantal attributen uitgeeft.
-
- * Mogelijk ontstaan er dienstverleners die deze uitgifte van
-   attributen op commerciële basis voor anderen verrichten.
+[To the top](#top)
 
 
-[Naar boven](#top)
+### <a name="costs"></a>4. What are the costs of using IRMA?
+
+For the time being the usage of IRMA is free of charge, both for users
+and for verifiers (like webshops). Of course you will have your own
+costs for setting up and maintaining your own webpages in which IRMA
+is integrated. Those costs depend on who does the actual work, in
+which manner, see [above](#software).
+
+The Privacy by Design foundation is a non-profit
+organisation. However, if it comes to large scale usage of IRMA, it is
+important that the foundation has a stable financial position in order
+to maintain the IRMA infrastructure. As described above, the
+foundation does ask money for certain activities (advise, issuing of
+attributes, software adaptations). In addition, the foundation depends
+on subsedies and support of third parties.
+
+[To the top](#top)
 
 
-### <a name="kosten"></a>4. Hoeveel kost het gebruik van IRMA?
+### <a name="level"></a>5. What level of certainty does IRMA provide?
 
-Vooralsnog is het gebruik van IRMA gratis, zowel voor gebruikers als
-voor controleurs (zoals webwinkels). Wel zijn er natuurlijk kosten
-gemoeid met het aanpassen en onderhouden van de eigen webpagina's om
-IRMA te kunnen gebruiken. Die kosten zijn afhankelijk van wie het werk
-(op welke wijze) doet.
+Within the area of *identity management* different assurance levels
+for authentication are distinguished, such as "low", "middle",
+"substantial", "high". Within the IRMA ecosystem it is not
+straightforward to distinguish such levels, because they depend on
+many factors, such as for instance, the manner of authentication that
+preceeds attribute issueance. What, for instance, is the level of
+certainty of an email attribute that has been issued via a
+confirmation link sent to a user-provided email address?
 
-De stichting Privacy by Design heeft geen winstoogmerk. Wel is het
-belangrijk voor grootschalig gebruik van IRMA dat de stichting over
-stabiele inkomsten kan beschikken. Zoals hierboven beschreven zijn er
-verschillende kosten die de stichting in rekening brengt (advies,
-uitgifte van attributen, aanpassing van de software). Daarnaast is de
-stichting afhankelijk van subsidies en ondersteuning van derden.
+For this reason IRMA does not use such levels of certainty. Every
+verifier can determine itself which attributes it does or does not
+accept. A verifier can, for instance, accept an "older than 18"
+attribute if it has been issued by the foundation, but not if it has
+been issued by, say, Facebook.
 
-[Naar boven](#top)
+[To the top](#top)
 
 
-### <a name="niveau"></a>5. Welk betrouwbaarheidsniveau biedt IRMA?
+### <a name="certification"></a>6. Is the foundation certified? Which guarantees exist?
 
-Binnen het vakgebied *identity management* worden verschillende
-betrouwbaarheidsniveaus van authenticatie onderscheiden, zoals "laag",
-"midden", "substantieel" en "hoog". Binnen IRMA is het lastig om zulke
-niveaus aan te brengen omdat ze van veel factoren afhangen, zoals
-bijvoorbeeld het manier van authenticatie voorafgaand aan uitgifte.
-Wat is bijvoorbeeld het betrouwbaarheidsniveau van een email attribuut
-dat via een bevestigingslink toegekend is?
+The Privacy by Design foundation is *not* certified, for instance,
+according to the ISO 27010 norm. At this stage the foundation is too
+small for this --- and insufficiently wealthy. The foundation intends,
+at some time in the future when IRMA is being used more extensively,
+to obtain such certification.
 
-Om deze reden hanteert IRMA niet zulke betrouwbaarheidsniveaus. Iedere
-controleur (webpagina) kan zelf bepalen welke attributen hij wel of
-niet accepteert. Een controleur kan bijvoorbeeld wel een "ouder dan
-18" attribuut accepteren dat door de stichting is uitgegeven, maar
-niet een "ouder dan 18" attribuut dat door zeg Facebook uitgegeven is.
+At this stage the foundation offers its operational services for free,
+as "best effort". The foundation offers no guarantees and accepts at
+this stage no liability for matters that possibly go wrong in IRMA
+usage. The foundation tries to solve (reported) problems as soon as
+possible. The responsability for IRMA usage lies entirely with the
+user (the carrier or IRMA attributes), with the verifier of
+attributes, and with issuer of attributes (if any), not being the
+foundation itself.
 
-[Naar boven](#top)
-
-### <a name="certificatie"></a>6. Is de stichting gecertificeerd? Welke garanties worden geboden?
-
-De stichting Privacy by Design is *niet* gecertificeerd, bijvoorbeeld
-volgens de ISO 27010 norm. Daar is de stichting nog te klein voor (en
-niet kapitaalkrachtig genoeg). Het is wel de bedoeling dat de
-stichting op enig moment in de toekomst, bij uitgebreider gebruik van
-IRMA, gecertificeerd zal worden.
-
-Op dit moment biedt de stichting haar diensten gratis, als "best
-effort" aan. De stichting biedt geen garanties en accepteert in dit
-stadium geen aansprakelijkheid voor zaken die mogelijk misgaan bij het
-gebruik van IRMA. De stichting probeert gerapporteerde problemen zo
-snel mogelijk te verhelpen. De verantwoordelijkheid voor het gebruik
-van IRMA ligt geheel bij de gebruiker (de drager van attributen in de
-IRMA app), bij de controleur van attributen en bij de eventuele
-uitgever van eigen attributen (niet zijnde de stichting).
-
-[Naar boven](#top)
+[To the top](#top)
