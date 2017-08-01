@@ -9,35 +9,34 @@ permalink: /board/
 language: en
 translations:
   nl: /bestuur
-teaser: This page has not yet been translated.
 ---
-Het bestuur van de stichting Privacy by Design bestaat uit
-onderstaande personen. Zij allen vervullen de bestuursfunctie op
-persoonlijke titel en worden hiervoor niet betaald.
 
- * **Voorzitter**: Bart Jacobs (b.jacobs 'at' privacybydesign.foundation)
+The board of the Privacy by Design foundation consists of the people
+listed below. They all fulfil their role in the board in a personal
+capacity and are not being paid for it.
 
-   [Bart Jacobs](http://www.cs.ru.nl/~bart) is hoogleraar
-   computerbeveiliging aan de Radboud Universiteit Nijmegen. Hij werkt
-   daar samen met zijn onderzoeksgroep aan veel maatschappelijk
-   relevante security en privacy onderwerpen, zoals de OV-chipkaart,
-   elektronisch stemmen en medische privacy.
+ * **Chairman**: Bart Jacobs (b.jacobs 'at' privacybydesign.foundation)
 
- * **Secretaris**: Thea van Kemenade (t.vankemenade 'at' privacybydesign.foundation)
+   [Bart Jacobs](http://www.cs.ru.nl/~bart) is a full professor of
+   computer security at Radboud University in Nijmegen, The
+   Netherlands. He works, together with his research group, on many
+   societally relevant security and privacy topics, such as medical
+   privacy, public transport travel cards, electronic voting.
 
-   Thea van Kemenade is business development consultant bij Radboud
-   Innovation, het centrum voor business en projectontwikkeling van de
-   Radboud Universiteit. Haar centrale doel is het bijeen brengen van
-   publieke en private en meestal open-innovatie partners rondom een
-   maatschappelijk thema, het verwerven van investeringsmiddelen en
-   het daadwerkelijk realiseren en implementeren van deze innovaties.
+ * **Secretary**: Thea van Kemenade (t.vankemenade 'at' privacybydesign.foundation)
 
+   Thea van Kemenade is business development consultant at Radboud
+   Innovation, the centre for business and project development of
+   Radboud University. Her central role is bringing together public
+   and private, often open-innovation, partners for specific projects,
+   organising funding and actually realising and implementing these
+   innovations.
 
- * **Penningmeester**: Sietse Ringers (s.ringers 'at' privacybydesign.foundation)
+ * **Treasurer**: Sietse Ringers (s.ringers 'at' privacybydesign.foundation)
 
-   [Sietse Ringers](https://sietseringers.net/) is in 2016 gepromoveerd op het
-   gebied van credentialschema's (de cryptografische basis van IRMA).
-   Hij is een van de programmeurs van de IRMA-infrastructuur.
+   [Sietse Ringers](https://sietseringers.net/) did his PhD in 2016 in
+   the area of credential schemas (the cryptografic basis of IRMA). He
+   is one of the programmers of the IRMA infrastructure.
 
  * Jaap Akkermans
 

@@ -13,16 +13,16 @@ translations:
 ---
 
 Meer in het bijzonder richt de stichting zich op de ontwikkeling en
-het gebruik van het eigen systeem [IRMA](/irma), een afkorting voor I
-Reveal My Attributes.  Met IRMA kun je op een privacy-vriendelijke
-manier eigenschappen (attributen) van jezelf onthullen (zoals: ik ben
-boven de 18), zonder dat je andere, niet-relevante informatie over
-jezelf weggeeft.
+het gebruik van het eigen systeem [IRMA](/irma), een afkorting voor *I
+Reveal My Attributes*.  Met IRMA kun je op een privacy-vriendelijke,
+beveiligde manier eigenschappen (attributen) van jezelf onthullen
+(zoals: ik ben boven de 18), zonder dat je andere, niet-relevante
+informatie over jezelf weggeeft.
 
 Ook kun je met IRMA attribuut-gebaseerde handtekeningen zetten,
-zie [IRMA](/irma) voor meer informatie.
+zie [IRMA](/irma-uitleg) voor meer informatie.
 
-### Beleidsplannen
+### Beleidsplannen voor 2017
 
 Na oprichting in oktober 2016 komen de activiteiten van de stichting
 pas in 2017 goed op gang. Deze activiteiten zijn met name gericht op:
@@ -47,7 +47,7 @@ pas in 2017 goed op gang. Deze activiteiten zijn met name gericht op:
   waaronder (medische) BIG attributen. Het verifiëren van attributen
   wordt niet als dienst door de stiching aangeboden, maar wordt wel
   ontwikkeld voor verschillende andere partijen (waaronder met name
-  Surfnet).
+  [Surfnet](https://www.surfnet.nl)).
 
 * De ontwikkeling van een IRMA app voor iOS, naast de bestaande IRMA
   app voor Android.

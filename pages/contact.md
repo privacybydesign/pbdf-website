@@ -14,6 +14,6 @@ translations:
  * E-mail: info 'at' privacybydesign.foundation
  * Voor email-adressen van de bestuursleden, zie [Bestuur](/bestuur)
  * Post: Toernooiveld 212, 6525 EC Nijmegen
- * KvK: 67144128
- * Bank: NL54INGB0007522950
+ * Kamer van Koophandel registratie: 67144128; ; fiscaal (RSIN) number: 856848359
+ * Bank rekening: NL54INGB0007522950
  * Oprichtingsdatum: 25 okt. 2016

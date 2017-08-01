@@ -2,7 +2,7 @@
 layout: page
 title: Goals
 meta_title: Goals
-teaser: (This page has not yet been translated.) The Privacy by Design Foundation in general aims to improve the development and the use of open, privacy-friendly and secure software.
+teaser: The Privacy by Design Foundation in general aims to improve the development and the use of open, privacy-friendly and secure software.
 header:
   image_fullwidth: header_unsplash_4.jpg
   title: Privacy by Design Foundation
@@ -12,60 +12,65 @@ translations:
   nl: /doelstelling
 ---
 
-Meer in het bijzonder richt de stichting zich op de ontwikkeling en
-het gebruik van het eigen systeem [IRMA](/irma), een afkorting voor I
-Reveal My Attributes.  Met IRMA kun je op een privacy-vriendelijke
-manier eigenschappen (attributen) van jezelf onthullen (zoals: ik ben
-boven de 18), zonder dat je andere, niet-relevante informatie over
-jezelf weggeeft.
+More in particular, the foundation focuses on the development, roll
+out, and actual usage of its own system [IRMA](/irma-en), an
+abbreviation of *I Reveal My Attributes*. With IRMA people can prove
+in a privacy-friendly and secure manner various personal properties
+(attributes) about themselves (such as: I'm older than 18), without
+revealing any other non-relevant information.
 
-Ook kun je met IRMA attribuut-gebaseerde handtekeningen zetten,
-zie [IRMA](/irma) voor meer informatie.
+In addition, IRMA allows its users to create attribute-based digital
+signature, see [IRMA](/irma-explanation) for more information.
 
-### Beleidsplannen
+### Plans and activities for 2017
 
-Na oprichting in oktober 2016 komen de activiteiten van de stichting
-pas in 2017 goed op gang. Deze activiteiten zijn met name gericht op:
+After its establishment as a legal entity in october 2016, the 
+foundation's activities are taking shape. These activitities are
+focused especially on the following points.
 
-* Het leggen van een financiële basis voor de activiteiten van de
-  stichting. Met name gaat het om de structurele financiering die het
-  bedrijf [Alliander](https://www.alliander.com/nl) de stichting voor
-  2017 geeft. Daarnaast worden de mogelijkheden van subsidies en
-  projecten verkend en zo mogelijk in gang gezet.
+* Creating a financial basis for the activities of the
+  foundation. This involves, in particular, the structural support
+  that the energy company [Alliander](https://www.alliander.com/en)
+  provides in 2017. In addition subsidy and project options will be
+  investigated and possibly initiated.
 
-* Het consolideren van de organisatie van de stichting, met name door
-  een uitbreiding van het bestuur van 3 naar 5 personen (gerealiseerd
-  in juli 2017) en het aanvragen van een ANBI status.
+* Consolidating the organisational structure of the foundation,
+  especially by extending the board from 3 to 5 persons (realised in
+  july 2017) and by applying for the *ANBI* status in the Netherlands,
+  giving the foundation official recognition of working for the
+  "general benefit", which comes with several tax benefits --- both
+  for the foundation itself and for its supporters (e.g. financial
+  support becomes tax deductable).
 
-* Het opzetten en onderhouden van de website van de stichting. Een
-  nederlandstalige versie is inmiddels operationeel. In de loop van
-  2017 zal ook een engelstalige versie geproduceerd worden.
+* Establishing and maintaining the website of the foundation. A Dutch
+  version appeared early 2017, and mid 2017, an english version too.
 
-* Het daadwerkelijk aanbieden van attribuut-gebaseerde authenticatie
-  via ontwikkeling en uitrol van het IRMA systeem. De
-  [uitgifte](/uitgifte) van verschillende attributen is nu mogelijk,
-  waaronder (medische) BIG attributen. Het verifiëren van attributen
-  wordt niet als dienst door de stiching aangeboden, maar wordt wel
-  ontwikkeld voor verschillende andere partijen (waaronder met name
-  Surfnet).
+* Getting the infrastructure up and running for attribute-based
+  authentication and rolling out the IRMA
+  system. [Issuance](/issuance) of different attributes is now
+  possible, mainly from Dutch sources, including for instance
+  registration attributes for medical professionals. The foundation
+  will not offer verification services, but it does cooperate with
+  other parties who intend to verify IRMA attributes
+  (esp. [Surfnet](https://www.surf.nl/en/about-surf/subsidiaries/surfnet)).
 
-* De ontwikkeling van een IRMA app voor iOS, naast de bestaande IRMA
-  app voor Android.
+* Development of an IRMA app for iOS, to complement the existing app
+  for Android.
 
-* Het organiseren van een stabiele basis aan programmeer-capaciteit
-  voor de ontwikkeling van het IRMA ecosysteem.
+* Organising a stable software development capacity for extending and
+  maintaining the IRMA ecosystem.
 
-* Het zoeken en aangaan van samenwerkingsverbanden met verschillende
-  spelers op het gebied van identity management in Nederland, en
-  mogelijk ook daarbuiten.
+* Seeking and starting collaborations with different players in the
+  identity management area in the Netherlands, and possibly also
+  beyond.
 
-* Het vergroten van de (naams)bekendheid van de stichting Privacy by
-  Design in het algemeen, en van attribuut-gebaseerde authenticatie
-  met IRMA in het bijzonder.
+* Increasing the familiarity of the name and brand of the Privacy by
+  Design foundation in general, and of attribute-based authentication
+  with IRMA in particular.
 
-### Verslagen en verantwoording
+### Reporting
 
-De stichting is eind 2016 opgericht. Het eerste jaarverslag, inclusief
-een overzicht van de uitgeoefende activiteiten en een financiële
-verantwoording, zal begin 2018 gepubliceerd worden, over het "lange"
-eerste jaar, namelijk 2017 en de laatste maanden van 2016.
+The foundation has been established at the end of 2016. Het first year
+report, including an overview of activities and a financial report,
+will be published early 2018, covering the "long" first year of the
+foundation, namely 2017 and the last months of 2016.
