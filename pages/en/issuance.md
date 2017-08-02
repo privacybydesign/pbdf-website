@@ -67,7 +67,7 @@ Attributes via Surfconext
     [More information](/issuance-surfconext)
 
 Attributes via the BIG-register --- based on iDIN data
-:   Attributes: BIG-number, date of BIG-registration, medical profession, medical specialisms
+:   Attributes: BIG-number, date of BIG-registration, medical profession, medical specialisms  
     <a class="button" href="/uitgifte/big">
     <img src="/images/big.png">Load attributes via BIG</a>  
     [More information](/issuance-big)
