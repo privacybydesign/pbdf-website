@@ -5,11 +5,15 @@ header:
   image_fullwidth: header_unsplash_1.jpg
   title: Privacy by Design Foundation
 permalink: /uitgifte-email/
+language: nl
+translations:
+  en: /issuance-email
 ---
 
 Bij de registratie van uw IRMA app heeft u een email adres opgegeven
-waaraan uw [mijnIRMA](/mijnirma) account gekoppeld is.  Dit email
-adres wordt automatisch als (eerste) attribuut in uw app geplaatst.
+waaraan uw [MijnIRMA](/mijnirma) account gekoppeld is.  Dit email
+adres wordt automatisch als (eerste) attribuut in uw IRMA app
+geplaatst.
 
 U kunt meerdere e-mailadressen die u heeft toevoegen als attribuut in
 uw IRMA app.

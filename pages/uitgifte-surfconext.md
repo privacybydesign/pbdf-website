@@ -5,6 +5,9 @@ header:
   image_fullwidth: header_unsplash_1.jpg
   title: Privacy by Design Foundation
 permalink: /uitgifte-surfconext/
+language: nl
+translations:
+  en: /issuance-surfconext
 ---
 
 Via [Surfconext](https://www.surfconext.nl) kunnen studenten en
@@ -32,7 +35,7 @@ daarin bovenstaande attributen. De stichting verwijdert deze
 attributen na uitgifte uit de eigen systemen en houdt geen log bij van
 de uitgifte.
 
-De geldigheid van dit surfnet credential is *drie maanden*. Deze
+De geldigheid van dit surfconext credential is *drie maanden*. Deze
 relatief korte tijd is nodig zodat mensen die afstuderen, uit dienst
 gaan, of op een andere manier de onderwijsinstelling verlaten, nog
 maar korte tijd van deze attributen gebruik kunnen maken. Nadat de

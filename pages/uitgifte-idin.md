@@ -5,6 +5,9 @@ header:
   image_fullwidth: header_unsplash_1.jpg
   title: Privacy by Design Foundation
 permalink: /uitgifte-idin/
+language: nl
+translations:
+  en: /issuance-idin
 ---
 
 [iDIN](https://www.idin.nl/consumenten/) is een gezamelijke
@@ -34,12 +37,15 @@ attributen en zet er een eigen digitale handtekening op. Het resultaat
 levert een **iDIN credential** in de app van de gebruiker, met daarin
 bovenstaande attributen. De stichting verwijdert deze attributen na
 uitgifte uit de eigen systemen. De stichting houdt geen eigen log bij
-van de uitgifte.
+van de uitgifte: de stichting slaat niet op welke attribute op welke
+moment aan wie uitgeven worden.
 
 De geldigheid van dit iDIN credential is *een jaar*. Het attribuut dat
 het meest gevoelig is voor verloop is het adres (inclusief postcode en
 plaats). Nadat de geldigheid van het iDIN credential verlopen is, moet
-de gebruiker een nieuwe versie ophalen.
+de gebruiker een nieuwe versie ophalen. Dit werkt op dezelfe manier
+als de eerste uitgifte van een iDIN credential, met een nieuwe login
+bij de eigen bank.
 
 De aansluiting van de stichting Privacy by Design op iDIN bevindt zich
 in een pilot fase, tot 1 september 2017, waarin er voor de stichting en de

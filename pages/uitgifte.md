@@ -22,11 +22,12 @@ translations:
   }
 </style>
 
-Via deze pagina kan de stichting Privacy by Design digitaal
-ondertekende attributen aan u uitgeven die u in uw IRMA app kunt
-opslaan om later te gebruiken om in te loggen. Hiervoor is het nodig
-dat u de IRMA app niet alleen reeds geinstalleerd, maar ook
-geregistreerd heeft. Installatie kan via [Android Play
+Via deze pagina kunt u attributen in de IRMA app op uw telefoon
+(her)laden. De stichting Privacy by Design ondertekent deze attributen
+digitaal, zodat controleurs de herkomst en integriteit kunnen checken.
+Vervolgens kunt u deze attributen gebruiken voor authenticatie of
+inloggen. Hiervoor is het nodig dat u de IRMA app geinstalleerd heeft
+en de registratie doorlopen. Installatie kan via [Android Play
 store](https://play.google.com/store/apps/details?id=org.irmacard.cardemu);
 het registratie proces wordt vanzelf gestart wanneer u de app opent.
 
@@ -66,7 +67,7 @@ Attributen via Surfconext
     [Meer informatie](/uitgifte-surfconext)
 
 Attributen via het BIG-register --- op basis van iDIN gegevens
-:   Attributen: BIG-nummer, beroep, specialisme  
+:   Attributen: BIG-nummer, startdatum BIG-registratie, medisch beroep, medisch specialisme  
     <a class="button" href="/uitgifte/big">
     <img src="/images/big.png">Laad attributen via BIG</a>  
     [Meer informatie](/uitgifte-big)

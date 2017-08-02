@@ -5,13 +5,16 @@ header:
   image_fullwidth: header_unsplash_1.jpg
   title: Privacy by Design Foundation
 permalink: /uitgifte-big/
+language: nl
+translations:
+  en: /issuance-big
 ---
 
 Het [BIG-register](https://www.bigregister.nl/) is een openbaar
 register van zorgverleners, zoals artsen, tandartsen, verpleegkundigen
 en verloskundigen.  Iedere zorgverlener in Nederland staat onder een
-BIG-nummer ingeschreven in dit register. BIG is een afkorting voor:
-Beroepen in de Individuele Gezondheidszorg.
+persoonlijk BIG-nummer ingeschreven in dit register. BIG is een
+afkorting voor: Beroepen in de Individuele Gezondheidszorg.
 
 Als u een zorgverlener bent en ingeschreven staat in dit register kan
 de stichting Privacy by Design uw registratie op basis van uw naam en
@@ -20,19 +23,19 @@ uitgeven:
 
  * BIG-nummer
  * startdatum BIG-registratie
- * beroep
- * specialismes
+ * medisch beroep
+ * medische specialismes
 
 Deze persoonlijke attributen zijn afkomstig van het BIG-register.  De
 juistheid van deze attributen is de verantwoordelijkheid van het
 BIG-register. De stichting voert er zelf geen controle op uit.
 
-Als eerste stap in dit uitgifte-proces stuurt u uw naam en
-geboortedatum uit uw [iDIN credential](/uitgifte-idin) naar de
+Als eerste stap in dit uitgifte-proces toont u uw naam en
+geboortedatum uit uw [iDIN credential](/uitgifte-idin) aan de
 stichting. De stichting zoekt vervolgens uw registratie in het
 BIG-register op aan de hand van die gegevens. Indien dit een
 eenduidige resultaat oplevert ontvangt u uw BIG attributen in een
-nieuw *BIG credential* in uw IRMA app. De stichting verwijdert uw
+nieuw **BIG credential** in uw IRMA app. De stichting verwijdert uw
 naam, geboortedatum en deze BIG attributen na uitgifte uit de eigen
 systemen en houdt geen log bij van de uitgifte.
 
