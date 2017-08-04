@@ -26,7 +26,7 @@ Via deze pagina kunt u attributen in de IRMA app op uw telefoon
 (her)laden. De stichting Privacy by Design ondertekent deze attributen
 digitaal, zodat controleurs de herkomst en integriteit kunnen checken.
 Vervolgens kunt u deze attributen gebruiken voor authenticatie of
-inloggen. Hiervoor is het nodig dat u de IRMA app geinstalleerd heeft
+inloggen. Hiervoor is het nodig dat u de IRMA app geïnstalleerd heeft
 en de registratie doorlopen. Installatie kan via [Android Play
 store](https://play.google.com/store/apps/details?id=org.irmacard.cardemu);
 het registratie proces wordt vanzelf gestart wanneer u de app opent.

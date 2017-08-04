@@ -23,7 +23,9 @@ en is opgezet. De volgende onderwerpen komen achtereenvolgens aan bod.
  7. [Wat zijn de nadelen van IRMA?](#nadelen)
  8. [Hoe kan ik meedoen of bijdragen?](#meedoen)
 
-Deze vragen zullen hieronder een voor een beantwoord worden.
+Deze vragen zullen hieronder een voor een beantwoord worden. Elders
+staat kortere uitleg voor [IRMA app gebruikers](/irma-begin) en
+voor [IRMA controleurs](/irma-controleur).
 
 ### <a name="onderwerp"></a>1. Waar gaat IRMA eigenlijk over?
 
@@ -31,11 +33,11 @@ Wanneer u een fles whisky koopt moet u volgens de wet bewijzen dat
 u ouder dan 18 bent. U hoeft echter niet te vertellen wie u
 bent. Enkel deze persoonlijke eigenschap, dat u ouder dan 18 bent, is
 genoeg voor de whisky aankoop. Zulke persoonlijke eigenschappen worden
-attributen genoemd.
+*attributen* genoemd.
 
 IRMA is de naam voor een systeem dat precies dit doet. IRMA staat
-voor: I Reveal My Attributes. IRMA stelt u in staat om online, via uw
-mobiele telefoon, bepaalde attributen van u zelf wel te laten zien
+voor: *I Reveal My Attributes*. IRMA stelt u in staat om online, via
+uw mobiele telefoon, bepaalde attributen van u zelf wel te laten zien
 ("ouder dan 18"), maar ook om andere attributen juist niet te laten
 zien (uw naam of telefoonnummer). IRMA beschermt daarmee uw
 privacy. Deze privacy-bescherming zit ingebakken in het systeem, en
@@ -44,8 +46,8 @@ nationale en Europese wetgeving wordt privacy by design vereist voor
 nieuwe ICT-systemen.
 
 Naast intrinsieke privacy-bescherming biedt IRMA ook bescherming tegen
-identiteitsfraude: als uw bankrekeningnummer of geboortedatum niet
-genoemd worden, kunnen ze ook niet misbruikt worden.
+identiteitsfraude: als uw naam of geboortedatum helemaal niet genoemd
+worden, kunnen ze ook niet misbruikt worden.
 
 Hieronder staat een lijstje attributen die nuttig kunnen zijn,
 bijvoorbeeld bij een webwinkel, bij de overheid, op een webforum, bij
@@ -95,17 +97,6 @@ zijn voor een transactie.
   dat betaling via iDeal gaat, waarvoor de webwinkel geen
   bankrekeningnummer nodig heeft.)
 
-Kortom: IRMA gaat over attribuut-gebaseerde authenticatie: u bewijst
-niet zozeer *wie* u bent, maar *wat* u bent. Dat is heel natuurlijk
-en intuïtief. Als u een arts in het ziekenhuis bezoekt wilt u
-diens naam misschien weten voor de communicatie, maar een veel
-belangrijker attribuut is dat de betreffende persoon daadwerkelijk
-arts is. In de niet-digitale wereld vertrouwen we erg op de context:
-de persoon draagt een witte jas en ontvangt u in een werkkamer in een
-ziekenhuis. Dat geeft vertrouwen. Maar in de online wereld ontbreekt
-een dergelijke context (of is die makkelijk te vervalsen) en moeten we
-attributen als in IRMA gebruiken voor betrouwbare omgang.
-
 [Naar boven](#top)
 
 ### <a name="waarom"></a>2. Waarom zou u attributen willen gebruiken in plaats van identiteiten?
@@ -133,14 +124,14 @@ voordelen.
 * Het is privacy-vriendelijk vanwege *data-minimalisatie*. Alleen die
   attributen die relevant en noodzakelijk zijn voor een transactie
   hoeven onthuld te worden.
+* Het geeft de gebruiker, in ieder geval bij IRMA, werkelijke controle
+  en zicht op wie welke gegevens vraagt.
+* Het is flexibel en past in veel verschillende situaties.
 * Het voorkomt het onderling koppelen van verschillende transacties,
   zolang daar geen uniek-identificerende attributen voor nodig
   zijn. Daarmee wordt openlijk of stiekem profileren tegengegaan, en
   alles wat daarmee samenhangt, zoals prijsdifferentiatie (de prijs die
   u moet betalen hangt af van het profiel dat van u opgebouwd is).
-* Het is flexibel en past in veel verschillende situaties.
-* Het geeft de gebruiker, in ieder geval bij IRMA, werkelijke controle
-  en zicht op wie welke gegevens vraagt!
 
 In veel digitaliseringsprojecten in de afgelopen tientallen jaren zijn
 attributen uit het dagelijkse leven vervangen door vaste digitale
@@ -159,31 +150,32 @@ gelegd tussen u en al uw eerdere reizen, waarvan u dacht dat ze
 anoniem waren.
 
 Attribuut-gebaseerde systemen brengen de traditionele bescherming en
-flexibiliteit voor een deel weer terug. Daarnaast bieden ze
-bescherming tegen de eventuele nare gevolgen van totale anonimiteit,
-omdat u kunt eisen dat deelnemers toch iets van zichzelf onthullen,
-bijvoorbeeld dat ze vrouw zijn of onder de 12, in discussiegroepen
-speciaal voor vrouwen of voor kinderen.
+flexibiliteit voor gebruikers voor een deel weer terug. Daarnaast
+bieden ze bescherming aan service providers tegen de eventuele nare
+gevolgen van totale anonimiteit, omdat u kunt eisen dat deelnemers
+toch iets van zichzelf onthullen, bijvoorbeeld dat ze vrouw zijn of
+onder de 12, in discussiegroepen speciaal voor vrouwen of voor
+kinderen.
 
 [Naar boven](#top)
 
 ### <a name="hoe"></a>3. Hoe kom ik aan attributen en hoe gebruik ik ze?
 
-In het IRMA eco-systeem worden uw persoonlijke attributen opgeslagen
-in de IRMA app op uw eigen telefoon (of tablet). De app heeft een
-eigen PIN die nodig is voor het gebruik. Die PIN moet er voor zorgen
-dat niemand anders uw attributen in de app kan gebruiken, en zich
-daarmee als u voor kan doen. Natuurlijk is het goed als uw telefoon
-een eigen inlog patroon of code heeft. Maar daarbovenop heeft de IRMA
-app nog weer een eigen PIN, net zo als de verschillende apps voor
-mobiel bankieren een eigen PIN hebben.
+In het IRMA eco-systeem worden uw persoonlijke attributen beveiligd
+opgeslagen in de IRMA app op uw eigen telefoon (of tablet). De app
+heeft een eigen PIN die nodig is voor het gebruik. Die PIN moet er
+voor zorgen dat niemand anders uw attributen in de app kan gebruiken,
+en zich daarmee als u voor kan doen. Natuurlijk is het goed als uw
+telefoon een eigen inlog patroon of code heeft. Maar daarbovenop heeft
+de IRMA app nog weer een eigen PIN, net zo als de verschillende apps
+voor mobiel bankieren een eigen PIN hebben.
 
 Attributen die voor u gelden kun je downloaden in uw IRMA app op uw
-telefoon. Dat kan via het [web](/uitgifte), bijvoorbeeld door het
-scannen van een QR-code, maar dat kan ook ter plekke, bijvoorbeeld aan
-een balie. De organisatie die attributen uitgeeft heet een *attribuut
-uitgever* of gewoon een *uitgever* (in het engels: *issuer*). Er
-zouden verschillende attribuut uitgevers kunnen zijn, zoals:
+telefoon. Dat kan via het [web](/uitgifte), door het scannen van een
+QR-code, maar dat kan ook ter plekke, bijvoorbeeld aan een balie. De
+organisatie die attributen uitgeeft heet een *attribuut uitgever* of
+gewoon een *uitgever* (in het engels: *issuer*). Er zouden
+verschillende attribuut uitgevers kunnen zijn, zoals:
 
 * de nationale overheid, of een gemeente, voor attributen als: naam,
   adres, geboortedatum, BSN, rijbevoegdheid, categorie van inkomen,
@@ -192,8 +184,8 @@ zouden verschillende attribuut uitgevers kunnen zijn, zoals:
   verzekeringsnummers, soort van verzekering, etc.
 * internet service providers en telecom operators, voor:
   email-adressen, telefoonnummers en IP-nummers
-* de Facebook's / Google's / Apple's van deze wereld, voor login
-  gegevens
+* de Facebook's / Google's / Apple's  / Amazon's / Microsoft's van deze 
+  wereld, voor login gegevens
 * grote of kleine webshops, voor eigen klantenkaarten met bijbehorende
   status, coupons, etc.
 * bedrijven en andere organisaties, voor attributen ten behoeve van
@@ -201,9 +193,10 @@ zouden verschillende attribuut uitgevers kunnen zijn, zoals:
 * ziekenhuizen en andere gezondheidsinstellingen, voor regulering van
   toegang niet alleen voor het eigen personeel, maar ook voor
   patiënten
+* blockchain initiatieven, voor authenticatie van gebruikers en hun rollen
 * militaire organisaties, voor al hun verschillende rangen,
-  compartimentalisaties, en leden van special forces van wie
-  identificerende gegevens niet onthuld worden
+  compartimentalisaties en clearances, en leden van special forces van wie
+  identificerende gegevens typisch niet onthuld worden
 * etc.
 
 Op dit moment wordt IRMA helaas nog niet zo breed geaccepteerd en
@@ -214,9 +207,10 @@ mogelijkheden.
 Als u als IRMA gebruiker een attribuut wilt ontvangen van zo'n
 uitgever moet u zich eerst op een of andere wijze authenticeren
 (bewijzen wie u bent). Vervolgens kan de uitgever bij u horende
-attributen in het eigen systeem opzoeken en aan jouw IRMA app geven,
+attributen in het eigen systeem opzoeken en aan uw IRMA app geven,
 voorzien van een digitale handtekening. Concreet: om de attributen van
 uw bank in uw IRMA app te krijgen moet u eerst inloggen bij uw bank.
+Dit is precies what by [iDIN](/uitgifte-idin) gebeurt.
 
 Als uw IRMA app eenmaal een paar attributen heeft kunt u die gaan
 gebruiken voor transacties. In zulke transacties zal een andere partij
@@ -224,32 +218,42 @@ gebruiken voor transacties. In zulke transacties zal een andere partij
 is. Nadat u daar in de IRMA app expliciet toestemming gegeven heeft
 wordt dit attribuut door de app aan de webshop getoond. Via
 cryptografische berekeningen kan de webshop controleren dat het
-attribuut echt is (en niet verlopen), en ook dat het echt bij u
-hoort (of eigenlijk: bij uw telefoon). Deze vragende partij, die
-attributen van u wil zien, wordt ook wel de *controleur* genoemd.
+attribuut echt is, niet verlopen, niet gemanipuleerd, uitgegeven is
+door een specifieke uitgever, en ook dat het echt bij u hoort (of
+eigenlijk: bij uw telefoon). Deze vragende partij, die attributen van
+u wil zien, wordt ook wel de *controleur* genoemd. Er is een aparte
+[pagina](/irma-controleur) met uitleg over de rol van controleurs.
 
-Deze controleurs moeten in de IRMA app duidelijk laten zien om welke
-attributen ze vragen. U, als gebruiker moet expliciet toestemming
-geven voor het vrijgeven van die attributen. Zo ziet u steeds
-duidelijk wie wat van u wil weten. De IRMA app houdt een log bij zodat
-u later nog kunt zien welke controleur wat gevraagd heeft en wat u
-heeft laten zien. Als er controleurs zijn die buitenproportioneel veel
-informatie vragen voor een simpele transactie kunt u daarover ook een
-klacht indienen, met die IRMA loggegevens in de hand, bijvoorbeeld bij
-de Autoriteit Persoonsgegevens.
+Het zit in het IRMA systeem ingebakken dat deze controleurs in de IRMA
+app duidelijk moeten laten zien om welke attributen ze vragen. U, als
+gebruiker, moet expliciet toestemming geven voor het vrijgeven van die
+attributen. Zo ziet u steeds duidelijk wie wat van u wil weten. De
+IRMA app houdt een log bij zodat u later nog kunt zien welke
+controleur wat gevraagd heeft en wat u heeft laten zien. Als er
+controleurs zijn die buitenproportioneel veel informatie vragen voor
+een simpele transactie kunt u daarover ook een klacht indienen, met
+die IRMA loggegevens in de hand, bijvoorbeeld bij de Autoriteit
+Persoonsgegevens.
 
-Attributen zijn voorzien van een digitale handtekening van de
+(De stichting Privacy by Design houdt een minimale log bij van
+al uw transacties, zodat u eventueel misbruik kunt detecteren,
+zie de [MijnIRMA uitleg](/irma-begin/#mijnirma). Deze log geeft
+geen informatie over de attributen die zijn gevraagd en/of getoond,
+en kan niet gebruikt worden als basis voor een klacht.)
+
+IRMA Attributen zijn voorzien van een digitale handtekening van de
 uitgever.  Daarmee kan de attribuut controleur de echtheid en de
-herkomst controleren. Attributen hebben ook een geldigheidsdatum. Als
-die verlopen is moeten attributen door de gebruiker ververst worden,
-door opnieuw naar de uitgever te gaan. Dat werkt net als bij een
-paspoort, identiteitskaart, of rijbewijs: op een goed moment is het
-verlopen, en heeft u een nieuwe nodig. Het verversen van IRMA
-attributen is echter veel makkelijker: dat kan gewoon online.
+herkomst controleren. Attributen hebben een geldigheidsdatum, die ook
+door de controleur gecheckt kan worden. Als de geldigheid verlopen is
+moeten attributen door de gebruiker ververst worden, door opnieuw naar
+de uitgever te gaan. Dat werkt net als bij een paspoort,
+identiteitskaart, of rijbewijs: op een goed moment is het verlopen, en
+heeft u een nieuwe nodig. Het verversen van IRMA attributen is echter
+veel makkelijker: dat kan gewoon online.
 
 De onderstaande drie plaatjes geven een schematisch overzicht, eerst
 van het downloaden van attributen bij een uitgever, en
-vervolgens van het gebruik bij verschillende webwinkels.
+vervolgens van het gebruik bij twee verschillende webwinkels.
 <hr>
 <p align="center"><img src="../images/Transactions_IRMA_voorbereiding.png" alt="IRMA uitgever" style="width: 55%; height: 55%"/></p>
 <hr>
@@ -259,12 +263,14 @@ vervolgens van het gebruik bij verschillende webwinkels.
 <hr>
 
 Dit downloaden en tonen van attributen is een natuurlijke vorm van
-modern 'identity management'. Dit soort "regie op gegevens" of
-"personal data management" lijkt een beetje op het installeren,
-beheren en verwijderen van de verschillende apps op een telefoon of
-tablet.
+modern *identity management*. Hiermee verzamelt en onderhoudt u een
+eigen persoonlijk digitaal paspoort in uw IRMA app. Dit soort "regie
+op gegevens" of "personal data management" lijkt een beetje op het
+installeren, beheren en verwijderen van de verschillende apps op een
+telefoon of tablet.
 
 [Naar boven](#top)
+
 
 ### <a name="architectuur"></a>4. Hoe verschilt IRMA van andere authenticatie systemen als idensys en iDIN?
 

@@ -115,7 +115,7 @@ everything yourself.
 
 Suppose you wish to give customers your own attributes, belonging to
 your own organisation, such as membership numbers or specific loyalty
-statuses, like bronse, silver, gold, platina, etc. This is possible,
+statuses, like bronze, silver, gold, platinum, etc. This is possible,
 but requires some preparation.
 
 The Privacy by Design foundation runs the IRMA infrastructure. An
