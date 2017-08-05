@@ -18,12 +18,12 @@ designed. The following topics will be discussed.
  1. [What is IRMA all about?](#topic)
  2. [Why would you wish to use attributes instead of identities?](#why)
  3. [How do I obtain and use attributes?](#how)
- 4. [How does IRMA differ from authentication systems?](#architecture)
- 5. [Which values does the IRMA technology embody?](#values)
- 6. [How does IRMA work under the hood?](#hood)
- 7. [Wat zijn attribuut-gebaseerde handtekeningen?](#signature)
- 8. [Wat zijn de nadelen van IRMA?](#nadelen)
- 9. [Hoe kan ik meedoen of bijdragen?](#meedoen)
+ 4. [How does IRMA differ from other authentication systems?](#architecture)
+ 5. [How does IRMA work under the hood?](#hood)
+ 6. [Which values does the IRMA technology embody?](#values)
+ 7. [What are attribute-based signatures?](#signature)
+ 8. [What are IRMA's disadvantages?](#disadvantages)
+ 9. [How can I participate or contribute?](#contribute)
 
 These questions will be addressed one by one below. Elsewhere there
 are shorter explanations, for [IRMA app users](/irma-start) and for
@@ -292,7 +292,7 @@ bit like installing and removing apps on your phone or tablet.
 [To the top](#top)
 
 
-### <a name="architecture"></a>4. How does IRMA differ from authentication systems?
+### <a name="architecture"></a>4. How does IRMA differ from other authentication systems?
 
 IRMA differs in essential ways from other identity management systems,
 such as [Facebook
@@ -322,11 +322,11 @@ which data about you website X receives from Facebook.
 
 Many identity management systems are organised in such a *centralised*
 manner. This is commercially most interesting for the providers of the
-identity management system: they can not only build up a profile of
-all users --- who logs in where and when with which data --- but they
-can also charge the relying party for each authentication action,
-precisely because they are in the middle, and all communication goes
-through their systems.
+identity management system: they can not only build up and sell
+profiles of all users --- who logs in where and when with which data
+--- but they can also charge the relying party for each authentication
+action, precisely because they are in the middle, and all
+communication goes through their systems.
 
 Another clear example is the iDIN authentication system that banks in
 the Netherlands have set up. When you authenticate via iDIN, your bank
@@ -346,16 +346,16 @@ The difference between a decentralised (IRMA) and centralised
 <p align="center"><img src="../images/Transactions_all_lowres.png" alt="overzicht" style="width: 100%; height: 100%"/></p>
 
 It may be clear that in the non-IRMA set-up the issuer of attributes
-is a privacy hotspot who facilitates and sees all
+is a *privacy hotspot* who facilitates and sees all
 transactions. Moreover, in the centralised architecture a (malicious)
 issuer can completely take over your identity and impersonate you. You
 have no way to stop this, or even notice it --- until possibly later
 when you are confronted with the consequences. In the decentralised
 IRMA set-up you have genuine control over the usage of your own
-attributes: you disclose your own attributes yourself, only after
-explicit consent, without (unnecessary) interference of third parties.
-This is similar to the way you can disclose your (physical) passport
-yourself, without dependence on others.
+attributes: you directly disclose your own attributes yourself, every
+time only after explicit consent, without (unnecessary) interference
+of third parties.  This is similar to the way you can disclose your
+(physical) passport yourself, without dependence on others.
 
 In the IRMA system there are no such *privacy hotspots*. At a
 meta-level, IRMA does involve some level of coordination about how
@@ -366,7 +366,7 @@ not see at all which attributes are used where.
 
 The Privacy by Design foundation does not monopolise IRMA and its
 technology. The software is open source and is freely available, for
-everyone to use. Also other parties can play the coordinating and
+everyone to use. Also other parties can play the coordinating and/or
 issuing roles that the foundation is playing at this stage.  In fact,
 it would be better if [iDIN](/issuance-idin) or the [BIG
 register](/issuance-big) would directly issue IRMA attributes
@@ -379,118 +379,129 @@ in the case of iDIN providing attributes for IRMA. IRMA can best be
 used for applications where privacy plays a (big) role and where
 attributes are needed that can not be organised easily in a
 centralised manner, for instance because of legal restrictions or lack
-of trust among users. IRMA can also handle "temporary" attributes,
-like an entry ticket for a concert, containing the name, date and
-location of the concert. In principle, you can buy such a ticket
-online and download it as attribute to your IRMA app. At the entrance
-of the concert the ticket can be shown and verified, and subsequently
-deleted.
-
+of trust in central storage among users. IRMA can also handle
+"temporary" attributes, like an entry ticket for a concert, containing
+the name, date and location of the concert. In principle, you can buy
+such a ticket online and download it as attribute to your IRMA app. At
+the entrance of the concert you can disclose the ticket for
+verification, and subsequently delete it from your phone. (Such
+tickets are strictly personal non-transferrable, because they are
+cryptographically connected to your own personal IRMA app.)
 
 A subtle point is wheter IRMA outperforms centralised architectures
 since such architectures intrinsically have a single-point-of-failure;
 if it goes down all authentication is disabled. In fact, IRMA also
-involves a small central component, as will be explained in more
-detail [next](#hood), so that users can inspect and disable their
-usage. This central component plays a role in each attribute
-disclosure and issuance. Hence it is a single-point-of-failure too.
+involves a small central *keyshare* component, as will be explained in
+more detail [next](#hood), so that users can inspect and disable their
+usage, if needed. This central component plays a role in each
+attribute disclosure and issuance. Hence it is a
+single-point-of-failure too.
 
 
 [To the top](#top)
 
 
-
-
 ### <a name="hood"></a>5. How does IRMA work under the hood?
 
-Met iets meer technische details zal hier uitgelegd worden waarom IRMA
-privacy-vriendelijk en goed-beveiligd is. IRMA is gebaseerd op
-geavanceerde cryptografie, voor attribuut-gebaseerde credentials.
-Deze credentials zijn containers met daarin een aantal attributen,
-voorzien van een geldigheidsdatum en een digitale handtekening. De
-onderliggende cryptografie is gebaseerd op
-[Idemix](http://www.research.ibm.com/labs/zurich/idemix/) dat vanaf
-eind jaren negentig bij IBM in Zürich is ontworpen.  De
-technologie is *open*. Er is uitgebreid over gepubliceerd in de
-wetenschappelijke literatuur. Dit geeft vertrouwen.
+This section overlaps to some extend with the
+[explanations](/irma-start) for getting started with IRMA, especially
+its last part about [registration](/irma-start/#hood).
 
-IBM stelt een implementatie van Idemix gratis beschikbaar.  De
-stichting Privacy by Design heeft een andere, eigen, onafhankelijke,
-open source [implementatie](https://credentials.github.io/) die door
-iedereen bekeken en gecontroleerd kan worden. Ook dit geeft
-vertrouwen, niet alleen in de juiste werking van het system, maar ook
-om te kunnen controleren dat er geen stiekeme achterdeurtjes in
-zitten. Deze eigen implementatie is gezamenlijk eigendom van de
-stichting en de Radboud Universiteit, waar in eerste instantie deze
-implementatie ontwikkeld is.
+Technical details of IRMA will be given below, explaining why IRMA
+works in a privacy-friendly and secure manner. IRMA is based on
+non-trivial cryptography for attribute-based credentials. These
+credentials are containers for attributes, equipped with an expiry
+date and a digital signature, produced by the issuer.  The underlying
+cryptography is based on
+[Idemix](http://www.research.ibm.com/labs/zurich/idemix/), which has
+been developed since the late nineties at IBM Zürich. The technology
+is *open* and has been published in the scientific literature. This
+contributes to confidence.
 
-Zoals gezegd worden attributen in groepjes gecombineerd in een
-credential. Bijvoorbeeld, u kunt een credential hebben met de
-volgende attributen.
+IBM has made its only implementation of Idemix publicly available,
+free of charge. The Privacy by Design foundation has developed its
+own, different, independent, open source [IRMA
+implementation](https://credentials.github.io/). The rights on this
+IRMA implementation are jointly in the hands of the foundation and
+Radboud University --- where the initial parts of the implementation
+were developed.
 
-* nationaliteit
-* geboorteplaats
-* geboortedatum
+As mentioned, individual IRMA attributes are combined in a credential.
+For instance, you can have a credential containing the following
+attributes.
 
-Zo'n credential kan bijvoorbeeld uitgegeven worden door de gemeente,
-of door de rijksoverheid, via
-[mijnoverheid.nl](https://mijn.overheid.nl). U kunt de verschillende
-attributen in zo'n credential los van elkaar, maar ook in
-verschillende combinaties tonen. In het voorbeeld kunt u laten zien
-wat uw nationaliteit is, zonder te onthullen waar of wanneer u
-geboren bent. In het engels heet dit *selective disclosure*.
+* nationality
+* place of birth
+* date of birth.
 
-De partij die credentials uitgeeft heet een *uitgever*. Bij de
-uitgifte zet de uitgever een zogenaamde *blinde* handtekening. Het
-resultaat daarvan is dat de uitgever na uitgifte van een credential
-niet kan nagaan waar dit credential gebruikt wordt, zelfs niet als de
-uitgevers samenspant met alle controleurs. De stichting heeft open
-source software [beschikbaar](https://credentials.github.io/) voor het
-vervullen van zo'n uitgever rol.
+Such a credential may for instance be issued by the (local or
+national) authorities. You, as user, can decide, per transaction, to
+disclose any subset of these attributes. In the above example, you can
+for instance disclose your nationality, without revealing where or
+when you were born. This is *selective disclosure* property is the
+basis of IRMA's privacy by design.
 
-De partij die een of meerdere attributen, uit een of meerdere
-credentials, controleert heet een *controleur*. Zo'n controleur
-controleert een aantal dingen:
+The party that offers such credentials according to the IRMA protocols
+is called an *issuer*. During the issuing process, the issuer puts
+a so called *blind* digital signature on the credential. This has
+two important consequences.
 
-* zijn de attributen nog geldig (niet verlopen)?
-* klopt de digitale handtekening op de credentials, en daarmee de
-  integriteit en de authenticiteit van de attributen?
-* zijn de credentials afkomstig van een uitgever die de controleur voldoende
-  vertrouwt voor deze transactie?
-* indien er attributen uit meerdere credentials getoond worden: behoren ze tot
-  dezelfde persoon.?
+1. By checking this signature, verifiers can check the origin and
+   integrity of the credential. The latter means that they can check
+   that no-one has tampered with the (contents of the) credential.
+2. By the *blindness* of the signature, issuers do not see the
+   ultimate form of the signed credential, and hence can not trace its
+   usage, even if the issuer colludes with verifiers. This property is
+   called *issuer untraceability*.
 
-Ook voor deze controleur-rol heeft de stichting open source gratis
-[software](https://credentials.github.io/). Een webwinkel kan daarmee
-zelf attributen controleren.  Kleinere webwinkels zullen die controle
-misschien liever aan andere derde partijen uitbesteden, net zoals ze
-betalingen vaak uitbesteden. Dat kan ook, maar is minder goed voor de
-privacy omdat deze externe controlerende partijen veel attributen te
-zien krijgen. Zo'n derde partij kan met deze dienst mogelijk geld
-verdienen.
+The Privacy by Design foundation has freely available open source
+[software](https://credentials.github.io/) for issuing credentials.
 
-Credentials zijn cryptografisch aan de telefoon, en aan elkaar,
-gebonden via een persoonlijke geheime cryptografische sleutel. Die
-geheime sleutel is cruciaal voor de beveiliging en dient goed
-beschermd opgeslagen te worden.  Dat is moeilijk om op een telefoon te
-doen, omdat een telefoon ge-root of gehackt kan worden. Daarom wordt
-de geheime sleutel bij IRMA voor een klein, maar cruciaal deel buiten
-de telefoon opgeslagen op een zogenaamde *keyshare-server*. De IRMA
-PIN code wordt door de keyshare-server gecontroleerd. Alleen als die
-PIN klopt, zal de server meedoen en kunnen attributen getoond
-worden. De keyshare-server krijgt de attributen die je vrijgeeft niet
-te zien, en ook niet aan wie je ze vrijgeeft.
+The party that checks one or more attributes, from one or more
+credentials, is called a *verifier* (or sometimes also *relying
+party*). Such a verifier checks a number of things:
 
-Deze geheime persoonlijke sleutel, en dus de medewerking van de
-keyshare-server, is nodig bij iedere IRMA-handeling zoals het
-ontvangen en tonen van attributen. Zolang mijn sleutel bij mij blijft,
-kunnen mijn attributen niet door anderen gebruikt worden. Daarmee zijn
-attributen niet overdraagbaar.
+* whether the attributes are still valid (not expired)?
+* is the digital signature valid, so that the origin (authenticity)
+  and integrity of the credential is guaranteed?
+* do the attributes come from an issuer that the verifier trusts
+  sufficiently? For instance, a verifier may trust a name attribute if
+  it has been issued by national authorities, but not when it has been
+  issued by Google, say.
+* when attributes are disclosed from different credentials: do they
+  belong to the same person?
 
-(Natuurlijk kan iemand zowel de eigen telefoon als de PIN van de IRMA
-app aan iemand anders geven.  Dat is bijzonder onverstandig. Als u
-zoiets doet kan die ander zich als u voordoen, en allerlei nare dingen
-in uw naam doen, waarvoor u de rekening krijgt.)
+The Privacy by Design foundation has freely available open source
+[software](https://credentials.github.io/) also for this verifier
+role.  It allows a webshop, or other organisation, to verify
+attributes from its customers, see the [more detailed
+explanations](/irma-verifier) elsewhere. Small webshops may wish to
+outsource such attribute verifications to third parties, just like
+they often outsource payment processing. This is possible, but is not
+ideal for privacy, since these external verifiers see many
+attributes. Such a third party may offer IRMA attribute verification
+as a commercial service.
+
+Credentials are cryptographically bound to a mobile phone, and to each
+other, via a personal secret cryptographic key. This private key is
+crucial for the security of the IRMA app; it must be stored securily.
+Such secure local storage is difficult on a mobile phone, since the
+device may be rooted or hacked. That is why a small but crucial part
+of this private key is stored outside the phone on a so-called
+*keyshare-server* that is operated by the Privacy by Design
+foundation. The IRMA PIN code is checked by the keyshare server, see
+the [more detailed explanations](/irma-start/#hood) elsewhere.  Only
+when the PIN checks out, will the server participate with its own
+small part of the secret personal key, and can attributes be
+disclosed. The keyshare sever will not see the attributes themselves,
+nor to whom they are disclosed.
+
+This entire secret personal cryptographic key, and thus the
+cooperation of the keyshare server, is necessary for each IRMA
+operation, such as receiving and disclosing of attributes. As long as
+my key stays under my control, my attributes cannot be used by
+others. Thus, my attributes cannot be transferred to other user IRMA
+users --- unless I somehow also transfer my secret key.
 
 
 [To the top](#top)
@@ -507,14 +518,16 @@ for proportional and contextual authentication that empowers, instead
 of weakens, users.  
 
 IRMA works via freely available open source software. Everyone can
-inspect and judge how it works. This transparancy is essential for
-broad voluntary usage and acceptance of sensitive infrastructure, like
-for authentication.  With IRMA there is no commerical lock-in, and
-there is no extorted trust. Even if the foundation somehow goes down,
-the software will still be there and can be maintained and continued
-by others.
+inspect and judge how it works. This contributes to confidence, not
+only in the proper functioning of the IRMA system, but also in order
+to check that there are no hidden backdoors in the system.  Such
+transparancy is essential for broad voluntary usage and acceptance of
+sensitive ICT-infrastructure, like for authentication. With IRMA there
+is no commerical lock-in, and there is no extorted trust. Even if the
+foundation somehow goes down, the IRMA software will still be there
+and can be maintained and continued by others.
 
-Thus, IRMA is not about plundering or deceiving your users, or about
+Thus, IRMA is not about plundering or deceiving users, or about
 surreptitiously steering them commercially or politically, but about
 encountering them transparantly, respectfully and with dignity.
 
@@ -529,122 +542,113 @@ on top of TCP/IP.
 [To the top](#top)
 
 
-### <a name="signature"></a>7. Wat zijn attribuut-gebaseerde handtekeningen?
+### <a name="signature"></a>7. What are attribute-based signatures?
 
-IRMA is primair een systeem voor attribuut-gebaseerde authenticatie: u
-kunt met IRMA selectief attributen van uzelf laten zien. Maar IRMA
-biedt nog meer, namelijk attribuut-gebaseerde digitale handtekeningen.
-Dit verkeert echter nog in experimentele fase.
+IRMA is primarily a system for attribute-based authentication: with
+IRMA you can selectively disclose attributes about yourself. But IRMA
+offers more, namely attribute-based digital signatures. This is still
+in an experimental phase.
 
-Met een *traditionele* "natte" handtekening verklaart een
-ondertekenaar zich akkoord met de inhoud van het ondertekende
-document. Zo'n traditionele handtekening omvat typisch de naam van de
-ondertekenaar, het tijdstip van ondertekening, en de handgeschreven,
-eigen "krabbel".
+With a *traditional* "wet" signature a signer agrees to the content of
+a signed document. Such a traditional signature typically includes
+the name of the signer, the date/time of signing, and the signer's
+handwritten "scribble".
 
-Een *digitale* handtekening is een toevoeging aan een digitaal
-document die alleen gegenereerd kan worden met de persoonlijke
-(cryptografische) sleutel van de ondertekenaar. Deze persoonlijke
-*private* sleutel is aan een persoon gebonden via een certificaat,
-waarin de bijbehorende *public* key opgenomen is. Digitale
-handtekeningen die aan bepaalde eisen voldoen worden wettelijk
-geaccepteerd.
+A *digital* signature is an addition that is attached to a digital
+document that can be generated exclusively with the personal
+(cryptographic) key of the signer. This personal *private* key is
+strongly bound to an individual via a certificate that contains the
+associated public key. Digital signatures that satisfy certain
+requirements have a legal status.
 
-Een groot nadeel van zowel traditionele als huidige digitale
-handtekeningen is dat ze weinig informatie geven over wie nu precies
-de handtekening zet, in welke rol.
+A big disadvantage of both tranditional and current digital signatures
+is that they give very little information about who precisely signs,
+in which capacity.
 
-Een attribuut-gebaseerde handtekening is een speciale digitale
-handtekening waarbij in de toevoeging aan het document ook een aantal
-attributen van de ondertekenaar opgenomen worden. Deze attributen zijn
-zichtbaar voor eenieder die de handtekening controleert. Zo kunt u
-bijvoorbeeld zien dat een bepaalde ziekteverklaring ondertekend is
-door een arts, via het "arts" attribuut, eventueel gecombineerd met de
-medische specialisatie of met het BIG nummer, als attribuut. Een ander
-voorbeeld is een verzoek van een burger aan de overheid, zeg over een
-vergunning, dat ondertekend is met het eigen BSN attribuut. Daarmee
-herkent de overheid direct dat dit verzoek daadwerkelijk van een
-bepaalde burger afkomstig is. Ook betaalopdrachten kunnen via een
-attribuut-gebaseerde handtekening gerealiseerd worden, door het
-rekeningnummer van de ondertekenaar als attribuut in de handtekening
-te stoppen.
+An attribute-based signature is a special digital signature in wich
+the attachment to the document securely contains a number of
+attributes of the signer. These attributes are visible to everyone who
+checks the signature. In this way you can see for instance that a
+written account of ilness has actually been signed by a medical
+doctor, via the "medical doctor" attribute, possibly combined with the
+signer's medical specialisation. Another example is a request from a
+citizen to the authorities, say about some permit, which is signed
+with the citizen's own national registration number included as
+attribute. In this way the authorities recognise that the request
+really comes from a particular citizen. Also payment orders can be
+realised via attribute-based signatures, by including the bank account
+number of the signer as attribute in the signature.
 
-Attribuut-gebaseerde handtekeningen worden door IRMA software
-ondersteund, vooralsnog in experimentele vorm. Deze vorm moet nog
-uitkristalliseren in toepassingen. Attribuut-gebaseerde handtekeningen
-vormen een nieuw concept met ongekende toepassingsmogelijkheden.
-
+Attribute-based signatures are supported by the IRMA software, but for
+the time being only in experimental form. This form still has to
+crystallise into applications. Attribute-based signatures form a novel
+concept with unprecented application possiblities.
 
 [To the top](#top)
 
 
-### <a name="nadelen"></a>8. Wat zijn de nadelen van IRMA?
+### <a name="disadvantages"></a>8. What are IRMA's disadvantages?
 
-Het belangrijkste voordeel van IRMA is: de gebruiker beheert en
-controleert zelf zijn/haar eigen attributen. Maar dat is
-tegelijkertijd ook een nadeel: de gebruiker moet dat wel zelf actief
-doen. Dat vergt enige inspanning, en ook enig begrip van hoe het werkt
-en wat er precies gedaan moet worden.
+The most important advantage of IRMA is: the user maintains and fully
+controls his/her own attributes. But this is at the same time a
+disadvantage: an IRMA user will have to do this actively.  This
+requires some effort, and also some level of understanding how IRMA
+works and what has to be done.
 
-Uw identiteit is een kostbaar bezit waar u ook in de digitale wereld
-zeer zorgvuldig mee om moet gaan. Dat moeten we met z'n allen nog
-leren. Met IRMA wordt duidelijk waar welke attributen van u voor
-nodig zijn. U moet die attributen eerst in uw telefoon zetten voordat
-u ze kunt gebruiken. En als attributen verlopen zijn moet u ze
-verversen. En als u uw telefoon vervangt, moet u uw attributen
-weer opnieuw ophalen voordat u weer online kunt inloggen.  Dat is
-allemaal "gedoe" dat hoort bij een zorgvuldige omgang met uw
-digitale identiteit.  IRMA geeft u zelf regie en helpt u erbij om
-net zo zorgvuldig in de online wereld met u IRMA app om te gaan als
-u in de offline wereld met uw paspoort omgaat.
+Your identity is a very valuable asset, which you have to handle with
+care in the digital world. This is something we still have to learn
+collectively. With IRMA it becomes transparent which of your
+attributes are requested where. You first have to load those
+attributes into the IRMA app on your mobile phone. And when these
+attributes expire, you will have to renew them. And when you replace
+your phone itself, you will have to reload all your attributes into
+(the IRMA app on) your new device. All of this is a "hassle", which is
+part of careful dealing with your digital identity. IRMA puts you in
+control and helps you to handle your digital identity with the same
+care that you have for your passport.
 
-Dit zijn (mogelijk) nadelen voor gebruikers. Een "systeem" nadeel van
-IRMA is dat er niet op de traditionele manier geld aan te verdienen
-is: IRMA gebruikers kunnen niet door attribuut uitgevers of
-geprofileerd worden, en er zijn ook geen centrale partijen die voor
-iedere authenticatie een prijs kunnen vragen. Voor gebruikers is dat
-misschien juist weer een voordeel.
+These are (possible) disadvantages for users. A "system" disadvantage
+is that the traditional intermediary way of making money does not work
+with IRMA: users cannot be profiled by attribute issuers, and there
+are no third parties that have to be payed for each authentication
+session, see [above](#architecture). For IRMA users this may actually
+be an advantage.
 
-Echter, met het IRMA ecosysteem is wel degelijk economisch
-levensvatbaar. Het uitgeven en controleren van attributen kan een
-commerciële dienst zijn, die door derde partijen tegen betaling
-uitgevoerd wordt. Ook kan voor de uitgifte van speciale attributen,
-bijvoorbeeld voor een bepaalde beroepsgroep, geld gevraagd worden van
-de IRMA gebruiker. Mogelijk zal de stichting Privacy by Design om de
-eigen activiteiten mogelijk te maken in de toekomst ook een prijs
-vragen, bijvoorbeeld per gebruiker een euro per jaar, voor een basis
-set attributen.
-
+However, the IRMA ecosystem is economically viable. Issuance and
+verification of attributes may form a commercial service, which can be
+performed by third parties. Also, the Privacy by Design foundation may
+issue certain specialised credentials for a fee. Possibly, in order
+to maintain its activities in the long-term future, the foundation may
+start charging IRMA users, for instance a couple of Euros per year,
+for a basic set of attributes.
 
 
 [To the top](#top)
 
-### <a name="meedoen"></a>9. Hoe kan ik meedoen of bijdragen?
+### <a name="contribute"></a>9. How can I participate or contribute?
 
-IRMA is een systeem dat van onderaf opgebouwd wordt en niet van
-bovenaf opgelegd. IRMA zal zich moeten bewijzen via overtuigende
-toepassingen. Daar wordt nu door verschillende partijen aan gewerkt.
+IRMA is an ecosystem that is being built up from below, and is not
+imposed from above. IRMA will have to prove itself, via convincing
+applications. Several parties are currently working on this.
 
-Hecht u aan zorgvuldige privacy-vriendelijke omgang met uw klanten,
-gebruikers of patiënten, en heb je een goed idee voor een
-toepassing van IRMA, bijvoorbeeld bij u in de webwinkel of binnen
-uw organisatie, neem dan [contact](/contact) op met de stichting
-Privacy by Design. Wat de stichting kan doen is bijvoorbeeld:
+Do you value careful, privacy-friendly interaction with your
+customers, and do you have a good idea for an IRMA application,
+for instance in your webshop or within your organisation, do
+[contact](/contact-en) the Privacy by Design foundation.
+For instance, the foundation can:
 
-* adviseren bij de organisatie van attributen voor de beoogde
-  toepassing;
-* adviseren bij het gebruik van de open source software van de stichting;
-* zonodig uitbreiden van deze software voor een optimale inzet bij deze
-  toepassing; deze uitbreidingen zullen dan in principe ook als open
-  source software voor anderen beschikbaar zijn.
+* advice about the organisation of attributes for the intended application;
+* advice about the usage of the open source software of the foundation;
+* possibly extend this software for optimal use within your
+  application; such extensions will in principle also be open source
+  and be available for others.
 
-De stichting zal voor dergelijke ondersteuning een nader te bepalen
-financiële bijdrage verwachten, om de eigen activiteiten in stand
-te houden. De stichting is een non-profit organisatie, zonder
-commerciële doelstelling.
+The foundation may aks a to-be-determined financial contribution for
+such advice, in order to maintain its own activities. The foundation
+is a not-for-profit organisation, without commercial targets.
 
-Ook als u geen concrete toepassing voor ogen hebt, maar wilt bijdragen
-aan het IRMA gedachtengoed, door uw inzet of door een financiële
-bijdrage, staan wij open voor [contact](/contact).
+Even if you do not have a concrete application in mind, but wish to
+contribute to the IRMA development, via your efforts or via a
+financial contribution, do [get in touch](/contact-en).
 
 [To the top](#top)
