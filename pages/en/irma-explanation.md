@@ -273,8 +273,8 @@ for passports, identity cards, or driver's licenses: at some stage
 they expire, and you need to get it re-issued. Refreshing of IRMA
 attributes is much simpler, however, since it can be done online.
 
-The three pictures below give a schematic overview, first of 
-downloading attributes at an issuer, and subsequently, of 
+The three pictures below give a schematic overview, first of
+downloading attributes at an issuer, and subsequently, of
 using attributes at two different webshops.
 <hr>
 <p align="center"><img src="../images/Transactions_IRMA_voorbereiding.png" alt="IRMA uitgever" style="width: 55%; height: 55%"/></p>
@@ -452,7 +452,7 @@ two important consequences.
 2. By the *blindness* of the signature, issuers do not see the
    ultimate form of the signed credential, and hence can not trace its
    usage, even if the issuer colludes with verifiers. This property is
-   called *issuer untraceability*.
+   called *issuer unlinkability*.
 
 The Privacy by Design foundation has freely available open source
 [software](https://credentials.github.io/) for issuing credentials.

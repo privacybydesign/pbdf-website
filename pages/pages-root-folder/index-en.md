@@ -28,7 +28,7 @@ widget3:
 
 ### Privacy by Design Foundation
 
-The Privacy by Design foundation set-up in 2016. It arose from the
+The Privacy by Design foundation was set-up in 2016. It arose from the
 [Digital Security](http://www.ru.nl/ds/) research group of the Radboud
 University and from the Privacy and Identity Lab
 [PI.lab](http://www.pilab.nl).  The foundation is an independent

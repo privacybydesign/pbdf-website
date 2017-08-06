@@ -57,7 +57,7 @@ gevraagd om twee dingen in te typen:
  * een PIN code van 5 cijfers
 
 Het email adres wordt zonodig gebruikt om contact met u te houden over
-jouw gebruik van IRMA. Het adres wordt niet met anderen gedeeld. U
+uw gebruik van IRMA. Het adres wordt niet met anderen gedeeld. U
 zult maar heel af en toe een berichtje op dit adres krijgen. Gebruik
 wel een adres dat echt (en exclusief) van u is en dat u nog lang zult
 gebruiken. U krijgt direct een eerste mailtje op dit adres met een
