@@ -27,12 +27,12 @@ Deze pagina geeft antwoord op de volgende vragen.
 The next diagram summarises the initial steps, when you wish to start
 using IRMA.
 
-<p align="center"><img src="../images/Registratie_Stappenplan.png" alt="IRMA uitgever" style="width: 50%; height: 50%"/></p>
+<p align="center"><img src="../images/Registratie_Stappenplan_en.png" alt="IRMA issuer" style="width: 50%; height: 50%"/></p>
 
 It is wise to take a bit of time for this, since these steps require
 some care and attention. You are about to make a digital identity for
 yourself, which you can use in principle for a long time, for
-sensitive personal matters, such as logging in, or digital
+sensitive personal matters such as logging in or digital
 signing. This is a bit like applying for, and collecting, a passport.
 But such a passport requires much more time and effort, for instance
 because you have to visit your local authorities (twice). Just like a
@@ -98,7 +98,7 @@ issuing and receiving of attributes works.
    on your phone and touch the "scan banner" at the top of the
    app. This starts the camera of phone, so that you can scan the QR
    code. Having done so, the app asks you if you wish to accept your
-   email address as new attribute in your app on your phone. 
+   email address as new attribute in your app on your phone.
 
  * When you open the webpage in a browser on your phone itself and
    press the "Email Issue" button, the IRMA app on your phone opens
@@ -112,7 +112,7 @@ After registration you can try out the [IRMATube demo](/demo/irmaTube).
 
 It is possible to receive more attributes, in addition to your email
 address. You can do this immediately upon registration, but also
-later. To do so, please visit the [IRMA issuance](/issance) page.
+later. To do so, please visit the [IRMA issuance](/issuance) page.
 There you will see several possiblities to load additional attributes.
 This list of possibilities is not fixed, and will grow in the future,
 as more parties join IRMA. At this stage the focus is on attributes
@@ -147,7 +147,7 @@ possibilities.
   attributes. However, it is not possible to see which attributes are
   involved: to which verifier you have revealed attributed, or from
   which issuer you have received attributes. The foundation does not
-  want to know these matters, and therefor does not register them, and
+  want to know these matters, and therefore does not register them, and
   cannot show them to you. This is a consequence of the *privacy by
   design* character of IRMA.
 
@@ -159,7 +159,7 @@ possibilities.
 
 * At the MyIRMA webpage you can disable (block) further usage of your
   IRMA app. Of course, you can do this at any moment when you no
-  longer wish to use IRMA. But, in addition, it is important to be
+  longer wish to use IRMA. In addition, however, it is important to be
   able to pull this "emergence brake" when your phone has been stolen,
   so that no-one else can abuse your identity.
 
@@ -176,7 +176,7 @@ Logging into the MyIRMA webpage can be done in two ways:
    which gives you access to your account.
 
 The latter, second option can always be used, especially when your
-phone is stolen --- and the first option is not available. When you
+phone is stolen (in which case the first option is not available). When you
 read your email on another device, you can login from there into
 MyIRMA and disable your account.
 
@@ -222,13 +222,13 @@ by then, you have already done this yourself.
 
 To summarise: the MyIRMA server offers additional protection and
 inspection, but cannot do anything on its own --- except disable.  The
-Privay by Design foundation operates the MyIRMA server in order enable
+Privacy by Design foundation operates the MyIRMA server in order enable
 the usage of IRMA. In principle, other parties can run such a server
 too.
 
 The MyIRMA server also helps to protect your PIN code. In general, it
 is unwise to store a PIN inside an app on a phone, because it could
-possibly be extracted when your phone is hacked. Therefor, the IRMA
+possibly be extracted when your phone is hacked. Therefore, the IRMA
 app does not store your PIN locally. Instead, it stores a large
 arbitrary number, called a *nonce*. Also the MyIRMA server does not
 know your PIN, but upon registration it receives from your app the
@@ -255,7 +255,7 @@ for personalisation of your IRMA app. On the other hand, it operates
 the MyIRMA server, for inspection of your own IRMA usage and for
 possibly blocking your account.
 
-<p align="center"><img src="../images/Rollen_Stichting.png" alt="IRMA
+<p align="center"><img src="../images/Rollen_Stichting_en.png" alt="IRMA
 uitgever" style="width: 70%; height: 70%"/></p>
 
 Initially, the foundation is the only issuer of IRMA

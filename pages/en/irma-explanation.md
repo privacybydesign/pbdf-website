@@ -8,7 +8,6 @@ permalink: /irma-explanation/
 language: en
 translations:
   nl: /irma-uitleg
-teaser: This page has not yet been translated.
 ---
 
 <a name="top"></a> This page explains the ideas behind the IRMA
@@ -48,7 +47,7 @@ privacy-protection is intrinsic to the system, which is called
 regulation such privacy by design is legally required for new
 ICT-systems.
 
-Apart from instrinsic privay-protection, IRMA also protects against
+Apart from instrinsic privacy-protection, IRMA also protects against
 identity fraud: if your name and date of birth are not revealed at
 all, they cannot be abused.
 
@@ -403,7 +402,7 @@ single-point-of-failure too.
 
 ### <a name="hood"></a>5. How does IRMA work under the hood?
 
-This section overlaps to some extend with the
+This section overlaps to some extent with the
 [explanations](/irma-start) for getting started with IRMA, especially
 its last part about [registration](/irma-start/#hood).
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Letting users log in on my website using IRMA
-meta_title: IRMA controleur
+meta_title: IRMA verifier
 teaser: I operate a webpage where I would like my customers to log in. How can I do that with IRMA? What are the costs?
 header:
   image_fullwidth: header_unsplash_1.jpg
@@ -56,7 +56,7 @@ Maybe you yourself, see [below](#issue).
 In the current initial phase, only relatively simple, general
 attributes are available, like name, email address, phone number, home
 address, age limits (below 16, or 18, or 65), or student. This can
-already be very useful, in many situations, for instance in order to
+already be very useful in many situations, for instance in order to
 give discounts to special groups of users (students, the elderly), and
 bind them to you in this manner. But this can also be useful to obtain
 certainty about an address for delivery.
@@ -71,7 +71,7 @@ But please be careful: upon loging into your website with IRMA, your
 customers must explicitly agree to reveal these attributes to you.
 When you ask too many, non-relevant or non-neccessary, attributes, you
 may scare away (potential) customers. An important idea underlying
-IRMA is that only strictly necessary attributes are requested at
+IRMA is that only strictly necessary attributes should be requested at
 login. European privacy laws require *data minimalisation* and
 *purpose binding*, so that you are allowed to process only those
 personal data of your customers that are strictly necessary for the
@@ -102,7 +102,7 @@ are several ways to deploy this software.
 The Privacy by Design foundation will not offer attribute verification
 services. The foundation focuses on operating the IRMA infrastructure
 and on issuing a basic set of attributes. In the current initial phase
-the foundation can offer advise, but it will not do this
+the foundation can offer advice, but it will not do this
 free-of-charge. For more information, feel free to [get in
 touch](/contact-en).
 
@@ -123,12 +123,12 @@ important part of this work is keeping a register of all possible
 attributes. This register must provider transparancy and clarity,
 so that each user knows the meanings of the various attributes.
 New attributes must become part of this register. It requires
-[contact](/contact-en) with the foundation. The foundation does have
-a charge for (continued) registration of new attributes.
+[contact](/contact-en) with the foundation. The foundation will
+charge for (continued) registration of new attributes.
 
 Once this has been organised, there are several ways to actually issue
 attributes to your customers. This involves providing these attributes
-with a digital signature. Also for this purpose open source software
+with a digital signature. For this purpose as well open source software
 is freely available. There are several options.
 
  * You can do this yourself, in case you possess sufficient
@@ -156,9 +156,9 @@ The Privacy by Design foundation is a non-profit
 organisation. However, if it comes to large scale usage of IRMA, it is
 important that the foundation has a stable financial position in order
 to maintain the IRMA infrastructure. As described above, the
-foundation does ask money for certain activities (advise, issuing of
+foundation does ask money for certain activities (advice, issuing of
 attributes, software adaptations). In addition, the foundation depends
-on subsedies and support of third parties.
+on subsidies and support of third parties.
 
 [To the top](#top)
 
@@ -169,8 +169,8 @@ Within the area of *identity management* different assurance levels
 for authentication are distinguished, such as "low", "middle",
 "substantial", "high". Within the IRMA ecosystem it is not
 straightforward to distinguish such levels, because they depend on
-many factors, such as for instance, the manner of authentication that
-preceeds attribute issueance. What, for instance, is the level of
+many factors, such as for instance the manner of authentication that
+preceeds attribute issuance. What, for instance, is the level of
 certainty of an email attribute that has been issued via a
 confirmation link sent to a user-provided email address?
 
@@ -197,7 +197,7 @@ this stage no liability for matters that possibly go wrong in IRMA
 usage. The foundation tries to solve (reported) problems as soon as
 possible. The responsability for IRMA usage lies entirely with the
 user (the carrier or IRMA attributes), with the verifier of
-attributes, and with issuer of attributes (if any), not being the
+attributes, and with the issuer of attributes (if any), not being the
 foundation itself.
 
 [To the top](#top)
