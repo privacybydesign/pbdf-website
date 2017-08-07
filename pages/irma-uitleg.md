@@ -501,15 +501,18 @@ mijn geheime sleutel ook afgeef.
 
 ### <a name="waarden"></a>6. Welke waarden zitten in de IRMA technologie ingebakken?
 
-Authenticatie eisen weerspiegelen de machtsverhoudingen in de
-samenleving. In het algemeen kunnen machtige partijen authenticatie
-eisen en mechanismen opleggen aan minder machtige partijen. De
-stichting Privacy by Design is sterk van doordrongen van dergelijke
-maatschappelijk relevante issues en probeert met waarden-gebaseerd
-ontwerp IRMA aan te bieden als transparant open ecosysteem voor
-proportionele en context-afhankelijke authenticatie, dat gebruikers
-een sterke, in plaats van een zwakke, positie geeft (*empowering
-users*).
+Authenticatie-eisen en informatiestromen weerspiegelen de
+machtsverhoudingen in de samenleving. In het algemeen kunnen machtige
+partijen authenticatie eisen en mechanismen opleggen aan minder
+machtige partijen. De stichting Privacy by Design is sterk van
+doordrongen van dergelijke maatschappelijk relevante issues en
+probeert met waarden-gebaseerd ontwerp IRMA aan te bieden als
+transparant open ecosysteem voor proportionele en
+context-afhankelijke authenticatie, dat gebruikers een sterke, in
+plaats van een zwakke, positie geeft (*empowering users*). Deze
+contekst-afhankelijkheid sluit aan bij [Helen
+Nissenbaum](http://www.nyu.edu/projects/nissenbaum/)'s interpretatie
+van privacy als contextuele integriteit.
 
 IRMA werkt via gratis beschikbare open source software. Iedereen kan
 zien en controleren hoe het werkt. Dit geeft niet alleen vertrouwen in
@@ -523,8 +526,19 @@ de IRMA software verder door anderen onderhouden en gecontinueerd
 worden.
 
 Dus, IRMA gaat niet over het plunderen of misleiden van gebruikers, of
-over het stiekem commerciëel of politiek sturen, maar over een
-transparante, respectvolle en waardige bejegening.
+over stiekem manipuleren in een bepaalde commerciële of politieke
+richting, maar over een transparante en waardige bejegening, die
+autonomie respecteert.
+
+IRMA is gebaseerd op eigenschappen van individuen (attributen) waarvan
+de bron expliciet zichtbaar is, namelijk in de vorm van de uitgever
+die via een digitale handtekening op de attributen instaat voor hun
+geldigheid. IRMA gaat dus over "objectieve" eigenschappen en
+kwalificaties van mensen, waarbij de objectiviteit gelegen is in de
+controleerbare herkomst van attributen. Daarmee onderscheidt IRMA zich
+van "subjectieve" reputatie-gebaseerde systemen, waarin kwalificaties
+relatief makkelijk gemanipuleerd kunnen worden en zelden herleidbaar
+zijn tot de bron.
 
 Het IRMA systeem sluit commerciële verdienmodellen zeker niet
 uit.  Maar deze commerciële activiteiten moeten *bovenop* een

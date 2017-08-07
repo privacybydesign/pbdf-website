@@ -508,13 +508,16 @@ users --- unless I somehow also transfer my secret key.
 
 ### <a name="values"></a>5. Which values does the IRMA technology embody?
 
-Authentication requirements reflect the power relations in society.
-In general, the more powerful impose authentication requirements and
-mechanisms on the less powerful. The Privacy by Design foundation is
-well aware of these societally important issues and aims to use
-value-laden design in offering IRMA as a transparant open ecosystem
-for proportional and contextual authentication that empowers, instead
-of weakens, users.  
+Authentication requirements, and information flows, reflect the power
+relations in society.  In general, the more powerful parties impose
+authentication requirements and mechanisms on the less powerful
+parties. The Privacy by Design foundation is well aware of these
+societally important issues and aims to use value-laden design in
+offering IRMA as a transparant open ecosystem for proportional and
+contextual authentication that empowers, instead of weakens,
+users. This context-dependence is related to [Helen
+Nissenbaum](http://www.nyu.edu/projects/nissenbaum/)'s interpretation
+of privacy as contextuele integrity.
 
 IRMA works via freely available open source software. Everyone can
 inspect and judge how it works. This contributes to confidence, not
@@ -528,7 +531,17 @@ and can be maintained and continued by others.
 
 Thus, IRMA is not about plundering or deceiving users, or about
 surreptitiously steering them commercially or politically, but about
-encountering them transparantly, respectfully and with dignity.
+encountering them transparantly, with dignity, respecting their
+autonomy.
+
+IRMA is based on properties of individuals (attributes) whose source
+is explicitly visible, namely in the form of the issuer who commits
+itself via digitial signatures to the validity of these attributes.
+IRMA is thus about "objective" properties and qualifications of people,
+where the objectivity lies in the verifiable origin of attributes.
+In this way IRMA distinguishes itself from "subjective" reputation-based
+systems, in which qualifications can be manipulated relatively
+easilty and their origin is seldomly transparent.
 
 IRMA does not exclude commercial activities surrounding
 authentication. But these commercial activities work best *on top of*
