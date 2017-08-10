@@ -34,8 +34,8 @@ translations:
     (authenticate).
 
     The first relevant question for you is: which attributes do I need
-    to verify about my customers when they log in? Possibly, an email
-    address or a mobile phone number suffices&#58; but may be you need
+    to verify about my customers when they log in? Possibly an email
+    address or a mobile phone number suffices, but maybe you need
     (physical) address information. More [information](/irma-verifier)
     about this is available on a separate page.
 
@@ -57,10 +57,9 @@ translations:
     that you are over 16. With IRMA you can selectively disclose only
     relevant properties (attributes) of yourself. There is an IRMA app
     that lets you store these attributes on your own mobile phone ---
-    and nowhere else. This provides you with a flexible passport, from
-    which you may or may not disclose certain parts, depending on the
-    (login) situation.
+    and nowhere else. This provides a flexible passport, from which
+    you may or may not disclose certain parts, depending on the (login)
+    situation.
 
     On a separate page [much more information](/irma-explanation) is
     available about personal attributes and about IRMA.
-

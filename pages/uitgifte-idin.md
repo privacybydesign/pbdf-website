@@ -43,7 +43,7 @@ moment aan wie uitgeven worden.
 De geldigheid van dit iDIN credential is *een jaar*. Het attribuut dat
 het meest gevoelig is voor verloop is het adres (inclusief postcode en
 plaats). Nadat de geldigheid van het iDIN credential verlopen is, moet
-de gebruiker een nieuwe versie ophalen. Dit werkt op dezelfe manier
+de gebruiker een nieuwe versie ophalen. Dit werkt op dezelfde manier
 als de eerste uitgifte van een iDIN credential, met een nieuwe login
 bij de eigen bank.
 

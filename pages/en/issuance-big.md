@@ -43,7 +43,7 @@ at what time.
 The validity period of this BIG credential is *one year*.
 
 The foundation can test the issuance mechanism of BIG credentials only
-to some extend, simply because of the limited number of available
+to some extent, simply because of the limited number of available
 BIG-registrations that the developers of the foundation can try out.
 Hence it may very well happen that unforeseen issues arise. In such a
 case your feedback is much appreciated, preferably with a clear
@@ -58,8 +58,7 @@ In the current set-up the following rules are used.
   all, the foundation cannot distinguish these individuals.
 * If someone occurs with multiple medical professions in the BIG
   register, a separate credential is created for each of these
-  professions. You can then choose, on each occasion, yourself 
+  professions. You can then choose yourself on each occasion
   which one you wish to disclose.
 
 [Back](/issuance) to attribute issuance.
-

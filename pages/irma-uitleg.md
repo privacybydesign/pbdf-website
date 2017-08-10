@@ -185,7 +185,7 @@ verschillende attribuut uitgevers kunnen zijn, zoals:
   verzekeringsnummers, soort van verzekering, etc.
 * internet service providers en telecom operators, voor:
   email-adressen, telefoonnummers en IP-nummers
-* de Facebook's / Google's / Apple's  / Amazon's / Microsoft's van deze 
+* de Facebook's / Google's / Apple's  / Amazon's / Microsoft's van deze
   wereld, voor login gegevens
 * grote of kleine webshops, voor eigen klantenkaarten met bijbehorende
   status, coupons, etc.
@@ -211,7 +211,7 @@ uitgever moet u zich eerst op een of andere wijze authenticeren
 attributen in het eigen systeem opzoeken en aan uw IRMA app geven,
 voorzien van een digitale handtekening. Concreet: om de attributen van
 uw bank in uw IRMA app te krijgen moet u eerst inloggen bij uw bank.
-Dit is precies what by [iDIN](/uitgifte-idin) gebeurt.
+Dit is precies wat bij [iDIN](/uitgifte-idin) gebeurt.
 
 Als uw IRMA app eenmaal een paar attributen heeft kunt u die gaan
 gebruiken voor transacties. In zulke transacties zal een andere partij
@@ -238,7 +238,7 @@ Persoonsgegevens.
 
 (De stichting Privacy by Design houdt een minimale log bij van
 al uw transacties, zodat u eventueel misbruik kunt detecteren,
-zie de [MijnIRMA uitleg](/irma-begin/#mijnirma). Deze log geeft
+zie de [MijnIRMA uitleg](/irma-begin/#mijnirma). Deze log bevat
 geen informatie over de attributen die zijn gevraagd en/of getoond,
 en kan niet gebruikt worden als basis voor een klacht.)
 
@@ -338,7 +338,7 @@ Duidelijk is dat in de niet-IRMA opzet de uitgever van attributen een
 heeft. Bovendien kan, in de centralistische opzet, een kwaadaardige
 uitgever in principe uw identiteit overnemen en doen alsof hij u is. U
 hebt geen manier om dat tegen te houden, of zelfs maar te merken ---
-totdat u mogelijk later met de consekwenties geconfronteerd wordt. In
+totdat u mogelijk later met de consequenties geconfronteerd wordt. In
 de gedecentraliseerde IRMA architectuur heeft u wel degelijk echte
 volledige controle over het gebruik van uw gegevens: u onthult zelf,
 rechtstreeks uw eigen attributen, iedere keer enkel na expliciete
@@ -388,7 +388,7 @@ monitoren en zonodig stop zetten. Deze centrale component speelt een
 rol bij iedere onthulling en uitgifte van attributen. Het is daarmee
 ook een single-point-of-failure.
 
-[Naar boven](#top) 
+[Naar boven](#top)
 
 
 
@@ -443,7 +443,7 @@ handtekening op een credential. Dit heeft twee belangrijke gevolgen.
    vorm van het credential niet. Daarom kan een uitgever na uitgifte
    van een credential niet nagaan waar dit credential allemaal gebruikt
    wordt, zelfs niet als de uitgever samenspant met alle controleurs.
-   Dit heet *issuer untraceability*.
+   Dit heet *issuer unlinkability*.
 
 De stichting heeft open source software
 [beschikbaar](https://credentials.github.io/) voor het vervullen van
@@ -501,14 +501,14 @@ mijn geheime sleutel ook afgeef.
 
 ### <a name="waarden"></a>6. Welke waarden zitten in de IRMA technologie ingebakken?
 
-Authenticatie eisen en informatie stromen weerspiegelen de
+Authenticatie-eisen en informatiestromen weerspiegelen de
 machtsverhoudingen in de samenleving. In het algemeen kunnen machtige
 partijen authenticatie eisen en mechanismen opleggen aan minder
 machtige partijen. De stichting Privacy by Design is sterk van
 doordrongen van dergelijke maatschappelijk relevante issues en
 probeert met waarden-gebaseerd ontwerp IRMA aan te bieden als
 transparant open ecosysteem voor proportionele en
-contekst-afhankelijke authenticatie, dat gebruikers een sterke, in
+context-afhankelijke authenticatie, dat gebruikers een sterke, in
 plaats van een zwakke, positie geeft (*empowering users*). Deze
 contekst-afhankelijkheid sluit aan bij [Helen
 Nissenbaum](http://www.nyu.edu/projects/nissenbaum/)'s interpretatie

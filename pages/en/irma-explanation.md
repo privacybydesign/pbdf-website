@@ -8,7 +8,6 @@ permalink: /irma-explanation/
 language: en
 translations:
   nl: /irma-uitleg
-teaser: This page has not yet been translated.
 ---
 
 <a name="top"></a> This page explains the ideas behind the IRMA
@@ -48,7 +47,7 @@ privacy-protection is intrinsic to the system, which is called
 regulation such privacy by design is legally required for new
 ICT-systems.
 
-Apart from instrinsic privay-protection, IRMA also protects against
+Apart from instrinsic privacy-protection, IRMA also protects against
 identity fraud: if your name and date of birth are not revealed at
 all, they cannot be abused.
 
@@ -273,8 +272,8 @@ for passports, identity cards, or driver's licenses: at some stage
 they expire, and you need to get it re-issued. Refreshing of IRMA
 attributes is much simpler, however, since it can be done online.
 
-The three pictures below give a schematic overview, first of 
-downloading attributes at an issuer, and subsequently, of 
+The three pictures below give a schematic overview, first of
+downloading attributes at an issuer, and subsequently, of
 using attributes at two different webshops.
 <hr>
 <p align="center"><img src="../images/Transactions_IRMA_voorbereiding.png" alt="IRMA uitgever" style="width: 55%; height: 55%"/></p>
@@ -403,7 +402,7 @@ single-point-of-failure too.
 
 ### <a name="hood"></a>5. How does IRMA work under the hood?
 
-This section overlaps to some extend with the
+This section overlaps to some extent with the
 [explanations](/irma-start) for getting started with IRMA, especially
 its last part about [registration](/irma-start/#hood).
 
@@ -452,7 +451,7 @@ two important consequences.
 2. By the *blindness* of the signature, issuers do not see the
    ultimate form of the signed credential, and hence can not trace its
    usage, even if the issuer colludes with verifiers. This property is
-   called *issuer untraceability*.
+   called *issuer unlinkability*.
 
 The Privacy by Design foundation has freely available open source
 [software](https://credentials.github.io/) for issuing credentials.
