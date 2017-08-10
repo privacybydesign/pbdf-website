@@ -24,6 +24,8 @@ nl:
         url: /demo/
       - title: Download IRMA app
         url: https://play.google.com/store/apps/details?id=org.irmacard.cardemu
+      - title: publicaties
+        url: /publications/
 
   - title: Over de stichting
     side: right
@@ -72,6 +74,8 @@ en:
         url: /demo-en/
       - title: Download IRMA app
         url: https://play.google.com/store/apps/details?id=org.irmacard.cardemu
+      - title: publications
+        url: /publications/
 
   - title: About the foundation
     side: right

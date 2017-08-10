@@ -276,11 +276,11 @@ The three pictures below give a schematic overview, first of
 downloading attributes at an issuer, and subsequently, of
 using attributes at two different webshops.
 <hr>
-<p align="center"><img src="../images/Transactions_IRMA_voorbereiding.png" alt="IRMA uitgever" style="width: 55%; height: 55%"/></p>
+<p align="center"><img src="../images/Transactions_IRMA_voorbereiding_en.png" alt="IRMA uitgever" style="width: 55%; height: 55%"/></p>
 <hr>
-<p align="center"><img src="../images/Transactions_IRMA_eerste_gebruik.png" alt="IRMA gebruik" style="width: 50%; height: 50%"/></p>
+<p align="center"><img src="../images/Transactions_IRMA_eerste_gebruik_en.png" alt="IRMA gebruik" style="width: 50%; height: 50%"/></p>
 <hr>
-<p align="center"><img src="../images/Transactions_IRMA_enzovoort.png" alt="IRMA gebruik" style="width: 50%; height: 50%"/></p>
+<p align="center"><img src="../images/Transactions_IRMA_enzovoort_en.png" alt="IRMA gebruik" style="width: 50%; height: 50%"/></p>
 <hr>
 
 This downloading of attributes is a natural form of modern *identity
@@ -342,7 +342,7 @@ architecture.
 
 The difference between a decentralised (IRMA) and centralised
 (non-IRMA) set-up is sketched below.
-<p align="center"><img src="../images/Transactions_all_lowres.png" alt="overzicht" style="width: 100%; height: 100%"/></p>
+<p align="center"><img src="../images/Transactions_all_lowres_en.png" alt="overzicht" style="width: 100%; height: 100%"/></p>
 
 It may be clear that in the non-IRMA set-up the issuer of attributes
 is a *privacy hotspot* who facilitates and sees all
