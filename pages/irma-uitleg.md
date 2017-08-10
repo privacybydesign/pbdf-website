@@ -528,7 +528,7 @@ worden.
 Dus, IRMA gaat niet over het plunderen of misleiden van gebruikers, of
 over stiekem manipuleren in een bepaalde commerciële of politieke
 richting, maar over een transparante en waardige bejegening, die
-autonomie respecteert.
+autonomie en privacy respecteert.
 
 IRMA is gebaseerd op eigenschappen van individuen (attributen) waarvan
 de bron expliciet zichtbaar is, namelijk in de vorm van de uitgever

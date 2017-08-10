@@ -533,7 +533,7 @@ and can be maintained and continued by others.
 Thus, IRMA is not about plundering or deceiving users, or about
 surreptitiously steering them commercially or politically, but about
 encountering them transparantly, with dignity, respecting their
-autonomy.
+autonomy and privacy.
 
 IRMA is based on properties of individuals (attributes) whose source
 is explicitly visible, namely in the form of the issuer who commits
