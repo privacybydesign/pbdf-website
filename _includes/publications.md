@@ -4,7 +4,7 @@
   Wouter Lueks, and Sietse Ringers. *IRMA: practical, decentralized and
   privacy-friendly identity management using smartphones*. 10th
   Workshop on Hot Topics in Privacy Enhancing Technologies (HotPETs
-  2017), Minneapolis, USA, 2017. [Paper](https://www.cs.ru.nl/~gergely/objects/2017_irma-hotpets.pdf).
+  2017), Minneapolis, USA, 2017. [Paper](https://www.cs.ru.nl/~gergely/objects/2017_irma-hotpets.pdf) and [Video](https://www.youtube.com/watch?v=o2f-CTNvXY0&index=63&list=PLWSQygNuIsPf349Bl-ls2T3EelyJA9DS5).
 
 * Brinda Hampiholi and Gergely Alpár. *Privacy-preserving webshopping
   with attributes.* IEEE Symposium on Privacy-Aware Computing (IEEE
@@ -12,7 +12,8 @@
 
 * Wouter Lueks, Gergely Alpár, Jaap-Henk Hoepman, Pim Vullers: Fast
   revocation of attribute-based credentials for both users and
-  verifiers. Computers & Security 67, 2017, p.308-323
+  verifiers. Computers & Security 67, 2017, p.308-323. [Official
+  version](https://doi.org/10.1016/j.cose.2016.11.018).
 
 ### 2016
 
@@ -34,10 +35,23 @@
   Applied Cryptography Engineering (SPACE 2015), Jaipur, India,
   Springer LNCS 9354, 2015, p.310-328. [Paper](http://www.cs.ru.nl/~brinda/images/Space-paper.pdf).
 
+* Antonio de la Piedra. 2015. *Efficient Implementation of AND, OR and
+  NOT Operators for ABCs.* In Revised Selected Papers of the 7th
+  International Conference on Trusted Systems - Volume 9565 (INTRUST
+  2015), Moti Yung, Jianbiao Zhang, and Zhen Yang (Eds.),
+  Springer LNCS 9565, 2015, p.183-199. [Paper](https://eprint.iacr.org/2015/1117.pdf)
+
 * Gergely Alpár, *Attribute-Based Identity Management*, PhD Thesis,
   Radboud University, 2015. [Thesis](https://www.cs.ru.nl/~gergely/objects/thesis.pdf).
 
 ### 2014
+
+* Antonio de la Piedra, Jaap-Henk Hoepman, and Pim
+  Vullers. 2014. *Towards a Full-Featured Implementation of Attribute
+  Based Credentials on Smart Cards.* In Proceedings of the 13th
+  International Conference on Cryptology and Network Security - Volume
+  8813, Dimitris Gritzalis, Aggelos Kiayias, and Ioannis Askoxylakis
+  (Eds.), Springer LNCS 8813, p.270-289. [Paper](https://eprint.iacr.org/2014/684.pdf)
 
 * Pim Vullers, *Efficient Implementations of Attribute-based
   Credentials on Smart Cards*, PhD Thesis, Radboud University, 2014. [Thesis](http://www.cs.ru.nl/~pim/publications/2014_phd_thesis.pdf).

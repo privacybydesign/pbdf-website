@@ -16,7 +16,9 @@ publicaties over het IRMA ecosysteem, vooral geschreven door onderzoekers van
 de [Digital Security Group](http://www.ru.nl/ds/) van de Radboud universiteit,
 Nijmegen. Het cryptografische fundament van IRMA is ontwikkeld door IBM
 Research in Zürich, en heet [Idemix](https://idemix.wordpress.com/)
-(een afkorting van *Identity Mixer*).
+(een afkorting van *Identity Mixer*), zie deze
+[korte samenvatting](https://www.irmacard.org/wp-content/uploads/2013/02/Idemix_overview.pdf)
+van de relevante delen die voor IRMA gebruikt worden.
 
 {% capture pubs %}{% include publications.md %}{% endcapture %}
 {{ pubs | markdownify }}
