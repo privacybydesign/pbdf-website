@@ -2,7 +2,7 @@
 layout: page
 title: Gebruikers laten inloggen op mijn webpagina met IRMA
 meta_title: IRMA controleur
-teaser: Ik heb een webpagina waarop ik mijn klanten wil laten inloggen. Hoe kan dat met IRMA? Wat moet ik daar voor doen? En waar zitten de kosten? [Aan deze pagina wordt nog gewerkt.]
+teaser: Ik heb een webpagina waarop ik mijn klanten wil laten inloggen. Hoe kan dat met IRMA? Wat moet ik daar voor doen? En waar zitten de kosten? 
 header:
   image_fullwidth: header_unsplash_1.jpg
   title: Privacy by Design Foundation

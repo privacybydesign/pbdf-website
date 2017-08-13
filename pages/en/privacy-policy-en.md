@@ -66,10 +66,10 @@ The foundation processes personal data in two different ways.
 
 2. **One time, only temporarily** At issuance of attributes by the
    Privacy by Design foundation, the foundation attaches its own
-   digital signature to this attributes; subsequently, the signed
+   digital signature to these attributes; subsequently, the signed
    attributes are placed in the IRMA app of the user. Immediately
    afterwards, these data are removed from the systems of the
-   foundation. The foundation does not keep a register of attributes
+   foundation. The foundation does not keep a record of attribute
    issuance.
 
    For some forms of issuance the user is asked to first authenticate
@@ -99,11 +99,11 @@ foundation, may lead to adaptation of this privacy policy. The
 foundation reserves the right to make such changes and will publish
 the adapted privacy policy via this website as soon as possible.
 
-For questions, remarks, complaints about this data processing by
+For questions, remarks, or complaints about this data processing by
 the Privacy by Design foundation for IRMA functionality, please
 [contact](/contact-en) the foundation. For complaints about the
-foundation's data processing you can also contact the
-[Data Protection Authority](https://autoriteitpersoonsgegevens.nl/en)
-of the Netherlands.
+foundation's data processing you can also contact the [Data Protection
+Authority](https://autoriteitpersoonsgegevens.nl/en) of the
+Netherlands.
 
 Date: aug. 1, 2017.
