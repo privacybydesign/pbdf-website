@@ -23,6 +23,15 @@
   Workshop on Security and Trust Management (STM 2016), Springer LNCS
   9871, 2016, p.106-121. [Paper](http://www.cs.ru.nl/B.Jacobs/PAPERS/STM2016.pdf).
 
+* Gergely Alpár Lejla Batina, Lynn Batten, Veelasha Moonsamy, Anna
+  Krasnova, Antoine Guellier, Iynkaran Natgunanathan. *New Directions
+  in IoT Privacy Using Attribute-Based Authentication - Position
+  Paper*. 1st ACM Workshop on Malicious Software and Hardware in
+  Internet of Things (MAL-IoT 2016), Italy, 2016. [Official
+  version](http://dl.acm.org/citation.cfm?id=2911710) and [local
+  copy](https://www.cs.ru.nl/~gergely/objects/2016_newdirections_acm.pdf).
+
+
 * Sietse Ringers, *Quantization using Jet Space Geometry and Identity Management using Credential Schemes*, PhD Thesis,
   Groningen University, 2015. [Thesis](https://sietseringers.net/files/thesis.pdf).
 
@@ -94,6 +103,13 @@
   Nederland in Ideeën, Maven Publishing, 2013,
   p.261-264. [Book chapter](http://www.cs.ru.nl/B.Jacobs/PAPERS/WatBenJe-NederlandInIdeeen-2013.pdf)
   in Dutch.
+
+### 2011
+
+* Wojciech Mostowski and Pim Vullers. *Efficient U-Prove
+  implementation for anonymous credentials on smart cards.* In George
+  Kesidis and Haining Wang, editors, SecureComm 2011, volume 96 of
+  Springer LNICST, 2011, p.243-260. [Paper](http://www.cs.ru.nl/~pim/publications/2011_securecomm.pdf).
 
 ### 2010
 
