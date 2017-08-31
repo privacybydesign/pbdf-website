@@ -48,8 +48,8 @@ als de eerste uitgifte van een iDIN credential, met een nieuwe login
 bij de eigen bank.
 
 De aansluiting van de stichting Privacy by Design op iDIN bevindt zich
-in een pilot fase, tot 1 september 2017, waarin er voor de stichting en de
-gebruiker geen kosten verbonden zijn aan inloggen van iDIN. Dit zal na
-1 september waarschijnlijk gaan veranderen.
+in een pilot fase, tot 31 december 2017, waarin er voor de stichting
+en de gebruiker geen kosten verbonden zijn aan inloggen van iDIN. Dit
+zal na 31 december waarschijnlijk gaan veranderen.
 
 [Terug](/uitgifte) naar uitgifte van attributen.
