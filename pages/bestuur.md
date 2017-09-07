@@ -23,9 +23,11 @@ persoonlijke titel en worden hiervoor niet betaald.
    elektronisch stemmen en medische privacy.
 
  * **Secretaris**: Jaap Akkermans (j.akkermans 'at'
-   privacybydesign.foundation) werkte ruim 20 jaar in de
-   ICT-consultancy. Daarvoor was hij binnen de overheid betrokken bij
-   het ICT-stimuleringsbeleid. Hij heeft een achtergrond als
+   privacybydesign.foundation) 
+
+   Jaap Akkermans werkte ruim 20 jaar in de ICT-consultancy. Daarvoor
+   was hij binnen de overheid betrokken bij het
+   ICT-stimuleringsbeleid. Hij heeft een achtergrond als
    natuurkundige. Daarnaast studeerde hij economie van R&D. Binnen de
    stichting kijkt hij met name naar de business cases voor IRMA.
 
@@ -36,11 +38,10 @@ persoonlijke titel en worden hiervoor niet betaald.
    Hij zet zich in voor de ontwikkeling van de IRMA-infrastructuur.
 
  * Thea van Kemenade (t.vankemenade 'at' privacybydesign.foundation)
-
-   Thea van Kemenade is business development consultant bij Radboud
-   Innovation, het centrum voor business en projectontwikkeling van de
-   Radboud Universiteit. Haar centrale doel is het bijeen brengen van
-   publieke en private en meestal open-innovatie partners rondom een
+   is business development consultant bij Radboud Innovation, het
+   centrum voor business en projectontwikkeling van de Radboud
+   Universiteit. Haar centrale doel is het bijeen brengen van publieke
+   en private en meestal open-innovatie partners rondom een
    maatschappelijk thema, het verwerven van investeringsmiddelen en
    het daadwerkelijk realiseren en implementeren van deze innovaties.
 
