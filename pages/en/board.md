@@ -35,8 +35,8 @@ capacity and are not being paid for it.
  * **Treasurer**: Sietse Ringers (s.ringers 'at' privacybydesign.foundation)
 
    [Sietse Ringers](https://sietseringers.net/) did his PhD in 2016 in
-   the area of credential schemas (the cryptografic basis of IRMA). He
-   is one of the programmers of the IRMA infrastructure.
+   the area of credential schemas (the cryptografic basis of IRMA). His
+   focus is the development of the IRMA infrastructure.
 
  * Thea van Kemenade (t.vankemenade 'at' privacybydesign.foundation)
    is business development consultant at Radboud Innovation, the
