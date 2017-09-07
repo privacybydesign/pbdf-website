@@ -27,9 +27,9 @@ capacity and are not being paid for it.
    privacybydesign.foundation) 
 
    Jaap Akkermans has been active for more than 20 years in
-   ICT-consultance. Before that he was involved with ICT-policy within
+   ICT-consultancy. Before that he was involved with ICT-policy within
    the government. His background is in physics. In addition, he
-   studied economics of R&D. Within the foundation is is especially
+   studied economics of R&D. Within the foundation he is especially
    interested in business cases for IRMA.
 
  * **Treasurer**: Sietse Ringers (s.ringers 'at' privacybydesign.foundation)
