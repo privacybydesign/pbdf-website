@@ -21,7 +21,7 @@ widget2:
   video: <a href="#" data-reveal-id="videoModal"><img src="/images/irma-video-youtube.png" width="302" height="182" alt=""/></a>
 widget3:
   title: New attributes
-  url: /enrol/
+  url: /issuance/
   image: surfidin.png
   text: After installing the IRMA app and registering at <a href="/mijnirma">MyIRMA</a> you can now obtain <a href="https://www.idin.nl/consumenten">iDIN</a>-attributes from your (dutch) bank, and if you are an employee or student at the Radboud University, also <a href="https://surfconext.nl/">Surfnet</a> attributes.
 ---
