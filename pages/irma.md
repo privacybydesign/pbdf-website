@@ -2,7 +2,7 @@
 layout: page
 title: Over IRMA
 meta_title: IRMA
-teaser: IRMA biedt een oplossing om op een privacy-vriendelijke manier in te loggen. Bij dat inloggen onthult de gebruiker enkele relevante eigenschappen (attributen) van zichzelf, via een IRMA app op de eigen mobiele telefoon. [Aan deze pagina wordt nog gewerkt.]
+teaser: IRMA biedt een oplossing om op een privacy-vriendelijke manier in te loggen. Bij dat inloggen onthult de gebruiker enkele relevante eigenschappen (attributen) van zichzelf, via een IRMA app op de eigen mobiele telefoon. 
 header:
   image_fullwidth: header_unsplash_1.jpg
   title: Privacy by Design Foundation

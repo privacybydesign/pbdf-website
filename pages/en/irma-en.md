@@ -2,7 +2,7 @@
 layout: page
 title: About IRMA
 meta_title: IRMA
-teaser: IRMA offers a way for privacy-friendly authentication. When authenticating the user reveals only relevant properties (attributes) of himself, using an IRMA app on his mobile phone. [This page is under construction.]
+teaser: IRMA offers a way for privacy-friendly authentication. When authenticating the user reveals only relevant properties (attributes) of himself, using an IRMA app on his mobile phone. 
 header:
   image_fullwidth: header_unsplash_1.jpg
   title: Privacy by Design Foundation

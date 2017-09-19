@@ -15,7 +15,7 @@ widget1:
 widget2:
   title: IRMA
   url: /irma/
-  text: Met IRMA kun je op betrouwbare wijze alleen relevante eigenschappen (attributen, zoals "ouder dan 18") van jezelf aan anderen bewijzen. Deze IRMA attributen beheer je zelf in een app, op je eigen telefoon.
+  text: Met IRMA kunt u op betrouwbare wijze alleen relevante eigenschappen (attributen, zoals "ouder dan 18") van uzelf aan anderen bewijzen. Deze IRMA attributen beheert u zelf in een app, op uw eigen telefoon.
   # image: irma-video-youtube.png
   video: <a href="#" data-reveal-id="videoModal"><img src="/images/irma-video-youtube.png" width="302" height="182" alt=""/></a>
 widget3:
