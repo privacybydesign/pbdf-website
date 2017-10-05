@@ -171,7 +171,7 @@ telefoon een eigen inlog patroon of code heeft. Maar daarbovenop heeft
 de IRMA app nog weer een eigen PIN, net zo als de verschillende apps
 voor mobiel bankieren een eigen PIN hebben.
 
-Attributen die voor u gelden kun je downloaden in uw IRMA app op uw
+Attributen die voor u gelden kunt u downloaden in uw IRMA app op uw
 telefoon. Dat kan via het [web](/uitgifte), door het scannen van een
 QR-code, maar dat kan ook ter plekke, bijvoorbeeld aan een balie. De
 organisatie die attributen uitgeeft heet een *attribuut uitgever* of
@@ -485,7 +485,7 @@ gedetailleerde uitleg](/irma-begin/#motorkap) elders. De IRMA PIN code
 wordt door de keyshare-server gecontroleerd. Alleen als die PIN klopt,
 zal de server meedoen, met zijn eigen deel van de geheime sleutel, en
 kunnen attributen getoond worden. De keyshare-server krijgt de
-attributen die je vrijgeeft niet te zien, en ook niet aan wie je ze
+attributen die u vrijgeeft niet te zien, en ook niet aan wie u ze
 vrijgeeft.
 
 Deze hele geheime persoonlijke cryptografische sleutel, en dus de
@@ -646,7 +646,7 @@ bovenaf opgelegd. IRMA zal zich moeten bewijzen via overtuigende
 toepassingen. Daar wordt nu door verschillende partijen aan gewerkt.
 
 Hecht u aan zorgvuldige privacy-vriendelijke omgang met uw klanten,
-gebruikers of patiënten, en heb je een goed idee voor een
+gebruikers of patiënten, en heeft u een goed idee voor een
 toepassing van IRMA, bijvoorbeeld bij u in de webwinkel of binnen
 uw organisatie, neem dan [contact](/contact) op met de stichting
 Privacy by Design. Wat de stichting kan doen is bijvoorbeeld:

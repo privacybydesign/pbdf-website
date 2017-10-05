@@ -89,8 +89,8 @@ stappen, waarin u uw email adres en PIN gegeven hebt, krijg u een
 link (webadres) toegestuurd per email. Via deze link logt u in uw
 MijnIRMA account. Daarmee wordt uw registratie bevestigd.
 
-Wanneer u in een webbrowser naar het toegstuurde webadres gaat krijg
-je een "Email Uitgifte" knop te zien. Hier zie je hoe het uitgeven en
+Wanneer u in een webbrowser naar het toegstuurde webadres gaat krijgt
+u een "Email Uitgifte" knop te zien. Hier ziet u hoe het uitgeven en
 ontvangen van attributen werkt.
 
  * Wanneer u de webpagina in een browser op een PC of laptop geopend
@@ -146,7 +146,7 @@ mogelijkheden.
   is echter niet zichtbaar om welke attributen het gaat, aan welke
   controleur u attributen getoond hebt, of van welke uitgever u
   attributen ontvangen heeft. De stichting wil deze zaken niet weten,
-  en kan ze daarom ook niet aan je laten zien. Dit is verankert in het
+  en kan ze daarom ook niet aan u laten zien. Dit is verankert in het
   *privacy by design* ontwerp van IRMA.
 
   Het is verstandig af en toe eens naar deze loggegevens te
@@ -241,7 +241,7 @@ Wanneer u op uw app inlogt met uw PIN code, berekent de app dit
 MijnIRMA server. Daarna wordt de PIN verwijdert uit de app. Als de
 hash waarde klopt, zijn de app en de server onderling gekoppeld en is
 de inlog geslaagd.  Een succesvolle aanvaller kan eventueel wel de
-nonce uit je app halen, maar heeft daar niet zo veel aan. Het enige
+nonce uit uw app halen, maar heeft daar niet zo veel aan. Het enige
 wat de aanvaller kan doen is alle 100.000 mogelijkheden van uw PIN
 uitproberen, en bij iedere poging *X* het getal *hash( X | nonce )*
 naar de MijnIRMA server sturen. De server ziet dan dat zoiets

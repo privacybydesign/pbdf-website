@@ -1,5 +1,8 @@
 ### 2017
 
+* Wouter Lueks. *Security and Privacy via Cryptography. Having your
+  cake and eating it too*, PhD Thesis, Radboud University, 2017. [Thesis](https://wouterlueks.nl/assets/docs/thesis_lueks_def.pdf).
+
 * Brinda Hampiholi, Gergely Alpár, Fabian van den Broek, Bart Jacobs,
   Wouter Lueks, and Sietse Ringers. *IRMA: practical, decentralized and
   privacy-friendly identity management using smartphones*. 10th
