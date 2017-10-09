@@ -19,10 +19,11 @@ designed. The following topics will be discussed.
  3. [How do I obtain and use attributes?](#how)
  4. [How does IRMA differ from other authentication systems?](#architecture)
  5. [How does IRMA work under the hood?](#hood)
- 6. [Which values does the IRMA technology embody?](#values)
- 7. [What are attribute-based signatures?](#signature)
- 8. [What are IRMA's disadvantages?](#disadvantages)
- 9. [How can I participate or contribute?](#contribute)
+ 6. [Which privacy guarantees does IRMA provide, and which not?](#guarantees)
+ 7. [Which values does the IRMA technology embody?](#values)
+ 8. [What are attribute-based signatures?](#signature)
+ 9. [What are IRMA's disadvantages?](#disadvantages)
+ 10. [How can I participate or contribute?](#contribute)
 
 These questions will be addressed one by one below. Elsewhere there
 are shorter explanations, for [IRMA app users](/irma-start) and for
@@ -505,8 +506,38 @@ users --- unless I somehow also transfer my secret key.
 
 [To the top](#top)
 
+### <a name="guarantees"></a>6. Which privacy guarantees does IRMA provide, and which not?
 
-### <a name="values"></a>5. Which values does the IRMA technology embody?
+The following terminology is used for IRMA's privacy guarantees.
+
+* **Issuer unlinkability.** This means that an issuer of attributes
+    can not trace the disclosures of these attributes by a user, even
+    not when the issuer colludes with a verifier and both parties put
+    there data together. Of course, this does not work for identifying
+    attributes, like your bank account number, but it does work for
+    non-identifying attributes, like your gender.
+
+* **Multi-show unlinkability.** This means that multiple disclosures
+    of the same attribute by the same user cannot be linked by a
+    verifier. Concretely, if, on a single day, you prove to a webshop
+    that you are older than 18, then the webshop cannot find out that
+    the same person is behind both disclosures.
+
+These properties are built into the underlying cryptographic system
+(Idemix) on which IRMA is based. Nevertheless, it is still possible
+that privacy-sensitive information leaks out, for instance the
+IP-address involved, or the "fingerprint" of the browser. The above
+webshop may conclude, rightly or not, that the same person is involved
+because both attribute disclosures come from the same IP-address.
+
+Protection against this is possible, for instance via anonymisation
+technologies, such as [Tor](https://www.torproject.org). But such
+protection is not built into IRMA.
+
+
+
+
+### <a name="values"></a>7. Which values does the IRMA technology embody?
 
 Authentication requirements, and information flows, reflect the power
 relations in society.  In general, the more powerful parties impose
@@ -554,7 +585,7 @@ on top of TCP/IP.
 [To the top](#top)
 
 
-### <a name="signature"></a>7. What are attribute-based signatures?
+### <a name="signature"></a>8. What are attribute-based signatures?
 
 IRMA is primarily a system for attribute-based authentication: with
 IRMA you can selectively disclose attributes about yourself. But IRMA
@@ -599,7 +630,7 @@ concept with unprecented application possiblities.
 [To the top](#top)
 
 
-### <a name="disadvantages"></a>8. What are IRMA's disadvantages?
+### <a name="disadvantages"></a>9. What are IRMA's disadvantages?
 
 The most important advantage of IRMA is: the user maintains and fully
 controls his/her own attributes. But this is at the same time a
@@ -637,7 +668,7 @@ for a basic set of attributes.
 
 [To the top](#top)
 
-### <a name="contribute"></a>9. How can I participate or contribute?
+### <a name="contribute"></a>10. How can I participate or contribute?
 
 IRMA is an ecosystem that is being built up from below, and is not
 imposed from above. IRMA will have to prove itself, via convincing

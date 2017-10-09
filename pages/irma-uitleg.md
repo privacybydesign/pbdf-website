@@ -17,12 +17,13 @@ en is opgezet. De volgende onderwerpen komen achtereenvolgens aan bod.
  1. [Waar gaat IRMA eigenlijk over?](#onderwerp)
  2. [Waarom zou u attributen willen gebruiken in plaats van identiteiten?](#waarom)
  3. [Hoe kom ik aan attributen en hoe gebruik ik ze?](#hoe)
- 4. [Hoe verschilt IRMA van andere authenticatie systemen als idensys en iDIN?](#architectuur)
+ 4. [Hoe verschilt IRMA van andere authenticatie systemen als iDIN en idensys?](#architectuur)
  5. [Wat zit er bij IRMA onder de motorkap?](#motorkap)
- 6. [Welke waarden zitten in de IRMA technologie ingebakken?](#waarden)
- 7. [Wat zijn attribuut-gebaseerde handtekeningen?](#signature)
- 8. [Wat zijn de nadelen van IRMA?](#nadelen)
- 9. [Hoe kan ik meedoen of bijdragen?](#meedoen)
+ 6. [Welke privacy garanties geeft IRMA wel en niet?](#garanties)
+ 7. [Welke waarden zitten in de IRMA technologie ingebakken?](#waarden)
+ 8. [Wat zijn attribuut-gebaseerde handtekeningen?](#signature)
+ 9. [Wat zijn de nadelen van IRMA?](#nadelen)
+ 10. [Hoe kan ik meedoen of bijdragen?](#meedoen)
 
 Deze vragen zullen hieronder een voor een beantwoord worden. Elders
 staat kortere uitleg voor [IRMA app gebruikers](/irma-begin) en
@@ -273,7 +274,7 @@ telefoon of tablet.
 [Naar boven](#top)
 
 
-### <a name="architectuur"></a>4. Hoe verschilt IRMA van andere authenticatie systemen als idensys en iDIN?
+### <a name="architectuur"></a>4. Hoe verschilt IRMA van andere authenticatie systemen als iDIN en idensys?
 
 IRMA is wezenlijk verschillend van andere identity management systemen
 zoals [Facebook
@@ -327,7 +328,7 @@ kosten die afgedwongen worden door een centrale architectuur.
 De Nederlandse overheid heeft in juni 2017 de stekker getrokken uit
 het voorgestelde nationale identity management systeem
 [idensys](https://www.idensys.nl/). Bij het centralistisch opgezette
-Idensys speelden dezelfde privacy en kosten problemen als bij iDIN.
+Idensys speelden dezelfde privacy- en kosten-problemen als bij iDIN.
 
 Het verschil tussen een decentrale (IRMA) en centrale (niet-IRMA)
 opzet wordt hieronder nog eens beschreven.
@@ -499,7 +500,42 @@ mijn geheime sleutel ook afgeef.
 [Naar boven](#top)
 
 
-### <a name="waarden"></a>6. Welke waarden zitten in de IRMA technologie ingebakken?
+### <a name="garanties"></a>6. Welke privacy garanties geeft IRMA wel en niet?
+
+De privacy garanties die IRMA geeft worden met de volgende engelse
+termen aangeduid.
+
+* **Issuer unlinkability.** Dit wil zeggen dat een issuer van
+    attributen het tonen van die attributen door een gebruiker in
+    principe niet kan traceren, zelfs niet wanneer de issuer met een
+    verifier samenspant en beide partijen al hun eigen gegevens bij
+    elkaar leggen. Dit werkt natuurlijk niet voor identificerende
+    attributen, zoals uw bankrekeningnummer, maar wel voor
+    niet-identificerende attributen, zoals uw geslacht.
+
+* **Multi-show unlinkability.** Dit wil zeggen dat het meervoudig
+   onthullingen van eenzelfde attribuut van eenzelfde persoon door een
+   verifier niet gekoppeld kunnen worden. Concreet, als u bij dezelfde
+   webwinkel twee keer op een dag bewijst dat u ouder dan 18 bent, dan
+   kan de webwinkel niet vaststellen dat het om dezelfde persoon ging.
+
+Deze eigenschappen zitten ingebakken in het onderliggende
+cryptografische systeem (Idemix) waar IRMA op gebaseerd is. Desondanks
+is het nog steeds mogelijk dat privacy-gevoelige informatie uitlekt
+via andere kanalen, zoals het gebruikte IP-adres, of de "fingerprint"
+van de browser. De bovenstaande webwinkel kan mogelijk concluderen, al
+of niet terecht, dat het om dezelfde persoon gaat wanneer beide
+attributen van hetzelfde IP-adres afkomstig zijn.
+
+Bescherming hiertegen is mogelijk, bijv. door anonimiseringstechnieken
+zoals [Tor](https://www.torproject.org) te gebruiken. Zulke
+bescherming is echter niet in IRMA ingebouwd.
+
+
+
+[Naar boven](#top)
+
+### <a name="waarden"></a>7. Welke waarden zitten in de IRMA technologie ingebakken?
 
 Authenticatie-eisen en informatiestromen weerspiegelen de
 machtsverhoudingen in de samenleving. In het algemeen kunnen machtige
@@ -550,7 +586,7 @@ internet infrastructuur.
 [Naar boven](#top)
 
 
-### <a name="signature"></a>7. Wat zijn attribuut-gebaseerde handtekeningen?
+### <a name="signature"></a>8. Wat zijn attribuut-gebaseerde handtekeningen?
 
 IRMA is primair een systeem voor attribuut-gebaseerde authenticatie: u
 kunt met IRMA selectief attributen van uzelf laten zien. Maar IRMA
@@ -598,7 +634,7 @@ vormen een nieuw concept met ongekende toepassingsmogelijkheden.
 [Naar boven](#top)
 
 
-### <a name="nadelen"></a>8. Wat zijn de nadelen van IRMA?
+### <a name="nadelen"></a>9. Wat zijn de nadelen van IRMA?
 
 Het belangrijkste voordeel van IRMA is: de gebruiker beheert en
 controleert zelf zijn/haar eigen attributen. Maar dat is
@@ -639,7 +675,7 @@ basis set attributen.
 
 [Naar boven](#top)
 
-### <a name="meedoen"></a>9. Hoe kan ik meedoen of bijdragen?
+### <a name="meedoen"></a>10. Hoe kan ik meedoen of bijdragen?
 
 IRMA is een ecosysteem dat van onderaf opgebouwd wordt en niet van
 bovenaf opgelegd. IRMA zal zich moeten bewijzen via overtuigende
