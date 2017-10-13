@@ -12,9 +12,9 @@ translations:
 
 You can download the IRMA app via one of these buttons:
 
-* <a class="button" href="https://play.google.com/store/apps/details?id=org.irmacard.cardemu" target="_blank">Google Play Store</a> &nbsp;&nbsp; for Android
+* <a href="https://play.google.com/store/apps/details?id=org.irmacard.cardemu" target="_blank"><img src="/images/google-play-badge.png" alt="Play Store" width="150"></a> 
 
-* <a class="button" href="https://www.apple.com/lae/ios/" target="_blank">Apple App Store</a>  &nbsp;&nbsp; for iOS (available in a few days)
+* <a href="https://www.apple.com/lae/ios/" target="_blank"><img src="/images/app-store-badge.png" alt="Apple Store" width="150"></a> (available in a few days)
 
 After installing the app the registration procedure will start
 automatically, see [further explanation](/irma-start).
