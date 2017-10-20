@@ -23,7 +23,7 @@ nl:
       - title: IRMA demo's
         url: /demo/
       - title: Download IRMA app
-        url: https://play.google.com/store/apps/details?id=org.irmacard.cardemu
+        url: https://privacybydesign.foundation/download/
       - title: publicaties
         url: /publicaties/
 
@@ -73,7 +73,7 @@ en:
       - title: IRMA demos
         url: /demo-en/
       - title: Download IRMA app
-        url: https://play.google.com/store/apps/details?id=org.irmacard.cardemu
+        url: https://privacybydesign.foundation/download-en/
       - title: publications
         url: /publications/
 
