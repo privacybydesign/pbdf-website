@@ -26,6 +26,8 @@ nl:
         url: https://privacybydesign.foundation/download/
       - title: publicaties
         url: /publicaties/
+      - title: meetings
+        url: /meetings/
 
   - title: Over de stichting
     side: right
@@ -76,6 +78,8 @@ en:
         url: https://privacybydesign.foundation/download-en/
       - title: publications
         url: /publications/
+      - title: meetings
+        url: /meetings/
 
   - title: About the foundation
     side: right
