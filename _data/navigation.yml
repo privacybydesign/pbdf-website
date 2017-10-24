@@ -23,7 +23,7 @@ nl:
       - title: IRMA demo's
         url: /demo/
       - title: Download IRMA app
-        url: https://privacybydesign.foundation/download/
+        url: /download/
       - title: publicaties
         url: /publicaties/
       - title: meetings
@@ -75,7 +75,7 @@ en:
       - title: IRMA demos
         url: /demo-en/
       - title: Download IRMA app
-        url: https://privacybydesign.foundation/download-en/
+        url: /download-en/
       - title: publications
         url: /publications/
       - title: meetings
