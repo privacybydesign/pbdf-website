@@ -39,14 +39,9 @@ kan maken.
 
 #### 1.1. Installatie
 
-De IRMA app is beschikbaar in de [Android Play
-store](https://play.google.com/store/apps/details?id=org.irmacard.cardemu).
-Download en installeer deze app op uw telefoon (of tablet).
-
-De IRMA app is tot nu alleen maar beschikbaar voor Android telefoons
-en tablets. Aan een iOS versie voor iPhones en iPads wordt nog
-gewerkt; deze zal naar verwachting in de loop van najaar 2017
-beschikbaar komen.
+De IRMA app is beschikbaar via de [Download](/download) pagina van de
+stichting.  Download en installeer deze app op uw telefoon (of
+tablet).
 
 #### 1.2. Registratie
 

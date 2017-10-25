@@ -219,10 +219,9 @@ equipped with a camera, and NFC for self-enrollment via identity
 documents. These are very standard features of most Android phones
 today.
 
-### <a name="install"></a>Download and installation
-The IRMA app is now available in the
-[Android Play store](https://play.google.com/store/apps/details?id=org.irmacard.cardemu),
-you can install it from there.
+### <a name="install"></a>Download and installation The IRMA app is
+now available via the [Download](/download-en) page; you can install it
+from there.
 
 If you cannot use the Play store, or do not wish to, we also have a
 binary available outside of the Play store.  In order to install the

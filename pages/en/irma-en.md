@@ -15,16 +15,15 @@ translations:
  1. I'm an **individual** who may want to use IRMA for the purpose of
     logging in online.
 
-    You can try out the IRMA app by
-    [installing](https://play.google.com/store/apps/details?id=org.irmacard.cardemu)
-    it (on an Android phone) and registering yourself via the app as
-    IRMA user at the Privacy by Design foundation, with your email
-    address (and nothing else). Subsequently, you [load](/issuance)
-    additional attributes into your app, in order to assemble a kind
-    of digital passport on your phone. Also, you can monitor the usage
-    of your app via the [my IRMA](/myirma) environment. You can
-    unsubscribe at any time and delete all your attributes. You can do
-    all this free of charge.
+    You can try out the IRMA app by [installing](/download-en) it and
+    registering yourself via the app as IRMA user at the Privacy by
+    Design foundation, with your email address (and nothing
+    else). Subsequently, you [load](/issuance) additional attributes
+    into your app, in order to assemble a kind of digital passport on
+    your phone. Also, you can monitor the usage of your app via the
+    [my IRMA](/myirma) environment. You can unsubscribe at any time
+    and delete all your attributes. You can do all this free of
+    charge.
 
     In case you prefer to read more about IRMA first, please consult
     [this page](/irma-explanation).

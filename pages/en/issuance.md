@@ -28,10 +28,8 @@ attributes, so that verifiers can check their origin and integrity.
 You can subsequently use these attributes for authentication or
 login. This requires that you have already installed the IRMA app and
 registered yourself as an IRMA user. Installation proceeds via the
-[Android Play
-store](https://play.google.com/store/apps/details?id=org.irmacard.cardemu);
-the registration process starts automatically when you open the IRMA
-app.
+[Download](/download-en) page; the registration process starts
+automatically when you open the IRMA app.
 
 Below there is a list of buttons for loading different attributes.
 The number of attribute sources will increase in the future. Some

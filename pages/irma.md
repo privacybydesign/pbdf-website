@@ -1,4 +1,4 @@
----
+And---
 layout: page
 title: Over IRMA
 meta_title: IRMA
@@ -17,8 +17,7 @@ translations:
     in te kunnen loggen.
 
     U kunt IRMA uitproberen door de IRMA app te
-    [installeren](https://play.google.com/store/apps/details?id=org.irmacard.cardemu)
-    (op een Android telefoon) en u via de app bij de stichting Privacy
+    [installeren](/download) en u via de app bij de stichting Privacy
     by Design te registreren, enkel met een email adres. U kunt daarna
     eventueel nog andere attributen in uw app [toevoegen](/uitgifte),
     waarmee u een soort digitaal paspoort op uw telefoon vult. Ook

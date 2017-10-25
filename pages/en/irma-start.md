@@ -41,13 +41,8 @@ passport, IRMA is strictly personal: no-one else should be able to
 
 #### 1.1. Installation
 
-The IRMA app is available in the [Android Play
-store](https://play.google.com/store/apps/details?id=org.irmacard.cardemu).
-Download and install this app on your phone (or tablet).
-
-So far, the IRMA app exists only for Android phones or tablets.  An
-iOS version for iPones and iPads is under development; it is expected
-to be available in the fall of 2017.
+The IRMA app is available via the [Download](/download-en) page
+of the foundation.
 
 #### 1.2. Registration
 

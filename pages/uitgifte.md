@@ -27,9 +27,9 @@ Via deze pagina kunt u attributen in de IRMA app op uw telefoon
 digitaal, zodat controleurs de herkomst en integriteit kunnen checken.
 Vervolgens kunt u deze attributen gebruiken voor authenticatie of
 inloggen. Hiervoor is het nodig dat u de IRMA app geïnstalleerd heeft
-en de registratie doorlopen. Installatie kan via [Android Play
-store](https://play.google.com/store/apps/details?id=org.irmacard.cardemu);
-het registratie proces wordt vanzelf gestart wanneer u de app opent.
+en de registratie doorlopen. Installatie kan via [Download](/download)
+pagina; het registratie proces wordt vanzelf gestart wanneer u de app
+opent.
 
 Hieronder staat een lijst met knoppen waarmee verschillende attributen
 geladen kunnen worden. Het aantal mogelijkheden zal nog toenemen: in
