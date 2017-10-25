@@ -60,6 +60,11 @@ E-mailadres attribuut
     <img src="/images/email.png">Laad e-mailadres attribuut</a>  
     [Meer informatie](/uitgifte-email)
 
+Mobiel telefoonnummer-attribuut
+:   Attribuut: telefoonnummer  
+    <a class="button" href="/uitgifte/telefoonnummer">
+    <img src="/images/mobile.png">Laad telefoonnummer-attribuut</a>  
+
 Attributen via Surfconext
 :   Attributen: voornaam, achternaam, emailadres, instelling, medewerker/student, locaal registratienummer  
     <a class="button" href="/uitgifte/surfnet?action=login">

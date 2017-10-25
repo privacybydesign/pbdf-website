@@ -58,6 +58,11 @@ E-mail address attribute
     <img src="/images/email.png">Load e-mail address attribute</a>  
     [More information](/issuance-email)
 
+Mobile phone number attribute
+:   Attribute: phone number attribute  
+    <a class="button" href="/uitgifte/telefoonnummer">
+    <img src="/images/mobile.png">Load phone number attribute</a>  
+
 Attributes via Surfconext
 :   Attributes: given name, family name, email address, institution, staff/student, local registration number  
     <a class="button" href="/uitgifte/surfnet?action=login">
