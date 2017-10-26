@@ -75,9 +75,9 @@ Door de stichting worden op drie manieren persoonsgegevens verwerkt.
    en naar de stichting gestuurd. Deze rapporten zijn een
    belangrijk instrument voor de stichting in het verhelpen van problemen
    en verbeteren van de IRMA app. Een rapport bevat nooit uw
-   attributen, of gegevens over uw eerdere gebruik van de IRMA app,
-   maar uitsluitend technische data over wat er mis is gegaan en over uw
-   telefoon (bijvoorbeeld IP-adres, versienummer van de app, en het
+   attributen, of gegevens over uw eerdere gebruik van de IRMA app of uw,
+   attributen, maar uitsluitend technische data over wat er mis is gegaan en 
+   over uw telefoon (bijvoorbeeld IP-adres, versienummer van de app, en het
    versienummer van Android of iOS). De stichting verwijdert deze rapporten
    wanneer ze niet meer nodig zijn of in ieder geval na drie maanden.
 

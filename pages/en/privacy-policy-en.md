@@ -33,9 +33,9 @@ personal PIN code. This forms the legal basis for the processing or
 the relevant attributes by these (third) parties, providing or
 receiving attributes.
 
-The foundation processes personal data in two different ways.
+The foundation processes personal data in three different ways.
 
-1. **Continuously** At registration a user of IRMA creates an account
+1. **Continuously.** At registration a user of IRMA creates an account
    and gives the foundation a self-chosen email address. This address
    is stored and protected by the foundation, until the user removes
    or cancels his/her account, in the [MyIRMA](/myirma) environment.
@@ -64,7 +64,18 @@ The foundation processes personal data in two different ways.
    or when its data are removed, all these log data are immediately
    removed by the foundation.
 
-2. **One time, only temporarily** At issuance of attributes by the
+2. **Incidentally.** When the [IRMA app](/download-en) crashes or
+   encounters a serious problem, an error report is made and sent
+   to the foundation. These error reports are a critical instrument
+   for the foundation in fixing problems and improving the IRMA app.
+   An error repport never contains your attributes, or data about
+   previous usage of the IRMA app and your attributes, but only
+   technical data about what went wrong and about your phone (for example,
+   IP address, the app version number, and the version number of
+   Android or iOS). The foundation removes these reports when they
+   are no longer neccesary, or at least within three months.
+
+3. **One time, only temporarily.** At issuance of attributes by the
    Privacy by Design foundation, the foundation attaches its own
    digital signature to these attributes; subsequently, the signed
    attributes are placed in the IRMA app of the user. Immediately
