@@ -13,7 +13,8 @@ translations:
 Een mobiel telefoonnummer kan als attribuut in uw IRMA app toegevoegd
 worden. Hierbij controleert de stichting Privacy by Design eerst of u
 daadwerkelijk beschikt over dit nummer via een eenmalige code. Deze
-uitgifte werkt alleen voor Nederlandse mobiele (06) nummers.
+uitgifte is kosteloos, maar werkt alleen voor Nederlandse mobiele (06)
+nummers.
 
 U kunt meerdere mobiele telefoonnumers die u heeft apart toevoegen als
 attribuut in uw IRMA app. U voert het uitgifte-proces gewoon meerdere
