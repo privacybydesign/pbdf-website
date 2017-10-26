@@ -23,10 +23,16 @@ malen uit, met de verschillende telefoonnummers.
 Als eerste stap in dit uitgifte-proces voert u uw mobiele
 telefoonnummer in op de betreffende
 [webpagina](/uitgifte/telefoonnummer). U ontvangt dan een SMS bericht
-met een eenmalige verificatie-code. Het bericht komt van het nummer
-06-5195.3392 van de stichting. U dient deze code op dezelfde webpagina
-in te typen.  Vervolgens verschijnt er een QR-code die u met uw IRMA
-app kunt scannen. Daarmee ontvangt u het attribuut waarin uw mobiele
+met een eenmalige verificatie-code en verificatie-link. Het bericht
+komt van het nummer 06-5195.3392 van de stichting. Vervolgens kunt u
+op twee manieren verder:
+
+ 1. U voert de code uit de SMS in op de webpagina. Vervolgens verschijnt
+    er een QR-code die u met uw IRMA app kunt scannen.
+ 2. U klikt op uw mobiel op de verificatie-link in de SMS; u wordt dan
+    automatisch omgeleid naar de IRMA app.
+
+Daarmee ontvangt u het attribuut waarin uw mobiele
 nummer staat.
 
 De geldigheid van dit mobiele nummer attribuut is *een jaar*.
