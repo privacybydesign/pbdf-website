@@ -63,7 +63,8 @@ E-mailadres attribuut
 Mobiel telefoonnummer-attribuut
 :   Attribuut: telefoonnummer  
     <a class="button" href="/uitgifte/telefoonnummer">
-    <img src="/images/mobile.png">Laad telefoonnummer-attribuut</a>  
+    <img src="/images/mobile.png">Laad mobiel nummer attribuut</a>  
+    [Meer informatie](/uitgifte-mobiel)
 
 Attributen via Surfconext
 :   Attributen: voornaam, achternaam, emailadres, instelling, medewerker/student, locaal registratienummer  

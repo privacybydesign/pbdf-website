@@ -24,7 +24,7 @@ u klikt. Daarna ontvangt u het e-mail attribuut.
 
 De geldigheid van dit e-mail attribuut is *een jaar*.
 
-De stichting Privacy by Design verwijdert dit email attribuut na
+De stichting Privacy by Design verwijdert dit email adres na
 uitgifte uit de eigen systemen. De stichting houdt geen eigen log bij
 van de uitgifte.
 

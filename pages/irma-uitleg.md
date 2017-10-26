@@ -92,7 +92,7 @@ zijn voor een transactie.
 * Als u het "student" attribuut heeft kunt u bijvoorbeeld korting
   krijgen bij de kapper; en als u het "gehandicapt" attribuut van een
   bepaalde soort heeft, hebt u recht op speciaal vervoer.
-* Als u online iets wil kopen moet u uw adres voor de bezorging.
+* Als u online iets wil kopen moet u uw adres tonen voor de bezorging.
   Eventuele korting kunt u krijgen via een lidmaatschapsattribuut
   van de webwinkel. En eventueel moet u een leeftijdsattribuut laten
   zien als uw aankoop niet voor minderjarigen is. (We nemen even aan
