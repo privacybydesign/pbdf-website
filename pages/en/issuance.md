@@ -59,9 +59,10 @@ E-mail address attribute
     [More information](/issuance-email)
 
 Mobile phone number attribute
-:   Attribute: phone number attribute  
+:   Attribute: mobile phone number attribute  
     <a class="button" href="/uitgifte/telefoonnummer">
-    <img src="/images/mobile.png">Load phone number attribute</a>  
+    <img src="/images/mobile.png">Load mobile phone number attribute</a>  
+    [More information](/issuance-mobile)
 
 Attributes via Surfconext
 :   Attributes: given name, family name, email address, institution, staff/student, local registration number  
