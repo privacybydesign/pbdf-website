@@ -35,7 +35,7 @@ via een bevestiging met een persoonlijke PIN code. Dit vormt de
 grondslag voor de verwerking van de betreffende attributen door deze
 (derde) partijen.
 
-Door de stichting worden op twee manieren persoonsgegevens verwerkt.
+Door de stichting worden op drie manieren persoonsgegevens verwerkt.
 
 1. **Continu.** Bij registratie creëert een gebruiker van IRMA een
    account en geeft de stichting daarbij een zelfgekozen email adres
@@ -70,7 +70,18 @@ Door de stichting worden op twee manieren persoonsgegevens verwerkt.
    verwijderen van de gegevens ervan, worden de log-gegevens door de
    stichting terstond verwijderd.
 
-2. **Eenmalig, zeer tijdelijk.** Bij uitgifte van attributen door de
+2. **Incidenteel.** Wanneer de [IRMA app](/download) crasht of een
+   ernstig probleem tegenkomt wordt een rapport van de fout samengesteld
+   en naar de stichting gestuurd. Deze rapporten zijn een
+   belangrijk instrument voor de stichting in het verhelpen van problemen
+   en verbeteren van de IRMA app. Een rapport bevat nooit uw
+   attributen, of gegevens over uw eerdere gebruik van de IRMA app,
+   maar uitsluitend technische data over wat er mis is gegaan en over uw
+   telefoon (bijvoorbeeld IP-adres, versienummer van de app, en het
+   versienummer van Android of iOS). De stichting verwijdert deze rapporten
+   wanneer ze niet meer nodig zijn of in ieder geval na drie maanden.
+
+3. **Eenmalig, zeer tijdelijk.** Bij uitgifte van attributen door de
    stichting Privacy by Design voorziet de stichting deze attributen
    van een eigen digitale handtekening; daarna worden de ondertekende
    attributen in de IRMA app van de gebruiker geplaatst. Onmiddelijk
