@@ -64,7 +64,8 @@ and academia. The atmosphere is open and very much content-oriented.
 
    4. 11:30 - 12:00 Marie-José Hoefmans (Schluss). "The Schluss
       initiative", see
-      [schluss.org](https://www.schluss.org/)
+      [schluss.org](https://www.schluss.org/) for back ground information.
+      [[slides](../meeting-slides/slides-3-11-17/schluss.pdf)]
 
    5. 12:00 - 12:15 Stijn Meijer (Radboud Universiteit en ING)
       "Comparing uPort's blockchain-based identity management with
