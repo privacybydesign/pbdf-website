@@ -67,13 +67,14 @@ and academia. The atmosphere is open and very much content-oriented.
       [schluss.org](https://www.schluss.org/) for back ground information.
       [[slides](../meeting-slides/slides-3-11-17/schluss.pdf)]
 
-   5. 12:00 - 12:15 Stijn Meijer (Radboud Universiteit en ING)
+   5. 12:00 - 12:15 Stijn Meijer (Radboud University en ING)
       "Comparing uPort's blockchain-based identity management with
       IRMA" see [uport.me](https://www.uport.me/)
 
    6. 12:15 - 12:45 Sietse Ringers (Radboud Universiteit) "Latest IRMA
       developments", see
       [privacybydesign.foundation](https://privacybydesign.foundation/en)
+      [[slides](../meeting-slides/slides-3-11-17/irma-developments-nov17.pdf)]
 
    7. 12:45 Lunch
 
