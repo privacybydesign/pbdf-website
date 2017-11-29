@@ -43,8 +43,18 @@ geldigheid van het credential verlopen is, moet de gebruiker een
 nieuwe versie ophalen.
 
 Vooralsnog is deze attribuut uitgifte via surfconext alleen
-beschikbaar voor studenten en medewerkers van de Radboud universiteit;
-andere instellingen moeten deze mogelijkheid zelf explicit
-"aanzetten".
+beschikbaar voor studenten en medewerkers van een beperkt aantal
+instellingen in het hoger onderwijs.  Studeert of werkt u aan zo'n
+instelling, maar komt deze niet voor in de lijst op de <a
+href="https://privacybydesign.foundation/uitgifte/surfnet?action=login">SURFconext
+uitgifte pagina</a>, dan heeft uw instelling de aansluiting met de
+stichting <a href="https://privacybydesign.foundation/">Privacy by
+Design</a> niet "aangezet". In dat geval kunt u geen attributen via
+SURFconext ontvangen. Het beste kunt u dan met het centrale
+systeembeheer van de eigen instelling contact opnemen en de
+verantwoordelijke voor identity management vragen een email te sturen
+naar het adres <tt>support'at'surfconext.nl</tt>, met het simpele
+verzoek: <em>AUB de stichting Privacy by Design voor onze instelling
+toelaten als Service Provider.</em>
 
 [Terug](/uitgifte) naar uitgifte van attributen.

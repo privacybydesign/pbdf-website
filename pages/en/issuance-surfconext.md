@@ -10,7 +10,7 @@ translations:
   nl: /uitgifte-surfconext
 ---
 
-Via [Surfconext](https://www.surfconext.nl) students and staff members
+Via [SURFconext](https://www.surfconext.nl) students and staff members
 of educational institutes in the Netherlands can log into several
 online services. The Privacy by Design foundation is one such service,
 and can thus obtain attributes about someone who logs in, namely:
@@ -43,8 +43,22 @@ in which they can use these credentials. After experation of the
 credential, users have to obtain a new (fresh) credential.
 
 At this stage this attribute issuance is available only for students
-and staff members of the Radboud University; other institutions
-have to explicitly switch on this option.
+and staff members of a limited number of institutions in higher
+eduction in the Netherlands. Are you studying or working at such an
+institution but does your institution not occur in the list at <a
+href="https://privacybydesign.foundation/uitgifte/surfnet?action=login">SURFconext
+uitgifte pagina</a>? This means that your institution has not
+"switched on" the connection to the foundation <a
+href="https://privacybydesign.foundation/en">Privacy by Design</a>.
+In that case you cannot receive attributes via SURFconext.  The best
+thing to do is contact locally the people responsible for computer
+support (in particular: identity management) and ask them to send an
+email to the address <tt>support'at'surfconext.nl</tt>, with the
+simple request: <em>Please give the Privacy by Design foundation
+access as Service Provider to our institution</em> (in Dutch: <em>AUB
+de stichting Privacy by Design voor onze instelling toelaten als
+Service Provider</em>).
+
 
 [Back](/issuance) to attribute issuance.
 

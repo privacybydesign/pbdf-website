@@ -66,7 +66,7 @@ Mobiel telefoonnummer-attribuut
     <img src="/images/mobile.png">Laad mobiel nummer attribuut</a>  
     [Meer informatie](/uitgifte-mobiel)
 
-Attributen via Surfconext
+Attributen via SURFconext
 :   Attributen: voornaam, achternaam, emailadres, instelling, medewerker/student, locaal registratienummer  
     <a class="button" href="/uitgifte/surfnet?action=login">
     <img src="/images/surfnet.png">Laad attributen via SURFconext</a>  
