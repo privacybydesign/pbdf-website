@@ -13,8 +13,9 @@ translations:
 
  * Email: info 'at' privacybydesign.foundation
  * For email addresses of the board members, see [Board](/board)
- * [Twitter](https://twitter.com/IRMA_privacy)
- * Mail: Toernooiveld 212, 6525 EC Nijmegen, The Netherlands
+ * Follow IRMA developments on [Twitter](https://twitter.com/IRMA_privacy)
+ * Donate Bitcoins to the foundation on account/address: **13RJFgBP2XDqQDY2R3mYzwwUqwYX56AeM5**
+ * Postal address: Toernooiveld 212, 6525 EC Nijmegen, The Netherlands
  * Chamber of Commerce registration number: 67144128; fiscal (RSIN) number: 856848359
  * Bank account: NL54 INGB 0007522950 (BIC: INGBNL2A)
  * Founding date: October 25, 2016
