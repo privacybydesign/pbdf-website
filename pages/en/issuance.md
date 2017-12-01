@@ -54,7 +54,7 @@ Attributes via iDIN
 
 E-mail address attribute
 :   Attribute: e-mail address  
-    <a class="button" href="/uitgifte/email">
+    <a class="button" href="/issuance/email">
     <img src="/images/email.png">Load e-mail address attribute</a>  
     [More information](/issuance-email)
 
