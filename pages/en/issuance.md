@@ -66,7 +66,7 @@ Mobile phone number attribute
 
 Attributes via Surfconext
 :   Attributes: given name, family name, email address, institution, staff/student, local registration number  
-    <a class="button" href="/uitgifte/surfnet?action=login">
+    <a class="button" href="/issuance/surfnet?action=login">
     <img src="/images/surfnet.png">Load attributes via SURFconext</a>  
     [More information](/issuance-surfconext)
 
