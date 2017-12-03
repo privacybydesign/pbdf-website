@@ -60,7 +60,7 @@ E-mail address attribute
 
 Mobile phone number attribute
 :   Attribute: mobile phone number attribute  
-    <a class="button" href="/uitgifte/telefoonnummer">
+    <a class="button" href="/issuance/phonenumber">
     <img src="/images/mobile.png">Load mobile phone number attribute</a>  
     [More information](/issuance-mobile)
 
