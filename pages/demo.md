@@ -10,30 +10,29 @@ translations:
   en: /demo-en
 ---
 
-De [IRMATube demo](/demo/irmaTube) is een fictieve video-streaming
-service, die meerdere aspecten van IRMA demonstreert. Door "lid" te
-worden van IRMATube ontvangt u lidmaatschaps-attributen. Deze kunt u
-dan later vrijgeven om (trailers van) films te bekijken. 
+Deze pagina beschrijft hoe IRMA gebruikt kan worden om attributen voor
+bepaalde doeleinden te gebruiken. Bij ieder van de onderstaande
+knoppen wordt verdere uitleg gegeven.
 
-In het bijzonder laat IRMATube de volgende aspecten van
-attribuut-gebaseerde authenticatie zien.
+Login met email adres
+:   <a class="button" href="https://privacybydesign.foundation/demo/mail">Email login</a>  
+    
+Adres opgave via automatisch invullen van velden
+:    <a class="button"
+href="https://privacybydesign.foundation/demo/adres">Adres invullen</a>
 
-* Bij het lid worden ontvangt u *twee* attributen: een die enkel
-  aangeeft dat u lid bent, en een andere die een identificerend
-  lidmaatschapsnummer bevat. Bij het bekijken van een film wordt
-  echter enkel om het lidmaatschaps-attribuut gevraagd.  U wordt
-  daardoor niet geïdentificeerd: u toont enkel aan dat u lid bent,
-  maar niet wie u bent.  
+Verificatie of iemand student is
+:    <a class="button"
+href="https://privacybydesign.foundation/demo/student">Student check</a>
 
-  In een uitgebreider en realistischer scenario zou u misschien uw
-  lidmaatschapsnummer wel willen onthullen als u een bepaalde film aan
-  uw profiel wil toegevoegen. Dit zit echter niet in de huidige versie
-  van de IRMATube demo.
+Leeftijdscontrole
+:    <a class="button"
+href="https://privacybydesign.foundation/demo/18plus">18+ check</a>
 
-* Sommige films op IRMATube hebben een leeftijdsgrens. Wanneer u een
-  van deze films wilt bekijken, toont u niet alleen uw
-  IRMATube-lidmaatschaps attribuut, maar toont u ook aan dat u oud
-  genoeg bent door middel van een leeftijdsgrens-attribuut.  (Deze
-  attributen u [hier](/uitgifte/idin) krijgen.)
+Registratie en verificatie om online films te kijken
+:    <a class="button"
+href="https://privacybydesign.foundation/demo/irmaTube">IRMATube</a>
 
-<a class="button" href="/demo/irmaTube">Ga naar IRMATube</a>
+
+
+
