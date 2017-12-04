@@ -18,12 +18,12 @@ can use these to watch (trailers of) movies on the IRMATube main page.
 In particular, the IRMATube demo illustrates the following aspects of
 attribute-based authentication.
 
-* Upon becoming member you receive *two* attributes: one which simply
-  proves that you are a member, and one which contains a personal
-  membership number. When you wish to watch a movie, only your
-  membership attribute is requested, not the membership number that
-  identifies you: you only prove that you are a member, not who you
-  are.
+* Upon becoming member of IRMATube you receive *two* attributes: one
+  which simply proves that you are a member, and one which contains a
+  personal membership number. When you wish to watch a movie, only
+  your membership attribute is requested, not the membership number
+  that identifies you: you only prove that you are a member, not who
+  you are.
 
   In a more elaborate and realistic scenario you may want to reveal
   your membership number too in case you want a movie to be added to
