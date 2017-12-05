@@ -36,9 +36,7 @@ non-profit spin-off.
 De stichting richt zich vooral op het eigen [IRMA](/irma)
 systeem voor privacy-vriendelijke attribuut-gebaseerde
 authenticatie. De aanpak is gebaseerd op gratis beschikbare open
-source software. Voor het gebruik van IRMA is er een eigen [Android
-app](https://play.google.com/store/apps/details?id=org.irmacard.cardemu).
-Een iOS app is in ontwikkeling.
+source software. 
 
 De stichting heeft twee belangrijke operationele rollen met betrekking
 tot IRMA.

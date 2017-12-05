@@ -11,11 +11,11 @@ translations:
 ---
 
 Deze pagina beschrijft hoe IRMA gebruikt kan worden om attributen voor
-bepaalde doeleinden te gebruiken. Bij ieder van de onderstaande
+verschillende doeleinden te onthullen. Bij ieder van de onderstaande
 knoppen wordt verdere uitleg gegeven.
 
-Login met email adres
-:   <a class="button" href="https://privacybydesign.foundation/demo/mail">Email login</a>  
+Login met e-mail adres
+:   <a class="button" href="https://privacybydesign.foundation/demo/mail">E-mail login</a>  
     
 Adres opgave via automatisch invullen van velden
 :    <a class="button"

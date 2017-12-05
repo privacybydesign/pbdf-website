@@ -20,10 +20,10 @@ widget2:
   # image: irma-video-youtube.png
   video: <a href="#" data-reveal-id="videoModal"><img src="/images/irma-video-youtube.png" width="302" height="182" alt=""/></a>
 widget3:
-  title: New attributes
-  url: /issuance/
-  image: surfidin.png
-  text: After installing the IRMA app and registering at <a href="/mijnirma">MyIRMA</a> you can now obtain <a href="https://www.idin.nl/consumenten">iDIN</a>-attributes from your (dutch) bank, and if you are an employee or student at the Radboud University, also <a href="https://surfconext.nl/">Surfnet</a> attributes.
+  title: Check out what IRMA can do
+  url: /demo-en/
+  image: IRMATube_logo.png
+  text: Various demos give an impression of IRMA, for instance for revealing an e-mail address, proving that you are a student, or older than 18, for automatic form-filling, or for privacy-friendly movie-watching. All these demos come with explanations and instructions for doing them yourself.
 ---
 
 ### Privacy by Design Foundation
@@ -36,10 +36,7 @@ non-profit spin-off.
 
 The foundation primarily works on its [IRMA](/irma-en) system for
 privacy-friendly attribute-based authentication, based on freely
-available open source software. For the purpose of using IRMA, the
-foundation provides an [Android
-app](https://play.google.com/store/apps/details?id=org.irmacard.cardemu).
-An iOS app is under development.
+available open source software. 
 
 The foundation has two important operational roles in IRMA:
 
