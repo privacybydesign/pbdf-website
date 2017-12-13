@@ -66,7 +66,7 @@ Mobile phone number attribute
 
 Social netwerk-attributes
 :   Attributes (differs per network): first name, family name, email address, birth date, username  
-    <a class="button" href="/uitgifte/social/facebook">
+    <a class="button" href="/issuance/social/facebook">
     <img src="/images/facebook.png">Load attributes via Facebook</a>
 
 Attributes via Surfconext
