@@ -67,7 +67,7 @@ Mobiel telefoonnummer-attribuut
     [Meer informatie](/uitgifte-mobiel)
 
 Sociaal netwerk-attributen
-:   Attributen (variëert per netwerk): voornaam, achternaam, e-mailadres, geboortedatum, gebruikersnaam  
+:   Attributen (varieert per netwerk): voornaam, achternaam, e-mailadres, geboortedatum, gebruikersnaam  
     <a class="button" href="/uitgifte/social/facebook">
     <img src="/images/facebook.png">Laad attributen via Facebook</a>
 
