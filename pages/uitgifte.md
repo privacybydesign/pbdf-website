@@ -66,6 +66,11 @@ Mobiel telefoonnummer-attribuut
     <img src="/images/mobile.png">Laad mobiel nummer attribuut</a>  
     [Meer informatie](/uitgifte-mobiel)
 
+Sociaal netwerk-attributen
+:   Attributen (variëert per netwerk): voornaam, achternaam, e-mailadres, geboortedatum, gebruikersnaam  
+    <a class="button" href="/uitgifte/social/facebook">
+    <img src="/images/facebook.png">Laad attributen via Facebook</a>
+
 Attributen via SURFconext
 :   Attributen: voornaam, achternaam, emailadres, instelling, medewerker/student, locaal registratienummer  
     <a class="button" href="/uitgifte/surfnet?action=login">
