@@ -64,6 +64,11 @@ Mobile phone number attribute
     <img src="/images/mobile.png">Load mobile phone number attribute</a>  
     [More information](/issuance-mobile)
 
+Social netwerk-attributes
+:   Attributes (differs per network): first name, family name, email address, birth date, username  
+    <a class="button" href="/uitgifte/social/facebook">
+    <img src="/images/facebook.png">Load attributes via Facebook</a>
+
 Attributes via Surfconext
 :   Attributes: given name, family name, email address, institution, staff/student, local registration number  
     <a class="button" href="/issuance/surfnet?action=login">
