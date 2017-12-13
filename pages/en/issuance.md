@@ -64,7 +64,7 @@ Mobile phone number attribute
     <img src="/images/mobile.png">Load mobile phone number attribute</a>  
     [More information](/issuance-mobile)
 
-Social netwerk-attributes
+Social network-attributes
 :   Attributes (differs per network): first name, family name, email address, birth date, username  
     <a class="button" href="/issuance/social/facebook">
     <img src="/images/facebook.png">Load attributes via Facebook</a>
