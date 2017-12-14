@@ -69,7 +69,9 @@ Social network-attributes
     <a class="button" href="/issuance/social/facebook">
     <img src="/images/facebook.png">Load attributes via Facebook</a>  
     <a class="button" href="/issuance/social/twitter">
-    <img src="/images/twitter.png">Load attributes via Twitter</a>
+    <img src="/images/twitter.png">Load attributes via Twitter</a>  
+    <a class="button" href="/issuance/social/linkedin">
+    <img src="/images/linkedin.png">Load attributes via LinkedIn</a>
 
 Attributes via Surfconext
 :   Attributes: given name, family name, email address, institution, staff/student, local registration number  

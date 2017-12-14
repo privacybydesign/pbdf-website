@@ -67,11 +67,13 @@ Mobiel telefoonnummer-attribuut
     [Meer informatie](/uitgifte-mobiel)
 
 Sociaal netwerk-attributen
-:   Attributen (varieert per netwerk): voornaam, achternaam, e-mailadres, geboortedatum, gebruikersnaam  
+:   Attributen (varieert per netwerk): voornaam, achternaam, e-mailadres, geboortedatum, gebruikersnaam,  
     <a class="button" href="/uitgifte/social/facebook">
     <img src="/images/facebook.png">Laad attributen via Facebook</a>  
     <a class="button" href="/uitgifte/social/twitter">
-    <img src="/images/twitter.png">Laad attributen via Twitter</a>
+    <img src="/images/twitter.png">Laad attributen via Twitter</a>  
+    <a class="button" href="/uitgifte/social/linkedin">
+    <img src="/images/linkedin.png">Laad attributen via LinkedIn</a>
 
 Attributen via SURFconext
 :   Attributen: voornaam, achternaam, emailadres, instelling, medewerker/student, locaal registratienummer  
