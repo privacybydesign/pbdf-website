@@ -67,7 +67,9 @@ Mobile phone number attribute
 Social network-attributes
 :   Attributes (differs per network): first name, family name, email address, birth date, username  
     <a class="button" href="/issuance/social/facebook">
-    <img src="/images/facebook.png">Load attributes via Facebook</a>
+    <img src="/images/facebook.png">Load attributes via Facebook</a>  
+    <a class="button" href="/issuance/social/twitter">
+    <img src="/images/twitter.png">Load attributes via Twitter</a>
 
 Attributes via Surfconext
 :   Attributes: given name, family name, email address, institution, staff/student, local registration number  
