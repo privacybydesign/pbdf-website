@@ -4,3 +4,6 @@
 [submodule "schememanager/pbdf"]
 	path = schememanager/pbdf
 	url = https://github.com/credentials/pbdf-schememanager
+[submodule "schememanager/irma-demo"]
+	path = schememanager/irma-demo
+	url = https://github.com/privacybydesign/irma-demo-schememanager
