@@ -14,12 +14,12 @@ translations:
 
 Meer in het bijzonder richt de stichting zich op de ontwikkeling en
 het gebruik van het eigen systeem [IRMA](/irma), een afkorting voor *I
-Reveal My Attributes*.  Met IRMA kun je op een privacy-vriendelijke,
-beveiligde manier eigenschappen (attributen) van jezelf onthullen
-(zoals: ik ben boven de 18), zonder dat je andere, niet-relevante
-informatie over jezelf weggeeft.
+Reveal My Attributes*.  Met IRMA kunt u op een privacy-vriendelijke,
+beveiligde manier eigenschappen (attributen) van uzelf onthullen
+(zoals: ik ben boven de 18), zonder dat u andere, niet-relevante
+informatie over uzelf weggeeft.
 
-Ook kun je met IRMA attribuut-gebaseerde handtekeningen zetten,
+Ook kunt u met IRMA attribuut-gebaseerde handtekeningen zetten,
 zie [IRMA](/irma-uitleg) voor meer informatie.
 
 ### Beleidsplannen voor 2017
