@@ -13,7 +13,7 @@ widget1:
   title: Privacy by Design
   url: /doelstelling/
   image: pbd.png
-  text: De stichting Privacy by Design creeëert en onderhoudt gratis open source software waarbij de privacy van de gebruiker voorop staat. Het belangrijkste onderwerp van de stichting is IRMA, een afkorting voor <em>I Reveal my Attributes</em>.
+  text: De stichting Privacy by Design creëert en onderhoudt gratis open source software waarbij de privacy van de gebruiker voorop staat. Het belangrijkste onderwerp van de stichting is IRMA, een afkorting voor <em>I Reveal my Attributes</em>.
 widget2:
   title: IRMA
   url: /irma/
