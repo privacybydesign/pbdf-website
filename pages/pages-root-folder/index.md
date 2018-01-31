@@ -18,11 +18,12 @@ widget2:
   text: Met IRMA kunt u op betrouwbare wijze alleen relevante eigenschappen (attributen, zoals "ouder dan 18") van uzelf aan anderen bewijzen. Deze IRMA attributen beheert u helemaal zelf in een app, op uw eigen telefoon.
   # image: irma-video-youtube.png
   video: <a href="#" data-reveal-id="videoModal"><img src="/images/irma-video-youtube.png" width="302" height="182" alt=""/></a>
+#851 × 479 
 widget3:
-  title: Zien wat met IRMA kan?
-  url: /demo/
-  image: IRMATube_logo.png
-  text: Via verschillende demo's krijgt u een indruk van het gebruik van IRMA, bijvoorbeeld voor het tonen van een e-mail adres, om te bewijzen dat u student bent, of ouder dan 18, om automatisch (adres)velden in te vullen, of om privacy-vriendelijk films te bekijken. Al deze demo's zijn voorzien van uitleg en van instructies om ze zelf te doen.
+  title: IRMA wint Privacy Award
+  url: https://privacyfirst.nl/solutions/evenementen/item/1104-winnaars-nederlandse-privacy-awards-2018.html
+  image: privacyaward.jpg
+  text: IRMA heeft de Nederlandse Privacy Award 2018 gewonnen. De jury prijst de privacy by design-opzet, het grote innovatieve vermogen, en de potentiële maatschappelijke impact van IRMA.
 ---
 
 ### Stichting Privacy by Design

@@ -20,10 +20,10 @@ widget2:
   # image: irma-video-youtube.png
   video: <a href="#" data-reveal-id="videoModal"><img src="/images/irma-video-youtube.png" width="302" height="182" alt=""/></a>
 widget3:
-  title: Check out what IRMA can do
-  url: /demo-en/
-  image: IRMATube_logo.png
-  text: Various demos give an impression of IRMA, for instance for revealing an e-mail address, proving that you are a student, or older than 18, for automatic form-filling, or for privacy-friendly movie-watching. All these demos come with explanations and instructions for doing them yourself.
+  title: IRMA wins Privacy Award
+  url: https://privacyfirst.nl/solutions/evenementen/item/1104-winnaars-nederlandse-privacy-awards-2018.html
+  image: privacyaward.jpg
+  text: IRMA has won the Dutch Privacy Award 2018. The jury commends the privacy by design, the large innovative potential, and the potential social impact of IRMA.
 ---
 
 ### Privacy by Design Foundation
