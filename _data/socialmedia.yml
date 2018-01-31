@@ -7,11 +7,11 @@
 #   url: http://www.youtube.com/PhlowMedia
 #   class: icon-youtube
 #   title: "Videos, Video-Anleitungen und Filme von Phlow auf YouTube"
-#
-# - name: Twitter
-#   url: http://twitter.com/phlow
-#   class: icon-twitter
-#   title: "Immer das Neuste von Phlow gibt es auf Twitter"
+
+- name: Twitter
+  url: http://twitter.com/phlow
+  class: icon-twitter
+  title: "The Privacy by Design Foundation develops IRMA: privacy-preserving, user friendly and secure authentication."
 #
 # - name: Mixcloud
 #   url: http://www.mixcloud.com/phlow/

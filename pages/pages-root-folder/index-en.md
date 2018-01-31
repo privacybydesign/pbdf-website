@@ -8,6 +8,8 @@ language: en
 translations:
   nl: /
 homepage: true
+image:
+  title: pbd.png
 widget1:
   title: Privacy by Design
   url: /goal/

@@ -7,6 +7,8 @@ permalink: /index.html
 translations:
   en: /en
 homepage: true
+image:
+  title: pbd.png
 widget1:
   title: Privacy by Design
   url: /doelstelling/
