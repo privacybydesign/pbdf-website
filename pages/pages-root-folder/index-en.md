@@ -62,6 +62,14 @@ other parties, among which:
    signing within the context of `smart' homes. In addition, the
    foundation is structurally supported by Alliander.
 
+The foundation receives external funding via the following projects.
+
+ * *Connecting (with) IRMA* (2018), via the [SIDNfonds](https://www.sidnfonds.nl/projecten), see in particular this [project page](https://www.sidnfonds.nl/projecten/connecting-with-irma).
+
+ * *Citizen Science* (2018-2020), via the European Regional
+    Development Fund [ERDF](http://ec.europa.eu/regional_policy/en/funding/erdf/); see the [ERDF projecten in the province of Gelderland](https://www.europaomdehoek.nl/projecten/?radius=&projectProvince[]=Gelderland).
+
+
 <div id="videoModal" class="reveal-modal large" data-reveal="">
   <div class="flex-video widescreen vimeo" style="display: block;">
     <iframe width="1280" height="720" src="https://www.youtube-nocookie.com/embed/q6IihEQFPys" frameborder="0" allowfullscreen></iframe>
