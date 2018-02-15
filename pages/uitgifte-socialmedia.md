@@ -17,8 +17,9 @@ en [LinkedIn](https://linkedin.com). De stichting Privacy by Design
 heeft zich bij ieder van deze partijen geregistreerd om attributen te
 kunnen ontvangen. De stichting voorziet deze attributen van een
 digitale handtekening en plaatst ze in de IRMA app van de
-gebruiker. Direct daarna verwijdert de stichting deze attributen. De
-stichting houdt geen log bij van de uitgegeven attributen.
+gebruiker. Direct daarna verwijdert de stichting deze attributen uit
+de eigen systemen. De stichting houdt geen log bij van de uitgegeven
+attributen.
 
 De volgende attributen worden gebruikt.
 
