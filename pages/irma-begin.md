@@ -74,7 +74,7 @@ digitale handtekening met IRMA is de PIN code nodig.
 Het veranderen of opvragen van de PIN code is (op dit moment) niet
 mogelijk.  Als u uw PIN code kwijtraakt, moet u zich opnieuw voor IRMA
 registreren en gaan al uw tot dan toe verzamelde attributen
-verloren. Dat is gedoe.
+verloren. Dat is gedoe.  
 
 #### 1.3. Personalisatie met uw email adres
 
@@ -113,12 +113,12 @@ verschillende mogelijkheden om nog meer attributen op te nemen in de
 app. Dit lijstje mogelijkheden ligt niet vast en zal groeien naarmate
 meer partijen aan IRMA meedoen.
 
- * Surfconext levert attributen van uw (eventuele) hoger onderwijs
+ * SURFconext levert attributen van uw (eventuele) hoger onderwijs
    identiteit. Deze is in principe beschikbaar voor studenten en
    medewerkers van instellingen voor onderwijs en onderzoek in
    Nederland die aangesloten zijn op
    [SURFconext](https://www.surfconext.nl). Uw eigen instelling moet
-   IRMA toegang wel expliciet goedkeuren. Via Surfconext kunnen
+   IRMA toegang wel expliciet goedkeuren. Via SURFconext kunnen
    "onderwijs attributen" in uw IRMA app gezet worden.
 
  * iDIN levert uw naam, adres, woonplaats, en geboortedatum

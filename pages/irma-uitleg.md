@@ -10,9 +10,10 @@ translations:
   en: /irma-explanation
 ---
 
-<a name="top"></a> Op deze pagina worden de ideeën achter het
-IRMA systeem beschreven en wordt ook uiteengezet hoe het systeem werkt
-en is opgezet. De volgende onderwerpen komen achtereenvolgens aan bod.
+<a name="top"></a> Op deze pagina worden de ideeën achter het identity
+platform IRMA beschreven en wordt ook uiteengezet hoe het systeem
+werkt en is opgezet. De volgende onderwerpen komen achtereenvolgens
+aan bod.
 
  1. [Waar gaat IRMA eigenlijk over?](#onderwerp)
  2. [Waarom zou u attributen willen gebruiken in plaats van identiteiten?](#waarom)
@@ -163,14 +164,14 @@ kinderen.
 
 ### <a name="hoe"></a>3. Hoe kom ik aan attributen en hoe gebruik ik ze?
 
-In het IRMA eco-systeem worden uw persoonlijke attributen beveiligd
-opgeslagen in de IRMA app op uw eigen telefoon (of tablet). De app
-heeft een eigen PIN die nodig is voor het gebruik. Die PIN moet er
-voor zorgen dat niemand anders uw attributen in de app kan gebruiken,
-en zich daarmee als u voor kan doen. Natuurlijk is het goed als uw
-telefoon een eigen inlog patroon of code heeft. Maar daarbovenop heeft
-de IRMA app nog weer een eigen PIN, net zo als de verschillende apps
-voor mobiel bankieren een eigen PIN hebben.
+In het IRMA identity platvorm worden uw persoonlijke attributen
+beveiligd opgeslagen in de IRMA app op uw eigen telefoon (of
+tablet). De app heeft een eigen PIN die nodig is voor het gebruik. Die
+PIN moet er voor zorgen dat niemand anders uw attributen in de app kan
+gebruiken, en zich daarmee als u voor kan doen. Natuurlijk is het goed
+als uw telefoon een eigen inlog patroon of code heeft. Maar
+daarbovenop heeft de IRMA app nog weer een eigen PIN, net zo als de
+verschillende apps voor mobiel bankieren een eigen PIN hebben.
 
 Attributen die voor u gelden kunt u downloaden in uw IRMA app op uw
 telefoon. Dat kan via het [web](/uitgifte), door het scannen van een
@@ -543,7 +544,7 @@ partijen authenticatie eisen en mechanismen opleggen aan minder
 machtige partijen. De stichting Privacy by Design is sterk van
 doordrongen van dergelijke maatschappelijk relevante issues en
 probeert met waarden-gebaseerd ontwerp IRMA aan te bieden als
-transparant open ecosysteem voor proportionele en
+transparant open identity platvorm voor proportionele en
 context-afhankelijke authenticatie, dat gebruikers een sterke, in
 plaats van een zwakke, positie geeft (*empowering users*). Deze
 contekst-afhankelijkheid sluit aan bij [Helen
@@ -661,7 +662,7 @@ worden, en er zijn ook geen centrale partijen die voor iedere
 authenticatie een prijs kunnen vragen. Voor gebruikers is dat
 misschien juist weer een voordeel.
 
-Echter, met het IRMA ecosysteem is wel degelijk economisch
+Echter, met het identity platvorm IRMA is wel degelijk economisch
 levensvatbaar. Het uitgeven en controleren van attributen kan een
 commerciële dienst zijn, die door derde partijen tegen betaling
 uitgevoerd wordt. Ook kan voor de uitgifte van speciale attributen,
@@ -677,8 +678,8 @@ basis set attributen.
 
 ### <a name="meedoen"></a>10. Hoe kan ik meedoen of bijdragen?
 
-IRMA is een ecosysteem dat van onderaf opgebouwd wordt en niet van
-bovenaf opgelegd. IRMA zal zich moeten bewijzen via overtuigende
+IRMA is een identity platvorm dat van onderaf opgebouwd wordt en niet
+van bovenaf opgelegd. IRMA zal zich moeten bewijzen via overtuigende
 toepassingen. Daar wordt nu door verschillende partijen aan gewerkt.
 
 Hecht u aan zorgvuldige privacy-vriendelijke omgang met uw klanten,

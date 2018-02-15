@@ -47,7 +47,7 @@ pas in 2017 goed op gang. Deze activiteiten zijn met name gericht op:
   waaronder (medische) BIG attributen. Het verifiëren van attributen
   wordt niet als dienst door de stiching aangeboden, maar wordt wel
   ontwikkeld voor verschillende andere partijen (waaronder met name
-  [Surfnet](https://www.surfnet.nl)).
+  [SURFnet](https://www.surfnet.nl)).
 
 * De ontwikkeling van een IRMA app voor iOS, naast de bestaande IRMA
   app voor Android.

@@ -13,11 +13,11 @@ widget1:
   title: Privacy by Design
   url: /doelstelling/
   image: pbd.png
-  text: De stichting Privacy by Design creëert en onderhoudt gratis open source software waarbij de privacy van de gebruiker voorop staat. Het belangrijkste onderwerp van de stichting is IRMA, een afkorting voor <em>I Reveal my Attributes</em>.
+  text: De stichting Privacy by Design creëert en onderhoudt gratis open source software waarbij de privacy van de gebruiker voorop staat. Het belangrijkste onderwerp van de stichting is het identity platvorm IRMA, een afkorting voor <em>I Reveal my Attributes</em>.
 widget2:
   title: IRMA
   url: /irma/
-  text: Met IRMA kunt u op betrouwbare wijze alleen relevante eigenschappen (attributen, zoals "ouder dan 18") van uzelf aan anderen bewijzen. Deze IRMA attributen beheert u helemaal zelf in een app, op uw eigen telefoon.
+  text: Met IRMA kunt u op betrouwbare wijze alleen relevante eigenschappen (attributen, zoals "ouder dan 18") van uzelf aan anderen bewijzen. IRMA maakt u <em>self-sovereign</em>&#58; de attributen beheert u helemaal zelf in de IRMA app, op uw eigen telefoon.
   # image: irma-video-youtube.png
   video: <a href="#" data-reveal-id="videoModal"><img src="/images/irma-video-youtube.png" width="302" height="182" alt=""/></a>
 #851 × 479 
@@ -36,10 +36,10 @@ Universiteit en het Privacy and Identity Lab
 [PI.lab](http://www.pilab.nl). De stichting is een onafhankelijke
 non-profit spin-off.
 
-De stichting richt zich vooral op het eigen [IRMA](/irma)
-systeem voor privacy-vriendelijke attribuut-gebaseerde
+De stichting richt zich vooral op het eigen identity platvorm
+[IRMA](/irma) voor privacy-vriendelijke attribuut-gebaseerde
 authenticatie. De aanpak is gebaseerd op gratis beschikbare open
-source software. 
+source software.
 
 De stichting heeft twee belangrijke operationele rollen met betrekking
 tot IRMA.
@@ -55,7 +55,7 @@ verschillende andere partijen, waaronder in het bijzonder:
    authenticatie van studenten en medewerkers en digitale
    ondertekening van bijv. tentamenuitslagen;
 
- * [Surfnet](https://www.surfnet.nl), voor uitgifte en controle van
+ * [SURFnet](https://www.surfnet.nl), voor uitgifte en controle van
    attributen via [surfconext](https://www.surfconext.nl);
 
  * [Alliander](http://www.alliander.nl), voor authenticatie en

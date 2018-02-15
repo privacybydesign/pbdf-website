@@ -14,11 +14,11 @@ widget1:
   title: Privacy by Design
   url: /goal/
   image: pbd.png
-  text: The Privacy by Foundation creates and maintains free open source software that primarily focuses on the privacy of the user. The most important project of the foundation is IRMA, an acronym for <em>I Reveal my Attributes</em>.
+  text: The Privacy by Foundation creates and maintains free open source software that primarily focuses on the privacy of the user. The most important project of the foundation is the identity platform IRMA, an acronym for <em>I Reveal my Attributes</em>.
 widget2:
   title: IRMA
   url: /irma-en/
-  text: With IRMA you can reliably disclose relevant properties (attributes, such as "older than 18") of yourself to others. You manage these attributes yourself in an app, on your own phone.
+  text: With IRMA you can reliably disclose relevant properties (attributes, such as "older than 18") of yourself to others. IRMA makes you <em>self-sovereign</em>&#58; you manage these attributes yourself in the IRMA app, on your own phone.
   # image: irma-video-youtube.png
   video: <a href="#" data-reveal-id="videoModal"><img src="/images/irma-video-youtube.png" width="302" height="182" alt=""/></a>
 widget3:
@@ -36,9 +36,9 @@ University and from the Privacy and Identity Lab
 [PI.lab](http://www.pilab.nl).  The foundation is an independent
 non-profit spin-off.
 
-The foundation primarily works on its [IRMA](/irma-en) system for
-privacy-friendly attribute-based authentication, based on freely
-available open source software. 
+The foundation primarily works on its own identity platfrom
+[IRMA](/irma-en) for privacy-friendly attribute-based
+authentication, based on freely available open source software.
 
 The foundation has two important operational roles in IRMA:
 
@@ -55,7 +55,7 @@ other parties, among which:
    authentication of student and employees and for digital signing of,
    e.g., examination grades.
 
- * [Surfnet](https://www.surf.nl/en/services-and-products/surfconext/index.html),
+ * [SURFnet](https://www.surf.nl/en/services-and-products/surfconext/index.html),
    for issuing and verifying of attributes through SURFconext.
 
  * [Alliander](http://www.alliander.nl), for authentication and

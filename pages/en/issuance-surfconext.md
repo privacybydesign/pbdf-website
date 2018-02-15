@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Background information about issuance of Surfconext attributes
+title: Background information about issuance of SURFconext attributes
 header:
   image_fullwidth: header_unsplash_1.jpg
   title: Privacy by Design Foundation

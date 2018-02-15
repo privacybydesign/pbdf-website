@@ -115,12 +115,12 @@ from Dutch sources. If you wish to join with other, possibly
 international, attributes, please do [contact](/contact-en) the
 foundation.
 
- * Surfconext provides attributes from the (mainly Dutch) higher
+ * SURFconext provides attributes from the (mainly Dutch) higher
    education sector. It is available, in principle, for students and
    staff members from educational institutes in the Netherlands, with
    a [SURFconext](https://www.surfconext.nl) registration. Your own
    institution will have to explicitly approve IRMA access. Via
-   Surfconext "educational" attributes can be loaded into your IRMA
+   SURFconext "educational" attributes can be loaded into your IRMA
    app.
 
  * iDIN provides attributes from your bank, like name, address, town,

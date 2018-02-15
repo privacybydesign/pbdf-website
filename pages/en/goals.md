@@ -52,7 +52,7 @@ focused especially on the following points.
   registration attributes for medical professionals. The foundation
   will not offer verification services, but it does cooperate with
   other parties who intend to verify IRMA attributes
-  (esp. [Surfnet](https://www.surf.nl/en/about-surf/subsidiaries/surfnet)).
+  (esp. [SURFnet](https://www.surf.nl/en/about-surf/subsidiaries/surfnet)).
 
 * Development of an IRMA app for iOS, to complement the existing app
   for Android.

@@ -23,23 +23,23 @@ translations:
 </style>
 
 Via deze pagina kunt u attributen in de IRMA app op uw telefoon
-(her)laden. De stichting Privacy by Design ondertekent deze attributen
-digitaal, zodat controleurs de herkomst en integriteit kunnen checken.
-Vervolgens kunt u deze attributen gebruiken voor authenticatie of
+(her)laden en zo een persoonlijk 'paspoort' samenstellen. De stichting
+Privacy by Design ondertekent deze attributen digitaal, zodat
+controleurs de herkomst en integriteit kunnen checken.  Vervolgens
+kunt u deze attributen gebruiken voor authenticatie of
 inloggen. Hiervoor is het nodig dat u de IRMA app geïnstalleerd heeft
-en de registratie doorlopen. Installatie kan via [Download](/download)
-pagina; het registratie proces wordt vanzelf gestart wanneer u de app
-opent.
+en de registratie doorlopen heeft. Installatie kan via de
+[Download](/download) pagina; het registratie proces wordt vanzelf
+gestart wanneer u de app opent.
 
 Hieronder staat een lijst met knoppen waarmee verschillende attributen
-geladen kunnen worden. Het aantal mogelijkheden zal nog toenemen: in
-de nabije toekomst zullen hier ook attributen uit meer bronnen
-aangeboden worden. Daarbij gelden soms beperkingen:
+geladen kunnen worden. Het aantal mogelijkheden zal gaandeweg
+toenemen. Daarbij gelden soms beperkingen.
 
 * Niet alle bronnen van attributen kunnen door iedereen gebruikt
   worden. Bijvoorbeeld, voor iDIN moet men een Nederlandse
   bankrekening hebben en daar elektronisch op in kunnen loggen; voor
-  Surfnet attributen is een registratie bij een Nederlandse instelling
+  SURFnet attributen is een registratie bij een Nederlandse instelling
   voor (hoger) onderwijs noodzakelijk --- en moet die instelling
   "IRMA" ook toestaan.
 * Er bestaan afhankelijkheden tussen sommige bronnen. Bijvoorbeeld, om
@@ -67,13 +67,14 @@ Mobiel telefoonnummer-attribuut
     [Meer informatie](/uitgifte-mobiel)
 
 Sociaal netwerk-attributen
-:   Attributen (varieert per netwerk): voornaam, achternaam, e-mailadres, geboortedatum, gebruikersnaam,  
+:   Attributen (enige variatie per netwerk): voornaam, achternaam, e-mailadres, geboortedatum, gebruikersnaam  
     <a class="button" href="/uitgifte/social/facebook">
     <img src="/images/facebook.png">Laad attributen via Facebook</a>  
     <a class="button" href="/uitgifte/social/twitter">
     <img src="/images/twitter.png">Laad attributen via Twitter</a>  
     <a class="button" href="/uitgifte/social/linkedin">
-    <img src="/images/linkedin.png">Laad attributen via LinkedIn</a>
+    <img src="/images/linkedin.png">Laad attributen via LinkedIn</a>  
+    [Meer informatie](/uitgifte-socialmedia)
 
 Attributen via SURFconext
 :   Attributen: voornaam, achternaam, emailadres, instelling, medewerker/student, locaal registratienummer  

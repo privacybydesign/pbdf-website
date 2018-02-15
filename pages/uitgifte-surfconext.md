@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Achtergrond informatie over Surfconext attribuut-uitgifte
+title: Achtergrond informatie over SURFconext attribuut-uitgifte
 header:
   image_fullwidth: header_unsplash_1.jpg
   title: Privacy by Design Foundation
@@ -10,7 +10,7 @@ translations:
   en: /issuance-surfconext
 ---
 
-Via [Surfconext](https://www.surfconext.nl) kunnen studenten en
+Via [SURFconext](https://www.surfconext.nl) kunnen studenten en
 medewerkers van aangesloten onderwijsinstellingen inloggen op
 verschillende online diensten. De stichting Privacy by Design vormt
 ook zo'n dienst en kan zo attributen krijgen over degene die inlogt,

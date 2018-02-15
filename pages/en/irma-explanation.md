@@ -10,8 +10,8 @@ translations:
   nl: /irma-uitleg
 ---
 
-<a name="top"></a> This page explains the ideas behind the IRMA
-system.  It also explains how the system works and has been
+<a name="top"></a> This page explains the ideas behind the idenity
+platform IRMA.  It also explains how the system works and has been
 designed. The following topics will be discussed.
 
  1. [What is IRMA all about?](#topic)
@@ -184,14 +184,14 @@ women or for children.
 
 ### <a name="how"></a>3. How do I obtain and use attributes?
 
-In the IRMA ecosystem your personal attributes are securely stored in
-the IRMA app on your own phone (or tablet) --- and nowhere else. The
-app is protected via your own PIN code. This personal PIN ensures that
-no-one else can use your attributes in your IRMA app, and thus steal
-your identity. Of course, it is important that, in addition, your
-phone has its own login pattern or code. But on top of that, the IRMA
-app has its own PIN, just like various apps from mobile banking have
-their own PIN.
+In the IRMA identity platform your personal attributes are securely
+stored in the IRMA app on your own phone (or tablet) --- and nowhere
+else. The app is protected via your own PIN code. This personal PIN
+ensures that no-one else can use your attributes in your IRMA app, and
+thus steal your identity. Of course, it is important that, in
+addition, your phone has its own login pattern or code. But on top of
+that, the IRMA app has its own PIN, just like various apps from mobile
+banking have their own PIN.
 
 Attributes that hold for you can be downloaded to your IRMA app on
 your phone. Typically this is done via the [web](/issuance), but it is
@@ -544,8 +544,8 @@ relations in society.  In general, the more powerful parties impose
 authentication requirements and mechanisms on the less powerful
 parties. The Privacy by Design foundation is well aware of these
 societally important issues and aims to use value-laden design in
-offering IRMA as a transparant open ecosystem for proportional and
-contextual authentication that empowers, instead of weakens,
+offering IRMA as a transparant open identity platform for proportional
+and contextual authentication that empowers, instead of weakens,
 users. This context-dependence is related to [Helen
 Nissenbaum](http://www.nyu.edu/projects/nissenbaum/)'s interpretation
 of privacy as contextuele integrity.
@@ -657,21 +657,21 @@ are no third parties that have to be payed for each authentication
 session, see [above](#architecture). For IRMA users this may actually
 be an advantage.
 
-However, the IRMA ecosystem is economically viable. Issuance and
-verification of attributes may form a commercial service, which can be
-performed by third parties. Also, the Privacy by Design foundation may
-issue certain specialised credentials for a fee. Possibly, in order
-to maintain its activities in the long-term future, the foundation may
-start charging IRMA users, for instance a couple of Euros per year,
-for a basic set of attributes.
+However, the identity platform IRMA is economically viable. Issuance
+and verification of attributes may form a commercial service, which
+can be performed by third parties. Also, the Privacy by Design
+foundation may issue certain specialised credentials for a
+fee. Possibly, in order to maintain its activities in the long-term
+future, the foundation may start charging IRMA users, for instance a
+couple of Euros per year, for a basic set of attributes.
 
 
 [To the top](#top)
 
 ### <a name="contribute"></a>10. How can I participate or contribute?
 
-IRMA is an ecosystem that is being built up from below, and is not
-imposed from above. IRMA will have to prove itself, via convincing
+IRMA is an identity platform that is being built up from below, and is
+not imposed from above. IRMA will have to prove itself, via convincing
 applications. Several parties are currently working on this.
 
 Do you value careful, privacy-friendly interaction with your
