@@ -86,7 +86,7 @@ Attributen via uw (internationale) onderwijsinstelling
 :   Attributen: voornaam, achternaam, emailadres, instelling, medewerker/student, locaal registratienummer  
     <a class="button" href="/uitgifte/surfnet/edugain">
     <img src="/images/edugain.png">Laad attributen via eduGAIN</a>  
-    Opmerking: dit is een experimentele aansluiting. Mocht hij niet werken zoals verwacht horen wij het graag!
+    Opmerking: dit is een experimentele aansluiting. We ontvangen graag feedback op irma 'at' privacybydesign.foundation!
     <!-- [Meer informatie](/uitgifte-surfconext) -->
 
 Attributen via het BIG-register --- op basis van iDIN gegevens

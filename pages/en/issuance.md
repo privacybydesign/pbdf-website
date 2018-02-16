@@ -54,6 +54,11 @@ Social media attributes
     <img src="/images/linkedin.png">Load attributes via LinkedIn</a>  
     [More information](/issuance-socialmedia)
 
+Attributes via your educational institution
+:   Attributes: given name, family name, email address, institution, staff/student, local registration number  
+    <a class="button" href="/uitgifte/surfnet/edugain">
+    <img src="/images/edugain.png">Load attributes via eduGAIN</a>  
+    Notice: this is an experimental connection. We appreciate any feedback at irma 'at' privacybydesign.foundation!
 
 ### Attributes for The Netherlands
 
@@ -73,7 +78,7 @@ Mobile phone number attribute
     <img src="/images/mobile.png">Load mobile phone number attribute</a>  
     [More information](/issuance-mobile)
 
-Attributes via SURFconext
+Attributes via your dutch educational institute
 :   Attributes: given name, family name, email address, institution, staff/student, local registration number  
     <a class="button" href="/issuance/surfnet?action=login">
     <img src="/images/surfnet.png">Load attributes via SURFconext</a>  
