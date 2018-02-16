@@ -56,9 +56,9 @@ Social media attributes
 
 Attributes via your educational institution
 :   Attributes: given name, family name, email address, institution, staff/student, local registration number  
-    <a class="button" href="/uitgifte/surfnet/edugain">
+    <a class="button" href="/issuance/surfnet/edugain">
     <img src="/images/edugain.png">Load attributes via eduGAIN</a>  
-    Notice: this is an experimental connection. We appreciate any feedback at irma 'at' privacybydesign.foundation!
+    Notice: this is an experimental service. We appreciate any feedback at irma 'at' privacybydesign.foundation, preferrably with screenshots if something goes wrong.
 
 ### Attributes for The Netherlands
 
