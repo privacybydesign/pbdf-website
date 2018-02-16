@@ -76,11 +76,18 @@ Sociaal netwerk-attributen
     <img src="/images/linkedin.png">Laad attributen via LinkedIn</a>  
     [Meer informatie](/uitgifte-socialmedia)
 
-Attributen via SURFconext
+Attributen via uw (Nederlandse) onderwijsinstelling
 :   Attributen: voornaam, achternaam, emailadres, instelling, medewerker/student, locaal registratienummer  
     <a class="button" href="/uitgifte/surfnet?action=login">
     <img src="/images/surfnet.png">Laad attributen via SURFconext</a>  
     [Meer informatie](/uitgifte-surfconext)
+
+Attributen via uw (internationale) onderwijsinstelling
+:   Attributen: voornaam, achternaam, emailadres, instelling, medewerker/student, locaal registratienummer  
+    <a class="button" href="/uitgifte/edugain?action=login">
+    <img src="/images/edugain.png">Laad attributen via eduGAIN</a>  
+    Opmerking: dit is een experimentele aansluiting. Mocht hij niet werken zoals verwacht horen wij het graag!
+    <!-- [Meer informatie](/uitgifte-surfconext) -->
 
 Attributen via het BIG-register --- op basis van iDIN gegevens
 :   Attributen: BIG-nummer, startdatum BIG-registratie, medisch beroep, medisch specialisme  
