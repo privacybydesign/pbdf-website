@@ -78,13 +78,13 @@ Sociaal netwerk-attributen
 
 Attributen via uw (Nederlandse) onderwijsinstelling
 :   Attributen: voornaam, achternaam, emailadres, instelling, medewerker/student, locaal registratienummer  
-    <a class="button" href="/uitgifte/surfnet?action=login">
+    <a class="button" href="/uitgifte/surfnet">
     <img src="/images/surfnet.png">Laad attributen via SURFconext</a>  
     [Meer informatie](/uitgifte-surfconext)
 
 Attributen via uw (internationale) onderwijsinstelling
 :   Attributen: voornaam, achternaam, emailadres, instelling, medewerker/student, locaal registratienummer  
-    <a class="button" href="/uitgifte/edugain?action=login">
+    <a class="button" href="/uitgifte/surfnet/edugain">
     <img src="/images/edugain.png">Laad attributen via eduGAIN</a>  
     Opmerking: dit is een experimentele aansluiting. Mocht hij niet werken zoals verwacht horen wij het graag!
     <!-- [Meer informatie](/uitgifte-surfconext) -->
