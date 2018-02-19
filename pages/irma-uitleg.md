@@ -164,7 +164,7 @@ kinderen.
 
 ### <a name="hoe"></a>3. Hoe kom ik aan attributen en hoe gebruik ik ze?
 
-In het IRMA identity platvorm worden uw persoonlijke attributen
+In het IRMA identity platform worden uw persoonlijke attributen
 beveiligd opgeslagen in de IRMA app op uw eigen telefoon (of
 tablet). De app heeft een eigen PIN die nodig is voor het gebruik. Die
 PIN moet er voor zorgen dat niemand anders uw attributen in de app kan
@@ -544,7 +544,7 @@ partijen authenticatie eisen en mechanismen opleggen aan minder
 machtige partijen. De stichting Privacy by Design is sterk van
 doordrongen van dergelijke maatschappelijk relevante issues en
 probeert met waarden-gebaseerd ontwerp IRMA aan te bieden als
-transparant open identity platvorm voor proportionele en
+transparant open identity platform voor proportionele en
 context-afhankelijke authenticatie, dat gebruikers een sterke, in
 plaats van een zwakke, positie geeft (*empowering users*). Deze
 contekst-afhankelijkheid sluit aan bij [Helen
@@ -662,7 +662,7 @@ worden, en er zijn ook geen centrale partijen die voor iedere
 authenticatie een prijs kunnen vragen. Voor gebruikers is dat
 misschien juist weer een voordeel.
 
-Echter, met het identity platvorm IRMA is wel degelijk economisch
+Echter, met het identity platform IRMA is wel degelijk economisch
 levensvatbaar. Het uitgeven en controleren van attributen kan een
 commerciële dienst zijn, die door derde partijen tegen betaling
 uitgevoerd wordt. Ook kan voor de uitgifte van speciale attributen,
@@ -678,7 +678,7 @@ basis set attributen.
 
 ### <a name="meedoen"></a>10. Hoe kan ik meedoen of bijdragen?
 
-IRMA is een identity platvorm dat van onderaf opgebouwd wordt en niet
+IRMA is een identity platform dat van onderaf opgebouwd wordt en niet
 van bovenaf opgelegd. IRMA zal zich moeten bewijzen via overtuigende
 toepassingen. Daar wordt nu door verschillende partijen aan gewerkt.
 

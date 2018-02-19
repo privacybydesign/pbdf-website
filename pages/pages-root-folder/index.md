@@ -13,7 +13,7 @@ widget1:
   title: Privacy by Design
   url: /doelstelling/
   image: pbd.png
-  text: De stichting Privacy by Design creëert en onderhoudt gratis open source software waarbij de privacy van de gebruiker voorop staat. Het belangrijkste onderwerp van de stichting is het identity platvorm IRMA, een afkorting voor <em>I Reveal my Attributes</em>.
+  text: De stichting Privacy by Design creëert en onderhoudt gratis open source software waarbij de privacy van de gebruiker voorop staat. Het belangrijkste onderwerp van de stichting is het identity platform IRMA, een afkorting voor <em>I Reveal my Attributes</em>.
 widget2:
   title: IRMA
   url: /irma/
@@ -36,7 +36,7 @@ Universiteit en het Privacy and Identity Lab
 [PI.lab](http://www.pilab.nl). De stichting is een onafhankelijke
 non-profit spin-off.
 
-De stichting richt zich vooral op het eigen identity platvorm
+De stichting richt zich vooral op het eigen identity platform
 [IRMA](/irma) voor privacy-vriendelijke attribuut-gebaseerde
 authenticatie. De aanpak is gebaseerd op gratis beschikbare open
 source software.
