@@ -14,7 +14,7 @@ widget1:
   title: Privacy by Design
   url: /goal/
   image: pbd.png
-  text: The Privacy by Foundation creates and maintains free open source software that primarily focuses on the privacy of the user. The most important project of the foundation is the identity platform IRMA, an acronym for <em>I Reveal my Attributes</em>.
+  text: The Privacy by Design Foundation creates and maintains free open source software that primarily focuses on the privacy of the user. The most important project of the foundation is the identity platform IRMA, an acronym for <em>I Reveal my Attributes</em>.
 widget2:
   title: IRMA
   url: /irma-en/
