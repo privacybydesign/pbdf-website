@@ -29,10 +29,12 @@ nl:
         url: /irma-uitleg/
       - title: IRMA Dashboard
         url: https://metrics.privacybydesign.foundation/grafana/dashboard/db/irma-dashboard?orgId=1
-      - title: publicaties
+      - title: Publicaties
         url: /publicaties/
       - title: Meetings
         url: /meetings/
+      - title: Technische documentatie
+        url: /documentation/
 
   - title: Over de stichting
     side: right
@@ -53,7 +55,7 @@ nl:
 
   - title: Documentatie
     side: bottom
-    url: https://credentials.github.io
+    url: /documentation
 
 en:
   - title: Home
@@ -86,10 +88,12 @@ en:
         url: /irma-explanation/
       - title: IRMA Dashboard
         url: https://metrics.privacybydesign.foundation/grafana/dashboard/db/irma-dashboard?orgId=1
-      - title: publications
+      - title: Publications
         url: /publications/
-      - title: meetings
+      - title: Meetings
         url: /meetings/
+      - title: Technical documentation
+        url: /documentation/
 
   - title: About the foundation
     side: right
@@ -110,4 +114,4 @@ en:
 
   - title: Documentation
     side: bottom
-    url: https://credentials.github.io
+    url: /documentation
