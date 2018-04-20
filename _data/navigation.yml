@@ -1,18 +1,19 @@
 nl:
   - title: Home
     image: logo.png
-    url: "/"
+    url: /
     side: left
 
   - title: Gebruik IRMA
+    url: /download/
     side: left
     dropdown:
-      - title: Mijn IRMA
-        url: /mijnirma/
       - title: Verkrijg IRMA-attributen
         url: /uitgifte/
       - title: Download IRMA app
         url: /download/
+      - title: Mijn IRMA
+        url: /mijnirma/
 
   - title: Over IRMA
     url: /irma/
@@ -32,8 +33,6 @@ nl:
         url: /publicaties/
       - title: Meetings
         url: /meetings/
-      - title: Technische documentatie
-        url: /
 
   - title: Over de stichting
     side: right
@@ -62,16 +61,21 @@ en:
     url: "/en"
     side: left
 
-  - title: My IRMA
-    url: /mijnirma/
+  - title: Use IRMA
+    url: /download-en/
     side: left
+    dropdown:
+    - title: Obtain IRMA attributes
+      url: /issuance/
+    - title: Download IRMA app
+      url: /download-en/
+    - title: My IRMA
+      url: /mijnirma/
 
   - title: About IRMA
     url: /irma-en/
     side: left
     dropdown:
-      - title: Obtain IRMA-attributes
-        url: /issuance/
       - title: IRMA demos
         url: /demo-en/
       - title: Starting with IRMA
@@ -80,8 +84,6 @@ en:
         url: /irma-verifier/
       - title: IRMA in detail
         url: /irma-explanation/
-      - title: Download IRMA app
-        url: /download-en/
       - title: IRMA Dashboard
         url: https://metrics.privacybydesign.foundation/grafana/dashboard/db/irma-dashboard?orgId=1
       - title: publications
