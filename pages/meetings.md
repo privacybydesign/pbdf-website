@@ -31,7 +31,14 @@ and academia. The atmosphere is open and very much content-oriented.
    included (or deleted) from this list, please send an email to: irma
    'at' privacybydesign.foundation
 
-### Next IRMA meeting: Friday nov. 3, 2017.
+### Next IRMA meeting: Friday, June 1, 13:30 -- 17:00, 2017.
+
+**Programme:**
+
+To be announced soon.
+
+
+### IRMA meeting: Friday, Nov. 3, 10:00 - 13:00, 2017.
 
 **Programme:**
 
