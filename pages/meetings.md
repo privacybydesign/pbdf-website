@@ -21,8 +21,7 @@ and academia. The atmosphere is open and very much content-oriented.
    [route](https://www.surf.nl/over-surf/contact/routebeschrijving-surf-surfmarket-en-surfnet/index.html),
    about 5 min. walking distance from Utrecht Central train station
 
- * **Dates and times:** typically on a Friday morning, 10:00 - 13:00,
-   followed by an informal (sandwich) lunch
+[//]: <> (* **Dates and times:** typically on a Friday morning, 10:00 - 13:00, followed by an informal (sandwich) lunch)
 
  * **Language:** usually english, occasinally dutch
 
@@ -31,7 +30,12 @@ and academia. The atmosphere is open and very much content-oriented.
    included (or deleted) from this list, please send an email to: irma
    'at' privacybydesign.foundation
 
+
 ### Next IRMA meeting: Friday, June 1, 13:30 -- 17:00, 2017.
+
+**Location** 
+
+[Surfnet](https://www.surf.nl/over-surf/contact/routebeschrijving-surf-surfmarket-en-surfnet/index.html), Hoog Overborch (Hoog Catharijne), Utrecht
 
 **Programme:**
 
@@ -39,6 +43,10 @@ To be announced soon.
 
 
 ### IRMA meeting: Friday, Nov. 3, 10:00 - 13:00, 2017.
+
+**Location** 
+
+[Surfnet](https://www.surf.nl/over-surf/contact/routebeschrijving-surf-surfmarket-en-surfnet/index.html), Hoog Overborch (Hoog Catharijne), Utrecht
 
 **Programme:**
 

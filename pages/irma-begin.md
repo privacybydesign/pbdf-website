@@ -40,8 +40,8 @@ kan maken.
 #### 1.1. Installatie
 
 De IRMA app is beschikbaar via de [Download](/download) pagina van de
-stichting. U kunt de IRMA app ook rechtstreeks installeren vanuit de
-Android Playstore of Apple App Store.
+stichting. U kunt de IRMA app ook rechtstreeks op uw telefoon of
+tablet installeren vanuit de Android Playstore of Apple App Store.
 
 #### 1.2. Registratie
 
@@ -70,20 +70,23 @@ verloren. Dat is gedoe.
 Bij registratie kunt u ook een email adres opgeven. Dit is verstandig
 want via dit email adres kunt uw registratie blokkeren bij de
 stichting, op de [MijnIRMA](/mijnirma)
-webpagina. [hieronder](#mijnirma) wordt daar meer informatie over
+webpagina. [Hieronder](#mijnirma) wordt daar meer informatie over
 gegevens. Het opgeven van een email adres is niet verplicht. Als u dat
 niet doet weet de stichting niets anders van u dan een willekeurige
 gebruikersnaam die voor u gegenereerd is.  U kunt die gebruikersnaam
-toevoegen door te klikken op "MijnIRMA login" in het attributen
-overzicht in de IRMA app.
+zien door te klikken op "MijnIRMA login" in het attributen overzicht
+in de IRMA app.
 
-Het email adres wordt zonodig gebruikt om contact met u te houden over
-het gebruik van IRMA. Het adres wordt niet met anderen gedeeld. U zult
-maar heel af en toe een berichtje op dit adres krijgen. Gebruik wel
-een adres dat echt (en exclusief) van u is en dat u nog lang zult
-gebruiken. U krijgt direct een eerste mailtje op dit adres met een
-link voor de bevestiging. Hiermee wordt gecontroleerd of het adres wel
-echt van u is.
+Als u een email adres toevoegt, gebruik dan wel een adres dat echt (en
+exclusief) van u is en dat u nog lang zult gebruiken. U krijgt direct
+een eerste mailtje op dit adres met een link voor de
+bevestiging. Hiermee wordt gecontroleerd of het adres wel echt van u
+is.
+
+Het email adres kan in uitzonderlijke situaties gebruikt worden om
+contact met u te houden over het gebruik van IRMA. Het adres wordt
+niet met anderen gedeeld.
+
 
 #### 1.3. Personalisatie met uw email adres
 
@@ -114,11 +117,12 @@ ontvangen van attributen werkt.
 #### 1.4. Personalisatie met andere attributen
 
 Het is mogelijk nog meer attributen te ontvangen dan uw email adres.
-U kunt dat meteen bij registratie doen, maar het kan ook later.  U
-gaat daarvoor naar de [IRMA uitgifte](/uitgifte) pagina. U ziet daar
-verschillende mogelijkheden om nog meer attributen op te nemen in de
-app. Dit lijstje mogelijkheden ligt niet vast en zal groeien naarmate
-meer partijen aan IRMA meedoen.
+Met die attributen kunt u een persoonlijk "paspoort" opbouwen in uw
+IRMA app.  U kunt dat meteen bij registratie doen, maar het kan ook
+later.  U gaat daarvoor naar de [IRMA uitgifte](/uitgifte) pagina. U
+ziet daar verschillende mogelijkheden om nog meer attributen op te
+nemen in de app. Dit lijstje mogelijkheden ligt niet vast en zal
+groeien naarmate meer partijen aan IRMA meedoen.
 
  * iDIN levert uw naam, adres, woonplaats, en geboortedatum
    attributen.  Nadat u bij uw eigen bank, met eigen middelen, heeft
@@ -169,6 +173,9 @@ mogelijkheden.
   al staat de app nog op uw telefoon. Mocht u hierna IRMA ooit toch
   nog willen gaan gebruiken, dan moet u zich opnieuw, van voor af aan
   registreren.
+
+* U kunt op de MijnIRMA pagina ook beheren welk email adres aan uw
+  account gekoppeld is.
 
 Inloggen op de MijnIRMA webpagina kan op twee manieren:
 
@@ -259,7 +266,7 @@ worden.
 
 Het onderstaande plaatje vat de twee rollen van de stichting Privacy
 by Design samen. Enerzijds is de stichting uitgever van een aantal
-attributen voor het vullen van de eigen IRMA app met eigen attributen
+attributen voor het vullen van uw eigen IRMA app met eigen attributen
 (personalisatie).  Anderzijds zorgt de stichting via MijnIRMA voor
 inzage in het eigen IRMA gebruik en voor de mogelijkheid om het
 gebruik van IRMA stop te zetten.
