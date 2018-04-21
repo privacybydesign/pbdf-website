@@ -19,9 +19,10 @@ zich daarin aan de Wet Bescherming Persoonsgegevens.
 De opzet van IRMA is zodanig dat persoonsgegevens, in het bijzonder
 attributen, bij de gebruiker zelf, en niet bij de stichting,
 opgeslagen worden, in de IRMA app op de eigen telefoon of tablet.  De
-stichting bewaart per gebruiker enkel een email adres en een zeer
-beperkte verzameling historische gebruiksgegevens, zoals hieronder
-nader verklaard wordt.
+stichting bewaart per gebruiker enkel een willekeurig gebruikersnaam
+(een pseudoniem), en, alleen als de gebruiker dat wil, een email
+adres, en daarnaast een zeer beperkte verzameling historische
+gebruiksgegevens, zoals hieronder nader verklaard wordt.
 
 Een IRMA gebruiker wordt bij iedere verwerking door de stichting
 expliciet om toestemming gevraagd. Die toestemming vormt de wettelijke
@@ -38,18 +39,21 @@ grondslag voor de verwerking van de betreffende attributen door deze
 Door de stichting worden op drie manieren persoonsgegevens verwerkt.
 
 1. **Continu.** Bij registratie creëert een gebruiker van IRMA een
-   account en geeft de stichting daarbij een zelfgekozen email adres
-   op. Dit email adres wordt door de stichting bewaard en beschermd,
-   totdat de gebruiker de gegevens verwijdert en/of het account
-   opheft, in de [mijnIRMA](/mijnirma) omgeving.
+   account met een willekeurig gekozen gebruikersnaam. Als de
+   gebruiker daarvoor kiest wordt een zelfgekozen email adres aan dit
+   account gekoppeld. Dit is echter niet noodzakelijk. Het email adres
+   wordt door de stichting bewaard en beschermd, totdat de gebruiker
+   de gegevens wijzigt of verwijdert en/of het account opheft, in de
+   [mijnIRMA](/mijnirma) omgeving.
 
-   Het email adres is het gegeven waarmee de stichting accounts
-   onderscheidt. Het email adres wordt ook gebruikt voor communicatie
-   met de gebruiker, bijvoorbeeld bij login op
-   [mijnIRMA](/mijnirma). De stichting houdt het email adres van een
-   IRMA gebruiker geheim en geeft derden er geen toegang toe, tenzij
-   daar een wettelijke verplichting toe bestaat. De stichting gebruikt
-   het email adres enkel ten behoeve van de functionaliteit van IRMA.
+   De willekeurig gekozen gebruikers naam is een pseudoniem waarmee de
+   stichting accounts onderscheidt. Het (eventueel toegevoegde) email
+   adres wordt gebruikt voor communicatie met de gebruiker,
+   bijvoorbeeld bij login op [mijnIRMA](/mijnirma). De stichting houdt
+   het email adres van een IRMA gebruiker geheim en geeft derden er
+   geen toegang toe, tenzij daar een wettelijke verplichting toe
+   bestaat. De stichting gebruikt het email adres enkel ten behoeve
+   van de functionaliteit van IRMA.
 
    Per account houdt de stichting gebruiksgegevens ("logs") bij. Het
    enige doel daarvan is om een IRMA gebruiker inzage te geven in het
@@ -98,11 +102,13 @@ Door de stichting worden op drie manieren persoonsgegevens verwerkt.
    BIG-registratie. Ook deze noodzakelijke authenticatie attributen
    van de gebruiker worden hierna terstond verwijderd.
 
-De stichting behoudt zich het recht voor om bekend te maken hoeveel
-IRMA gebruikers op enig moment geregistreerd staan. Daarbij wordt
-enkel het *aantal* geregistreerde email adressen bekend gemaakt, maar
-de adressen zelf blijven geheim. De stichting behoudt zich ook het
-recht voor om statistische gegevens over de geregistreerde logs bekend
+De stichting maakt via een eigen
+[dashbord](https://metrics.privacybydesign.foundation/grafana/dashboard/db/irma-dashboard?orgId=1)
+bekend hoeveel IRMA gebruikers op enig moment geregistreerd
+staan. Daarbij wordt enkel het *aantal* geregistreerde gebruikersnamen
+(pseudoniemen) en het *aantal* uitgegeven credentials (verzamelingen
+attributen) bekend gemaakt. De stichting behoudt zich ook het recht
+voor om statistische gegevens over de geregistreerde logs bekend
 maken, zoals bijvoorbeeld het totaal aantal transacties per
 tijdseenheid (dag, maand of jaar).
 
@@ -125,4 +131,4 @@ over de verwerking van gegevens door de stichting kan ook contact
 opgenomen worden met de [Autoriteit
 Persoonsgegevens](https://autoriteitpersoonsgegevens.nl).
 
-Datum: 1 aug. 2017.
+Datum: 21 april 2018.

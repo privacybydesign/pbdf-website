@@ -543,11 +543,11 @@ machtsverhoudingen in de samenleving. In het algemeen kunnen machtige
 partijen authenticatie eisen en mechanismen opleggen aan minder
 machtige partijen. De stichting Privacy by Design is sterk van
 doordrongen van dergelijke maatschappelijk relevante issues en
-probeert met waarden-gebaseerd ontwerp IRMA aan te bieden als
-transparant open identity platform voor proportionele en
-context-afhankelijke authenticatie, dat gebruikers een sterke, in
-plaats van een zwakke, positie geeft (*empowering users*). Deze
-contekst-afhankelijkheid sluit aan bij [Helen
+probeert met waarden-gebaseerd ontwerp (*value-driven design*) IRMA
+aan te bieden als transparant open identity platform voor
+proportionele en context-afhankelijke authenticatie, dat gebruikers
+een sterke, in plaats van een zwakke, positie geeft (*empowering
+users*). Deze contekst-afhankelijkheid sluit aan bij [Helen
 Nissenbaum](http://www.nyu.edu/projects/nissenbaum/)'s interpretatie
 van privacy als contextuele integriteit.
 
