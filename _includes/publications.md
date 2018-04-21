@@ -131,3 +131,17 @@
   O. Markowitch et al., Information Security Theory and
   Practice. Springer LNCS 5746, 2009, p.95-111.
   [Paper](http://www.cs.ru.nl/~tews/wistp-09/performance-issues.pdf).
+
+### Idemix
+
+* Jan Camenisch and Anna Lysyanskaya.
+  *An Efficient System for Non-transferable Anonymous Credentials
+  with Optional Anonymity Revocation*. In: Advances in Cryptology — EUROCRYPT
+  2001, B. Pfitzmann, editor, LNCS 2045, Springer Berlin Heidelberg, 2001.
+  [ePrint](https://eprint.iacr.org/2001/019)
+
+* IBM. *Specification of the Identity Mixer Cryptographic Library (Revised version 2.3.0)*.
+  [Link](http://domino.research.ibm.com/library/cyberdig.nsf/1e4115aea78b6e7c85256b360066f0d4/eeb54ff3b91c1d648525759b004fbbb1?OpenDocument).
+
+* Gergely Alpár. *Cryptography fact sheet about Idemix's basic proof techniques*.
+  [PDF](/pdf/idemix_overview.pdf)
