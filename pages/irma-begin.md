@@ -71,7 +71,7 @@ Bij registratie kunt u ook een email adres opgeven. Dit is verstandig
 want via dit email adres kunt uw registratie blokkeren bij de
 stichting, op de [MijnIRMA](/mijnirma)
 webpagina. [Hieronder](#mijnirma) wordt daar meer informatie over
-gegevens. Het opgeven van een email adres is niet verplicht. Als u dat
+gegeven. Het opgeven van een email adres is niet verplicht. Als u dat
 niet doet weet de stichting niets anders van u dan een willekeurige
 gebruikersnaam die voor u gegenereerd is.  U kunt die gebruikersnaam
 zien door te klikken op "MijnIRMA login" in het attributen overzicht
@@ -118,7 +118,7 @@ ontvangen van attributen werkt.
 
 Het is mogelijk nog meer attributen te ontvangen dan uw email adres.
 Met die attributen kunt u een persoonlijk "paspoort" opbouwen in uw
-IRMA app.  U kunt dat meteen bij registratie doen, maar het kan ook
+IRMA app.  U kunt dat meteen na de registratie doen, maar het kan ook
 later.  U gaat daarvoor naar de [IRMA uitgifte](/uitgifte) pagina. U
 ziet daar verschillende mogelijkheden om nog meer attributen op te
 nemen in de app. Dit lijstje mogelijkheden ligt niet vast en zal
@@ -128,7 +128,7 @@ groeien naarmate meer partijen aan IRMA meedoen.
    attributen.  Nadat u bij uw eigen bank, met eigen middelen, heeft
    ingelogd, kunnen deze attributen in uw IRMA app gezet worden. Dit is
    beschikbaar voor iedereen met een bankrekening in Nederland, zie
-   [iDIN](https://www.idin.nl).  
+   [iDIN](https://www.idin.nl).
 
  * SURFconext levert attributen van uw (eventuele) hoger onderwijs
    identiteit. Deze is in principe beschikbaar voor studenten en
@@ -181,7 +181,7 @@ Inloggen op de MijnIRMA webpagina kan op twee manieren:
 
 1. Met IRMA zelf, via uw "MijnIRMA login" attribuut.
 2. Door uw email adres in te typen; u krijgt dan een link toegestuurd
-   op dit adres, die u toegang geeft tot uw account. 
+   op dit adres, die u toegang geeft tot uw account.
 
 Deze laatste optie kunt u alleen gebruiken wanneer u eerder een email
 adres aan uw account gekopped heeft. Dit is vooral nuttig wanneer uw
@@ -259,10 +259,7 @@ nonce uit uw app halen, maar heeft daar niet zo veel aan. Het enige
 wat de aanvaller kan doen is alle 100.000 mogelijkheden van uw PIN
 uitproberen, en bij iedere poging *X* het getal *hash( X | nonce )*
 naar de MijnIRMA server sturen. De server ziet dan dat zoiets
-geprobeerd wordt en vertraagt de pogingen (*rate limiting*). In dat
-geval krijgt de eigenaar via het registratie email adres een
-waarschuwing, en ook een link waarmee de blokkade ongedaan gemaakt kan
-worden.
+geprobeerd wordt en vertraagt de pogingen (*rate limiting*).
 
 Het onderstaande plaatje vat de twee rollen van de stichting Privacy
 by Design samen. Enerzijds is de stichting uitgever van een aantal
