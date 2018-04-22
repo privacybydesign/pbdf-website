@@ -29,7 +29,7 @@
 							{% assign menucounter = menucounter | plus: 1 %}
 						{% endif %}
 						<li>
-							<a href="{{ domain }}{{ link.url }}" {% if service_item.url contains 'http' %}target="_blank" {% endif %} title="{{ link.title }}">{{ link.title }}</a>
+							<a href="{{ link.url }}" {% if service_item.url contains 'http' %}target="_blank" {% endif %} title="{{ link.title }}">{{ link.title }}</a>
 						</li>
 					{% endif %}
 				{% endfor %}
