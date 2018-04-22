@@ -45,8 +45,8 @@ tablet installeren vanuit de Android Playstore of Apple App Store.
 
 #### 1.2. Registratie
 
-Als u de IRMA app voor de eerste keer opent, kunt u in het begin
-scherm een accout openen. Als u dat doet wordt u gevraagd om:
+Als u de IRMA app voor de eerste keer opent, kunt u in de begin
+schermen een IRMA account openen. Als u dat doet wordt u gevraagd om:
 
  * een PIN code van 5 cijfers
 
@@ -73,9 +73,9 @@ stichting, op de [MijnIRMA](/mijnirma)
 webpagina. [Hieronder](#mijnirma) wordt daar meer informatie over
 gegeven. Het opgeven van een email adres is niet verplicht. Als u dat
 niet doet weet de stichting niets anders van u dan een willekeurige
-gebruikersnaam die voor u gegenereerd is.  U kunt die gebruikersnaam
-zien door te klikken op "MijnIRMA login" in het attributen overzicht
-in de IRMA app.
+gebruikersnaam die automatisch voor u gegenereerd is.  U kunt die
+gebruikersnaam zien, na succesvolle registratie, door te klikken op
+"MijnIRMA login" in het attributen overzicht in de IRMA app.
 
 Als u een email adres toevoegt, gebruik dan wel een adres dat echt (en
 exclusief) van u is en dat u nog lang zult gebruiken. U krijgt direct
@@ -84,7 +84,7 @@ bevestiging. Hiermee wordt gecontroleerd of het adres wel echt van u
 is.
 
 Het email adres kan in uitzonderlijke situaties gebruikt worden om
-contact met u te houden over het gebruik van IRMA. Het adres wordt
+contact met u op te nemen over het gebruik van IRMA. Het adres wordt
 niet met anderen gedeeld.
 
 
@@ -93,8 +93,9 @@ niet met anderen gedeeld.
 Het email adres dat u mogelijk opgegeven heeft bij registratie kan nu
 als attribuut in de IRMA app in uw telefoon gezet worden. Na de vorige
 registratie stappen, waarin u uw PIN gegeven hebt, krijg u een link
-(webadres) toegestuurd per email. Daarmee wordt uw registratie
-bevestigd.
+(webadres) toegestuurd per email. Door daarop te klikken en verdere
+instructies te volgen wordt uw email address toegevoegd in uw IRMA
+app.
 
 Wanneer u in een webbrowser naar het toegstuurde webadres gaat krijgt
 u een "Email Uitgifte" knop te zien. Hier ziet u hoe het uitgeven en
@@ -184,10 +185,10 @@ Inloggen op de MijnIRMA webpagina kan op twee manieren:
    op dit adres, die u toegang geeft tot uw account.
 
 Deze laatste optie kunt u alleen gebruiken wanneer u eerder een email
-adres aan uw account gekopped heeft. Dit is vooral nuttig wanneer uw
+adres aan uw account gekoppeld heeft. Dit is vooral nuttig wanneer uw
 telefoon gestolen is --- en de eerste optie niet werkt. Als u uw mail
 op een ander apparaat leest, kunt u vandaaruit inloggen op MijnIRMA en
-uw IRMA account stopzetten. 
+uw IRMA account stopzetten.
 
 Omwille van deze tweede manier van inloggen is het verstandig
 een email adres aan uw IRMA account te koppelen. 
@@ -218,9 +219,9 @@ geldt voor de geheime persoonlijke cryptografische sleutel die nodig
 is om de IRMA app voor u te laten werken.
 
 De IRMA implementatie gebruikt een *split key* truuk, waarbij zulke
-cruciale geheime informatie verdeeld wordt tussen de app en de
-MijnIRMA server van de stichting. De app en de server moeten heel
-precies samenwerken om IRMA te laten werken. Ze hebben daar ieder
+cruciale geheime cryptografische informatie verdeeld wordt tussen de
+app en de MijnIRMA server van de stichting. De app en de server moeten
+heel precies samenwerken om IRMA te laten werken. Ze hebben daar ieder
 alleen niet genoeg informatie voor: ze moeten samenwerken en hun eigen
 geheimen apart gebruiken voor een gezamenlijke berekening. Dit heet
 een *multi-party computation*.

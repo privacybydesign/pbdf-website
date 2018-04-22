@@ -35,14 +35,18 @@ receiving attributes.
 
 The foundation processes personal data in three different ways.
 
-1. **Continuously.** At registration a user of IRMA creates an account
-   and gives the foundation a self-chosen email address. This address
-   is stored and protected by the foundation, until the user removes
-   or cancels his/her account, in the [MyIRMA](/myirma) environment.
+1. **Continuously.** At registration an arbitrary username is
+   automatically created for a new user of IRMA. The user can choose
+   to associate a self-chosen email address with this IRMA
+   account. This is not necessary, but optional. The email address is
+   stored and protected by the foundation, until the user changes or
+   removes or cancels his/her account, in the [MyIRMA](/myirma)
+   environment.
 
-   The email address identifies accounts at the foundation. The email
-   address is also used for communication with the user, for instance
-   for logging into [MyIRMA](/myirma). The foundation keeps the email
+   The arbitrarily chosen username is a pseudonym that identifies an
+   account at the foundation. The (optionally added) email address 
+   can be used for communication with the user, for instance for
+   logging into [MyIRMA](/myirma). The foundation keeps the email
    address secret and does not share it with others, unless there is a
    legal obligation to do so. The foundation uses the address
    exclusively for IRMA functionality.
@@ -91,12 +95,15 @@ The foundation processes personal data in three different ways.
    BIG register. Also such necessary authentication attributes are
    deleted immediately hereafter.
 
-The foundation reserves the right to publish how many IRMA users are
-registered at any point in time. This only involves the *number* of
-registered email addresses, but the addresses themselves remain
-secret. The foundation also reserves the right to publish statistical
-data about the registered logs, such as for instance the total number
-of transactions per unit of time (day, month or year).
+The foundation publishes via its own
+[dashbord](https://metrics.privacybydesign.foundation/grafana/dashboard/db/irma-dashboard?orgId=1)
+how many IRMA users are registered in which country at any point in
+time. This only involves the *number* of registered usernames
+(pseudonyms) and the *number* of issued credentials (sets of
+attributes) per country. The foundation also reserves the right to
+publish statistical data about the registered logs, such as for
+instance the total number of transactions per unit of time (day, month
+or year).
 
 The [privacybydesign.foundation](https://privacybydesign.foundation)
 website is controlled and maintained by the Privacy by Design
@@ -117,4 +124,4 @@ foundation's data processing you can also contact the [Data Protection
 Authority](https://autoriteitpersoonsgegevens.nl/en) of the
 Netherlands.
 
-Date: aug. 1, 2017.
+Date: April 22, 2018.

@@ -42,7 +42,7 @@ and academia. The atmosphere is open and very much content-oriented.
 To be announced soon.
 
 
-### IRMA meeting: Friday, Nov. 3, 10:00 - 13:00, 2017.
+### Earlier IRMA meeting: Friday, Nov. 3, 10:00 - 13:00, 2017.
 
 **Location** 
 

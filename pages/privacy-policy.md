@@ -38,12 +38,12 @@ grondslag voor de verwerking van de betreffende attributen door deze
 
 Door de stichting worden op drie manieren persoonsgegevens verwerkt.
 
-1. **Continu.** Bij registratie creëert een gebruiker van IRMA een
-   account met een willekeurig gekozen gebruikersnaam. Als de
+1. **Continu.** Bij registratie wordt voor een nieuwe gebruiker van
+   IRMA een willekeurige gebruikersnaam automatisch gecreëerd. Als de
    gebruiker daarvoor kiest wordt een zelfgekozen email adres aan dit
    account gekoppeld. Dit is echter niet noodzakelijk. Het email adres
    wordt door de stichting bewaard en beschermd, totdat de gebruiker
-   de gegevens wijzigt of verwijdert en/of het account opheft, in de
+   de gegevens wijzigt of verwijdert of het account opheft, in de
    [mijnIRMA](/mijnirma) omgeving.
 
    De willekeurig gekozen gebruikers naam is een pseudoniem waarmee de
@@ -104,13 +104,13 @@ Door de stichting worden op drie manieren persoonsgegevens verwerkt.
 
 De stichting maakt via een eigen
 [dashbord](https://metrics.privacybydesign.foundation/grafana/dashboard/db/irma-dashboard?orgId=1)
-bekend hoeveel IRMA gebruikers op enig moment geregistreerd
-staan. Daarbij wordt enkel het *aantal* geregistreerde gebruikersnamen
-(pseudoniemen) en het *aantal* uitgegeven credentials (verzamelingen
-attributen) bekend gemaakt. De stichting behoudt zich ook het recht
-voor om statistische gegevens over de geregistreerde logs bekend
-maken, zoals bijvoorbeeld het totaal aantal transacties per
-tijdseenheid (dag, maand of jaar).
+bekend hoeveel IRMA gebruikers in welk land op enig moment
+geregistreerd staan. Daarbij wordt enkel het *aantal* geregistreerde
+gebruikersnamen (pseudoniemen) en het *aantal* uitgegeven credentials
+(verzamelingen attributen) per land bekend gemaakt. De stichting
+behoudt zich ook het recht voor om statistische gegevens over de
+geregistreerde logs bekend maken, zoals bijvoorbeeld het totaal aantal
+transacties per tijdseenheid (dag, maand of jaar).
 
 De [privacybydesign.foundation](https://privacybydesign.foundation)
 website staat onder beheer van de stichting Privacy by Design. De
@@ -131,4 +131,4 @@ over de verwerking van gegevens door de stichting kan ook contact
 opgenomen worden met de [Autoriteit
 Persoonsgegevens](https://autoriteitpersoonsgegevens.nl).
 
-Datum: 21 april 2018.
+Datum: 22 april 2018.

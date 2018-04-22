@@ -41,32 +41,24 @@ passport, IRMA is strictly personal: no-one else should be able to
 
 #### 1.1. Installation
 
-The IRMA app is available via the [Download](/download-en) page
-of the foundation.
+The IRMA app is available via the [Download](/download-en) page of the
+foundation. You can also directly install the IRMA app on your phone
+or tablet via the Android Playstore or the Apple App store.
 
 #### 1.2. Registration
 
-Open the IRMA app. When you do this for the first time, you will
-be asked to provide two things:
+When you open the IRMA app for the first time, you can open an IRMA
+account via the start screens. When you do so, you are asked to
+provide:
 
- * an email address
  * a PIN code of 5 digits
 
-The email address will be used to contact you, if needed, about your
-usage of IRMA. This address will not be shared with others. Only
-rarely you will receive a message at this address. Please, do use an
-address that actually belongs to you --- and to no-one else --- and
-that you will be able to use for a longer period of time. You will
-immediately receive an email message at this address with a link for
-confirmation. In this way it is checked that the email address is
-under your control.
-
 Please choose your PIN code with care. You will regularly need it when
-you use the IRMA app. This code guarantees that you are the only one
-who is using your IRMA app. Avoid obvious codes like 00000. If you
-write down your PIN code, please use a special place (or manner) so
-that others cannot get to it easily. The app asks you to re-type the
-chosen code, in order to avoid typing errors.
+you use the IRMA app. This code guarantees that you are the only
+person who is using your IRMA app. Avoid obvious codes like 00000. If
+you write down your PIN code, please use a special place (or manner)
+so that others cannot get to it easily. The app asks you to re-type
+the chosen code, in order to avoid typing errors.
 
 Every time you authenticate with IRMA, by revealing IRMA attributes,
 this PIN code is required. Digital signatures also require it.
@@ -76,13 +68,35 @@ you loose your PIN code, you have to start all over and
 re-register. All the attributes that you have collected at that stage
 will be lost. This is a hassle.
 
+At registration you can optionally add an email address. It is advised
+to do so, because via such an email address you can block your
+registration at the foundation, on the [MyIRMA](/myirma) webpage.
+[Below](#myirma) more information will be given about this.  Adding an
+email address is optional, not compulsory. If you do not add it, the
+foundation knows nothing about you except an automatically generated
+random username. You can see this username, after succesful
+registation, by tapping on "MyIRMA login" in the attributes overview
+in your IRMA app.
+
+When you choose to associate an email address to your account, please
+use an address that actually belongs to you --- and to no-one else ---
+and that you will be able to use for a longer period of time. You will
+immediately receive an email message at this address with a link for
+confirmation. In this way it is checked that the email address is
+under your control.
+
+In exceptional cases the email address may be used to contact you
+about usage of IRMA. The address is not shared with anyone else.
+
+
 #### 1.3. Personalisation with your email address
 
-The email address that you submit upon registration kan now be
-loaded into your IRMA app on your phone. After the previous registration
-steps, in which you have chosen your email address and PIN code, you
-will receive a link (webaddress) by email. Via this link you log into
-your MyIRMA account. At that stage your registration is confirmed.
+The email address that you possibly submit upon registration can now
+be loaded into your IRMA app on your phone. After the previous
+registration steps, in which you have chosen your PIN code and email
+address, you will receive a link (webaddress) by email. By clicking on
+this link and following subsequent instructions, your email address
+will be added as attribute in your IRMA app.
 
 When you go in a webbrowser to the webaddress in this link (received
 by email), you will see an "Email Issue" button. It illustrates how
@@ -115,6 +129,12 @@ from Dutch sources. If you wish to join with other, possibly
 international, attributes, please do [contact](/contact-en) the
 foundation.
 
+ * iDIN provides attributes from your bank, like name, address, town,
+   and date of birth. After logging into your own bank, with your the
+   bank's own login mechanism, these attributes can be loaded into
+   your IRMA app. This service if available for everyone with a bank
+   account in the Netherlands, see [iDIN](https://www.idin.nl).
+
  * SURFconext provides attributes from the (mainly Dutch) higher
    education sector. It is available, in principle, for students and
    staff members from educational institutes in the Netherlands, with
@@ -122,12 +142,6 @@ foundation.
    institution will have to explicitly approve IRMA access. Via
    SURFconext "educational" attributes can be loaded into your IRMA
    app.
-
- * iDIN provides attributes from your bank, like name, address, town,
-   and date of birth. After logging into your own bank, with your the
-   bank's own login mechanism, these attributes can be loaded into
-   your IRMA app. This service if available for everyone with a bank
-   account in the Netherlands, see [iDIN](https://www.idin.nl).
 
  * ...
 
@@ -164,16 +178,23 @@ possibilities.
   some later stage, you choose to start using IRMA again, you have to
   re-register from the start.
 
+* At the MyIRMA webpage you can also manage which email address, if
+  any, is associated with your account.
+
 Logging into the MyIRMA webpage can be done in two ways:
 
 1. With IRMA itself, via your email attribute.
 2. By typing in your email address; you then receive a fresh link by email,
    which gives you access to your account.
 
-The latter, second option can always be used, especially when your
-phone is stolen (in which case the first option is not available). When you
-read your email on another device, you can login from there into
-MyIRMA and disable your account.
+The latter, second option can only be used when you have (earlier)
+associated an email address with your account. This is especially
+useful when your phone is stolen (in which case the first option is
+not available). When you read your email on another device, you can
+login from there into MyIRMA and disable your account.
+
+Because of this second option it is wise to associate an email
+address with your IRMA account.
 
 
 ### <a name="hood"></a>3. What happens under the hood?
@@ -198,13 +219,13 @@ question is then: where is this PIN code stored? The same question
 holds for the secret cryptographic key that is required to let your
 app work for you.
 
-The IRMA implementation uses a "trick", so that secret information is
-distributed between the app and the MyIRMA server of the foundation.
-The app and the server have to collaborate in a precisely defined
-manner in order to make IRMA work. They each have too little secret
-data to achieve this alone: they have to cooperate and both use their
-own secrets for a joint computation. This is called *multi-party
-computation*.
+The IRMA implementation uses a *split key* trick, so that secret
+cryptographic information is distributed between the app and the
+MyIRMA server of the foundation.  The app and the server have to
+collaborate in a precisely defined manner in order to make IRMA
+work. They each have too little secret data to achieve this alone:
+they have to cooperate and both use their own secrets for a joint
+computation. This is called *multi-party computation*.
 
 As a result, the MyIRMA server alone can never pretend to be you: the
 app on your phone is strictly required. What you can do on the server
@@ -239,10 +260,8 @@ can possibly extract the nonce from your IRMA app, but that is not
 so useful. The only thing that the attacker can do is try out all
 100,000 possible PIN codes: for each attempt *X*, the number
 *hash( X | nonce )* can be computed and sent to the server. The
-server will notice such repeated attempts and will block the
-account until further notice. In that case, the account holder
-will receive a warning at the registered email address, and
-also a link to unblock the account.
+server will notice such repeated attempts and will slow down
+the login attempts (*rate limiting*).
 
 The picture below summarises the two roles of the Privacy by Design
 foundation. On the one hand, the foundation issues several attributes
