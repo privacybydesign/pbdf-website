@@ -77,13 +77,13 @@ Sociaal netwerk-attributen
     [Meer informatie](/uitgifte-socialmedia)
 
 Attributen via uw (Nederlandse) onderwijsinstelling
-:   Attributen: voornaam, achternaam, emailadres, instelling, medewerker/student, locaal registratienummer  
+:   Attributen: voornaam, achternaam, emailadres, instelling, medewerker/student, lokaal registratienummer  
     <a class="button" href="/uitgifte/surfnet">
     <img src="/images/surfnet.png">Laad attributen via SURFconext</a>  
     [Meer informatie](/uitgifte-surfconext)
 
 Attributen via uw (internationale) onderwijsinstelling
-:   Attributen: voornaam, achternaam, emailadres, instelling, medewerker/student, locaal registratienummer  
+:   Attributen: voornaam, achternaam, emailadres, instelling, medewerker/student, lokaal registratienummer  
     <a class="button" href="/uitgifte/surfnet/edugain">
     <img src="/images/edugain.png">Laad attributen via eduGAIN</a>  
     Opmerking: dit is een experimentele aansluiting. We ontvangen graag feedback op irma 'at' privacybydesign.foundation!
