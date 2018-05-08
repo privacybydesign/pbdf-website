@@ -38,10 +38,8 @@ nl:
 
   - title: Over de stichting
     side: right
-    url: /doelstelling/
+    url: /over/
     dropdown:
-      - title: Doelstelling
-        url: /doelstelling/
       - title: Bestuur
         url: /bestuur/
       - title: Contact
@@ -97,10 +95,8 @@ en:
 
   - title: About the foundation
     side: right
-    url: /goals/
+    url: /about/
     dropdown:
-      - title: Goals
-        url: /goals/
       - title: Board
         url: /board/
       - title: Contact

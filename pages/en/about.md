@@ -1,15 +1,15 @@
 ---
 layout: page
-title: Goals
-meta_title: Goals
+title: About the foundation
+meta_title: About the foundation
 teaser: The Privacy by Design Foundation in general aims to improve the development and the use of open, privacy-friendly and secure software.
 header:
   image_fullwidth: header_unsplash_4.jpg
   title: Privacy by Design Foundation
-permalink: /goals/
+permalink: /about/
 language: en
 translations:
-  nl: /doelstelling
+  nl: /over
 ---
 
 More in particular, the foundation focuses on the development, roll
@@ -70,7 +70,9 @@ focused especially on the following points.
 
 ### Reporting
 
-The foundation has been established at the end of 2016. Het first year
-report, including an overview of activities and a financial report,
-will be published early 2018, covering the "long" first year of the
-foundation, namely 2017 and the last months of 2016.
+The first year report, including an overview of activities and a
+financial report, can be found below. As the foundation was established
+at the end of 2016 this report includes not only 2017 but also the last
+months of 2016.
+
+* [Year report of 2017 and end of 2016 (in Dutch)](/pdf/jaarverslag-2017.pdf)

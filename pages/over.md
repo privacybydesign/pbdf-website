@@ -1,15 +1,15 @@
 ---
 layout: page
-title: Doelstelling
-meta_title: Doelstelling
+title: Over de stichting
+meta_title: Over de stichting
 teaser: De stichting Privacy by Design wil in algemene zin de ontwikkeling en het gebruik van open, privacy-vriendelijke en goed-beveiligde ICT bevorderen.
 header:
   image_fullwidth: header_unsplash_4.jpg
   title: Privacy by Design Foundation
-permalink: /doelstelling/
+permalink: /over/
 language: nl
 translations:
-  en: /goals
+  en: /about
 ---
 
 Meer in het bijzonder richt de stichting zich op de ontwikkeling en
@@ -65,7 +65,9 @@ pas in 2017 goed op gang. Deze activiteiten zijn met name gericht op:
 
 ### Verslagen en verantwoording
 
-De stichting is eind 2016 opgericht. Het eerste jaarverslag, inclusief
-een overzicht van de uitgeoefende activiteiten en een financiële
-verantwoording, zal begin 2018 gepubliceerd worden, over het "lange"
-eerste jaar, namelijk 2017 en de laatste maanden van 2016.
+Het eerste jaarverslag, met daarin onder andere een overzicht van de
+uitgeoefende activiteiten en een financiële verantwoording, is hier
+te vinden. Aangezien de stichting eind 2016 is opgericht behelst dit
+jaarverslag niet alleen 2017 maar ook de laatste maanden van 2016.
+
+* [Jaarverslag 2017 en eind 2016](/pdf/jaarverslag-2017.pdf)
