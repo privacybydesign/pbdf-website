@@ -45,7 +45,7 @@ persoonlijke titel en worden hiervoor niet betaald.
    maatschappelijk thema, het verwerven van investeringsmiddelen en
    het daadwerkelijk realiseren en implementeren van deze innovaties.
 
- * Tim Vermeulen (t.vermeuelen 'at' privacybydesign.foundation) is IT
+ * Tim Vermeulen (t.vermeulen 'at' privacybydesign.foundation) is IT
    R&D Manager bij netwerkbedrijf Alliander. Zijn team werkt aan het
    inpassen van innovatieve IT oplossingen in het
    energielandschap. Dit zijn technieken zoals Blockchain, Augmented

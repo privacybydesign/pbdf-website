@@ -46,7 +46,7 @@ capacity and are not being paid for it.
    organising funding and actually realising and implementing these
    innovations.
 
- * Tim Vermeulen (t.vermeuelen 'at' privacybydesign.foundation) is IT
+ * Tim Vermeulen (t.vermeulen 'at' privacybydesign.foundation) is IT
    R&D Manager at network company Alliander. His teams works on
    embedding innovative IT solutions in the energy landscape. This
    involves techniques like Blockchain, Augmented Reality en
