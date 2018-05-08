@@ -24,7 +24,7 @@ href="https://privacybydesign.foundation/demo/adres">Adres invullen</a>
 Een vergelijkbare experimentele invul-demo is ontwikkeld door de
 [Gemeente Nijmegen](https://www.nijmegen.nl/gns/no_index/irma/demo/)
 en ook door het bedrijf
-[Alliander](https://dev-diva-js-reference-3p.appx.cloud/), in het
+[Alliander](https://diva-js-reference-3p.appx.cloud/), in het
 kader de energietransitie (zie hun
 [front-end](https://github.com/Alliander/diva-js-reference-3p-frontend)
 en
