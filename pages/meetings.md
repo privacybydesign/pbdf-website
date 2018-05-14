@@ -30,23 +30,37 @@ and academia. The atmosphere is open and very much content-oriented.
    included (or deleted) from this list, please send an email to: irma
    'at' privacybydesign.foundation
 
+ * **Participation** is free, but registration is appreciated by
+   sending a short message to the email address: I.Haerkens 'at'
+   cs.ru.nl
 
-### Next IRMA meeting: Friday, June 1, 13:30 -- 17:00, 2017.
 
-**Location** 
-
-[Surfnet](https://www.surf.nl/over-surf/contact/routebeschrijving-surf-surfmarket-en-surfnet/index.html), Hoog Overborch (Hoog Catharijne), Utrecht
+### Next IRMA meeting: Friday, June 1, 13:30 -- 17:30, 2017.
 
 **Programme:**
 
-To be announced soon.
+   1. 13:30 - 14:00 "Introduction to IRMA and overview of new
+      developments" Sietse Ringers, Privacy by Design Foundation and
+      Open University
+
+   2. 14:00 - 14:30 "IRMA signatures: sign-by-QR and sign-by-mail"
+      Koen van Ingen, Alliander
+
+   3. 15:00 - 15:30 Tea/coffee break
+
+   4. 15:30 - 16:00 "IRMA and blockchains"
+      Timen Olthof, Alliander
+
+   5. 16:00 - 16:30 "IRMA for municipalities: issuance and
+      verification of attributes" Bram Withaar, Gemeente Nijmegen
+
+   6. 16:30 - 16:45 Open discussion about strategies/next steps. Bart
+      Jacobs, Privacy by Design Foundation and Radboud University.
+
+   7. 16:45 - 17:30 Drinks
 
 
 ### Earlier IRMA meeting: Friday, Nov. 3, 10:00 - 13:00, 2017.
-
-**Location** 
-
-[Surfnet](https://www.surf.nl/over-surf/contact/routebeschrijving-surf-surfmarket-en-surfnet/index.html), Hoog Overborch (Hoog Catharijne), Utrecht
 
 **Programme:**
 
