@@ -23,7 +23,7 @@ and academia. The atmosphere is open and very much content-oriented.
 
 [//]: <> (* **Dates and times:** typically on a Friday morning, 10:00 - 13:00, followed by an informal (sandwich) lunch)
 
- * **Language:** usually english, occasinally dutch
+ * **Language:** usually English, occasinally Dutch
 
  * **Announcements:** via the IRMA mailing list and via
    [Twitter](https://twitter.com/IRMA_privacy/). If you like to be
@@ -35,7 +35,7 @@ and academia. The atmosphere is open and very much content-oriented.
    cs.ru.nl
 
 
-### Next IRMA meeting: Friday, June 1, 13:30 -- 17:30, 2017.
+### Next IRMA meeting: Friday, June 1, 13:30 -- 17:30, 2018.
 
 **Programme:**
 
