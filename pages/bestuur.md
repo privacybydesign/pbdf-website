@@ -31,11 +31,15 @@ persoonlijke titel en worden hiervoor niet betaald.
    natuurkundige. Daarnaast studeerde hij economie van R&D. Binnen de
    stichting kijkt hij met name naar de business cases voor IRMA.
 
- * **Penningmeester**: Sietse Ringers (s.ringers 'at' privacybydesign.foundation)
+ * **Penningmeester**: Jean Popma (j.popma 'at' ru.nl)
 
-   [Sietse Ringers](https://sietseringers.net/) is in 2016 gepromoveerd op het
-   gebied van credentialschema's (de cryptografische basis van IRMA).
-   Hij zet zich in voor de ontwikkeling van de IRMA-infrastructuur.
+   [Jean Popma](https://www.linkedin.com/in/jeanpopma) is als
+   projectmanager Applied Security Research verbonden aan de Radboud
+   Universiteit Nijmegen en in die rol verantwoordelijk voor de
+   realisatie van privacy-vriendelijke systemen voor de opslag en het
+   delen van wetenschappelijke medische data.  Hij heeft ruime
+   ervaring als ICT-manager en als Security Officer binnen de Radboud
+   Universiteit.
 
  * Thea van Kemenade (t.vankemenade 'at' privacybydesign.foundation)
    is business development consultant bij Radboud Innovation, het

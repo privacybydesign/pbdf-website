@@ -32,11 +32,14 @@ capacity and are not being paid for it.
    studied economics of R&D. Within the foundation he is especially
    interested in business cases for IRMA.
 
- * **Treasurer**: Sietse Ringers (s.ringers 'at' privacybydesign.foundation)
+ * **Treasurer**:  Jean Popma (j.popma 'at' ru.nl)
 
-   [Sietse Ringers](https://sietseringers.net/) did his PhD in 2016 in
-   the area of credential schemas (the cryptografic basis of IRMA). His
-   focus is the development of the IRMA infrastructure.
+   [Jean Popma](https://www.linkedin.com/in/jeanpopma) works as
+   projectmanager Applied Security Research at Radboud University
+   Nijmegen; in that role he is responsible for the realisation o
+   fprivacy-friendly systems for the storage and sharing of scientific
+   medical date. He has ample experience as ICT-manager and as
+   Security Officer within Radboud University.
 
  * Thea van Kemenade (t.vankemenade 'at' privacybydesign.foundation)
    is business development consultant at Radboud Innovation, the

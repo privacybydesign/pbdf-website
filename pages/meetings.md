@@ -39,11 +39,11 @@ and academia. The atmosphere is open and very much content-oriented.
 
 **Programme:**
 
-   1. 13:30 - 14:00 "Introduction to IRMA and overview of new
+   1. 13:30 - 14:15 "Introduction to IRMA and overview of new
       developments" Sietse Ringers, Privacy by Design Foundation and
       Open University
 
-   2. 14:00 - 14:30 "IRMA signatures: sign-by-QR and sign-by-mail"
+   2. 14:15 - 15:00 "IRMA signatures: sign-by-QR and sign-by-mail"
       Koen van Ingen, Alliander
 
    3. 15:00 - 15:30 Tea/coffee break
