@@ -168,17 +168,29 @@ stichting afhankelijk van subsidies en ondersteuning van derden.
 
 Binnen het vakgebied *identity management* worden verschillende
 betrouwbaarheidsniveaus van authenticatie onderscheiden, zoals "laag",
-"midden", "substantieel" en "hoog". Binnen IRMA is het lastig om zulke
-niveaus aan te brengen omdat ze van veel factoren afhangen, zoals
-bijvoorbeeld het manier van authenticatie voorafgaand aan uitgifte.
-Wat is bijvoorbeeld het betrouwbaarheidsniveau van een email attribuut
-dat via een bevestigingslink toegekend is?
+"substantieel" en "hoog". Vaak worden die niveaus gekoppeld aan een
+authenticatiemiddel (zoals een chipkaart). Binnen IRMA zijn deze
+betrouwbaarheidsniveaus echter gekoppeld aan attributen, of iets
+preciezer aan credentials (sets van attributen). Het
+betrouwbaarheidsniveau van zo'n credential wordt bepaald door manier
+van authenticatie voorafgaand aan uitgifte.  Dat niveau is
+bijvoorbeeld *laag* bij een email attribuut dat via een
+bevestigingslink toegekend is. Het niveau *substantieel* kan
+bijvoorbeeld gebruikt worden voor attributen die na authenticatie met
+iDIN uitgegeven zijn. En het niveau *hoog* kan gebruikt worden voor
+attributen die pas na face-2-face authenticatie aan een balie ter
+plekke uitgegeven worden.
 
-Om deze reden hanteert IRMA niet zulke betrouwbaarheidsniveaus. Iedere
-controleur (webpagina) kan zelf bepalen welke attributen hij wel of
-niet accepteert. Een controleur kan bijvoorbeeld wel een "ouder dan
-18" attribuut accepteren dat door de stichting is uitgegeven, maar
-niet een "ouder dan 18" attribuut dat door zeg Facebook uitgegeven is.
+Omdat er heel veel manieren zijn om IRMA attributen uit te geven
+hanteert the IRMA platform niet standaard zulke
+betrouwbaarheidsniveaus. Iedere controleur (webpagina) kan zelf
+bepalen welke attributen hij wel of niet accepteert. Een controleur
+kan bijvoorbeeld wel een "ouder dan 18" attribuut accepteren dat door
+de stichting is uitgegeven, maar niet een "ouder dan 18" attribuut dat
+door zeg Facebook uitgegeven is.
+
+Er wordt wel geëxperimenteerd met uitgifte van IRMA attributen voor
+specifieke toepassingen met een hoger betrouwbaarheidsniveau.
 
 [Naar boven](#top)
 

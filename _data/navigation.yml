@@ -40,7 +40,7 @@ nl:
     side: right
     url: /over/
     dropdown:
-      - title: Bestuur
+      - title: Mensen
         url: /bestuur/
       - title: Contact
         url: /contact/

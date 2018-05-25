@@ -69,7 +69,9 @@ Mobiel telefoonnummer-attribuut
 Sociaal netwerk-attributen
 :   Attributen (enige variatie per netwerk): voornaam, achternaam, e-mailadres, geboortedatum, gebruikersnaam  
     <a class="button" href="/uitgifte/social/facebook">
-    <img src="/images/facebook.png">Laad attributen via Facebook</a>  
+    <img src="/images/facebook.png">Laad attributen via Facebook</a>
+    **(Tijdelijk afgesloten door Facebook)**
+
     <a class="button" href="/uitgifte/social/twitter">
     <img src="/images/twitter.png">Laad attributen via Twitter</a>  
     <a class="button" href="/uitgifte/social/linkedin">

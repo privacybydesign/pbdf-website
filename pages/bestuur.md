@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Bestuur
-meta_title: Bestuur
+title: Mensen bij de stichting
+meta_title: Mensen
 header:
   image_fullwidth: header_unsplash_4.jpg
   title: Privacy by Design Foundation
@@ -10,6 +10,9 @@ language: nl
 translations:
   en: /board
 ---
+
+### Bestuur
+
 Het bestuur van de stichting Privacy by Design bestaat uit
 onderstaande personen. Zij allen vervullen de bestuursfunctie op
 persoonlijke titel en worden hiervoor niet betaald.
@@ -55,3 +58,23 @@ persoonlijke titel en worden hiervoor niet betaald.
    energielandschap. Dit zijn technieken zoals Blockchain, Augmented
    Reality en Continuous Delivery platforms. Tim zet zich in om de
    IRMA-technology te gebruiken in het energiedomein.
+
+
+### Ontwikkelaars
+
+Sietse Ringers (s.ringers 'at' privacybydesign.foundation) is *chief
+architect* en *lead developer* van de stichting Privacy by
+Design. Daarnaast zijn door de volgende mensen actief (geweest) bij de
+ontwikkeling van de software and de webpagina's van de stichting.
+
+#### Actieve medewerkers
+
+* Fabian van den Broek
+* Tomas Harreveld
+* Bart Jacobs
+* Hanna Schraffenberger
+* ...
+
+#### Voormalige medewerkers
+
+* ...

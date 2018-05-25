@@ -166,19 +166,30 @@ on subsidies and support of third parties.
 ### <a name="level"></a>5. What level of certainty does IRMA provide?
 
 Within the area of *identity management* different assurance levels
-for authentication are distinguished, such as "low", "middle",
-"substantial", "high". Within the IRMA ecosystem it is not
-straightforward to distinguish such levels, because they depend on
-many factors, such as for instance the manner of authentication that
-preceeds attribute issuance. What, for instance, is the level of
-certainty of an email attribute that has been issued via a
-confirmation link sent to a user-provided email address?
+for authentication are distinguished, such as "low", "substantial",
+"high". Often such levels are assigned to specific authentication
+means (such as a chipcard).  Within the IRMA ecosystem assurance
+levels can be assigned to attributes, or, to be more preciese, to
+credentials (sets of attributes). The assurance level of such a
+credential is determined by the manner of authentication that preceeds
+attribute issuance. The level is for instance *low* for an email
+attribute that has been issued via a confirmation link sent to a
+user-provided email address. The level *substantial* could be assigned
+to an attribute that is issed after e-banking authentication. And the
+level *high* could be used for attributes that are issued (on the
+spot) only after face-2-face authentication at a counter.
 
-For this reason IRMA does not use such levels of certainty. Every
+Because there are many ways to issue IRMA attributes, the IRMA
+platform does not standardly use such levels of assurance. Every
 verifier can determine itself which attributes it does or does not
 accept. A verifier can, for instance, accept an "older than 18"
 attribute if it has been issued by the foundation, but not if it has
 been issued by, say, Facebook.
+
+Experiments are being carried out with issuance of IRMA attributes
+for specific applications that require higher assurance levels.
+
+
 
 [To the top](#top)
 
