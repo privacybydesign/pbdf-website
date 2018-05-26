@@ -67,7 +67,7 @@ architect* en *lead developer* van de stichting Privacy by
 Design. Daarnaast zijn door de volgende mensen actief (geweest) bij de
 ontwikkeling van de software and de webpagina's van de stichting.
 
-#### Actieve medewerkers
+#### Actieve ontwikkelaars
 
 * Fabian van den Broek
 * Tomas Harreveld
@@ -75,6 +75,6 @@ ontwikkeling van de software and de webpagina's van de stichting.
 * Hanna Schraffenberger
 * ...
 
-#### Voormalige medewerkers
+#### Voormalige ontwikkelaars
 
 * ...
