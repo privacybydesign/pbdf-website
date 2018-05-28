@@ -71,10 +71,14 @@ ontwikkeling van de software and de webpagina's van de stichting.
 
 * Fabian van den Broek
 * Tomas Harreveld
+* Koen van Ingen
 * Bart Jacobs
+* Sietse Ringers
 * Hanna Schraffenberger
-* ...
+* David Venhoek
 
 #### Voormalige ontwikkelaars
 
+* Pim Vullers
+* Bas Westerbaan
 * ...
