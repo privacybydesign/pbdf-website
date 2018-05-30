@@ -16,7 +16,10 @@ information is provided.
 
 Log in with e-mail address
 :   <a class="button" href="https://privacybydesign.foundation/demo-en/mail">E-mail log in</a>  
-    
+
+IRMA signatures for permissions and statements
+:    <a class="button" href="https://privacybydesign.foundation/demo-en/signature">IRMA signatures</a>
+
 Submitting address information by automatic form-filling
 :    <a class="button"
 href="https://privacybydesign.foundation/demo-en/address">Filling in address</a>

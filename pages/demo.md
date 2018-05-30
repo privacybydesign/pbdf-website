@@ -16,7 +16,10 @@ knoppen wordt verdere uitleg gegeven.
 
 Login met e-mail adres
 :   <a class="button" href="https://privacybydesign.foundation/demo/mail">E-mail login</a>  
-    
+
+IRMA handtekeningen voor toestemmingen en verklaringen
+:    <a class="button" href="https://privacybydesign.foundation/demo/signature">IRMA handtekening</a>
+
 Adres opgave via automatisch invullen van velden
 :    <a class="button"
 href="https://privacybydesign.foundation/demo/adres">Adres invullen</a>
