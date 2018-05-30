@@ -11,7 +11,7 @@ image:
   title: pbd.png
 widget1:
   title: Privacy by Design
-  url: /doelstelling/
+  url: /over/
   image: pbd.png
   text: De stichting Privacy by Design creëert en onderhoudt gratis open source software waarbij de privacy van de gebruiker voorop staat. Het belangrijkste onderwerp van de stichting is het identity platform IRMA, een afkorting voor <em>I Reveal my Attributes</em>.
 widget2:
@@ -67,6 +67,9 @@ De stichting ontvangt externe financiering uit de volgende projecten.
  * *Connecting (with) IRMA* (2018), via het [SIDNfonds](https://www.sidnfonds.nl/projecten), zie ihb. deze [project pagina](https://www.sidnfonds.nl/projecten/connecting-with-irma).
 
  * *Citizen Science* (2018-2020), via het Europees Fonds voor Regionale
+    Ontwikkeling (EFRO), zie [EFRO projecten in Gelderland](https://www.europaomdehoek.nl/projecten/?radius=&projectProvince[]=Gelderland).
+
+ * *Chronische Pijn* (2018-2020), via het Europees Fonds voor Regionale
     Ontwikkeling (EFRO), zie [EFRO projecten in Gelderland](https://www.europaomdehoek.nl/projecten/?radius=&projectProvince[]=Gelderland).
 
 <div id="videoModal" class="reveal-modal large" data-reveal="">

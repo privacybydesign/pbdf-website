@@ -628,9 +628,8 @@ rekeningnummer van de ondertekenaar als attribuut in de handtekening
 te stoppen.
 
 Attribuut-gebaseerde handtekeningen worden door IRMA software
-ondersteund, vooralsnog in experimentele vorm. Deze vorm moet nog
-uitkristalliseren in toepassingen. Attribuut-gebaseerde handtekeningen
-vormen een nieuw concept met ongekende toepassingsmogelijkheden.
+ondersteund. Attribuut-gebaseerde handtekeningen vormen een nieuw
+concept met ongekende toepassingsmogelijkheden.
 
 [Naar boven](#top)
 

@@ -44,6 +44,8 @@ nl:
         url: /bestuur/
       - title: Contact
         url: /contact/
+      - title: Steun de stichting
+        url: /steun/
       - title: Privacy policy
         url: /privacy-policy/
 
@@ -97,10 +99,12 @@ en:
     side: right
     url: /about/
     dropdown:
-      - title: Board
+      - title: People
         url: /board/
       - title: Contact
         url: /contact-en/
+      - title: Support the foundation
+        url: /support/
       - title: Privacy policy
         url: /privacy-policy-en/
 

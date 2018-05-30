@@ -622,10 +622,9 @@ really comes from a particular citizen. Also payment orders can be
 realised via attribute-based signatures, by including the bank account
 number of the signer as attribute in the signature.
 
-Attribute-based signatures are supported by the IRMA software, but for
-the time being only in experimental form. This form still has to
-crystallise into applications. Attribute-based signatures form a novel
-concept with unprecented application possiblities.
+Attribute-based signatures are supported by the IRMA
+software. Attribute-based signatures form a novel concept with
+unprecented application possiblities.
 
 [To the top](#top)
 

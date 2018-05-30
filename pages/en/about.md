@@ -22,52 +22,6 @@ revealing any other non-relevant information.
 In addition, IRMA allows its users to create attribute-based digital
 signature, see [IRMA](/irma-explanation) for more information.
 
-### Plans and activities for 2017
-
-After its establishment as a legal entity in october 2016, the 
-foundation's activities are taking shape. These activitities are
-focused especially on the following points.
-
-* Creating a financial basis for the activities of the
-  foundation. This involves, in particular, the structural support
-  that the energy company [Alliander](https://www.alliander.com/en)
-  provides in 2017. In addition subsidy and project options will be
-  investigated and possibly initiated.
-
-* Consolidating the organisational structure of the foundation,
-  especially by extending the board from 3 to 5 persons (realised in
-  july 2017) and by applying for the *ANBI* status in the Netherlands,
-  giving the foundation official recognition of working for the
-  "general benefit", which comes with several tax benefits --- both
-  for the foundation itself and for its supporters (e.g. financial
-  support becomes tax deductable).
-
-* Establishing and maintaining the website of the foundation. A Dutch
-  version appeared early 2017, and mid 2017, an english version too.
-
-* Getting the infrastructure up and running for attribute-based
-  authentication and rolling out the IRMA
-  system. [Issuance](/issuance) of different attributes is now
-  possible, mainly from Dutch sources, including for instance
-  registration attributes for medical professionals. The foundation
-  will not offer verification services, but it does cooperate with
-  other parties who intend to verify IRMA attributes
-  (esp. [SURFnet](https://www.surf.nl/en/about-surf/subsidiaries/surfnet)).
-
-* Development of an IRMA app for iOS, to complement the existing app
-  for Android.
-
-* Organising a stable software development capacity for extending and
-  maintaining the IRMA ecosystem.
-
-* Seeking and starting collaborations with different players in the
-  identity management area in the Netherlands, and possibly also
-  beyond.
-
-* Increasing the familiarity of the name and brand of the Privacy by
-  Design foundation in general, and of attribute-based authentication
-  with IRMA in particular.
-
 ### Reporting
 
 The first year report, including an overview of activities and a

@@ -22,47 +22,6 @@ informatie over uzelf weggeeft.
 Ook kunt u met IRMA attribuut-gebaseerde handtekeningen zetten,
 zie [IRMA](/irma-uitleg) voor meer informatie.
 
-### Beleidsplannen voor 2017
-
-Na oprichting in oktober 2016 komen de activiteiten van de stichting
-pas in 2017 goed op gang. Deze activiteiten zijn met name gericht op:
-
-* Het leggen van een financiële basis voor de activiteiten van de
-  stichting. Met name gaat het om de structurele financiering die het
-  bedrijf [Alliander](https://www.alliander.com/nl) de stichting voor
-  2017 geeft. Daarnaast worden de mogelijkheden van subsidies en
-  projecten verkend en zo mogelijk in gang gezet.
-
-* Het consolideren van de organisatie van de stichting, met name door
-  een uitbreiding van het bestuur van 3 naar 5 personen (gerealiseerd
-  in juli 2017) en het aanvragen van een ANBI status.
-
-* Het opzetten en onderhouden van de website van de stichting. Een
-  nederlandstalige versie is inmiddels operationeel. In de loop van
-  2017 zal ook een engelstalige versie geproduceerd worden.
-
-* Het daadwerkelijk aanbieden van attribuut-gebaseerde authenticatie
-  via ontwikkeling en uitrol van het IRMA systeem. De
-  [uitgifte](/uitgifte) van verschillende attributen is nu mogelijk,
-  waaronder (medische) BIG attributen. Het verifiëren van attributen
-  wordt niet als dienst door de stiching aangeboden, maar wordt wel
-  ontwikkeld voor verschillende andere partijen (waaronder met name
-  [SURFnet](https://www.surfnet.nl)).
-
-* De ontwikkeling van een IRMA app voor iOS, naast de bestaande IRMA
-  app voor Android.
-
-* Het organiseren van een stabiele basis aan programmeer-capaciteit
-  voor de ontwikkeling van het IRMA ecosysteem.
-
-* Het zoeken en aangaan van samenwerkingsverbanden met verschillende
-  spelers op het gebied van identity management in Nederland, en
-  mogelijk ook daarbuiten.
-
-* Het vergroten van de (naams)bekendheid van de stichting Privacy by
-  Design in het algemeen, en van attribuut-gebaseerde authenticatie
-  met IRMA in het bijzonder.
-
 ### Verslagen en verantwoording
 
 Het eerste jaarverslag, met daarin onder andere een overzicht van de

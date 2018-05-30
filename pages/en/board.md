@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Board
-meta_title: Board
+title: People at the foundation
+meta_title: People
 header:
   image_fullwidth: header_unsplash_4.jpg
   title: Privacy by Design Foundation
@@ -55,3 +55,27 @@ capacity and are not being paid for it.
    involves techniques like Blockchain, Augmented Reality en
    Continuous Delivery platforms. Tim focuses on using IRMA technology
    within the energy domain.
+
+
+### Developers
+
+Sietse Ringers (s.ringers 'at' privacybydesign.foundation) is *chief
+architect* and *lead developer* of the Privacy by
+Design foundation. In addition, the following people are (or have
+been) active in developing software and webpages of the foundation.
+
+#### Active developers
+
+* Fabian van den Broek
+* Tomas Harreveld
+* Koen van Ingen
+* Bart Jacobs
+* Sietse Ringers
+* Hanna Schraffenberger
+* David Venhoek
+
+#### Former developers
+
+* Pim Vullers
+* Bas Westerbaan
+* ...
