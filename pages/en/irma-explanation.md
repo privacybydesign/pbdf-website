@@ -224,7 +224,10 @@ as:
 
 Unfortunately, at this stage, IRMA is not so widely accepted and
 supported yet that all these organisations actually issue IRMA
-attributes. But some of them seriously look at the possibilities.
+attributes. But some of them seriously look at the possibilities.  The
+foundation keeps a [public
+register](https://privacybydesign.foundation/attribute-index/en) of
+all available IRMA credentials (sets of attributes).
 
 If you wish to obtain certain attributes from such an issuer you first
 have to authenticate (prove who you are) to this issuer. Subsequently,

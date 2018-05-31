@@ -2,7 +2,7 @@
 layout: page
 title: About IRMA
 meta_title: IRMA
-teaser: IRMA offers a way for privacy-friendly authentication. When authenticating the user reveals only relevant properties (attributes) of himself, using an IRMA app on his mobile phone. 
+teaser: IRMA is a unique privacy-friendly identity platform for both authentication and signing.
 header:
   image_fullwidth: header_unsplash_1.jpg
   title: Privacy by Design Foundation
@@ -11,6 +11,16 @@ language: en
 translations:
   nl: /irma/
 ---
+
+IRMA offers a way for privacy-friendly authentication. When
+authenticating, you as a user reveal only relevant properties
+(attributes) of yourself, using an IRMA app on your mobile phone ---
+for instane that you are older than 16. In addition, with this app you
+can also digitally sign messages, where you identify yourself as a
+signer also with personal attributes. In this way you can sign for
+instance with your name and address, or with your medical
+registration, when you are a doctor, or just with your email address
+if you do not wish to disclose anything else.
 
  1. I'm an **individual** who may want to use IRMA for the purpose of
     logging in online.
@@ -25,18 +35,21 @@ translations:
     and delete all your attributes. You can do all this free of
     charge.
 
-    In case you prefer to read more about IRMA first, please consult
-    [this page](/irma-explanation).
+    You can [try out](/demo-en) IRMA yourself, but can also readd more
+    about IRMA first, at [this page](/irma-explanation).
 
  2. I'm from a **webshop** or another **organisation** that may want
     to use IRMA in order to let customers/members log in
-    (authenticate).
+    (authenticate), or to register consent from customers via a
+    digital signature, in accordance with the General Data Protection
+    Regulation (GDPR).
 
     The first relevant question for you is: which attributes do I need
     to verify about my customers when they log in? Possibly an email
     address or a mobile phone number suffices, but maybe you need
     (physical) address information. More [information](/irma-verifier)
     about this is available on a separate page.
+
 
  3. I'm simply **curious** and like to learn more about IRMA.
 
@@ -56,9 +69,11 @@ translations:
     that you are over 16. With IRMA you can selectively disclose only
     relevant properties (attributes) of yourself. There is an IRMA app
     that lets you store these attributes on your own mobile phone ---
-    and nowhere else. This provides a flexible passport, from which
-    you may or may not disclose certain parts, depending on the (login)
-    situation.
+    and nowhere else. This provides a personal flexible passport (or
+    wallet), from which you may or may not disclose certain parts,
+    depending on the (login) situation. With these attributes on your
+    phone you can also put digital signatures.
 
-    On a separate page [much more information](/irma-explanation) is
-    available about personal attributes and about IRMA.
+    On separate pages there are [demo's](/demo-en) and also [much more
+    information](/irma-explanation) about personal attributes and
+    about IRMA.

@@ -18,7 +18,7 @@ widget1:
 widget2:
   title: IRMA
   url: /irma-en/
-  text: With IRMA you can reliably disclose relevant properties (attributes, such as "older than 18") of yourself to others. IRMA makes you <em>self-sovereign</em>&#58; you manage these attributes yourself in the IRMA app, on your own phone.
+  text: IRMA is the unique platform that makes you digitally <em>self-sovereign</em> and gives you full control over your personal data&#58; with IRMA on your phone you are empowered not only to prove who you are, but also to digitally sign statements.
   # image: irma-video-youtube.png
   video: <a href="#" data-reveal-id="videoModal"><img src="/images/irma-video-youtube.png" width="302" height="182" alt=""/></a>
 widget3:

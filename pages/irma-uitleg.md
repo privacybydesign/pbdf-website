@@ -205,7 +205,9 @@ verschillende attribuut uitgevers kunnen zijn, zoals:
 Op dit moment wordt IRMA helaas nog niet zo breed geaccepteerd en
 ondersteund dat al deze partijen zulke attributen ook daadwerkelijk
 uitgeven. Maar sommigen van hen kijken wel serieus naar de
-mogelijkheden.
+mogelijkheden. De stichting onderhoudt een [publiek
+register](https://privacybydesign.foundation/attribute-index/en) van alle
+beschikbare IRMA credentials (verzameling van attributen).
 
 Als u als IRMA gebruiker een attribuut wilt ontvangen van zo'n
 uitgever moet u zich eerst op een of andere wijze authenticeren

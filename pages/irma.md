@@ -2,7 +2,7 @@
 layout: page
 title: Over IRMA
 meta_title: IRMA
-teaser: IRMA biedt een oplossing om op een privacy-vriendelijke manier in te loggen. Bij dat inloggen onthult de gebruiker enkele relevante eigenschappen (attributen) van zichzelf, via een IRMA app op de eigen mobiele telefoon. 
+teaser: IRMA is een uniek privacy-vriendelijk identiteitsplatform voor zowel authenticatie als ondertekening.
 header:
   image_fullwidth: header_unsplash_1.jpg
   title: Privacy by Design Foundation
@@ -12,6 +12,15 @@ translations:
   en: /irma-en/
 ---
 
+IRMA biedt een oplossing om op een privacy-vriendelijke manier in te
+loggen. Bij dat inloggen onthult u als gebruiker enkele relevante
+eigenschappen (attributen) van uzelf, via een IRMA app op de eigen
+mobiele telefoon --- bijvoorbeeld dat u ouder dan 16 bent. Daarnaast
+kunt u met deze app digitale handtekeningen zetten, waarbij u zichzelf
+ook met persoonlijke attributen identificeert als ondertekenaar. Op
+deze wijze kunt u bijvoorbeeld met uw naam en adres ondertekenen, of
+met uw BIG registratie wanneer u een arts bent, of alleen met uw email
+adres als u niks anders van uzelf wil onthullen.
 
  1. Ik ben een **persoon** die IRMA misschien wil gebruiken om online
     in te kunnen loggen.
@@ -26,17 +35,21 @@ translations:
     afmelden en al uw gegevens wissen.  Hier zijn geen kosten aan
     verbonden.
 
-    Wilt u eerst meer lezen over IRMA, bekijk dan [deze pagina](/irma-uitleg).
+    U kunt IRMA zelf [uitproberen](/demo), maar ook eerst meer lezen
+    over IRMA, op [deze pagina](/irma-uitleg).
 
- 2. Ik ben van een **webwinkel** of andere **organisatie** die IRMA
-    misschien wil gebruiken om klanten/leden in te laten loggen
-    (authenticeren).
+ 2. Ik ben van een **webwinkel** of van een andere **organisatie** die
+    IRMA misschien wil gebruiken om klanten/leden in te laten loggen
+    (authenticeren) of om toestemming van klanten via een digitale
+    handtekening vast te leggen, volgens de Algemene Verordening
+    Gegevensbescherming (AVG)
 
     De eerste vraag die u zich hierbij moet stellen is: welke
-    attributen wil ik van mijn klanten controleren bij het inloggen? U
-    heeft misschien voldoende aan een emailadres of een mobiel nummer,
-    maar mogelijk heeft u ook adresgegevens nodig. Op een aparte
-    pagina wordt meer [informatie](/irma-controleur) hierover gegeven.
+    attributen wil ik van mijn klanten controleren bij het inloggen
+    en/of ondertekenen? U heeft misschien voldoende aan een emailadres
+    of een mobiel nummer, maar mogelijk heeft u ook adresgegevens
+    nodig. Op een aparte pagina wordt meer
+    [informatie](/irma-controleur) hierover gegeven.
 
  3. Ik ben gewoon **nieuwsgierig** en wil meer over IRMA weten.
 
@@ -56,9 +69,11 @@ translations:
     de 16 bent. Met IRMA kunt u heel selectief zulke eigenschappen
     (attributen) van uzelf onthullen. Er is een IRMA app, waarmee u
     deze eigenschappen op uw eigen mobiele telefoon op kunt slaan ---
-    en nergens anders. Hiermee hebt u een flexibel paspoort, waaruit
-    u sommige dingen wel en andere dingen niet laat zien, afhankelijk
-    van de situatie.
+    en nergens anders. Hiermee hebt u een persoonlijk, flexibel
+    paspoort (of *wallet*) op uw telefoon, waaruit u sommige dingen
+    wel en andere dingen niet laat zien, afhankelijk van de
+    situatie. Ook kunt u met deze attributen op uw telefoon digitale
+    handtekeningen zetten.
 
-    Op een aparte pagina staat nog [veel meer uitleg](/irma-uitleg)
-    over attributen en IRMA.
+    Op aparte pagina's staan [demo's](/demo) en ook nog [veel meer
+    uitleg](/irma-uitleg) over attributen en IRMA.

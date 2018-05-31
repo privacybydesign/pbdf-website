@@ -17,7 +17,9 @@ out, and actual usage of its own system [IRMA](/irma-en), an
 abbreviation of *I Reveal My Attributes*. With IRMA people can prove
 in a privacy-friendly and secure manner various personal properties
 (attributes) about themselves (such as: I'm older than 18), without
-revealing any other non-relevant information.
+revealing any other non-relevant information. Via such attributes you
+can *authenticate* yourself, for instance in order to log into a
+webpage.
 
 In addition, IRMA allows its users to create attribute-based digital
 signature, see [IRMA](/irma-explanation) for more information.
