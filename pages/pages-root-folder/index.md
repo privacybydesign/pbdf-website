@@ -17,7 +17,7 @@ widget1:
 widget2:
   title: IRMA
   url: /irma/
-  text: IRMA is het unieke platform dat u digitaal <em>self-sovereign</em> maakt en u regie geeft over uw persoonlijke gegevens&#58; met IRMA op uw telefoon bent u <em>empowered</em>, niet allen om te bewijzen wie u bent, maar ook om verklaringen zelf digitaal te ondertekenen.
+  text: IRMA is het unieke platform dat u digitaal <em>self-sovereign</em> maakt en u regie geeft over uw persoonlijke gegevens&#58; met IRMA op uw telefoon bent u <em>empowered</em>, niet alleen om te bewijzen wie u bent, maar ook om verklaringen zelf digitaal te ondertekenen.
   # image: irma-video-youtube.png
   video: <a href="#" data-reveal-id="videoModal"><img src="/images/irma-video-youtube.png" width="302" height="182" alt=""/></a>
 #851 × 479 
