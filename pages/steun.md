@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Vrienden en Helden van de Stichting
-meta_title: Vrienden
+title: Steun de Stichting
+meta_title: Steun
 header:
   image_fullwidth: header_unsplash_4.jpg
   title: Privacy by Design Foundation
@@ -10,6 +10,30 @@ language: nl
 translations:
   en: /support
 ---
+
+De stichting Privacy by Design ziet het ontwikkelen van het
+identiteitsplatform IRMA als een *community effort*, waarbij
+betrokkenheid, samenwerking en steun van verschillende kanten en op
+verschillende manieren mogelijk is. Hieronder wordt op twee
+mogelijkheden verder ingegaan (*in kind* en *in cash*). Voor andere
+mogelijke bijdragen neem gerust [contact](/contact) op.
+
+### Steun bij software ontwikkeling
+
+Wilt u, als individu of organisatie, bijdragen aan de verdere
+ontwikkeling van de IRMA software, neem dan AUB contact op met de
+*lead developer* Sietse Ringers (s.ringers 'at'
+privacybydesign.foundation).  Bijdragen zijn bijvoorbeeld gewenst bij
+het integreren van IRMA authenticatie en ondertekening in bestaande
+software pakketten, zoals voor communicatie of tekst
+verwerking. Bijvoorbeeld, het zou heel handig zijn om plugins te
+hebben om IRMA handtekeningen te kunnen controleren in diverse mail
+clients, of in office omgevingen.  De stichting hoopt dat zulke
+software als gratis open source beschikbaar komt. Het is echter ook
+mogelijk om commerciële en/of closed source software te bouwen bovenop
+de (gratis) IRMA infrastructuur.
+
+### Financiële steun
 
 De stichting Privacy by Design wil zo veel mogelijk van haar diensten
 gratis aanbieden. De activiteiten van de stichting kosten echter wel
