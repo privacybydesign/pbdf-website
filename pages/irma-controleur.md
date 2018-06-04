@@ -108,6 +108,13 @@ daarvoor kosten in rekening brengen. Voor meer informatie kunt u
 Kortom, IRMA is in principe gratis te gebruiken, als u tenminste alles
 zelf wil doen.
 
+Het filmpje hieronder geeft technische uitleg over hoe u IRMA
+attribuut-controle kunt integreren in uw website. Voor meer informatie,
+zie de [technische documentatie](/documentation).
+
+<div class="flex-video widescreen vimeo" style="display: block;">
+  <iframe src="https://www.youtube-nocookie.com/embed/5aYQ2N7KR3c" frameborder="0" allowfullscreen></iframe>
+</div>
 
 [Naar boven](#top)
 

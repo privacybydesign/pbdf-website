@@ -109,6 +109,14 @@ touch](/contact-en).
 To summarise: IRMA can be used without any costs, at least if you do
 everything yourself.
 
+The video below provides a tutorial for integrating IRMA attribute
+verification in your website. For more information, see the
+[technical documentation](/documentation).
+
+<div class="flex-video widescreen vimeo" style="display: block;">
+  <iframe src="https://www.youtube-nocookie.com/embed/5aYQ2N7KR3c" frameborder="0" allowfullscreen></iframe>
+</div>
+
 [To the top](#top)
 
 ### <a name="issue"></a>3. Can I also issue attributes myself to my customers?
