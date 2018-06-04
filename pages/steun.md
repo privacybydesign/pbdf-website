@@ -11,12 +11,13 @@ translations:
   en: /support
 ---
 
-De stichting Privacy by Design ziet het ontwikkelen van het
-identiteitsplatform IRMA als een *community effort*, waarbij
-betrokkenheid, samenwerking en steun van verschillende kanten en op
-verschillende manieren mogelijk is. Hieronder wordt op twee
-mogelijkheden verder ingegaan (*in kind* en *in cash*). Voor andere
-mogelijke bijdragen neem gerust [contact](/contact) op.
+De stichting Privacy by Design wil niet monopoliseren en ziet het
+ontwikkelen van het identiteitsplatform IRMA als een *community
+effort*, waarbij betrokkenheid, samenwerking en steun van
+verschillende kanten en op verschillende manieren mogelijk
+is. Hieronder wordt op twee mogelijkheden verder ingegaan (*in kind*
+en *in cash*). Voor andere mogelijke bijdragen neem gerust
+[contact](/contact) op.
 
 ### Steun bij software ontwikkeling
 

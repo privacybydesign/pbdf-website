@@ -67,6 +67,7 @@ been) active in developing software and webpages of the foundation.
 #### Active developers
 
 * Fabian van den Broek
+* Joost van Dijk
 * Tomas Harreveld
 * Koen van Ingen
 * Bart Jacobs

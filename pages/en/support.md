@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Friends and Heros of the foundation
-meta_title: Friends
+title: Support the Foundation
+meta_title: Support
 header:
   image_fullwidth: header_unsplash_4.jpg
   title: Privacy by Design Foundation
@@ -10,6 +10,29 @@ language: en
 translations:
   nl: /steun
 ---
+
+The Privacy by Design foundation does not wish to monopolise and sees
+the development of the identity platform IRMA as a *community effort*
+with possible involvement, cooperation and support from different
+sides and in different ways. Below more information is given about two
+such contributions (*in kind* en *in cash*). For other possible
+contributions please get [in touch](/contact-en).
+
+### Contribute to software development
+
+If you, as individual or organisation, wish to contribute to further
+development of IRMA software, please contact the *lead developer*
+Sietse Ringers (s.ringers 'at' privacybydesign.foundation).
+Contributions are welcome, for instance, for integration of IRMA
+authentication and signing in existing software packages, such as for
+communication and text processing. For instance, it would be very nice
+to have plugins for checking IRMA signatures in various mail clients
+or office environments. De foundation hopes that such software will
+become freely available, as open source. However, it is also possible
+to build commmercial and/or closed source software on top of the
+(free) IRMA infrastructure.
+
+### Contribute financially
 
 The Privacy by Design foundation wishes to offer as many of its
 services as possible for free. However, the activities of the

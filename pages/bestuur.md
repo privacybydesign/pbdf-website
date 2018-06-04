@@ -70,6 +70,7 @@ ontwikkeling van de software and de webpagina's van de stichting.
 #### Actieve ontwikkelaars
 
 * Fabian van den Broek
+* Joost van Dijk
 * Tomas Harreveld
 * Koen van Ingen
 * Bart Jacobs
