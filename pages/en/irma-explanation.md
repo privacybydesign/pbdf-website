@@ -112,18 +112,6 @@ white coat and receives you in an office in a building that says
 information is often missing (or is easy to fabricate), so that we
 have to use attributes like in IRMA for trusted intraction.
 
-Kortom: IRMA gaat over attribuut-gebaseerde authenticatie: u bewijst
-niet zozeer *wie* u bent, maar *wat* u bent. Dat is heel natuurlijk
-en intuïtief. Als u een arts in het ziekenhuis bezoekt wilt u
-diens naam misschien weten voor de communicatie, maar een veel
-belangrijker attribuut is dat de betreffende persoon daadwerkelijk
-arts is. In de niet-digitale wereld vertrouwen we erg op de context:
-de persoon draagt een witte jas en ontvangt u in een werkkamer in een
-ziekenhuis. Dat geeft vertrouwen. Maar in de online wereld ontbreekt
-een dergelijke context (of is die makkelijk te vervalsen) en moeten we
-attributen als in IRMA gebruiken voor betrouwbare omgang.
-
-
 [To the top](#top)
 
 ### <a name="why"></a>2. Why would you wish to use attributes instead of identities?
