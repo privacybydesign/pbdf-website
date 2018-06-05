@@ -5,10 +5,10 @@ meta_title: People
 header:
   image_fullwidth: header_unsplash_4.jpg
   title: Privacy by Design Foundation
-permalink: /board/
+permalink: /people/
 language: en
 translations:
-  nl: /bestuur
+  nl: /mensen
 ---
 
 The board of the Privacy by Design foundation consists of the people
@@ -32,7 +32,7 @@ capacity and are not being paid for it.
    studied economics of R&D. Within the foundation he is especially
    interested in business cases for IRMA.
 
- * **Treasurer**:  Jean Popma (j.popma 'at' ru.nl)
+ * **Treasurer**:  Jean Popma (j.popma 'at' privacybydesign.foundation) 
 
    [Jean Popma](https://www.linkedin.com/in/jeanpopma) works as
    projectmanager Applied Security Research at Radboud University
@@ -77,6 +77,7 @@ been) active in developing software and webpages of the foundation.
 
 #### Former developers
 
+* Wouter Lueks
 * Pim Vullers
 * Bas Westerbaan
 * ...

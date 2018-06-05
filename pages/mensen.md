@@ -5,10 +5,10 @@ meta_title: Mensen
 header:
   image_fullwidth: header_unsplash_4.jpg
   title: Privacy by Design Foundation
-permalink: /bestuur/
+permalink: /mensen/
 language: nl
 translations:
-  en: /board
+  en: /people
 ---
 
 ### Bestuur
@@ -34,7 +34,7 @@ persoonlijke titel en worden hiervoor niet betaald.
    natuurkundige. Daarnaast studeerde hij economie van R&D. Binnen de
    stichting kijkt hij met name naar de business cases voor IRMA.
 
- * **Penningmeester**: Jean Popma (j.popma 'at' ru.nl)
+ * **Penningmeester**: Jean Popma (j.popma 'at' privacybydesign.foundation) 
 
    [Jean Popma](https://www.linkedin.com/in/jeanpopma) is als
    projectmanager Applied Security Research verbonden aan de Radboud
@@ -80,6 +80,7 @@ ontwikkeling van de software and de webpagina's van de stichting.
 
 #### Voormalige ontwikkelaars
 
+* Wouter Lueks
 * Pim Vullers
 * Bas Westerbaan
 * ...

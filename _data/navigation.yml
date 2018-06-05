@@ -41,7 +41,7 @@ nl:
     url: /over/
     dropdown:
       - title: Mensen
-        url: /bestuur/
+        url: /mensen/
       - title: Contact
         url: /contact/
       - title: Steun de stichting
@@ -100,7 +100,7 @@ en:
     url: /about/
     dropdown:
       - title: People
-        url: /board/
+        url: /people/
       - title: Contact
         url: /contact-en/
       - title: Support the foundation
