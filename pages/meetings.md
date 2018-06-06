@@ -42,17 +42,21 @@ and academia. The atmosphere is open and very much content-oriented.
    1. 13:30 - 14:15 "Introduction to IRMA and overview of new
       developments" Sietse Ringers, Privacy by Design Foundation and
       Open University
+      [[slides](../meeting-slides/slides-1-6-18/sietse-ringers-irma-developments.pdf)]
 
    2. 14:15 - 15:00 "IRMA signatures: sign-by-QR and sign-by-mail"
       Koen van Ingen, Alliander
+      [[slides](../meeting-slides/slides-1-6-18/koen-van-ingen-signatures.pdf)]
 
    3. 15:00 - 15:30 Tea/coffee break
 
    4. 15:30 - 16:00 "IRMA and blockchains"
       Timen Olthof, Alliander
+      [[slides](../meeting-slides/slides-1-6-18/timen-olthof-irma-schemes-blockchain.pdf)]
 
    5. 16:00 - 16:30 "IRMA for municipalities: issuance and
       verification of attributes" Bram Withaar, Gemeente Nijmegen
+      [[slides](../meeting-slides/slides-1-6-18/bram-withaar-nijmegen-issuance.pdf)]
 
    6. 16:30 - 16:45 Open discussion about strategies/next steps. Bart
       Jacobs, Privacy by Design Foundation and Radboud University.
