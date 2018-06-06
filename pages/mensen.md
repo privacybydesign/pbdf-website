@@ -80,6 +80,7 @@ ontwikkeling van de software and de webpagina's van de stichting.
 
 #### Voormalige ontwikkelaars
 
+* Maarten Everts
 * Wouter Lueks
 * Pim Vullers
 * Bas Westerbaan
