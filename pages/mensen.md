@@ -74,13 +74,14 @@ ontwikkeling van de software and de webpagina's van de stichting.
 * Tomas Harreveld
 * Koen van Ingen
 * Bart Jacobs
+* Ayke van Laethem
 * Sietse Ringers
 * Hanna Schraffenberger
 * David Venhoek
 
 #### Voormalige ontwikkelaars
 
+* [Maarten Everts](https://nn8.nl/)
 * Wouter Lueks
 * Pim Vullers
 * Bas Westerbaan
-* ...

@@ -71,13 +71,15 @@ been) active in developing software and webpages of the foundation.
 * Tomas Harreveld
 * Koen van Ingen
 * Bart Jacobs
+* Ayke van Laethem
 * Sietse Ringers
 * Hanna Schraffenberger
 * David Venhoek
 
 #### Former developers
 
+* [Maarten Everts](https://nn8.nl/)
 * Wouter Lueks
 * Pim Vullers
 * Bas Westerbaan
-* ...
+
