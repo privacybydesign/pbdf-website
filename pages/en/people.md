@@ -80,6 +80,7 @@ been) active in developing software and webpages of the foundation.
 
 * [Maarten Everts](https://nn8.nl/)
 * Wouter Lueks
+* Roland van Rijswijk-Deij
 * Pim Vullers
 * Bas Westerbaan
 

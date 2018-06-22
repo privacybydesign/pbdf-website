@@ -70,7 +70,6 @@ Sociaal netwerk-attributen
 :   Attributen (enige variatie per netwerk): voornaam, achternaam, e-mailadres, geboortedatum, gebruikersnaam  
     <a class="button" href="/uitgifte/social/facebook">
     <img src="/images/facebook.png">Laad attributen via Facebook</a>
-    **(Tijdelijk afgesloten door Facebook)**
 
     <a class="button" href="/uitgifte/social/twitter">
     <img src="/images/twitter.png">Laad attributen via Twitter</a>  
@@ -95,4 +94,6 @@ Attributen via het BIG-register --- op basis van iDIN gegevens
 :   Attributen: BIG-nummer, startdatum BIG-registratie, medisch beroep, medisch specialisme  
     <a class="button" href="/uitgifte/big">
     <img src="/images/big.png">Laad attributen via BIG</a>  
+    **(Tijdelijk beperkt bruikbaar door aanpassingen bij BIG)**
+
     [Meer informatie](/uitgifte-big)

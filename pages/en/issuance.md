@@ -48,7 +48,6 @@ Social media attributes
 :   Attributes (differs per network): first name, family name, email address, birth date, username  
     <a class="button" href="/issuance/social/facebook">
     <img src="/images/facebook.png">Load attributes via Facebook</a>  
-    **(Temporarily disconnected by Facebook)**
 
     <a class="button" href="/issuance/social/twitter">
     <img src="/images/twitter.png">Load attributes via Twitter</a>  

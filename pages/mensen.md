@@ -83,5 +83,6 @@ ontwikkeling van de software and de webpagina's van de stichting.
 
 * [Maarten Everts](https://nn8.nl/)
 * Wouter Lueks
+* Roland van Rijswijk-Deij
 * Pim Vullers
 * Bas Westerbaan
