@@ -12,6 +12,17 @@ translations:
   nl: /irma/
 ---
 
+To get a quick *hands-on* impression of IRMA:
+
+  * [install](/download-en) the IRMA app and register within the app,
+    by choosing a PIN and possibly adding an email address;
+
+  * [fill](/issuance) this app with various personal attributes;
+
+  * [try out](/demo-en) some of the IRMA demo applications, for
+    logging in with attributes, automatic form-filling, and digitale
+    signatures.
+
 IRMA offers a way for privacy-friendly authentication. When
 authenticating, you as a user reveal only relevant properties
 (attributes) of yourself, using an IRMA app on your mobile phone ---

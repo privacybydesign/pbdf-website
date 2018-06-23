@@ -12,6 +12,19 @@ translations:
   en: /irma-en/
 ---
 
+Om snel een *hands-on* indruk te krijgen van IRMA:
+
+  * [installeer](/download) de IRMA app en registreer binnen de app,
+    waarbij u een PIN kiest en mogelijk ook een email adres aan uw
+    registratie toevoegt;
+
+  * [vul](/uitgifte) deze app met verschillende persoonlijke
+    attributen;
+
+  * [probeer](/demo) een aantal IRMA demo applicaties, voor inloggen
+    met attributen, automatisch invullen van formulieren, en digitale
+    ondertekening.
+
 IRMA biedt een oplossing om op een privacy-vriendelijke manier in te
 loggen. Bij dat inloggen onthult u als gebruiker enkele relevante
 eigenschappen (attributen) van uzelf, via een IRMA app op de eigen
