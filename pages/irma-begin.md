@@ -33,7 +33,7 @@ gebruiken, voor soms gevoelige persoonlijke zaken, zoals inloggen of
 digitaal ondertekenen. Dit lijkt een beetje op het aanvragen en
 ophalen van een paspoort.  Maar zo'n paspoort kost heel veel meer tijd
 en moeite, bijvoorbeeld omdat u er (twee keer) voor naar een
-gemeentehuis moet gaan. Net als een paspoort is het ook IRMA echt
+gemeentehuis moet gaan. Net als een paspoort is ook IRMA echt
 persoonlijk: het is niet de bedoeling dat iemand anders er gebruik van
 kan maken.
 
