@@ -62,6 +62,9 @@ other parties, among which:
    signing within the context of `smart' homes. In addition, the
    foundation is structurally supported by Alliander.
 
+ * [Open University](https://www.ou.nl/en/home), for joint IRMA
+   software development.
+
 The foundation receives external funding via the following projects.
 
  * *Connecting (with) IRMA* (2018), via the [SIDNfonds](https://www.sidnfonds.nl/projecten), see in particular this [project page](https://www.sidnfonds.nl/projecten/connecting-with-irma).

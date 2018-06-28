@@ -62,6 +62,9 @@ verschillende andere partijen, waaronder in het bijzonder:
    ondertekening in de context van `slimme' huizen. Daarnaast geeft
    Alliander de stichting structurele steun.
 
+ * [Open Universiteit](https://www.ou.nl/), voor gezamenlijke IRMA
+   software ontwikkeling.
+
 De stichting ontvangt externe financiering uit de volgende projecten.
 
  * *Connecting (with) IRMA* (2018), via het [SIDNfonds](https://www.sidnfonds.nl/projecten), zie ihb. deze [project pagina](https://www.sidnfonds.nl/projecten/connecting-with-irma).
