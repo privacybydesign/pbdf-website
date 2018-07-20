@@ -31,7 +31,7 @@ nl:
         url: https://metrics.privacybydesign.foundation/grafana/dashboard/db/irma-dashboard?orgId=1
       - title: Publicaties
         url: /publicaties/
-      - title: Opinies
+      - title: Pers en opinies
         url: /opinies/
       - title: Meetings
         url: /meetings/
