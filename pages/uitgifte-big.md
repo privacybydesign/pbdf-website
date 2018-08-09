@@ -17,9 +17,9 @@ persoonlijk BIG-nummer ingeschreven in dit register. BIG is een
 afkorting voor: Beroepen in de Individuele Gezondheidszorg.
 
 Als u een zorgverlener bent en ingeschreven staat in dit register kan
-de stichting Privacy by Design uw registratie op basis van uw naam en
-geboortedatum in het register opzoeken, en de volgende attributen
-uitgeven:
+de stichting Privacy by Design uw registratie op basis van uw naam,
+geboortedatum en geslacht in het register opzoeken, en de volgende
+attributen uitgeven:
 
  * BIG-nummer
  * startdatum BIG-registratie
@@ -30,14 +30,14 @@ Deze persoonlijke attributen zijn afkomstig van het BIG-register.  De
 juistheid van deze attributen is de verantwoordelijkheid van het
 BIG-register. De stichting voert er zelf geen controle op uit.
 
-Als eerste stap in dit uitgifte-proces toont u uw naam en
-geboortedatum uit uw [iDIN credential](/uitgifte-idin) aan de
-stichting. De stichting zoekt vervolgens uw registratie in het
-BIG-register op aan de hand van die gegevens. Indien dit een
-eenduidige resultaat oplevert ontvangt u uw BIG attributen in een
-nieuw **BIG credential** in uw IRMA app. De stichting verwijdert uw
-naam, geboortedatum en deze BIG attributen na uitgifte uit de eigen
-systemen en houdt geen log bij van de uitgifte.
+Als eerste stap in dit uitgifte-proces toont u uw naam, geboortedatum
+en geslacht uit uw [iDIN credential](/uitgifte-idin) aan de
+stichting. Met uw toestemming zoekt de stichting vervolgens uw
+registratie in het BIG-register op aan de hand van die
+gegevens. Indien dit een eenduidige resultaat oplevert ontvangt u uw
+BIG attributen in een nieuw **BIG credential** in uw IRMA app. De
+stichting verwijdert uw naam, geboortedatum en deze BIG attributen na
+uitgifte uit de eigen systemen en houdt geen log bij van de uitgifte.
 
 De geldigheid van dit BIG credential is *een jaar*.
 

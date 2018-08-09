@@ -17,9 +17,9 @@ there with a personal BIG-number. BIG is a Dutch abbreviation for:
 *Beroepen in de Individuele Gezondheidszorg*.
 
 When you are a (registered) healthcare professional in the Netherlands
-the Privacy by Design foundation can look up your BIG-registration
-on the basis of your name and date of birth; subsequently it can issue
-to you the following attributes:
+the Privacy by Design foundation can look up your BIG-registration on
+the basis of your name, date of birth and gender; subsequently it can
+issue to you the following attributes:
 
  * BIG-number
  * date of BIG-registration
@@ -30,15 +30,15 @@ These personal attributes are obtained from the BIG-register.  The
 correctness of the attributes is the register's responsability. The
 foundation does not check them.
 
-As first step of this issuance process you disclose your name and date
-of birth from the [iDIN credential](/issuance-idin) to the
-foundation. The foundation uses these data to search in the
-BIG-register. If this yields an unambiguous result, you will receive
-your BIG attributes in a new **BIG credential** in your IRMA app.  The
-foundation subsequently removes your name and date of birth, and also
-these BIG attributes, from its systems. The foundation does not keep a
-log of issuance: it does not record which attributes it issues to whom
-at what time.
+As first step of this issuance process you disclose your name, date of
+birth and gender from the [iDIN credential](/issuance-idin) to the
+foundation. With your consent, the foundation uses these data to
+search in the BIG-register. If this yields an unambiguous result, you
+will receive your BIG attributes in a new **BIG credential** in your
+IRMA app.  The foundation subsequently removes your name and date of
+birth, and also these BIG attributes, from its systems. The foundation
+does not keep a log of issuance: it does not record which attributes
+it issues to whom at what time.
 
 The validity period of this BIG credential is *one year*.
 
