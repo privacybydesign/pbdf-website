@@ -34,6 +34,11 @@ registration process starts automatically when you open the IRMA app.
 Below there is a list of buttons for loading different attributes.
 The number of attribute sources will increase in the future. 
 
+*Warning:* if you load these attributes into your phone via a QR-code,
+make sure that someone else cannot pick them up first, for instance
+over your shoulder. This other person can then load your attributes
+into his/her phone.
+
 ### International attributes
 
 The following attributes can be loaded into an IRMA app by anyone on earth.

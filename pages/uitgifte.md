@@ -48,6 +48,11 @@ toenemen. Daarbij gelden soms beperkingen.
   iDIN (naam + geboortedatum). Daarnaast is natuurlijk een BIG
   registratie noodzakelijk.
 
+*Waarschuwing:* als u deze attributen via een QR-code in uw telefoon
+laadt, pas dan op dat een ander die QR-code niet, bijv. over uw
+schouders, oppikt. Daarmee kan die ander uw attributen namelijk
+op zijn/haar telefoon laden.
+
 Attributen via iDIN
 :   Attributen: initialen, achternaam, geboortedatum, geslacht, adres, postcode, plaats  
     <a class="button" href="/uitgifte/idin">
