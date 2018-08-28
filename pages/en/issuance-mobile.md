@@ -14,7 +14,9 @@ A mobile phone number can be issued as attribute to your IRMA app by
 the Privacy by Design foundation. Before doing so, the foundation
 checks if you actually have control over this number by sending a
 verification as text message (SMS). This service is free of charge,
-but (currently) only works for Dutch mobile phone numbers.
+but (currently) only works for mobile phone numbers from
+European countries. This restriction is exists because charges
+within Europe are uniform.
 
 You may wish to add additional mobile phone numbers as separate
 attributes in your app. You then execute the issuance process
@@ -37,11 +39,12 @@ In this way your phone number will be issued as attribute.
 The validity period of this mobile phone number attribute is *one year*.
 
 This service is still in an experimental stage and may change based on
-operational experiences. After issuance, the foundation removes your
-phone number attribute from its own systems. The foundation does not
-keep a log of issuance. However, in systems of telecom providers the
-communication between your number and the foundation's number may be
-stored for some time. This is beyond the control of the foundation.
+operational experiences. After issuance, the Privacy by Design
+foundation removes your phone number attribute from its own
+systems. The foundation does not keep a log of issuance. However, in
+systems of telecom providers the communication between your number and
+the foundation's number may be stored for some time. This is beyond
+the control of the foundation.
 
 [Back](/issuance) to attribute issuance.
 

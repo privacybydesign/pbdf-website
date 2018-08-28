@@ -66,6 +66,15 @@ Attributes via your educational institution
     <img src="/images/edugain.png">Load attributes via eduGAIN</a>  
     Notice: this is an experimental service. We appreciate any feedback at irma 'at' privacybydesign.foundation, preferrably with screenshots if something goes wrong.
 
+### Attributes for Europe
+
+Mobile phone number attribute
+:   Attribute: mobile phone number attribute  
+    <a class="button" href="/issuance/phonenumber">
+    <img src="/images/mobile.png">Load mobile phone number attribute</a>  
+    [More information](/issuance-mobile)
+
+
 ### Attributes for The Netherlands
 
 The issuance options below require a connection to the Netherlands,
@@ -77,12 +86,6 @@ Attributes via iDIN
     <a class="button" href="/uitgifte/idin">
     <img src="/images/idin.png">Load attributes via iDIN</a>  
     [More information](/issuance-idin)
-
-Mobile phone number attribute
-:   Attribute: mobile phone number attribute  
-    <a class="button" href="/issuance/phonenumber">
-    <img src="/images/mobile.png">Load mobile phone number attribute</a>  
-    [More information](/issuance-mobile)
 
 Attributes via your dutch educational institute
 :   Attributes: given name, family name, email address, institution, staff/student, local registration number  
