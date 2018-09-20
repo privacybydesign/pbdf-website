@@ -74,12 +74,12 @@ Mobiel telefoonnummer-attribuut
 Sociaal netwerk-attributen
 :   Attributen (enige variatie per netwerk): voornaam, achternaam, e-mailadres, geboortedatum, gebruikersnaam  
     <a class="button" href="/uitgifte/social/facebook">
-    <img src="/images/facebook.png">Laad attributen via Facebook</a>
+    <img src="/images/facebook.png">Laad attributen vanuit Facebook</a>
 
     <a class="button" href="/uitgifte/social/twitter">
-    <img src="/images/twitter.png">Laad attributen via Twitter</a>  
+    <img src="/images/twitter.png">Laad attributen vanuit Twitter</a>  
     <a class="button" href="/uitgifte/social/linkedin">
-    <img src="/images/linkedin.png">Laad attributen via LinkedIn</a>  
+    <img src="/images/linkedin.png">Laad attributen vanuit LinkedIn</a>  
     [Meer informatie](/uitgifte-socialmedia)
 
 Attributen via uw (Nederlandse) onderwijsinstelling
@@ -98,7 +98,12 @@ Attributen via uw (internationale) onderwijsinstelling
 Attributen via het BIG-register --- op basis van iDIN gegevens
 :   Attributen: BIG-nummer, startdatum BIG-registratie, medisch beroep, medisch specialisme  
     <a class="button" href="/uitgifte/big">
-    <img src="/images/big.png">Laad attributen via BIG</a>  
+    <img src="/images/big.png">Laad attributen vanuit BIG</a>  
     **(Tijdelijk beperkt bruikbaar door aanpassingen bij BIG)**
 
     [Meer informatie](/uitgifte-big)
+
+Attributen via het AGB-register --- uitgegeven door de stichting [nuts.nl](httpss://nuts.nl) vanuit Vektis
+:   Attributen: [AGB-code](https://www.agbcode.nl/) van een medische zorgverlener, voor declaraties, inkopen, etc.
+    <a class="button" href="https://irma-agb.nuts.nl/">
+    <img src="/images/agb-code.gif">Laad attributen vanuit AGB</a>  
