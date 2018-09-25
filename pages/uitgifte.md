@@ -1,9 +1,6 @@
 ---
 layout: page
 title: Attribuut-uitgifte
-header:
-  image_fullwidth: header_unsplash_1.jpg
-  title: Privacy by Design Foundation
 permalink: /uitgifte/
 language: nl
 translations:
@@ -25,28 +22,13 @@ translations:
 Via deze pagina kunt u attributen in de IRMA app op uw telefoon
 (her)laden en zo een persoonlijk 'paspoort' samenstellen. De stichting
 Privacy by Design ondertekent deze attributen digitaal, zodat
-controleurs de herkomst en integriteit kunnen checken.  Vervolgens
-kunt u deze attributen gebruiken voor authenticatie of
+controleurs de herkomst en integriteit kunnen checken. 
+
+Vervolgens kunt u deze attributen gebruiken voor authenticatie of
 inloggen. Hiervoor is het nodig dat u de IRMA app geïnstalleerd heeft
 en de registratie doorlopen heeft. Installatie kan via de
 [Download](/download) pagina; het registratie proces wordt vanzelf
 gestart wanneer u de app opent.
-
-Hieronder staat een lijst met knoppen waarmee verschillende attributen
-geladen kunnen worden. Het aantal mogelijkheden zal gaandeweg
-toenemen. Daarbij gelden soms beperkingen.
-
-* Niet alle bronnen van attributen kunnen door iedereen gebruikt
-  worden. Bijvoorbeeld, voor iDIN moet men een Nederlandse
-  bankrekening hebben en daar elektronisch op in kunnen loggen; voor
-  SURFnet attributen is een registratie bij een Nederlandse instelling
-  voor (hoger) onderwijs noodzakelijk --- en moet die instelling
-  "IRMA" ook toestaan.
-* Er bestaan afhankelijkheden tussen sommige bronnen. Bijvoorbeeld, om
-  zorg attributen uit het BIG register te verkrijgen moeten eerst
-  andere attributen aanwezig zijn en opgevraagd worden, namelijk uit
-  iDIN (naam + geboortedatum). Daarnaast is natuurlijk een BIG
-  registratie noodzakelijk.
 
 *Waarschuwing:* als u deze attributen via een QR-code in uw telefoon
 laadt, pas dan op dat een ander die QR-code niet, bijv. over uw
@@ -54,7 +36,7 @@ schouders, oppikt. Daarmee kan die ander uw attributen namelijk
 op zijn/haar telefoon laden.
 
 Attributen uit Basisregistratie Personen (BRP)
-:   Attributen: initialen, achternaam, geboortedatum, geslacht, adres, postcode, plaats, BSN  
+:   Attributen: naam, geboortedatum, geslacht, adres, postcode, plaats, BSN  
     <a class="button" href="https://services.nijmegen.nl/irma/issue/start">
     <img src="/images/nijmegen.png">Laad attributen uit BRP</a>  
     [Meer informatie](/uitgifte-brp)
