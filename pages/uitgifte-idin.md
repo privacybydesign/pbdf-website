@@ -23,6 +23,7 @@ kan zo attributen krijgen over degene die via iDIN inlogt, namelijk:
  * initialen
  * achternaam
  * geboortedatum
+ * leeftijdsgrenzen (boven de 12, 16, 18, 21 of 65)
  * geslacht
  * adres
  * postcode

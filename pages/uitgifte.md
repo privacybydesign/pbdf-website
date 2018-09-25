@@ -53,6 +53,12 @@ laadt, pas dan op dat een ander die QR-code niet, bijv. over uw
 schouders, oppikt. Daarmee kan die ander uw attributen namelijk
 op zijn/haar telefoon laden.
 
+Attributen uit Basisregistratie Personen (BRP)
+:   Attributen: initialen, achternaam, geboortedatum, geslacht, adres, postcode, plaats, BSN  
+    <a class="button" href="https://services.nijmegen.nl/irma/issue/start">
+    <img src="/images/nijmegen.png">Laad attributen uit BRP</a>  
+    [Meer informatie](/uitgifte-brp)
+
 Attributen via iDIN
 :   Attributen: initialen, achternaam, geboortedatum, geslacht, adres, postcode, plaats  
     <a class="button" href="/uitgifte/idin">
