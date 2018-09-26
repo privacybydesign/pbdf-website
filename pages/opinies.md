@@ -13,12 +13,18 @@ translations:
 Deze pagina bevat (links naar) opinies, meningen, blogs, etc. over
 IRMA, in omgekeerde chronologische volgorde.
 
+  * Een [Tweakers](https://tweakers.net/nieuws/143823/nijmegen-test-identificatieapp-irma-die-privacy-waarborgt.html) bericht en ook een [nu.nl tech](https://www.nu.nl/tech/5480828/nijmegen-start-proef-met-privacyvriendelijke-identificatie-app.html) bericht over de IRMA-BRP aansluiting, op 26 sept. 2018.
+
+  * Een [krantenbericht](https://www.gelderlander.nl/nijmegen/gemeente-nijmegen-gebruikt-als-eerste-de-id-app-irma~a7f52c8d/) in regionaal dagblad De Gelderlander, een [webbericht](https://www.omroepgelderland.nl/nieuws/2324721/Wachtwoorden-en-invulstress-verleden-tijd) van Omroep Gelderland, en ook een [item](https://rn7.nl/nieuws/nijmegen-trekt-kar-in-ontwikkeling-irma) van [omroep RN7](https://rn7.nl) voor de regio Nijmegen, op 25 en 26 sept. 2018.
+
+  * Een [persbericht](https://www.nijmegen.nl/nieuws/app-irma/) van de gemeente Nijmegen en ook een [persbericht](https://www.radboudrecharge.nl/nl/artikel/vergeet-je-wachtwoorden-log-in-met-irma) van de Radboud Universiteit, beiden over de zojuist gelanceerde aansluiting van IRMA op de basisregistratie personen (BRP), 25 sept. 2018.
+
   * [Interview](/audio/bnr-ochtendspits-20-7-2018.mp3) met Bart Jacobs
     over blockchains, identiteiten en de voorbarige claims (zie
     bijv. [NRC](https://www.nrc.nl/nieuws/2018/07/14/krijgen-we-ons-id-op-de-smartphone-a1610028) of [Eindhovens
     Dagblad](https://www.ed.nl/eindhoven/eindhoven-start-proef-digitaal-identiteitsbewijs%7Ea546f4e5/))
     van de Delftse [blockchain
-    identiteit](https://www.blockchain-lab.org/trust/).
+    identiteit](https://www.blockchain-lab.org/trust/), 20 july 2018.
 
   * [De digitale identiteit bestaat
 niet](https://www.linkedin.com/pulse/de-digitale-identiteit-bestaat-niet-martijn-van-der-linden/),
