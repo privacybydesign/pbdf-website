@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Background information about issuance of attributes from sociale media
 header:
-  image_fullwidth: header_unsplash_1.jpg
-  title: Privacy by Design Foundation
+  image_fullwidth: header_poly2.png
+  title: Issuance of social media attributes
 permalink: /issuance-socialmedia/
 language: en
 translations:

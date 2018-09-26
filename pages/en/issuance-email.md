@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Background information about issuance of email attributes
 header:
-  image_fullwidth: header_unsplash_1.jpg
-  title: Privacy by Design Foundation
+  image_fullwidth: header_poly2.pmg
+  title: Issuance of e-mail address attribute
 permalink: /issuance-email/
 language: en
 translations:

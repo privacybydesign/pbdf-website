@@ -1,11 +1,10 @@
 ---
 layout: page
-title: Letting users log in on my website using IRMA
 meta_title: IRMA verifier
 teaser: I operate a webpage where I would like my customers to log in. How can I do that with IRMA? What are the costs?
 header:
-  image_fullwidth: header_unsplash_1.jpg
-  title: Privacy by Design Foundation
+  image_fullwidth: header_poly2.png
+  title: Integrate IRMA in your website
 permalink: /irma-verifier/
 language: en
 translations:

@@ -1,9 +1,8 @@
 ---
 layout: page
-title: IRMA in detail
 header:
-  image_fullwidth: header_unsplash_1.jpg
-  title: Privacy by Design Foundation
+  image_fullwidth: header_poly2.png
+  title: IRMA in detail
 permalink: /irma-explanation/
 language: en
 translations:

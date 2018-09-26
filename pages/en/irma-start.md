@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Starting with the IRMA app
 header:
-  image_fullwidth: header_unsplash_1.jpg
-  title: Privacy by Design Foundation
+  image_fullwidth: header_poly2.png
+  title: Starting with the IRMA app
 permalink: /irma-start/
 language: en
 translations:

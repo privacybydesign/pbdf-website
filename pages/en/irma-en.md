@@ -1,11 +1,10 @@
 ---
 layout: page
-title: About IRMA
 meta_title: IRMA
 teaser: IRMA is a unique privacy-friendly identity platform for both authentication and signing.
 header:
-  image_fullwidth: header_unsplash_1.jpg
-  title: Privacy by Design Foundation
+  image_fullwidth: header_poly2.png
+  title: About IRMA
 permalink: /irma-en/
 language: en
 translations:

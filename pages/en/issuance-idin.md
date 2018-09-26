@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Background information about issuance of iDIN attributes
 header:
-  image_fullwidth: header_unsplash_1.jpg
-  title: Privacy by Design Foundation
+  image_fullwidth: header_poly2.png
+  title: Issuance of iDIN attributes
 permalink: /issuance-idin/
 language: en
 translations:

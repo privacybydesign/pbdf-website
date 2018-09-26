@@ -1,9 +1,8 @@
 ---
 layout: page
-title: IRMA download
 header:
-  image_fullwidth: header_unsplash_4.jpg
-  title: Privacy by Design Foundation
+  image_fullwidth: header_poly2.png
+  title: Download IRMA app
 permalink: /download-en/
 language: en
 translations:

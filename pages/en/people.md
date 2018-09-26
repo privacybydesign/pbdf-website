@@ -1,10 +1,9 @@
 ---
 layout: page
-title: People at the foundation
 meta_title: People
 header:
-  image_fullwidth: header_unsplash_4.jpg
-  title: Privacy by Design Foundation
+  image_fullwidth: header_poly2.png
+  title: People at the foundation
 permalink: /people/
 language: en
 translations:

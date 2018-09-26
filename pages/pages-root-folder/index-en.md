@@ -1,7 +1,7 @@
 ---
 layout: frontpage
 header:
-  image_fullwidth: header_unsplash_1.jpg
+  image_fullwidth: header_poly2.png
   title: Privacy by Design Foundation
 permalink: /en/
 language: en
@@ -11,10 +11,10 @@ homepage: true
 image:
   title: pbd.png
 widget1:
-  title: Privacy by Design
-  url: /about/
-  image: pbd.png
-  text: The Privacy by Design Foundation creates and maintains free open source software that primarily focuses on the privacy of the user. The most important project of the foundation is the identity platform IRMA, an acronym for <em>I Reveal my Attributes</em>.
+  title: BRP attributes
+  url: /issuance-brp/
+  image: nijmegen_logo_inverted.png
+  text: The city of Nijmegen is the first to issue IRMA attributes from the Dutch Civil Registry. Everyone in the Netherlands that can login with DigiD can obtain these attributes. This opens a wide array of new applications.
 widget2:
   title: IRMA
   url: /irma-en/
@@ -30,22 +30,23 @@ widget3:
 
 ### Privacy by Design Foundation
 
-The Privacy by Design foundation was set-up in 2016. It arose from the
-[Digital Security](http://www.ru.nl/ds/) research group of the Radboud
-University and from the Privacy and Identity Lab
-[PI.lab](http://www.pilab.nl).  The foundation is an independent
-non-profit spin-off.
+<img src="/images/pbd.png" style="float: right; width: 40%; padding: 15px" />
 
-The foundation primarily works on its own identity platfrom
-[IRMA](/irma-en) for privacy-friendly attribute-based
-authentication, based on freely available open source software.
+The Privacy by Design Foundation creates and maintains free and open source software in which the privacy of the user is the most important. The most important application of the foundation is the identity platform [IRMA](/irma-en), an acronym of I Reveal my Attributes. The foundation also aims to generally improve the development and usage of open, privacy-friendly and well secured ICT.
 
-The foundation has two important operational roles in IRMA:
+With IRMA you can disclose properties (attributes) of yourself in a privacy-friendly and secure way - for example, I am over 18 years old - without disclosing other, non-relevant information about yourself. Using such attributes you can authenticate yourself to for example login on a website.
 
-1. Development and supporting the IRMA
-[software](https://credentials.github.io/).
+Additionally, with IRMA you can create attribute-based signatures, see [IRMA in detail](/irma-explanation) for more information.
 
+<p style="margin-bottom: 0;">The foundation has two important operational roles in IRMA:</p>
+
+1. Development and supporting the [IRMA
+software](http://github.com/privacybydesign).
 2. Supporting infrastructure for issuing attributes.
+
+#### Collaborations
+
+The Privacy by Design foundation was set-up in 2016. It arose from the [Digital Security](http://www.ru.nl/ds/) research group of the Radboud University and from the Privacy and Identity Lab [PI.lab](http://www.pilab.nl).  The foundation is an independent non-profit spin-off.
 
 The foundation welcomes collaboration with others to get IRMA up and
 running.  Pilots are now being prepared with the help of a number of
@@ -71,6 +72,9 @@ The foundation receives external funding via the following projects.
 
  * *Citizen Science* (2018-2020), via the European Regional
     Development Fund [ERDF](http://ec.europa.eu/regional_policy/en/funding/erdf/); see the [ERDF projecten in the province of Gelderland](https://www.europaomdehoek.nl/projecten/?radius=&projectProvince[]=Gelderland).
+
+* *Chronical Pain* (2018-2020), via the European Regional
+    Development Fund [ERDF](http://ec.europa.eu/regional_policy/en/funding/erdf/), see [ERDF projecten in the province of Gelderland](https://www.europaomdehoek.nl/projecten/?radius=&projectProvince[]=Gelderland).
 
 
 <div id="videoModal" class="reveal-modal large" data-reveal="">

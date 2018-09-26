@@ -4,9 +4,6 @@ header:
   image_fullwidth: header_poly2.png
   title: IRMA technical documentation
 meta_title: Documentation
-header:
-  image_fullwidth: header_unsplash_4.jpg
-  title: Privacy by Design Foundation
 permalink: /documentation/
 language: en
 ---

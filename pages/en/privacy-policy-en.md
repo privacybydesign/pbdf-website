@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Privacy Policy
 header:
-  image_fullwidth: header_unsplash_1.jpg
-  title: Privacy by Design Foundation
+  image_fullwidth: header_poly2.png
+  title: Privacy policy
 permalink: /privacy-policy-en/
 language: en
 translations:

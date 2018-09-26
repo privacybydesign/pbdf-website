@@ -1,9 +1,8 @@
 ---
 layout: page
-title: IRMA demos
 header:
-  image_fullwidth: header_unsplash_4.jpg
-  title: Privacy by Design Foundation
+  image_fullwidth: header_poly2.png
+  title: IRMA demos
 permalink: /demo-en/
 language: en
 translations:

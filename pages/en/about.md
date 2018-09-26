@@ -1,11 +1,9 @@
 ---
 layout: page
-title: About the foundation
-meta_title: About the foundation
 teaser: The Privacy by Design Foundation in general aims to improve the development and the use of open, privacy-friendly and secure software.
 header:
-  image_fullwidth: header_unsplash_4.jpg
-  title: Privacy by Design Foundation
+  image_fullwidth: header_poly2.png
+  title: About the foundation
 permalink: /about/
 language: en
 translations:

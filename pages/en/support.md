@@ -1,10 +1,9 @@
 ---
 layout: page
-title: Support the Foundation
 meta_title: Support
 header:
-  image_fullwidth: header_unsplash_4.jpg
-  title: Privacy by Design Foundation
+  image_fullwidth: header_poly2.png
+  title: Support the Foundation
 permalink: /support/
 language: en
 translations:

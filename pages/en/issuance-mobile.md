@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Background information about issuance of mobile phone number attributes
 header:
-  image_fullwidth: header_unsplash_1.jpg
-  title: Privacy by Design Foundation
+  image_fullwidth: header_poly2.png
+  title: Issuance of mobile phone number attributes
 permalink: /issuance-mobile/
 language: en
 translations:
