@@ -1,7 +1,7 @@
 ---
 layout: frontpage
 header:
-  image_fullwidth: header_unsplash_1.jpg
+  image_fullwidth: header_poly2.png
   title: Privacy by Design Foundation
 permalink: /index.html
 translations:
@@ -10,10 +10,10 @@ homepage: true
 image:
   title: pbd.png
 widget1:
-  title: Privacy by Design
-  url: /over/
-  image: pbd.png
-  text: De stichting Privacy by Design creëert en onderhoudt gratis open source software waarbij de privacy van de gebruiker voorop staat. Het belangrijkste onderwerp van de stichting is het identity platform IRMA, een afkorting voor <em>I Reveal my Attributes</em>.
+  title: BRP attributen
+  url: /uitgifte-brp/
+  image: nijmegen_logo_inverted.png
+  text: De gemeente Nijmegen geeft als koploper IRMA attributen uit vanuit de basisregistratie personen. Elke burger in Nederland die kan inloggen met een DigiD kan deze attributen verkrijgen. Hierdoor komen veel nieuwe toepassingen binnen handbereik. 
 widget2:
   title: IRMA
   url: /irma/
@@ -30,22 +30,22 @@ widget3:
 
 ### Stichting Privacy by Design
 
-De stichting Privacy by Design is in 2016 voortgekomen uit de [Digital
-Security](http://www.ru.nl/ds/) onderzoeksgroep van de Radboud
-Universiteit en het Privacy and Identity Lab
-[PI.lab](http://www.pilab.nl). De stichting is een onafhankelijke
-non-profit spin-off.
+<img src="/images/pbd.png" style="float: right; width: 40%; padding: 15px" />
 
-De stichting richt zich vooral op het eigen identity platform
-[IRMA](/irma) voor privacy-vriendelijke attribuut-gebaseerde
-authenticatie. De aanpak is gebaseerd op gratis beschikbare open
-source software.
+De stichting Privacy by Design creëert en onderhoudt gratis open source software waarbij de privacy van de gebruiker voorop staat. Het belangrijkste onderwerp van de stichting is het identity platform [IRMA](/irma), een afkorting voor I Reveal my Attributes. De stichting wil ook in algemene zin de ontwikkeling en het gebruik van open, privacy-vriendelijke en goed-beveiligde ICT bevorderen.
 
-De stichting heeft twee belangrijke operationele rollen met betrekking
-tot IRMA.
+Met IRMA kunt u op een privacy-vriendelijke, beveiligde manier eigenschappen (attributen) van uzelf onthullen (zoals: ik ben boven de 18), zonder dat u andere, niet-relevante informatie over uzelf weggeeft. Via zulke attributen kunt u zichzelf authenticeren bijvoorbeeld om in te loggen op een webpagina. 
 
-1. Ontwikkeling en beheer van de IRMA [software](https://credentials.github.io/).
+Ook kunt u met IRMA attribuut-gebaseerde handtekeningen zetten, zie [IRMA in detail](/irma-uitleg) voor meer informatie.
+
+<p style="margin-bottom: 0;">De stichting heeft twee belangrijke operationele rollen met betrekking tot IRMA:</p>
+
+1. Ontwikkeling en beheer van de [IRMA software](http://github.com/privacybydesign).
 2. Beheer van infrastructuur voor het uitgeven van attributen.
+
+#### Samenwerking
+
+De stichting Privacy by Design is in 2016 voortgekomen uit de [Digital Security](http://www.ru.nl/ds/) onderzoeksgroep van de Radboud Universiteit en het Privacy and Identity Lab [PI.lab](http://www.pilab.nl). De stichting is een onafhankelijke non-profit spin-off.
 
 De stichting werkt graag samen met anderen om IRMA van de grond te
 krijgen. Pilots zijn in voorbereiding, in samenwerking met

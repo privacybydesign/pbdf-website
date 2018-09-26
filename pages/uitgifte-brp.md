@@ -1,14 +1,25 @@
 ---
 layout: page
-title: Achtergrond informatie over attribuut-uitgifte vanuit BRP
 header:
-  image_fullwidth: header_unsplash_1.jpg
-  title: Privacy by Design Foundation
+  image_fullwidth: header_poly2.png
+  title: Attributen vanuit het BRP
 permalink: /uitgifte-brp/
 language: nl
 translations:
   en: /issuance-brp
 ---
+
+<style type="text/css">
+  article a.button {
+    margin-bottom: 0.5rem;
+    margin-top: 0.5rem;
+    background-color: #568099;
+  }
+  article a img {
+    height: 1.75rem;
+    padding-right: 1rem;
+  }
+</style>
 
 In de Basisregistratie Personen
 ([BRP](https://www.digitaleoverheid.nl/voorzieningen/gegevens/inhoud-basisregistraties/inhoud-brp/))
@@ -19,9 +30,17 @@ te kunnen zijn. Gemeenten hebben niet alleen toegang tot gegevens van
 hun eigen burgers, maar ook van burgers in andere gemeenten.
 
 De gemeente [Nijmegen](https://www.nijmegen.nl) geeft IRMA attributen
-uit vanuit de BRP. Deze dienst is in principe beschikbaar voor
+uit vanuit de BRP. Deze dienst is beschikbaar voor
 iedereen die in de BRP geregistreerd staat en kan inloggen met
-[DigiD](https://www.digid.nl). Het gaat om de volgende attributen:
+[DigiD](https://www.digid.nl). 
+
+<p style="text-align: center;">
+	<a class="button" href="https://services.nijmegen.nl/irma/issue/start">
+		<img src="/images/nijmegen.png">Laad attributen uit de BRP
+	</a>  
+</p>
+
+Het gaat om de volgende attributen:
 
  * initialen
  * achternaam

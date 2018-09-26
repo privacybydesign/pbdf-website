@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Van start met de IRMA app
 header:
-  image_fullwidth: header_unsplash_1.jpg
-  title: Privacy by Design Foundation
+  image_fullwidth: header_poly2.png
+  title: Van start met de IRMA app
 permalink: /irma-begin/
 language: nl
 translations:
@@ -138,8 +137,6 @@ groeien naarmate meer partijen aan IRMA meedoen.
    [SURFconext](https://www.surfconext.nl). Uw eigen instelling moet
    IRMA toegang wel expliciet goedkeuren. Via SURFconext kunnen
    "onderwijs attributen" in uw IRMA app gezet worden.
-
-* ...
 
 
 ### <a name="mijnirma"></a>2. Waarvoor is MijnIRMA?

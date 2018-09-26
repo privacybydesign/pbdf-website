@@ -60,7 +60,8 @@ p {
     word-break: normal;
 }
 p a,
-article a {
+article a,
+li a {
     font-weight: bold;
     border-bottom: 1px dotted;
 }
@@ -216,6 +217,9 @@ li {
 li {
     > ul,
     > ol {
+         margin-bottom: 0;
+    }
+    p {
          margin-bottom: 0;
     }
 }

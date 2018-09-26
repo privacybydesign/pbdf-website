@@ -1,11 +1,10 @@
 ---
 layout: page
-title: Gebruikers laten inloggen op mijn webpagina met IRMA
+header:
+  image_fullwidth: header_poly2.png
+  title: Integreer IRMA in uw website
 meta_title: IRMA controleur
 teaser: Ik heb een webpagina waarop ik mijn klanten wil laten inloggen. Hoe kan dat met IRMA? Wat moet ik daar voor doen? En waar zitten de kosten? 
-header:
-  image_fullwidth: header_unsplash_1.jpg
-  title: Privacy by Design Foundation
 permalink: /irma-controleur/
 language: nl
 translations:

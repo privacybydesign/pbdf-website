@@ -1,10 +1,9 @@
 ---
 layout: page
-title: Pers en opinies
-meta_title: opinies
 header:
-  image_fullwidth: header_unsplash_4.jpg
-  title: Privacy by Design Foundation
+  image_fullwidth: header_poly2.png
+  title: Pers en opinies
+meta_title: opinies
 permalink: /opinies/
 language: nl
 translations:

@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Achtergrond informatie over iDIN attribuut-uitgifte
 header:
-  image_fullwidth: header_unsplash_1.jpg
-  title: Privacy by Design Foundation
+  image_fullwidth: header_poly2.png
+  title: Attributen via iDIN
 permalink: /uitgifte-idin/
 language: nl
 translations:

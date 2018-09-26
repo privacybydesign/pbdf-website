@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Achtergrond informatie over attribuut-uitgifte vanuit sociale media
 header:
-  image_fullwidth: header_unsplash_1.jpg
-  title: Privacy by Design Foundation
+  image_fullwidth: header_poly2.png
+  title: Attributen vanuit sociale media
 permalink: /uitgifte-socialmedia/
 language: nl
 translations:

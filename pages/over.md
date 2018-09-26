@@ -1,11 +1,10 @@
 ---
 layout: page
-title: Over de stichting
+header:
+  image_fullwidth: header_poly2.png
+  title: Over de stichting
 meta_title: Over de stichting
 teaser: De stichting Privacy by Design wil in algemene zin de ontwikkeling en het gebruik van open, privacy-vriendelijke en goed-beveiligde ICT bevorderen.
-header:
-  image_fullwidth: header_unsplash_4.jpg
-  title: Privacy by Design Foundation
 permalink: /over/
 language: nl
 translations:

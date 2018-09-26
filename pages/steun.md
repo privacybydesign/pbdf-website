@@ -1,10 +1,9 @@
 ---
 layout: page
-title: Steun de Stichting
-meta_title: Steun
 header:
-  image_fullwidth: header_unsplash_4.jpg
-  title: Privacy by Design Foundation
+  image_fullwidth: header_poly2.png
+  title: Steun de Stichting
+meta_title: Steun
 permalink: /steun/
 language: nl
 translations:

@@ -1,6 +1,8 @@
 ---
 layout: page
-title: IRMA technical documentation
+header:
+  image_fullwidth: header_poly2.png
+  title: IRMA technical documentation
 meta_title: Documentation
 header:
   image_fullwidth: header_unsplash_4.jpg

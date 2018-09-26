@@ -1,10 +1,9 @@
 ---
 layout: page
-title: Mensen bij de stichting
-meta_title: Mensen
 header:
-  image_fullwidth: header_unsplash_4.jpg
-  title: Privacy by Design Foundation
+  image_fullwidth: header_poly2.png
+  title: Mensen bij de stichting
+meta_title: Mensen
 permalink: /mensen/
 language: nl
 translations:

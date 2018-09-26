@@ -1,9 +1,8 @@
 ---
 layout: page
-title: IRMA gebruik
 header:
-  image_fullwidth: header_unsplash_1.jpg
-  title: Privacy by Design Foundation
+  image_fullwidth: header_poly2.png
+  title: IRMA gebruik
 permalink: /gebruik/
 ---
 IRMA heeft zich de afgelopen jaren ontwikkeld van een academisch

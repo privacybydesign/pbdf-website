@@ -1,10 +1,9 @@
 ---
 layout: page
-title: IRMA meetings
-meta_title: Meetings
 header:
-  image_fullwidth: header_unsplash_4.jpg
-  title: Privacy by Design Foundation
+  image_fullwidth: header_poly2.png
+  title: IRMA meetings
+meta_title: Meetings
 permalink: /meetings/
 language: nl
 translations:

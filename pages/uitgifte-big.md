@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Achtergrond informatie over attribuut-uitgifte vanuit het BIG-register
 header:
-  image_fullwidth: header_unsplash_1.jpg
-  title: Privacy by Design Foundation
+  image_fullwidth: header_poly2.png
+  title: Attributen vanuit het BIG-register
 permalink: /uitgifte-big/
 language: nl
 translations:

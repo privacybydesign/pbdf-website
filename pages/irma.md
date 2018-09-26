@@ -1,11 +1,10 @@
 ---
 layout: page
-title: Over IRMA
+header:
+  image_fullwidth: header_poly2.png
+  title: Over IRMA
 meta_title: IRMA
 teaser: IRMA is een uniek privacy-vriendelijk identiteitsplatform voor zowel authenticatie als ondertekening.
-header:
-  image_fullwidth: header_unsplash_1.jpg
-  title: Privacy by Design Foundation
 permalink: /irma/
 language: nl
 translations:
