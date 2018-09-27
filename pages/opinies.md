@@ -13,7 +13,12 @@ translations:
 Deze pagina bevat (links naar) opinies, meningen, blogs, etc. over
 IRMA, in omgekeerde chronologische volgorde.
 
-  * Een [Tweakers](https://tweakers.net/nieuws/143823/nijmegen-test-identificatieapp-irma-die-privacy-waarborgt.html) bericht en ook een [nu.nl tech](https://www.nu.nl/tech/5480828/nijmegen-start-proef-met-privacyvriendelijke-identificatie-app.html) bericht over de IRMA-BRP aansluiting, op 26 sept. 2018.
+  * Een
+    [Tweakers](https://tweakers.net/nieuws/143823/nijmegen-test-identificatieapp-irma-die-privacy-waarborgt.html)
+    bericht, een [nu.nl
+    tech](https://www.nu.nl/tech/5480828/nijmegen-start-proef-met-privacyvriendelijke-identificatie-app.html)
+    bericht, en ook een [security.nl](https://www.security.nl/posting/579106/Nijmegen+test+gebruik+privacyvriendelijk+identiteitsplatform+IRMA) artikel, allemaal over de
+    IRMA-BRP aansluiting, op 26 sept. 2018.
 
   * Een [krantenbericht](https://www.gelderlander.nl/nijmegen/gemeente-nijmegen-gebruikt-als-eerste-de-id-app-irma~a7f52c8d/) in regionaal dagblad De Gelderlander, een [webbericht](https://www.omroepgelderland.nl/nieuws/2324721/Wachtwoorden-en-invulstress-verleden-tijd) van Omroep Gelderland, en ook een [item](https://rn7.nl/nieuws/nijmegen-trekt-kar-in-ontwikkeling-irma) van [omroep RN7](https://rn7.nl) voor de regio Nijmegen, op 25 en 26 sept. 2018.
 
