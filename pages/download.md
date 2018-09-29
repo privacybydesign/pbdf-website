@@ -9,7 +9,7 @@ translations:
   en: /download-en
 ---
 
-De IRMA app is beschikbaar voor Android en voor iOS. U kunt de app via een van de volgende knoppen downloaden.
+De IRMA app is beschikbaar voor Android (Google) en voor iOS (Apple). U kunt de app via een van de volgende knoppen downloaden.
 
 <a href="https://play.google.com/store/apps/details?id=org.irmacard.cardemu" target="_blank"><img src="/images/google-play-badge.png" alt="Play Store" width="150"></a> 
 
