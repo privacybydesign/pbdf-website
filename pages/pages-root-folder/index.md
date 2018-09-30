@@ -15,11 +15,10 @@ widget1:
   image: nijmegen_logo_inverted.png
   text: De gemeente Nijmegen geeft als koploper IRMA attributen uit vanuit de basisregistratie personen. Elke burger in Nederland die kan inloggen met een DigiD kan deze attributen verkrijgen. Hierdoor komen veel nieuwe toepassingen binnen handbereik. 
 widget2:
-  title: IRMA
-  url: /irma/
-  text: IRMA is het unieke platform dat u digitaal <em>self-sovereign</em> maakt en u regie geeft over uw persoonlijke gegevens&#58; met IRMA op uw telefoon bent u <em>empowered</em>, niet alleen om te bewijzen wie u bent, maar ook om verklaringen zelf digitaal te ondertekenen.
-  # image: irma-video-youtube.png
-  video: <a href="#" data-reveal-id="videoModal"><img src="/images/irma-video-youtube.png" width="302" height="182" alt=""/></a>
+  title: IRMA op het fieldlab
+  url: /irma-fieldlab-sept-2018/
+  text: "Op het fieldlab van VNG realisatie van 24 tot 28 september heeft IRMA groot meegedaan: we hebben nieuwe pilots en applicaties gemaakt, nieuwe contacten en ideeën opgedaan, en IRMA zelf uitgebreid. Lees hier meer."
+  image: fieldlab-badge.png
 #851 × 479 
 widget3:
   title: IRMA wint Privacy Award
