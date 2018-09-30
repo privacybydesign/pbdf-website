@@ -21,7 +21,7 @@ volg IRMA op [Twitter](https://twitter.com/IRMA_privacy).
     bericht, en ook een [security.nl](https://www.security.nl/posting/579106/Nijmegen+test+gebruik+privacyvriendelijk+identiteitsplatform+IRMA) artikel, allemaal over de
     IRMA-BRP aansluiting, op 26 sept. 2018.
 
-  * Een artikel <em>Nijmegen doet mee aan ID-app IRMA</em> in in regionaal dagblad De Gelderlander ([krant](../images/degelderlander-26-9-2018.jpg) en [online](https://www.gelderlander.nl/nijmegen/gemeente-nijmegen-gebruikt-als-eerste-de-id-app-irma~a7f52c8d/)), een [webbericht](https://www.omroepgelderland.nl/nieuws/2324721/Wachtwoorden-en-invulstress-verleden-tijd) van Omroep Gelderland, en ook een [item](https://rn7.nl/nieuws/nijmegen-trekt-kar-in-ontwikkeling-irma) van [omroep RN7](https://rn7.nl) voor de regio Nijmegen, op 25 en 26 sept. 2018.
+  * Een artikel <em>Nijmegen doet mee aan ID-app IRMA</em> in regionaal dagblad De Gelderlander ([krant](../images/degelderlander-26-9-2018.jpg) en [online](https://www.gelderlander.nl/nijmegen/gemeente-nijmegen-gebruikt-als-eerste-de-id-app-irma~a7f52c8d/)), een [webbericht](https://www.omroepgelderland.nl/nieuws/2324721/Wachtwoorden-en-invulstress-verleden-tijd) van Omroep Gelderland, en ook een [item](https://rn7.nl/nieuws/nijmegen-trekt-kar-in-ontwikkeling-irma) van [omroep RN7](https://rn7.nl) voor de regio Nijmegen, op 25 en 26 sept. 2018.
 
   * Een [persbericht](https://www.nijmegen.nl/nieuws/app-irma/) van de gemeente Nijmegen en ook een [persbericht](https://www.radboudrecharge.nl/nl/artikel/vergeet-je-wachtwoorden-log-in-met-irma) van de Radboud Universiteit, beiden over de zojuist gelanceerde aansluiting van IRMA op de basisregistratie personen (BRP), 25 sept. 2018.
 
