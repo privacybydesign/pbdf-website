@@ -60,7 +60,7 @@
 	{% else %}<meta name="twitter:title" content="{{ title }}">{% endif %}
 	{% if page.twitter_description %}<meta name="twitter:description" content="{{ page.twitter_description }}">
 	{% else %}<meta name="twitter:description" content="{{ description }}">{% endif %}
-	{% if page.twitter_title %}<meta name="twitter:image" content="{{ site.urlimg }}{{ page.twitter_title }}">{% endif %}
+	{% if page.twitter_image %}<meta name="twitter:image" content="{{ site.urlimg }}{{ page.twitter_image }}">{% endif %}
 	{% endif %}
 
 	<link type="text/plain" rel="author" href="{{ url}}/humans.txt">

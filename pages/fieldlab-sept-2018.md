@@ -6,7 +6,7 @@ header:
 permalink: /irma-fieldlab-sept-2018/
 twitter_title: "IRMA op #fieldlabDV18"
 twitter_description: "IRMA heeft met veel succes en plezier aan #fieldlabDV18 meegedaan."
-twitter_title: fieldlab-badge.png
+twitter_image: fieldlab-badge.png
 language: nl
 ---
 
