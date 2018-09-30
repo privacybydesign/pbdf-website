@@ -4,7 +4,9 @@ header:
   image_fullwidth: header_poly2.png
   title: IRMA op het fieldlab
 permalink: /irma-fieldlab-sept-2018/
-author: Bla Bla
+twitter_title: "IRMA op #fieldlabDV18"
+twitter_description: "IRMA heeft met veel succes en plezier aan #fieldlabDV18 meegedaan."
+twitter_title: fieldlab-badge.png
 language: nl
 ---
 
