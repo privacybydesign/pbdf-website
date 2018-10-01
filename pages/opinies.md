@@ -14,6 +14,8 @@ Deze pagina bevat (links naar) opinies, meningen, blogs, etc. over
 IRMA, in omgekeerde chronologische volgorde. Voor actuele informatie
 volg IRMA op [Twitter](https://twitter.com/IRMA_privacy).
 
+  * IRMA staat in de lijst met de [leukste nieuwe Nederlandse apps van september 2018](https://www.iculture.nl/apps/nederlandse-apps-september-2018/) van [iCulture](https://www.iculture.nl).
+
   * Een
     [Tweakers](https://tweakers.net/nieuws/143823/nijmegen-test-identificatieapp-irma-die-privacy-waarborgt.html)
     bericht, een [nu.nl
