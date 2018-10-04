@@ -59,6 +59,11 @@ other parties, among which:
  * [SURFnet](https://www.surf.nl/en/services-and-products/surfconext/index.html),
    for issuing and verifying of attributes through SURFconext.
 
+ * [Nuts](https://nuts.nl), for an open infrastructure in healthcare,
+   see also the portal for medical doctors
+   [Helder](https://helder.health/) with
+   [logon](https://helder.health/logon) via IRMA.
+
  * [Alliander](http://www.alliander.nl), for authentication and
    signing within the context of `smart' homes. In addition, the
    foundation is structurally supported by Alliander.

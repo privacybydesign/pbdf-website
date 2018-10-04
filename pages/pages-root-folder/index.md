@@ -57,6 +57,11 @@ verschillende andere partijen, waaronder in het bijzonder:
  * [SURFnet](https://www.surfnet.nl), voor uitgifte en controle van
    attributen via [surfconext](https://www.surfconext.nl);
 
+ * [Nuts](https://nuts.nl), voor een open infrastructuur in de zorg,
+   zie ook de portal voor zorgverleners
+   [Helder](https://helder.health/) waar men met IRMA
+   [inlogt](https://helder.health/login).
+
  * [Alliander](http://www.alliander.nl), voor authenticatie en
    ondertekening in de context van `slimme' huizen. Daarnaast geeft
    Alliander de stichting structurele steun.
