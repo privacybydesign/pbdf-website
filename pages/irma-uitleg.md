@@ -17,13 +17,14 @@ aan bod.
  1. [Waar gaat IRMA eigenlijk over?](#onderwerp)
  2. [Waarom zou u attributen willen gebruiken in plaats van identiteiten?](#waarom)
  3. [Hoe kom ik aan attributen en hoe gebruik ik ze?](#hoe)
- 4. [Hoe verschilt IRMA van andere authenticatie systemen als iDIN en idensys?](#architectuur)
- 5. [Wat zit er bij IRMA onder de motorkap?](#motorkap)
- 6. [Welke privacy garanties geeft IRMA wel en niet?](#garanties)
- 7. [Welke waarden zitten in de IRMA technologie ingebakken?](#waarden)
- 8. [Wat zijn attribuut-gebaseerde handtekeningen?](#signature)
- 9. [Wat zijn de nadelen van IRMA?](#nadelen)
- 10. [Hoe kan ik meedoen of bijdragen?](#meedoen)
+ 4. [Wat als ik mijn telefoon vernieuw of verlies?](#kwijt)
+ 5. [Hoe verschilt IRMA van andere authenticatie systemen als iDIN en idensys?](#architectuur)
+ 6. [Wat zit er bij IRMA onder de motorkap?](#motorkap)
+ 7. [Welke privacy garanties geeft IRMA wel en niet?](#garanties)
+ 8. [Welke waarden zitten in de IRMA technologie ingebakken?](#waarden)
+ 9. [Wat zijn attribuut-gebaseerde handtekeningen?](#signature)
+ 10. [Wat zijn de nadelen van IRMA?](#nadelen)
+ 11. [Hoe kan ik meedoen of bijdragen?](#meedoen)
 
 Deze vragen zullen hieronder een voor een beantwoord worden. Elders
 staat kortere uitleg voor [IRMA app gebruikers](/irma-begin) en
@@ -201,12 +202,11 @@ verschillende attribuut uitgevers kunnen zijn, zoals:
   identificerende gegevens typisch niet onthuld worden
 * etc.
 
-Op dit moment wordt IRMA helaas nog niet zo breed geaccepteerd en
-ondersteund dat al deze partijen zulke attributen ook daadwerkelijk
-uitgeven. Maar sommigen van hen kijken wel serieus naar de
-mogelijkheden. De stichting onderhoudt een [publiek
-register](https://privacybydesign.foundation/attribute-index/en) van alle
-beschikbare IRMA credentials (verzameling van attributen).
+IRMA attributen zijn [beschikbaar](../uitgifte/) uit veel bronnen --
+maar nog niet uit alle hierboven genoemde. De stichting Privacy by
+Design onderhoudt een [publiek
+register](https://privacybydesign.foundation/attribute-index/en) van
+alle beschikbare IRMA credentials (verzameling van attributen).
 
 Als u als IRMA gebruiker een attribuut wilt ontvangen van zo'n
 uitgever moet u zich eerst op een of andere wijze authenticeren
@@ -276,7 +276,31 @@ telefoon of tablet.
 [Naar boven](#top)
 
 
-### <a name="architectuur"></a>4. Hoe verschilt IRMA van andere authenticatie systemen als iDIN en idensys?
+### <a name="kwijt"></a>4. Wat als ik mijn telefoon vernieuw of verlies?
+
+Uw IRMA attributen staan alleen op uw eigen telefoon en nergens
+anders.  Dit is een bewuste keuze bij het ontwerp van het IRMA
+platform, als onderdeel van *privacy by design*. Het nadeel daarvan is
+dat u bij verandering (of verlies) van telefoon u in principe al uw
+attributen opnieuw moet laden in uw nieuwe telefoon. Dit is
+vergelijkbaar met een gewoon paspoort: bij verlies daarvan is ook een
+nieuw exemplaar nodig.
+
+Bij verlies of diefstal van uw telefoon is het verstandig om via de
+[MijnIRMA](../mijnirma/) portal uw IRMA app direct te blokkeren, om
+misbruik van uw IRMA attributen onmogelijk te maken.
+
+De stichting Privacy by Design werkt er aan om een *back-up* van uw
+attributen mogelijk te maken. U kunt deze attributen dan vanuit de
+back-up in een nieuwe telefoon laden. Daarbij worden de attributen op
+de oorspronkelijke telefoon onbruikbaar. Deze back-up mogelijkheid zal
+te zijner tijd aan de IRMA app toegevoegd worden, via het reguliere
+update proces.
+
+[Naar boven](#top)
+
+
+### <a name="architectuur"></a>5. Hoe verschilt IRMA van andere authenticatie systemen als iDIN en idensys?
 
 IRMA is wezenlijk verschillend van andere identity management systemen
 zoals [Facebook
@@ -395,7 +419,7 @@ ook een single-point-of-failure.
 
 
 
-### <a name="motorkap"></a>5. Wat zit er bij IRMA onder de motorkap?
+### <a name="motorkap"></a>6. Wat zit er bij IRMA onder de motorkap?
 
 De komende paragrafen overlappen enigszins met de [uitleg](/irma-begin)
 om van start te gaan met IRMA, in het bijzonder met het
@@ -502,7 +526,7 @@ mijn geheime sleutel ook afgeef.
 [Naar boven](#top)
 
 
-### <a name="garanties"></a>6. Welke privacy garanties geeft IRMA wel en niet?
+### <a name="garanties"></a>7. Welke privacy garanties geeft IRMA wel en niet?
 
 De privacy garanties die IRMA geeft worden met de volgende engelse
 termen aangeduid.
@@ -537,7 +561,7 @@ bescherming is echter niet in IRMA ingebouwd.
 
 [Naar boven](#top)
 
-### <a name="waarden"></a>7. Welke waarden zitten in de IRMA technologie ingebakken?
+### <a name="waarden"></a>8. Welke waarden zitten in de IRMA technologie ingebakken?
 
 Authenticatie-eisen en informatiestromen weerspiegelen de
 machtsverhoudingen in de samenleving. In het algemeen kunnen machtige
@@ -588,7 +612,7 @@ internet infrastructuur.
 [Naar boven](#top)
 
 
-### <a name="signature"></a>8. Wat zijn attribuut-gebaseerde handtekeningen?
+### <a name="signature"></a>9. Wat zijn attribuut-gebaseerde handtekeningen?
 
 IRMA is primair een systeem voor attribuut-gebaseerde authenticatie: u
 kunt met IRMA selectief attributen van uzelf laten zien. Maar IRMA
@@ -635,7 +659,7 @@ concept met ongekende toepassingsmogelijkheden.
 [Naar boven](#top)
 
 
-### <a name="nadelen"></a>9. Wat zijn de nadelen van IRMA?
+### <a name="nadelen"></a>10. Wat zijn de nadelen van IRMA?
 
 Het belangrijkste voordeel van IRMA is: de gebruiker beheert en
 controleert zelf zijn/haar eigen attributen. Maar dat is
@@ -676,7 +700,7 @@ basis set attributen.
 
 [Naar boven](#top)
 
-### <a name="meedoen"></a>10. Hoe kan ik meedoen of bijdragen?
+### <a name="meedoen"></a>11. Hoe kan ik meedoen of bijdragen?
 
 IRMA is een identity platform dat van onderaf opgebouwd wordt en niet
 van bovenaf opgelegd. IRMA zal zich moeten bewijzen via overtuigende

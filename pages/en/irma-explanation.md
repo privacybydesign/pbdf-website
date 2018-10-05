@@ -16,13 +16,14 @@ designed. The following topics will be discussed.
  1. [What is IRMA all about?](#topic)
  2. [Why would you wish to use attributes instead of identities?](#why)
  3. [How do I obtain and use attributes?](#how)
- 4. [How does IRMA differ from other authentication systems?](#architecture)
- 5. [How does IRMA work under the hood?](#hood)
- 6. [Which privacy guarantees does IRMA provide, and which not?](#guarantees)
- 7. [Which values does the IRMA technology embody?](#values)
- 8. [What are attribute-based signatures?](#signature)
- 9. [What are IRMA's disadvantages?](#disadvantages)
- 10. [How can I participate or contribute?](#contribute)
+ 4. [What if I renew or loose my phone?](#lost)
+ 5. [How does IRMA differ from other authentication systems?](#architecture)
+ 6. [How does IRMA work under the hood?](#hood)
+ 7. [Which privacy guarantees does IRMA provide, and which not?](#guarantees)
+ 8. [Which values does the IRMA technology embody?](#values)
+ 9. [What are attribute-based signatures?](#signature)
+ 10. [What are IRMA's disadvantages?](#disadvantages)
+ 11. [How can I participate or contribute?](#contribute)
 
 These questions will be addressed one by one below. Elsewhere there
 are shorter explanations, for [IRMA app users](/irma-start) and for
@@ -209,9 +210,8 @@ as:
   forces whose identifying data are typically not revealed
 * etc.
 
-Unfortunately, at this stage, IRMA is not so widely accepted and
-supported yet that all these organisations actually issue IRMA
-attributes. But some of them seriously look at the possibilities.  The
+IRMA attributes are [available](../issuance/) from many sources -- but
+not from all of the ones listed above. The Privacy by Design
 foundation keeps a [public
 register](https://privacybydesign.foundation/attribute-index/en) of
 all available IRMA credentials (sets of attributes).
@@ -282,7 +282,29 @@ bit like installing and removing apps on your phone or tablet.
 [To the top](#top)
 
 
-### <a name="architecture"></a>4. How does IRMA differ from other authentication systems?
+### <a name="lost"></a>4. What if I renew or loose my phone?
+
+Your IRMA attributes are stored only on your own phone and nowhere
+else. This is a deliberate design choice of the IRMA platform, as part
+of *privacy by design*. The disadvantage is that with a renewal (or
+loss) of your phone, in principle, you have to reload all attributes
+into your new phone. This is comparable to an ordinary passport: when
+you lose it, a new one is needed.
+
+Upon loss or theft of your phone it is wise to immediately block your
+IRMA app via the [MyIRMA](../myirma) portal, against abuse of your
+IRMA attributes.
+
+The Privacy by Design foundation is working on *back-up* functionality
+for attributes.  It allows you to restore these attributes from this
+back-up into your new phone. The attributes in the old phone are then
+disabled. This back-up functionality will be added to the IRMA app in
+due course, via the regular update mechanism.
+
+[To the top](#top)
+
+
+### <a name="architecture"></a>5. How does IRMA differ from other authentication systems?
 
 IRMA differs in essential ways from other identity management systems,
 such as [Facebook
@@ -391,7 +413,7 @@ single-point-of-failure too.
 [To the top](#top)
 
 
-### <a name="hood"></a>5. How does IRMA work under the hood?
+### <a name="hood"></a>6. How does IRMA work under the hood?
 
 This section overlaps to some extent with the
 [explanations](/irma-start) for getting started with IRMA, especially
@@ -496,7 +518,7 @@ users --- unless I somehow also transfer my secret key.
 
 [To the top](#top)
 
-### <a name="guarantees"></a>6. Which privacy guarantees does IRMA provide, and which not?
+### <a name="guarantees"></a>7. Which privacy guarantees does IRMA provide, and which not?
 
 The following terminology is used for IRMA's privacy guarantees.
 
@@ -527,7 +549,7 @@ protection is not built into IRMA.
 
 
 
-### <a name="values"></a>7. Which values does the IRMA technology embody?
+### <a name="values"></a>8. Which values does the IRMA technology embody?
 
 Authentication requirements, and information flows, reflect the power
 relations in society.  In general, the more powerful parties impose
@@ -575,7 +597,7 @@ on top of TCP/IP.
 [To the top](#top)
 
 
-### <a name="signature"></a>8. What are attribute-based signatures?
+### <a name="signature"></a>9. What are attribute-based signatures?
 
 IRMA is primarily a system for attribute-based authentication: with
 IRMA you can selectively disclose attributes about yourself. But IRMA
@@ -619,7 +641,7 @@ unprecented application possiblities.
 [To the top](#top)
 
 
-### <a name="disadvantages"></a>9. What are IRMA's disadvantages?
+### <a name="disadvantages"></a>10. What are IRMA's disadvantages?
 
 The most important advantage of IRMA is: the user maintains and fully
 controls his/her own attributes. But this is at the same time a
@@ -657,7 +679,7 @@ couple of Euros per year, for a basic set of attributes.
 
 [To the top](#top)
 
-### <a name="contribute"></a>10. How can I participate or contribute?
+### <a name="contribute"></a>11. How can I participate or contribute?
 
 IRMA is an identity platform that is being built up from below, and is
 not imposed from above. IRMA will have to prove itself, via convincing
