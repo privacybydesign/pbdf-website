@@ -10,11 +10,24 @@ translations:
   en: /opinies
 ---
 
-Deze pagina bevat (links naar) opinies, meningen, blogs, etc. over
-IRMA, in omgekeerde chronologische volgorde. Voor actuele informatie
-volg IRMA op [Twitter](https://twitter.com/IRMA_privacy).
+Deze pagina bevat (links naar) persartikelen, opinies, blogs,
+etc. over IRMA, in omgekeerde chronologische volgorde. Voor actuele
+informatie volg IRMA op [Twitter](https://twitter.com/IRMA_privacy).
 
-  * IRMA staat in de lijst met de [leukste nieuwe Nederlandse apps van september 2018](https://www.iculture.nl/apps/nederlandse-apps-september-2018/) van [iCulture](https://www.iculture.nl).
+  * Bespreking van IRMA in artikel <em>Iedereen een
+    identiteits-app. Of twee</em> in [NRC-next en
+    NRC](https://www.nrc.nl/nieuws/2018/10/04/iedereen-een-identiteits-app-of-twee-a2150911),
+    op 5 okt. 2018. [[locale copie](../images/nrc-next-4-10-2018.png)].
+
+  * Uitleg door de Nijmeegse burgermeester Bruls van de IRMA-BRP
+    koppeling in lokaal weekblad [De
+    Brug](https://www.brugnijmegen.nl/nieuws/algemeen/534966/burgemeester-bruls-blijvende-aandacht-voor-privacy-),
+    op 4 okt. 2018.
+
+  * IRMA staat in de lijst met de [leukste nieuwe Nederlandse apps van
+    september
+    2018](https://www.iculture.nl/apps/nederlandse-apps-september-2018/)
+    van [iCulture](https://www.iculture.nl).
 
   * Een
     [Tweakers](https://tweakers.net/nieuws/143823/nijmegen-test-identificatieapp-irma-die-privacy-waarborgt.html)

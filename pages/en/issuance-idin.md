@@ -48,9 +48,8 @@ same way as the first initial loading of the iDIN credential, with
 a new login to one's bank.
 
 The connection of the Privacy by Design foundation to iDIN is an
-experimental phase, until december 31, 2017, in which the foundation
-can use iDIN free of charges. This will probably change after december
-31.
+experimental phase in which the foundation can use iDIN free of
+charges. This will change at some stage.
 
 [Back](/issuance) to attribute issuance.
 

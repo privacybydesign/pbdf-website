@@ -28,7 +28,7 @@ nl:
         url: /mijnirma/
       - title: IRMA Dashboard
         url: https://metrics.privacybydesign.foundation/grafana/dashboard/db/irma-dashboard?orgId=1
-      - title: Publicaties
+      - title: Wetenschappelijke publicaties
         url: /publicaties/
       - title: Pers en opinies
         url: /opinies/
@@ -88,7 +88,7 @@ en:
         url: /myirma/
       - title: IRMA Dashboard
         url: https://metrics.privacybydesign.foundation/grafana/dashboard/db/irma-dashboard?orgId=1
-      - title: Publications
+      - title: Scientific publications
         url: /publications/
       - title: Meetings
         url: /meetings/
