@@ -93,7 +93,7 @@ Attributes: given name, family name, email address, institution, staff/student, 
 
 **Attributes via the [diploma register of DUO](https://duo.nl/particulier/diplomas/mijn-diplomas.jsp)**  
 Attributes: school and/or study diploma   
-<a class="button" href="/issuance/diploma">
+<a class="button" href="/uitgifte/diploma">
 <img src="/images/diploma-logo.png">Load attributes via DUO</a>  
 [More information](/issuance-diploma). This service is still experimental; we are happy to receive feedback via irma 'at' privacybydesign.foundation.
 
