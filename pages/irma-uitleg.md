@@ -286,11 +286,14 @@ attributen opnieuw moet laden in uw nieuwe telefoon. Dit is
 vergelijkbaar met een gewoon paspoort: bij verlies daarvan is ook een
 nieuw exemplaar nodig.
 
-Bij verlies of diefstal van uw telefoon is het verstandig om via de
-[MijnIRMA](../mijnirma/) portal uw IRMA app direct te blokkeren, om
-misbruik van uw IRMA attributen onmogelijk te maken.
+Bij verlies of diefstal van uw telefoon zijn uw attributen beveiligd
+tegen misbruik van de vinder van uw telefoon door uw IRMA PIN. Omdat
+deze PIN altijd ingevoerd moet worden wanneer u attributen vrijgeeft
+of ontvangt, kan de vinder van uw telefoon niets doen met uw attributen.
+Wel is het verstandig om via de [MijnIRMA](../mijnirma/) portal uw
+IRMA app direct te blokkeren.
 
-De stichting Privacy by Design werkt er aan om een *back-up* van uw
+De stichting Privacy by Design werkt er aan om een *backup* van uw
 attributen mogelijk te maken. U kunt deze attributen dan vanuit de
 back-up in een nieuwe telefoon laden. Daarbij worden de attributen op
 de oorspronkelijke telefoon onbruikbaar. Deze back-up mogelijkheid zal

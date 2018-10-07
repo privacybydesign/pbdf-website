@@ -291,11 +291,14 @@ loss) of your phone, in principle, you have to reload all attributes
 into your new phone. This is comparable to an ordinary passport: when
 you lose it, a new one is needed.
 
-Upon loss or theft of your phone it is wise to immediately block your
-IRMA app via the [MyIRMA](../myirma) portal, against abuse of your
-IRMA attributes.
+In case of theft or loss of your phone your attributes are protected
+against misuse by the thief or finder by your IRMA PIN. Since this PIN
+has to be entered each time when you disclose or receive attributes, the
+thief or finder of your phone will be unable to do anything with your
+attributes. However, it is still wise to immediately block your
+IRMA app via the [MyIRMA](../myirma) portal.
 
-The Privacy by Design foundation is working on *back-up* functionality
+The Privacy by Design foundation is working on *backup* functionality
 for attributes.  It allows you to restore these attributes from this
 back-up into your new phone. The attributes in the old phone are then
 disabled. This back-up functionality will be added to the IRMA app in
