@@ -62,6 +62,11 @@ juni 2018.
   eID](https://www.internetconsultatie.nl/controleprotocoleid2018/)
   van het Ministerie van Binnenlandse Zaken (gesloten op 31 mei 2018).
 
+  * Uitgebreid
+  [interview](https://www.bnr.nl/podcast/de-technoloog/10344323/technologie-open-u)
+  met [Marleen Stikker](https://waag.org/en/users/marleen-stikker)
+  waarin IRMA ongeveer halverwege besproken wordt, 16 mei 2018.
+
 
 
 

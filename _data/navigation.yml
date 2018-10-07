@@ -90,6 +90,8 @@ en:
         url: https://metrics.privacybydesign.foundation/grafana/dashboard/db/irma-dashboard?orgId=1
       - title: Scientific publications
         url: /publications/
+      - title: Press (in Dutch)
+        url: /opinies/
       - title: Meetings
         url: /meetings/
       - title: Technical documentation

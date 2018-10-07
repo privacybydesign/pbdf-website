@@ -91,6 +91,12 @@ Attributes: given name, family name, email address, institution, staff/student, 
 <img src="/images/surfnet.png">Load attributes via SURFconext</a>  
 [More information](/issuance-surfconext)
 
+**Attributes via the [diploma register of DUO](https://duo.nl/particulier/diplomas/mijn-diplomas.jsp)**  
+Attributes: school and/or study diploma   
+<a class="button" href="/issuance/diploma">
+<img src="/images/diploma-logo.png">Load attributes via DUO</a>  
+[More information](/issuance-diploma). This service is still experimental; we are happy to receive feedback via irma 'at' privacybydesign.foundation.
+
 **Attributes via the BIG-register --- based on iDIN data**  
 Attributes: BIG-number, date of BIG-registration, medical profession, medical specialisms  
 <a class="button" href="/issuance/big">

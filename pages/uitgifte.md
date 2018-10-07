@@ -76,14 +76,19 @@ Verkrijg: voornaam, achternaam, emailadres, instelling, medewerker/student, loka
 Verkrijg: voornaam, achternaam, emailadres, instelling, medewerker/student, lokaal registratienummer  
 <a class="button" href="/uitgifte/surfnet/edugain">
 <img src="/images/edugain.png">Laad attributen via eduGAIN</a>  
-Opmerking: dit is een experimentele aansluiting. We ontvangen graag feedback op irma 'at' privacybydesign.foundation!
+Opmerking: dit is een experimentele aansluiting. We ontvangen graag feedback op irma 'at' privacybydesign.foundation.
 <!-- [Meer informatie](/uitgifte-surfconext) -->
+
+**Attributen via het [diploma register van DUO](https://duo.nl/particulier/diplomas/mijn-diplomas.jsp)**  
+Verkrijg: aard en tijdstip van diploma's van school en/of studie
+<a class="button" href="/uitgifte/diploma">
+<img src="/images/diploma-logo.png">Laad attributen via DUO uittreksel</a>  
+[Meer informatie](/uitgifte-diploma). Deze dienst is nog experimenteel; we ontvangen graag feedback op irma 'at' privacybydesign.foundation.
 
 **Attributen via het BIG-register --- op basis van iDIN gegevens**  
 Verkrijg: BIG-nummer, startdatum BIG-registratie, medisch beroep, medisch specialisme  
 <a class="button" href="/uitgifte/big">
 <img src="/images/big.png">Laad attributen vanuit BIG</a>  
-**(Tijdelijk beperkt bruikbaar door aanpassingen bij BIG)**
 
 [Meer informatie](/uitgifte-big)
 
