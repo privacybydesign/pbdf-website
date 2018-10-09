@@ -34,11 +34,11 @@ De geldigheid van deze sociale media attributen in uw IRMA app is
 
 Om deze attributen te ontvangen logt u eerst in via de aangegeven knop
 voor
-[Facebook](https://privacybydesign.foundation/uitgifte/social/facebook)
+[Facebook](/uitgifte/social/facebook)
 /
-[Twitter](https://privacybydesign.foundation/uitgifte/social/twitter)
+[Twitter](/uitgifte/social/twitter)
 /
-[LinkedIn](https://privacybydesign.foundation/uitgifte/social/linkedin). Vervolgens
+[LinkedIn](/uitgifte/social/linkedin). Vervolgens
 worden u de relevante attributen getoond, samen met een knop waarmee u
 deze attributen in uw IRMA app kunt laden.
 

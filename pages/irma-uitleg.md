@@ -205,7 +205,7 @@ verschillende attribuut uitgevers kunnen zijn, zoals:
 IRMA attributen zijn [beschikbaar](../uitgifte/) uit veel bronnen --
 maar nog niet uit alle hierboven genoemde. De stichting Privacy by
 Design onderhoudt een [publiek
-register](https://privacybydesign.foundation/attribute-index/en) van
+register](/attribute-index/en) van
 alle beschikbare IRMA credentials (verzameling van attributen).
 
 Als u als IRMA gebruiker een attribuut wilt ontvangen van zo'n

@@ -213,7 +213,7 @@ as:
 IRMA attributes are [available](../issuance/) from many sources -- but
 not from all of the ones listed above. The Privacy by Design
 foundation keeps a [public
-register](https://privacybydesign.foundation/attribute-index/en) of
+register](/attribute-index/en) of
 all available IRMA credentials (sets of attributes).
 
 If you wish to obtain certain attributes from such an issuer you first

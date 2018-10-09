@@ -45,7 +45,7 @@ At this stage this attribute issuance is available only for students
 and staff members of a limited number of institutions in higher
 eduction in the Netherlands. Are you studying or working at such an
 institution but does your institution not occur in the list at the <a
-href="https://privacybydesign.foundation/uitgifte/surfnet?action=login">SURFconext
+href="/uitgifte/surfnet?action=login">SURFconext
 issuance page</a>? This means that your institution has not "switched
 on" the connection to the foundation <a
 href="https://privacybydesign.foundation/en">Privacy by Design</a>.

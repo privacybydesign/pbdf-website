@@ -31,11 +31,11 @@ The validity period of these social media attributes is *one year*.
 
 In order to receive these attributes you first log in, via the special
 buttons for
-[Facebook](https://privacybydesign.foundation/issuance/social/facebook)
+[Facebook](/issuance/social/facebook)
 /
-[Twitter](https://privacybydesign.foundation/issuance/social/twitter)
+[Twitter](/issuance/social/twitter)
 /
-[LinkedIn](https://privacybydesign.foundation/issuance/social/linkedin).
+[LinkedIn](/issuance/social/linkedin).
 Subsequently, the relevant attributes will be displayed on the screen,
 together with another button that allows you to load these attributes
 into your IRMA app.
