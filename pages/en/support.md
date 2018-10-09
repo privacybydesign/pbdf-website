@@ -38,7 +38,7 @@ services as possible for free. However, the activities of the
 foundation do cost money, for instance, in order to keep the IRMA
 infrastructure up and running and to develop and maintain new services
 and software (among which, in particular, the [IRMA
-app](https://privacybydesign.foundation/download/)).
+app](/download/)).
 
 The Privacy by Design foundation is a non-for-profit organisation.
 But it does need funding for its activities. This is where you can
@@ -64,7 +64,7 @@ Friend/hero-ship of the foundation does not give any policy influence:
 the foundation is and remains independent. The foundation wil, if
 needed, support its friends and heros first when operational problems
 arise. Financial contributions will be spent only in line with the
-[goals](https://privacybydesign.foundation/about/) of the foundation.
+[goals](/about/) of the foundation.
 The foundation publishes a year report containing a financial
 statement.
 

@@ -10,7 +10,7 @@ language: en
 
 All IRMA software is open source and can be found at <https://github.com/privacybydesign>. (Almost) all projects have README's that explain their use. Other technical documentation can be found here:
 
-* <https://privacybydesign.foundation/attribute-index/en/>  
+* <{{ site.url }}/attribute-index/en/>  
   A searchable list of all issuers, credentials and attributes that are currently in the IRMA domain, as known to the Privacy by Design Foundation.
 * <https://credentials.github.io/>  
   Short general introduction to the core software projects and protocol.

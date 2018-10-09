@@ -40,7 +40,7 @@ gratis aanbieden. De activiteiten van de stichting kosten echter wel
 geld, zoals bijvoorbeeld het in de lucht houden van de IRMA
 infrastructuur en het ontwikkelen en onderhouden van nieuwe diensten
 en software (waaronder in het bijzonder de [IRMA
-app](https://privacybydesign.foundation/download/)).
+app](/download/)).
 
 De stichting Privacy by Design heeft geen winstoogmerk, maar heeft
 toch geld nodig. U kunt daarbij helpen, zeker als u de stichting een
@@ -68,7 +68,7 @@ Vriendschap/heldendom van de stichting levert geen invloed op het
 beleid: de stichting is en blijft onafhankelijk. De stichting zal wel,
 zonodig, haar vrienden en helden bij operationele problemen als eerste
 bijstaan.  Financiële bijdragen zullen enkel in lijn met de
-[doelstellingen](https://privacybydesign.foundation/over/) van
+[doelstellingen](/over/) van
 de stichting besteed worden. De stichting publiceert een jaarverslag
 met daarin een financiële verantwoording.
 
