@@ -32,6 +32,8 @@ nl:
         url: /publicaties/
       - title: Pers en opinies
         url: /opinies/
+      - title: Prijzen en awards
+        url: /prijzen/
       - title: Meetings
         url: /meetings/
       - title: Technische documentatie
@@ -92,6 +94,8 @@ en:
         url: /publications/
       - title: Press (in Dutch)
         url: /opinies/
+      - title: Prizes and awards
+        url: /prizes/
       - title: Meetings
         url: /meetings/
       - title: Technical documentation

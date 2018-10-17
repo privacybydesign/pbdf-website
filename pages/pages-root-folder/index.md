@@ -10,7 +10,7 @@ homepage: true
 image:
   title: pbd.png
 widget1:
-  title: BRP attributen
+  title: BRP attributen in IRMA
   url: /uitgifte-brp/
   image: nijmegen_logo_inverted.png
   text: De gemeente Nijmegen geeft als koploper IRMA attributen uit vanuit de basisregistratie personen. Elke burger in Nederland die kan inloggen met een DigiD kan deze attributen verkrijgen. Hierdoor komen veel nieuwe toepassingen binnen handbereik. 
@@ -21,10 +21,10 @@ widget2:
   image: fieldlab-badge.png
 #851 × 479 
 widget3:
-  title: IRMA wint Privacy Award
-  url: https://privacyfirst.nl/solutions/evenementen/item/1104-winnaars-nederlandse-privacy-awards-2018.html
-  image: privacyaward.jpg
-  text: IRMA heeft de Nederlandse Privacy Award 2018 gewonnen. De jury prijst de privacy by design-opzet, het grote innovatieve vermogen, en de potentiële maatschappelijke impact van IRMA.
+  title: Brouwer prijs voor IRMA
+  url: https://www.khmw.nl/brouwer-prijs-naar-privacy-by-design/
+  image: KHMW-logo.jpg
+  text: De stichting Privacy by Design heeft de prestigieuze Brouwer prijs 2018 van de KHMW gewonnen voor wetenschap en samenleving. De jury prijst de positieve bijdrage aan maatschappelijk vertrouwen en de gedegen wetenschappelijke basis van IRMA.
 ---
 
 ### Stichting Privacy by Design

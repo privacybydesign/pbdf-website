@@ -11,21 +11,21 @@ homepage: true
 image:
   title: pbd.png
 widget1:
-  title: BRP attributes
+  title: BRP attributes in IRMA
   url: /issuance-brp/
   image: nijmegen_logo_inverted.png
   text: The city of Nijmegen is the first to issue IRMA attributes from the Dutch Civil Registry. Everyone in the Netherlands that can login with DigiD can obtain these attributes. This opens a wide array of new applications.
 widget2:
-  title: IRMA
+  title: IRMA itself
   url: /irma-en/
   text: IRMA is the unique platform that makes you digitally <em>self-sovereign</em> and gives you full control over your personal data&#58; with IRMA on your phone you are empowered not only to prove who you are, but also to digitally sign statements.
   # image: irma-video-youtube.png
   video: <a href="#" data-reveal-id="videoModal"><img src="/images/irma-video-youtube.png" width="302" height="182" alt=""/></a>
 widget3:
-  title: IRMA wins Privacy Award
-  url: https://privacyfirst.nl/solutions/evenementen/item/1104-winnaars-nederlandse-privacy-awards-2018.html
-  image: privacyaward.jpg
-  text: IRMA has won the Dutch Privacy Award 2018. The jury commends the privacy by design, the large innovative potential, and the potential social impact of IRMA.
+  title: Brouwer prize for IRMA
+  url: https://www.khmw.nl/brouwer-prijs-naar-privacy-by-design/
+  image: KHMW-logo.jpg
+  text: The Privacy by Design Foundation won the 2018 Brouwer prize for science and society, from the Royal Holland Society of Sciences and Humanities (KHMW). The jury commends IRMA's positive contribution to trust in society and its solid scientific basis.
 ---
 
 ### Privacy by Design Foundation
