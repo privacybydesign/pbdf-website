@@ -14,6 +14,9 @@ Deze pagina bevat (links naar) persartikelen, opinies, blogs,
 etc. over IRMA, in omgekeerde chronologische volgorde. Voor actuele
 informatie volg IRMA op [Twitter](https://twitter.com/IRMA_privacy).
 
+  * Vermelding van toekenning van de Brouwer prijs van de 
+    [KHMW](https://www.khmw.nl) aan IRMA in de [Computable](https://www.computable.nl/artikel/nieuws/security/6497476/250449/privacy-by-design-wint-met-irma-app-brouwer-prijs.html), op 22 okt. 2018. Zie ook het [persbericht](https://www.khmw.nl/brouwer-prijs-naar-privacy-by-design/) van de KHMW.
+
   * Bespreking van IRMA in artikel <em>Iedereen een
     identiteits-app. Of twee</em> in [NRC-next en
     NRC](https://www.nrc.nl/nieuws/2018/10/04/iedereen-een-identiteits-app-of-twee-a2150911),
