@@ -1,10 +1,10 @@
 ---
 layout: page
+title: Contact
 meta_title: Contact us
 header:
-  image_fullwidth: header_poly2.png
-  title: Contact  
-meta_title: Contact us
+  image_fullwidth: header_unsplash_1.jpg
+  title: Privacy by Design Foundation
 permalink: /contact/
 language: nl
 translations:
@@ -18,4 +18,5 @@ translations:
  * Postadres: Toernooiveld 212, 6525 EC Nijmegen
  * Kamer van Koophandel registratie: 67144128; ; fiscaal (RSIN) number: 856848359
  * Bank rekening: NL54 INGB 0007522950
+ * BTW nr: NL856848359B01
  * Oprichtingsdatum: 25 okt. 2016
