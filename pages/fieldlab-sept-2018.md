@@ -178,7 +178,7 @@ genoemde projecten verder vorm te geven en in de praktijk te
 brengen. Al deze projecten hebben op hun eigen manier de potentie om
 grote groepen mensen te helpen om veiliger en makkelijker de regie
 terug te krijgen op hun eigen gegevens. Dat houdt ook in dat we de
-nieuwe IMRA-functionaliteiten die we deze week erin hebben gehackt om
+nieuwe IRMA-functionaliteiten die we deze week erin hebben gehackt om
 de teams te faciliteren verder moeten uitwerken en
 stabiliseren. Verwacht dus veel handige nieuwe IRMA-features in de
 komende tijd!
