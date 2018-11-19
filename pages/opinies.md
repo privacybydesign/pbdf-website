@@ -14,6 +14,10 @@ Deze pagina bevat (links naar) persartikelen, opinies, blogs,
 etc. over IRMA, in omgekeerde chronologische volgorde. Voor actuele
 informatie volg IRMA op [Twitter](https://twitter.com/IRMA_privacy).
 
+  * Artikel <em>Baas over je data</em> in [Weekblad
+    Elsevier](https://www.elsevierweekblad.nl), 17 nov. 2018. [[locale
+    copie](../images/Elsevier-weekblad-17-nov-2018.jpg)].
+
   * Vermelding van toekenning van de Brouwer prijs van de 
     [KHMW](https://www.khmw.nl) aan IRMA in de [Computable](https://www.computable.nl/artikel/nieuws/security/6497476/250449/privacy-by-design-wint-met-irma-app-brouwer-prijs.html), op 22 okt. 2018. Zie ook het [persbericht](https://www.khmw.nl/brouwer-prijs-naar-privacy-by-design/) van de KHMW.
 
