@@ -21,10 +21,13 @@ widget2:
   image: fieldlab-badge.png
 #851 × 479 
 widget3:
-  title: Brouwer prijs voor IRMA
-  url: https://www.khmw.nl/brouwer-prijs-naar-privacy-by-design/
-  image: KHMW-logo.jpg
-  text: De stichting Privacy by Design heeft de prestigieuze Brouwer prijs 2018 van de KHMW gewonnen voor wetenschap en samenleving. De jury prijst de positieve bijdrage aan maatschappelijk vertrouwen en de gedegen wetenschappelijke basis van IRMA.
+  title: Samenwerking met SIDN
+  url: https://www.sidn.nl/a/veilig-internet/waarom-zou-je-meer-data-delen-dan-noodzakelijk-is
+  image: SIDN-IRMA-signing-3-12-2018.jpg
+  text: De Stichting Privacy by Design en de Stichting Internet Domein Registratie Nederland (SIDN) zijn een samenwerking aangegaan om het gebruik en de beschikbaarheid van IRMA te bevorderen.
+  # url: https://www.khmw.nl/brouwer-prijs-naar-privacy-by-design/
+  # image: KHMW-logo.jpg
+  # text: De stichting Privacy by Design heeft de prestigieuze Brouwer prijs 2018 van de KHMW gewonnen voor wetenschap en samenleving. De jury prijst de positieve bijdrage aan maatschappelijk vertrouwen en de gedegen wetenschappelijke basis van IRMA.
 ---
 
 ### Stichting Privacy by Design

@@ -22,10 +22,14 @@ widget2:
   # image: irma-video-youtube.png
   video: <a href="#" data-reveal-id="videoModal"><img src="/images/irma-video-youtube.png" width="302" height="182" alt=""/></a>
 widget3:
-  title: Brouwer prize for IRMA
-  url: https://www.khmw.nl/brouwer-prijs-naar-privacy-by-design/
-  image: KHMW-logo.jpg
-  text: The Privacy by Design Foundation won the 2018 Brouwer prize for science and society, from the Royal Holland Society of Sciences and Humanities (KHMW). The jury commends IRMA's positive contribution to trust in society and its solid scientific basis.
+  title: Cooperation with SIDN
+  url: https://www.sidn.nl/a/internet-security/why-would-you-share-more-data-than-you-need-to?language_id=2
+  image: SIDN-IRMA-signing-3-12-2018.jpg
+  text: The Privacy by Design foundation and the foundation SIDN that manages registration for the .nl domain have entered into an agreement to improve the usage and availability of IRMA.
+  # title: Brouwer prize for IRMA
+  # url: https://www.khmw.nl/brouwer-prijs-naar-privacy-by-design/
+  # image: KHMW-logo.jpg
+  # text: The Privacy by Design Foundation won the 2018 Brouwer prize for science and society, from the Royal Holland Society of Sciences and Humanities (KHMW). The jury commends IRMA's positive contribution to trust in society and its solid scientific basis.
 ---
 
 ### Privacy by Design Foundation
