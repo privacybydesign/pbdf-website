@@ -14,6 +14,10 @@ Deze pagina bevat (links naar) persartikelen, opinies, blogs,
 etc. over IRMA, in omgekeerde chronologische volgorde. Voor actuele
 informatie volg IRMA op [Twitter](https://twitter.com/IRMA_privacy).
 
+  * Artikel <em>IRMA is echt anders. Privacy-vriendelijk alternatief
+    voor DigiD</em> in magazine [Binnenlands Bestuur](https://www.binnenlandsbestuur.nl/), 7 dec. 2018. [[locale
+    copie](../pdf/binnenlands-bestuur-7-12-2018.pdf)].
+
   * Artikel <em>Baas over je data</em> in [Weekblad
     Elsevier](https://www.elsevierweekblad.nl), 17 nov. 2018. [[locale
     copie](../images/Elsevier-weekblad-17-nov-2018.jpg)].
