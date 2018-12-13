@@ -56,6 +56,9 @@ The foundation welcomes collaboration with others to get IRMA up and
 running.  Pilots are now being prepared with the help of a number of
 other parties, among which:
 
+ * [SIDN](https://www.sidn.nl/?language_id=2) for extending usage and
+   improving availability of IRMA, also in the long run.
+
  * The [Radboud University](https://www.ru.nl/english/), for (strong)
    authentication of student and employees and for digital signing of,
    e.g., examination grades.

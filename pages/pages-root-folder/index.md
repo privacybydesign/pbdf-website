@@ -53,6 +53,9 @@ De stichting werkt graag samen met anderen om IRMA van de grond te
 krijgen. Pilots zijn in voorbereiding, in samenwerking met
 verschillende andere partijen, waaronder in het bijzonder:
 
+ * [SIDN](https://sidn.nl) voor verbetering van het gebruik en
+   de beschikbaarheid van IRMA, ook voor de lange termijn.
+
  * de [Radboud Universiteit](https://www.ru.nl), voor (sterke)
    authenticatie van studenten en medewerkers en digitale
    ondertekening van bijv. tentamenuitslagen;
