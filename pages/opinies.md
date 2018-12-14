@@ -14,6 +14,11 @@ Deze pagina bevat (links naar) persartikelen, opinies, blogs,
 etc. over IRMA, in omgekeerde chronologische volgorde. Voor actuele
 informatie volg IRMA op [Twitter](https://twitter.com/IRMA_privacy).
 
+  * Uurlang interview <a
+    href="https://www.bnr.nl/podcast/de-technoloog/10363535/inloggen-met-behoud-van-privacy-there-s-an-app-for-that">Inloggen
+    met behoud van privacy?  There is an app for that</a>, in de serie
+    <em>De Technoloog</em>, BNR Radio, 13/12/2018.
+
   * Artikel <em>IRMA: de nieuwe wereldwijde internetstandaard voor
     authenticatie?</em>, in [Burgerzaken en
     Recht](https://nvvb.nl/nl/communicatie/burgerzaken-recht/), 13
