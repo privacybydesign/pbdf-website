@@ -22,11 +22,14 @@ informatie volg IRMA op [Twitter](https://twitter.com/IRMA_privacy).
   * Artikel <em>IRMA: de nieuwe wereldwijde internetstandaard voor
     authenticatie?</em>, in [Burgerzaken en
     Recht](https://nvvb.nl/nl/communicatie/burgerzaken-recht/), 13
-    dec. 2018.  [[online copie](https://www.binnenlandsbestuur.nl/digitaal/nieuws/irma-is-echt-anders.9602636.lynkx), [locale copie](../pdf/B-en-R-13-12-18.pdf)].
+    dec. 2018.  [[locale copie](../pdf/B-en-R-13-12-18.pdf)].
 
   * Artikel <em>IRMA is echt anders. Privacy-vriendelijk alternatief
-    voor DigiD</em> in magazine [Binnenlands Bestuur](https://www.binnenlandsbestuur.nl/), 7 dec. 2018. [[locale
-    copie](../pdf/binnenlands-bestuur-7-12-2018.pdf)].
+    voor DigiD</em> in magazine [Binnenlands
+    Bestuur](https://www.binnenlandsbestuur.nl/), 7
+    dec. 2018. [[online
+    copie](https://www.binnenlandsbestuur.nl/digitaal/nieuws/irma-is-echt-anders.9602636.lynkx),
+    [locale copie](../pdf/binnenlands-bestuur-7-12-2018.pdf)].
 
   * Artikel <em>Baas over je data</em> in [Weekblad
     Elsevier](https://www.elsevierweekblad.nl), 17 nov. 2018. [[locale
