@@ -83,7 +83,7 @@ Opmerking: dit is een experimentele aansluiting. We ontvangen graag feedback op 
 Verkrijg: aard en tijdstip van diploma's van school en/of studie
 <a class="button" href="/uitgifte/diploma">
 <img src="/images/diploma-logo.png">Laad attributen via DUO uittreksel</a>  
-[Meer informatie](/uitgifte-diploma). Deze dienst is nog experimenteel; we ontvangen graag feedback op irma 'at' privacybydesign.foundation.
+[Meer informatie](/uitgifte-diploma). Deze dienst is nog experimenteel en is tijdelijk niet beschikbaar; we ontvangen graag feedback op irma 'at' privacybydesign.foundation.
 
 **Attributen via het BIG-register --- op basis van iDIN gegevens**  
 Verkrijg: BIG-nummer, startdatum BIG-registratie, medisch beroep, medisch specialisme  

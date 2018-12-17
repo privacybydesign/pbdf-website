@@ -95,7 +95,7 @@ Attributes: given name, family name, email address, institution, staff/student, 
 Attributes: school and/or study diploma   
 <a class="button" href="/uitgifte/diploma">
 <img src="/images/diploma-logo.png">Load attributes via DUO</a>  
-[More information](/issuance-diploma). This service is still experimental; we are happy to receive feedback via irma 'at' privacybydesign.foundation.
+[More information](/issuance-diploma). This service is still experimental and is temporarily not functioning; we are happy to receive feedback via irma 'at' privacybydesign.foundation.
 
 **Attributes via the BIG-register --- based on iDIN data**  
 Attributes: BIG-number, date of BIG-registration, medical profession, medical specialisms  
