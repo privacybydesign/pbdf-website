@@ -91,8 +91,8 @@ Verkrijg: [AGB-code](https://www.agbcode.nl/) van een medische zorgverlener, voo
 <a class="button" href="https://irma-agb.nuts.nl/">
 <img src="/images/agb-code.gif">Laad attributen vanuit AGB</a>  
 
-**Attributen via iDeal en iDIN**
-Verkrijg: IBAN, BIC, initialen, achternaam, geboortedatum, geslacht, adres, postcode, plaats
+**Attributen via iDeal en iDIN**  
+Verkrijg: IBAN, BIC, initialen, achternaam, geboortedatum, geslacht, adres, postcode, plaats  
 <a class="button" href="/uitgifte/idin">
-<img src="/images/ideal.png"><img src="/images/idin.png">Laad attributen via iDeal en iDIN</a>
+<img src="/images/ideal.png"><img src="/images/idin.png">Laad attributen via iDeal en iDIN</a>  
 [Meer informatie](/uitgifte-idin)
