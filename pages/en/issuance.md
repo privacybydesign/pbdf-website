@@ -79,10 +79,10 @@ Attributes: name, birth date, sex, address, zip code, city, BSN
 <img src="/images/nijmegen.png">Load attributes from Dutch Civil Registry</a>  
 [More information](/issuance-brp)
 
-**Attributes via iDIN**  
-Attributes: initials, family name, date of birth, gender, address, postal code, city  
+**Attributes via iDeal and iDIN**  
+Attributes: IBAN, BIC, initials, family name, date of birth, gender, address, postal code, city  
 <a class="button" href="/uitgifte/idin">
-<img src="/images/idin.png">Load attributes via iDIN</a>  
+<img src="/images/ideal.png"><img src="/images/idin.png">Load attributes via iDeal and iDIN</a>  
 [More information](/issuance-idin)
 
 **Attributes via your dutch educational institute**  

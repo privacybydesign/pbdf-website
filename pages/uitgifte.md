@@ -38,10 +38,10 @@ Verkrijg: naam, geboortedatum, geslacht, adres, postcode, plaats, BSN
 <img src="/images/nijmegen.png">Laad attributen uit de BRP</a>  
 [Meer informatie](/uitgifte-brp)
 
-**Attributen via iDIN**  
-Verkrijg: initialen, achternaam, geboortedatum, geslacht, adres, postcode, plaats  
+**Attributen via iDeal en iDIN**  
+Verkrijg: IBAN, BIC, initialen, achternaam, geboortedatum, geslacht, adres, postcode, plaats  
 <a class="button" href="/uitgifte/idin">
-<img src="/images/idin.png">Laad attributen via iDIN</a>  
+<img src="/images/ideal.png"><img src="/images/idin.png">Laad attributen via iDeal en iDIN</a>  
 [Meer informatie](/uitgifte-idin)
 
 **E-mailadres attribuut**  
