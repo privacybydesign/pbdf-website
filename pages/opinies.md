@@ -14,6 +14,8 @@ Deze pagina bevat (links naar) persartikelen, opinies, blogs,
 etc. over IRMA, in omgekeerde chronologische volgorde. Voor actuele
 informatie volg IRMA op [Twitter](https://twitter.com/IRMA_privacy).
 
+## 2018 
+
   * Uurlang interview <a
     href="https://www.bnr.nl/podcast/de-technoloog/10363535/inloggen-met-behoud-van-privacy-there-s-an-app-for-that">Inloggen
     met behoud van privacy?  There is an app for that</a>, in de serie
@@ -30,6 +32,10 @@ informatie volg IRMA op [Twitter](https://twitter.com/IRMA_privacy).
     dec. 2018. [[online
     copie](https://www.binnenlandsbestuur.nl/digitaal/nieuws/irma-is-echt-anders.9602636.lynkx),
     [locale copie](../pdf/binnenlands-bestuur-7-12-2018.pdf)].
+
+  * Blog [Wet DO: achterhaald en nodeloos
+    duur](https://ibestuur.nl/weblog/wet-do-achterhaald-en-nodeloos-duur)
+    op [iBestuur.nl](https://ibestuur.nl/), 21 nov. 2018.
 
   * Artikel <em>Baas over je data</em> in [Weekblad
     Elsevier](https://www.elsevierweekblad.nl), 17 nov. 2018. [[locale
@@ -76,9 +82,8 @@ niet](https://www.linkedin.com/pulse/de-digitale-identiteit-bestaat-niet-martijn
 Martijn van der Linden, Businessadviseur I&A bij Gemeente Nijmegen, 27
 juni 2018.
 
-  * Blog [AVG & eID](https://ibestuur.nl/weblog/avg-eid) door de
-  voorzitter van de stichting Privacy by Design, Bart Jacobs, op
-  [iBestuur.nl](https://ibestuur.nl/), 6 juni 2018.
+  * Blog [AVG & eID](https://ibestuur.nl/weblog/avg-eid) op
+    [iBestuur.nl](https://ibestuur.nl/), 6 juni 2018.
 
   * [Reactie](/pdf/reactie-controleprotocol-eID-privacybydesign-def.pdf)
   van de stichting Privacy by Design op de internet consultatie
