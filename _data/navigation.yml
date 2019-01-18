@@ -28,8 +28,8 @@ nl:
         url: /mijnirma/
       - title: IRMA Dashboard
         url: https://metrics.privacybydesign.foundation/grafana/dashboard/db/irma-dashboard?orgId=1
-      - title: Wetenschappelijke publicaties
-        url: /publicaties/
+      - title: Videos en tekeningen
+        url: /videos/
       - title: Pers en opinies
         url: /opinies/
       - title: Reviews
@@ -38,6 +38,8 @@ nl:
         url: /prijzen/
       - title: Meetings
         url: /meetings/
+      - title: Wetenschappelijke publicaties
+        url: /publicaties/
       - title: Technische documentatie
         url: /documentation/
 
@@ -92,8 +94,8 @@ en:
         url: /myirma/
       - title: IRMA Dashboard
         url: https://metrics.privacybydesign.foundation/grafana/dashboard/db/irma-dashboard?orgId=1
-      - title: Scientific publications
-        url: /publications/
+      - title: Videos and cartoons
+        url: /videos/
       - title: Press (in Dutch)
         url: /opinies/
       - title: Reviews
@@ -102,6 +104,8 @@ en:
         url: /prizes/
       - title: Meetings
         url: /meetings/
+      - title: Scientific publications
+        url: /publications/
       - title: Technical documentation
         url: /documentation/
 
