@@ -23,10 +23,7 @@ widget3:
   title: IRMA wint Internet Innovatie Award 2019
   url: https://awards.isoc.nl/innovatie/2019/
   image: isoc-prijs.jpg
-  text: De stichting Privacy by Design heeft de Internet Innovatie Award 2019 van de Internet Society gewonnen.
-  # url: https://www.khmw.nl/brouwer-prijs-naar-privacy-by-design/
-  # image: KHMW-logo.jpg
-  # text: De stichting Privacy by Design heeft de prestigieuze Brouwer prijs 2018 van de KHMW gewonnen voor wetenschap en samenleving. De jury prijst de positieve bijdrage aan maatschappelijk vertrouwen en de gedegen wetenschappelijke basis van IRMA.
+  text: "De stichting Privacy by Design heeft de Internet Innovatie Award 2019 van de Internet Society gewonnen voor het identiteitsplatform IRMA."
 ---
 
 ### Stichting Privacy by Design
