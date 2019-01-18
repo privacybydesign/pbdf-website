@@ -13,6 +13,19 @@ translations:
 Op deze pagina staan de prijzen die de stichting Privacy by Design
 ontvangen heeft voor het identiteitsplatform IRMA. 
 
+### ISOC.nl Internet Innovatie Award 2019
+
+<img align="left" src="../images/isoc-award-2019.jpg" alt="ISOC prijs"
+ style="border:10px solid white; width: 35%; height: 35%"/> De
+ [Internet Society](https://isoc.nl/) heeft de jaarlijkse Internet
+ Innovatie Award in 2019
+ [toegekend](https://awards.isoc.nl/innovatie/2019/) aan het
+ identiteitsplatform IRMA. De prijs is op 17 jan. 2019 in Amsterdam
+ door de voorzitter van de jury, Eppo van Nispen tot Sevenaer,
+ uitgereikt aan de voorzitter van de stichting Privacy by Design.
+
+<br>
+
 ### Brouwer prijs 2018 
 
 <img align="left" src="../images/KHMW-logo.jpg" alt="Brouwer prijs"
