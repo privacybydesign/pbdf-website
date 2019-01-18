@@ -15,7 +15,7 @@ widget1:
   image: nijmegen_logo_inverted.png
   text: De gemeente Nijmegen geeft als koploper IRMA attributen uit vanuit de basisregistratie personen. Elke burger in Nederland die kan inloggen met een DigiD kan deze attributen verkrijgen. Hierdoor komen veel nieuwe toepassingen binnen handbereik. 
 widget2:
-  title: OMOOC onderzoekt digitale identiteit
+  title: Onderzoek naar digitale identiteit met IRMA
   url: https://omooc.nl/inzicht/digitale-identiteit/
   text: "Wouter Welling van het ministerie van Binnenlandse Zaken onderzoekt voor OMOOC digitale identiteit en IRMA, en interviewt Bart Jacobs, Marleen Stikker en Martijn van der Linden."
   video: <a href="#" data-reveal-id="videoModal"><img src="/images/omooc-digitale-identiteit-youtube.png" width="302" height="182" alt=""/></a>
