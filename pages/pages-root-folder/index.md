@@ -15,16 +15,15 @@ widget1:
   image: nijmegen_logo_inverted.png
   text: De gemeente Nijmegen geeft als koploper IRMA attributen uit vanuit de basisregistratie personen. Elke burger in Nederland die kan inloggen met een DigiD kan deze attributen verkrijgen. Hierdoor komen veel nieuwe toepassingen binnen handbereik. 
 widget2:
-  title: IRMA op het fieldlab
-  url: /irma-fieldlab-sept-2018/
-  text: "Op het fieldlab van VNG realisatie van 24 tot 28 september heeft IRMA groot meegedaan: we hebben nieuwe pilots en applicaties gemaakt, nieuwe contacten en ideeën opgedaan, en IRMA zelf uitgebreid. Lees hier meer."
-  image: fieldlab-badge.png
-#851 × 479 
+  title: OMOOC onderzoekt digitale identiteit
+  url: https://omooc.nl/inzicht/digitale-identiteit/
+  text: "Wouter Welling van het ministerie van Binnenlandse Zaken onderzoekt voor OMOOC digitale identiteit en IRMA, en interviewt Bart Jacobs, Marleen Stikker en Martijn van der Linden."
+  video: <a href="#" data-reveal-id="videoModal"><img src="/images/omooc-digitale-identiteit-youtube.png" width="302" height="182" alt=""/></a>
 widget3:
-  title: Samenwerking met SIDN
-  url: https://www.sidn.nl/a/veilig-internet/waarom-zou-je-meer-data-delen-dan-noodzakelijk-is
-  image: SIDN-IRMA-signing-3-12-2018.jpg
-  text: De Stichting Privacy by Design en de Stichting Internet Domein Registratie Nederland (SIDN) zijn een samenwerking aangegaan om het gebruik en de beschikbaarheid van IRMA te bevorderen.
+  title: IRMA wint Internet Innovatie Award 2019
+  url: https://awards.isoc.nl/innovatie/2019/
+  image: isoc-prijs.jpg
+  text: De stichting Privacy by Design heeft de Internet Innovatie Award 2019 van de Internet Society gewonnen.
   # url: https://www.khmw.nl/brouwer-prijs-naar-privacy-by-design/
   # image: KHMW-logo.jpg
   # text: De stichting Privacy by Design heeft de prestigieuze Brouwer prijs 2018 van de KHMW gewonnen voor wetenschap en samenleving. De jury prijst de positieve bijdrage aan maatschappelijk vertrouwen en de gedegen wetenschappelijke basis van IRMA.
@@ -87,7 +86,7 @@ De stichting ontvangt externe financiering uit de volgende projecten.
 
 <div id="videoModal" class="reveal-modal large" data-reveal="">
   <div class="flex-video widescreen vimeo" style="display: block;">
-    <iframe width="1280" height="720" src="https://www.youtube-nocookie.com/embed/q6IihEQFPys" frameborder="0" allowfullscreen></iframe>
+    <iframe width="1280" height="720" src="https://www.youtube-nocookie.com/embed/ctz-GoIL6W0" frameborder="0" allowfullscreen></iframe>
   </div>
   <a class="close-reveal-modal">&#215;</a>
 </div>
