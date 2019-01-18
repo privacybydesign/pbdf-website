@@ -34,7 +34,7 @@ and academia. The atmosphere is open and very much content-oriented.
    cs.ru.nl
 
 
-### Next IRMA meeting: Friday, March 8, 2018.
+### Next IRMA meeting: Friday, March 8, 2019.
 
 **Programme:**
 
@@ -44,7 +44,7 @@ and academia. The atmosphere is open and very much content-oriented.
 
    3. 13:30 - 16:30 Several general presentations about IRMA and its
    applications, esp. in local government and health care. Details
-   will be filled in later.
+   will be provided (here) later.
 
    4. 16:30 - 17:30 Drinks
 
