@@ -30,7 +30,8 @@ volgorde.
  * Op de VNG Fieldlab week (24-28 sept. 2018) in Zwolle had de
    gemeente Haarlem een ijskast gevuld met
    [Club-Mate](https://motherboard.vice.com/en_us/article/xywxm7/how-a-german-soda-became-hackers-fuel-of-choice)
-   die alleen met het juiste IRMA attribuut.
+   die alleen met het juiste IRMA attribuut geopend kon worden. De
+   IRMA verificatie code draait hierbij op een Raspberry Pi.
 
    <div style="text-align:center;margin:1.5em"> <iframe width="560"
    height="315"
