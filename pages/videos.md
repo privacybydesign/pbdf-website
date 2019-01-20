@@ -27,8 +27,8 @@ volgorde.
    frameborder="0" allow="autoplay; encrypted-media"
    allowfullscreen></iframe> </div>
 
- * Op de VNG Fieldlab week (24-28 sept. 2018) in Zwolle had de
-   gemeente Haarlem een ijskast gevuld met
+ * Op de VNG Fieldlab week (24-28 sept. 2018) in Zwolle had
+   [team NLX](https://nlx.io/) een ijskast gevuld met
    [Club-Mate](https://motherboard.vice.com/en_us/article/xywxm7/how-a-german-soda-became-hackers-fuel-of-choice)
    die alleen met het juiste IRMA attribuut geopend kon worden. De
    IRMA verificatie code draait hierbij op een Raspberry Pi.
@@ -78,6 +78,8 @@ volgorde.
  * Van de VNG Fieldlab bijeenkomst in Zwolle, 24-28 sept. 2018:
 
    <img align="middle" src="/images/irma-drawing.jpg" alt="fieldlab" style="border:10px solid white" >
+   <br/>
+   <img align="middle" src="/images/fieldlab-irma-postcode.jpg" alt="fieldlab" style="border:10px solid white" >
 
 
 
