@@ -94,8 +94,8 @@ en:
         url: /myirma/
       - title: IRMA Dashboard
         url: https://metrics.privacybydesign.foundation/grafana/dashboard/db/irma-dashboard?orgId=1
-      - title: Videos and cartoons
-        url: /videos/
+      - title: Videos and drawings
+        url: /videos-en/
       - title: Press (in Dutch)
         url: /opinies/
       - title: Reviews
