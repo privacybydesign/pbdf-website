@@ -13,15 +13,15 @@ De stichting Privacy by Design verwerkt persoonsgegevens voor het
 realiseren van attribuut-gebaseerde authenticatie en ondertekening via
 het systeem [IRMA](/irma), een afkorting voor *I Reveal My Attributes*.
 De stichting is daarbij verantwoordelijk voor de verwerking en houdt
-zich daarin aan de Wet Bescherming Persoonsgegevens.
+zich daarin aan de Algemene Verordening Gegevensbescherming (AVG).
 
 De opzet van IRMA is zodanig dat persoonsgegevens, in het bijzonder
 attributen, bij de gebruiker zelf, en niet bij de stichting,
 opgeslagen worden, in de IRMA app op de eigen telefoon of tablet.  De
 stichting bewaart per gebruiker enkel een willekeurig gebruikersnaam
-(een pseudoniem), en, alleen als de gebruiker dat wil, een email
-adres, en daarnaast een zeer beperkte verzameling historische
-gebruiksgegevens, zoals hieronder nader verklaard wordt.
+(een pseudoniem), en, alleen als de gebruiker dat zelf expliciet wil,
+een email adres, en daarnaast een zeer beperkte verzameling
+historische gebruiksgegevens, zoals hieronder nader verklaard wordt.
 
 Een IRMA gebruiker wordt bij iedere verwerking door de stichting
 expliciet om toestemming gevraagd. Die toestemming vormt de wettelijke
@@ -30,8 +30,8 @@ verwerking door de stichting beëindigen door het eigen IRMA account op
 te heffen, via de [mijnIRMA](/mijnirma) pagina. De IRMA app vraagt de
 gebruiker bij iedere ontvangst en bij iedere onthulling van
 attributen, typisch tegenover derde partijen, ook expliciet om
-toestemming voor deze actie, niet alleen via een **OK** knop maar ook
-via een bevestiging met een persoonlijke PIN code. Dit vormt de
+toestemming voor deze actie, niet alleen via een **OK** knop.  De IRMA
+app zelf wordt beschermd met een persoonlijke PIN code. Dit vormt de
 grondslag voor de verwerking van de betreffende attributen door deze
 (derde) partijen.
 
@@ -39,13 +39,13 @@ Door de stichting worden op drie manieren persoonsgegevens verwerkt.
 
 1. **Continu.** Bij registratie wordt voor een nieuwe gebruiker van
    IRMA een willekeurige gebruikersnaam automatisch gecreëerd. Als de
-   gebruiker daarvoor kiest wordt een zelfgekozen email adres aan dit
-   account gekoppeld. Dit is echter niet noodzakelijk. Het email adres
-   wordt door de stichting bewaard en beschermd, totdat de gebruiker
-   de gegevens wijzigt of verwijdert of het account opheft, in de
-   [mijnIRMA](/mijnirma) omgeving.
+   gebruiker daar zelf voor kiest wordt een zelfgekozen email adres
+   aan dit account gekoppeld. Dit is echter niet noodzakelijk. Het
+   email adres wordt door de stichting bewaard en beschermd, totdat de
+   gebruiker de gegevens wijzigt of verwijdert of het account opheft,
+   in de [mijnIRMA](/mijnirma) omgeving.
 
-   De willekeurig gekozen gebruikers naam is een pseudoniem waarmee de
+   De willekeurig gekozen gebruikersnaam is een pseudoniem waarmee de
    stichting accounts onderscheidt. Het (eventueel toegevoegde) email
    adres wordt gebruikt voor communicatie met de gebruiker,
    bijvoorbeeld bij login op [mijnIRMA](/mijnirma). De stichting houdt
@@ -105,11 +105,11 @@ De stichting maakt via een eigen
 [dashbord](https://metrics.privacybydesign.foundation/grafana/dashboard/db/irma-dashboard?orgId=1)
 bekend hoeveel IRMA gebruikers in welk land op enig moment
 geregistreerd staan. Daarbij wordt enkel het *aantal* geregistreerde
-gebruikersnamen (pseudoniemen) en het *aantal* uitgegeven credentials
-(verzamelingen attributen) per land bekend gemaakt. De stichting
-behoudt zich ook het recht voor om statistische gegevens over de
-geregistreerde logs bekend maken, zoals bijvoorbeeld het totaal aantal
-transacties per tijdseenheid (dag, maand of jaar).
+gebruikersnamen (pseudoniemen) en het *aantal* door de stichting
+uitgegeven credentials (verzamelingen attributen) per land bekend
+gemaakt. De stichting behoudt zich ook het recht voor om statistische
+gegevens over de geregistreerde logs bekend maken, zoals bijvoorbeeld
+het totaal aantal transacties per tijdseenheid (dag, maand of jaar).
 
 De [privacybydesign.foundation](https://privacybydesign.foundation)
 website staat onder beheer van de stichting Privacy by Design. De
@@ -130,4 +130,4 @@ over de verwerking van gegevens door de stichting kan ook contact
 opgenomen worden met de [Autoriteit
 Persoonsgegevens](https://autoriteitpersoonsgegevens.nl).
 
-Datum: 22 april 2018.
+Datum: 24 januari 2019.

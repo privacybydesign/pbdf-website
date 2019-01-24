@@ -13,13 +13,14 @@ The Privacy by Design foundation processes personal data with the aim
 of realising attribute-based authentication and signatures via the
 system [IRMA](/irma-en), an abbreviation for *I Reveal My Attributes*.
 The foundation is responsible for this data processing and in doing so
-abides by Dutch (and European) data protection regulations.
+abides by the General Data Protection Regulation (GDPR).
 
 The design of IRMA is such that personal data, attributes in
 particular, are stored locally at the user's side on his/her own phone
 or tablet, and not at the foundation's side on its computers. The
-foundation only stores a user's email address together with a very
-limited set of historical usage data, as will be explained below.
+foundation only stores a user's email address, if the user explicitly
+so chooses, together with a very limited set of historical usage data,
+as will be explained below.
 
 A user of IRMA is asked to consent (agree) at every data processing
 step by the foundation. This consent forms the legal basis for the
@@ -27,10 +28,10 @@ data processing. A user can at any stage terminate the foundation's
 processing of his/her personal data by terminating (blocking) his/her
 personal IRMA account, via the [MyIRMA](/myirma) webpage. The IRMA app
 asks the user to consent whenever attributes are received or revealed,
-not only via an **OK** button but also via confirmation with a
-personal PIN code. This forms the legal basis for the processing or
-the relevant attributes by these (third) parties, providing or
-receiving attributes.
+via an **OK** button. The IRMA app itself is protected via a personal
+PIN code. This consent forms the legal basis for the processing or the
+relevant attributes by these (third) parties, providing or receiving
+attributes.
 
 The foundation processes personal data in three different ways.
 
@@ -68,15 +69,15 @@ The foundation processes personal data in three different ways.
    removed by the foundation.
 
 2. **Incidentally.** When the [IRMA app](/download-en) crashes or
-   encounters a serious problem, an error report is made and sent
-   to the foundation. These error reports are a critical instrument
-   for the foundation in fixing problems and improving the IRMA app.
-   An error repport never contains your attributes, or data about
-   previous usage of the IRMA app and your attributes, but only
-   technical data about what went wrong and about your phone (for example,
-   IP address, the app version number, and the version number of
-   Android or iOS). The foundation removes these reports when they
-   are no longer neccesary, or at least within three months.
+   encounters a serious problem, an error report is made and sent to
+   the foundation. These error reports are a critical instrument for
+   the foundation in fixing problems and improving the IRMA app.  An
+   error repport never contains user attributes, or data about
+   previous usage of the IRMA app, but only technical data about what
+   went wrong and about your phone (for example, IP address, the app
+   version number, and the version number of Android or iOS). The
+   foundation removes these reports when they are no longer neccesary,
+   or at least within three months.
 
 3. **One time, only temporarily.** At issuance of attributes by the
    Privacy by Design foundation, the foundation attaches its own
@@ -98,11 +99,11 @@ The foundation publishes via its own
 [dashbord](https://metrics.privacybydesign.foundation/grafana/dashboard/db/irma-dashboard?orgId=1)
 how many IRMA users are registered in which country at any point in
 time. This only involves the *number* of registered usernames
-(pseudonyms) and the *number* of issued credentials (sets of
-attributes) per country. The foundation also reserves the right to
-publish statistical data about the registered logs, such as for
-instance the total number of transactions per unit of time (day, month
-or year).
+(pseudonyms) and the *number* of credentials (sets of attributes) per
+country, issued by the foundation. The foundation also reserves the
+right to publish statistical data about the registered logs, such as
+for instance the total number of transactions per unit of time (day,
+month or year).
 
 The [privacybydesign.foundation](https://privacybydesign.foundation)
 website is controlled and maintained by the Privacy by Design
@@ -119,8 +120,8 @@ the adapted privacy policy via this website as soon as possible.
 For questions, remarks, or complaints about this data processing by
 the Privacy by Design foundation for IRMA functionality, please
 [contact](/contact-en) the foundation. For complaints about the
-foundation's data processing you can also contact the [Data Protection
+foundation's data processing one can also contact the [Data Protection
 Authority](https://autoriteitpersoonsgegevens.nl/en) of the
 Netherlands.
 
-Date: April 22, 2018.
+Date: January 24, 2019.
