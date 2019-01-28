@@ -36,17 +36,52 @@ and academia. The atmosphere is open and very much content-oriented.
 
 ### Next IRMA meeting: Friday, March 8, 2019.
 
-**Programme:**
+**Morning programme:**
 
-   1. 10:00 - 12:30 Technical workshop for developers
+   10:00 - 12:30 Technical workshop for developers
 
-   2. 12:30 - 13:30 Lunch
+**Lunch:**
 
-   3. 13:30 - 16:30 Several general presentations about IRMA and its
-   applications, esp. in local government and health care. Details
-   will be provided (here) later.
+   12:30 - 13:30, offered by SURF; requires registration, see below
 
-   4. 16:30 - 17:30 Drinks
+**Afternoon programme:** 
+Several general presentations about IRMA and its applications
+
+   1. 13:30 - 14:00 "Quick introduction to IRMA and overview of new
+      developments", Sietse Ringers, [Privacy by Design
+      Foundation](https://privacybydesign.foundation) and Open
+      University
+
+   2. 14:00 - 14:30 "Machtiging via IRMA bij VGZ", Niels Schreurleen,
+	[VGZ](https://www.vgz.nl)
+
+   3. 14:30 - 15:00 "Authenticatie voor Persoonlijk
+	Gezondheidsomgevingen (PGOs)", Wout Slakhorst, 
+	[Nedap](https://nedap.com) / [Nuts](https://nuts.nl)
+
+   4. 15:00 - 15:30 Coffee / Tea
+
+   5. 15:30 - 16:00 "Back-up and recovery of IRMA attributes", Ivar
+        Derksen, master student, Radboud University
+
+   6. 16:00 - 16:30 "Attribuut-uitgifte door gemeenten: status en
+         plannen", Bram Withaar, Gemeente
+         [Nijmegen](https://nijmegen.nl)
+
+**Drinks:**
+
+   16:30 - 17:30, offered by SURF; requires registration, see below
+	
+**Registration:** Participation is free, but requires registration, by
+sending an email to: *i.haerkens [at] cs.ru.nl*, at the latest on
+**March 5**, indicating:
+
+I will participate in the:
+
+ * morning technical programme: Yes / No
+ * lunch: Yes / No
+ * afternoon talks programme: Yes / No
+ * drinks: Yes / No.
 
 
 ### Earlier IRMA meeting: Friday, June 1, 13:30 -- 17:30, 2018.
