@@ -91,7 +91,7 @@ The foundation receives external funding via the following projects.
 
 <div id="videoModal" class="reveal-modal large" data-reveal="">
   <div class="flex-video widescreen vimeo" style="display: block;">
-    <iframe width="1280" height="720" src="https://www.youtube-nocookie.com/embed/q6IihEQFPys" frameborder="0" allowfullscreen></iframe>
+    <iframe width="1280" height="720" src="https://www.youtube-nocookie.com/embed/q6IihEQFPys?autoplay=1&start=217" frameborder="0" allowfullscreen></iframe>
   </div>
   <a class="close-reveal-modal">&#215;</a>
 </div>
