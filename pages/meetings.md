@@ -52,7 +52,7 @@ Several general presentations about IRMA and its applications
       Foundation](https://privacybydesign.foundation) and Open
       University
 
-   2. 14:00 - 14:30 "Machtiging via IRMA bij VGZ", Niels Schreurleen,
+   2. 14:00 - 14:30 "Machtiging via IRMA bij VGZ", Niels Scheurleer,
 	[VGZ](https://www.vgz.nl)
 
    3. 14:30 - 15:00 "Authenticatie voor Persoonlijk
