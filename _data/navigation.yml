@@ -41,7 +41,7 @@ nl:
       - title: Wetenschappelijke publicaties
         url: /publicaties/
       - title: Technische documentatie
-        url: /documentation/
+        url: https://irma.app/docs
 
   - title: Over de stichting
     side: right
@@ -62,7 +62,7 @@ nl:
 
   - title: Documentatie
     side: bottom
-    url: /documentation
+    url: https://irma.app/docs
 
 en:
   - title: Home
@@ -107,7 +107,7 @@ en:
       - title: Scientific publications
         url: /publications/
       - title: Technical documentation
-        url: /documentation/
+        url: https://irma.app/docs
 
   - title: About the foundation
     side: right
@@ -128,4 +128,4 @@ en:
 
   - title: Documentation
     side: bottom
-    url: /documentation
+    url: https://irma.app/docs
