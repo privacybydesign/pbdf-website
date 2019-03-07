@@ -73,9 +73,9 @@ Several general presentations about IRMA and its applications
    16:30 - 17:30, offered by SURF; requires registration, see below
 	
 **Registration:** Participation is free, but requires registration, by
-sending an email to: *info [at] privacybydesign.foundation*. Lunch and
-drinks are only available if you register on or before **March 5**. 
-Please include in your email:
+sending an email to: I.Haerkens 'at' cs.ru.nl. Lunch and drinks are
+only available if you register on or before **March 5**.  Please
+include in your email:
 
 I will participate in the:
 

@@ -14,6 +14,12 @@ Deze pagina bevat (links naar) persartikelen, opinies, blogs,
 etc. over IRMA, in omgekeerde chronologische volgorde. Voor actuele
 informatie volg IRMA op [Twitter](https://twitter.com/IRMA_privacy).
 
+## 2019 
+
+  * Blog [Praktijklessen voor
+    datakluizen](https://ibestuur.nl/weblog/praktijklessen-voor-datakluizen)
+    op [iBestuur.nl](https://ibestuur.nl/), 22 feb. 2019.
+
 ## 2018 
 
   * Uurlang interview <a
