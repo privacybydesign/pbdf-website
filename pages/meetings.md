@@ -20,9 +20,8 @@ and academia. The atmosphere is open and very much content-oriented.
    [route](https://www.surf.nl/over-surf/contact/routebeschrijving-surf-surfmarket-en-surfnet/index.html),
    about 5 min. walking distance from Utrecht Central train station
 
-[//]: <> (* **Dates and times:** typically on a Friday morning, 10:00 - 13:00, followed by an informal (sandwich) lunch)
-
- * **Language:** usually English, occasinally Dutch
+ * **Language:** mix of English and Dutch, depending on speaker and
+     audience.
 
  * **Announcements:** via the IRMA mailing list and via
    [Twitter](https://twitter.com/IRMA_privacy/). If you like to be
