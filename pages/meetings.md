@@ -62,10 +62,12 @@ Several general presentations about IRMA and its applications
 
    5. 15:30 - 16:00 "Back-up and recovery of IRMA attributes", Ivar
         Derksen, master student, Radboud University
+	 [[slides](../meeting-slides/slides-8-3-19/derksen-8-maart-2019.pdf)]
 
    6. 16:00 - 16:30 "Attribuut-uitgifte door gemeenten: status en
          plannen", Bram Withaar, Gemeente
          [Nijmegen](https://nijmegen.nl)
+	 [[slides](../meeting-slides/slides-8-3-19/withaar-8-maart-2019.pdf)]
 
 **Drinks:**
 
