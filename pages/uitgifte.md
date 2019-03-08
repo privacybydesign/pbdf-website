@@ -86,7 +86,7 @@ Verkrijg: BIG-nummer, startdatum BIG-registratie, medisch beroep, medisch specia
 
 [Meer informatie](/uitgifte-big)
 
-**Attributen via het AGB-register --- uitgegeven door de stichting [nuts.nl](httpss://nuts.nl) vanuit Vektis**  
+**Attributen via het AGB-register --- uitgegeven door de stichting [nuts.nl](https://nuts.nl) vanuit Vektis**  
 Verkrijg: [AGB-code](https://www.agbcode.nl/) van een medische zorgverlener, voor declaraties, inkopen, etc.
 <a class="button" href="https://irma-agb.nuts.nl/">
 <img src="/images/agb-code.gif">Laad attributen vanuit AGB</a>  

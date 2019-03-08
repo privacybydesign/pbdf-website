@@ -103,7 +103,7 @@ Attributes: BIG-number, date of BIG-registration, medical profession, medical sp
 <img src="/images/big.png">Load attributes via BIG</a>  
 [More information](/issuance-big)
 
-**Attributen via the AGB-register --- issued by the foundation [nuts.nl](httpss://nuts.nl) from Vektis**  
+**Attributen via the AGB-register --- issued by the foundation [nuts.nl](https://nuts.nl) from Vektis**  
 Attributen: [AGB-code](https://www.agbcode.nl/) of a medical professional, for declarations etc.
 <a class="button" href="https://irma-agb.nuts.nl/">
 <img src="/images/agb-code.gif">Laad attributen vanuit AGB</a>  
