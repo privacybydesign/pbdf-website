@@ -16,6 +16,11 @@ informatie volg IRMA op [Twitter](https://twitter.com/IRMA_privacy).
 
 ## 2019 
 
+  * Link naar IRMA in het online artikel [Het www is kapot, hoe gaan
+    we het
+    repareren?](https://nos.nl/nieuwsuur/artikel/2275035-het-www-is-kapot-hoe-gaan-we-het-repareren.html)
+    van [Nieuwsuur](https://nos.nl/nieuwsuur), op 8 maart 2019.
+
   * Blog [Praktijklessen voor
     datakluizen](https://ibestuur.nl/weblog/praktijklessen-voor-datakluizen)
     op [iBestuur.nl](https://ibestuur.nl/), 22 feb. 2019.
