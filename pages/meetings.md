@@ -50,6 +50,7 @@ Several general presentations about IRMA and its applications
       developments", Sietse Ringers, [Privacy by Design
       Foundation](https://privacybydesign.foundation) and Open
       University
+	 [[slides](../meeting-slides/slides-8-3-19/ringers-8-maart-2019.pdf)]
 
    2. 14:00 - 14:30 "Machtiging via IRMA bij VGZ", Niels Scheurleer,
 	[VGZ](https://www.vgz.nl)
