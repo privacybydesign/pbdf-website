@@ -58,6 +58,7 @@ Several general presentations about IRMA and its applications
    3. 14:30 - 15:00 "Authenticatie voor Persoonlijk
 	Gezondheidsomgevingen (PGOs)", Wout Slakhorst, 
 	[Nedap](https://nedap.com) / [Nuts](https://nuts.nl)
+	 [[slides](../meeting-slides/slides-8-3-19/slakhorst-8-maart-2019.pdf)]
 
    4. 15:00 - 15:30 Coffee / Tea
 
