@@ -54,6 +54,7 @@ Several general presentations about IRMA and its applications
 
    2. 14:00 - 14:30 "Machtiging via IRMA bij VGZ", Niels Scheurleer,
 	[VGZ](https://www.vgz.nl)
+	 [[slides](../meeting-slides/slides-8-3-19/scheurleer-8-maart-2019.pdf)]
 
    3. 14:30 - 15:00 "Authenticatie voor Persoonlijk
 	Gezondheidsomgevingen (PGOs)", Wout Slakhorst, 
