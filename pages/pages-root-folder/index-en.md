@@ -11,21 +11,26 @@ homepage: true
 image:
   title: pbd.png
 widget1:
+  title: IRMA at Royal Institution
+  url: https://www.rigb.org/whats-on/events-2019/february/public-electronic-identities
+  text: Watch over an hour long presentation about digital identities, including IRMA, at London's Royal Institution, with much background information
+  # image: ri-video-youtube.png
+  video: <a href="#" data-reveal-id="videoRI"><img src="https://privacybydesign.foundation/images/ri-video-youtube.png" width="302" height="182" alt="/images/ri-video-youtube.png"/></a>
+widget2:
   title: BRP attributes in IRMA
   url: /issuance-brp/
   image: nijmegen_logo_inverted.png
   text: The city of Nijmegen is the first to issue IRMA attributes from the Dutch Civil Registry. Everyone in the Netherlands that can login with DigiD can obtain these attributes. This opens a wide array of new applications.
-widget2:
+widget3:
   title: IRMA itself
   url: /irma-en/
   text: IRMA is the unique platform that makes you digitally <em>self-sovereign</em> and gives you full control over your personal data&#58; with IRMA on your phone you are empowered not only to prove who you are, but also to digitally sign statements.
   # image: irma-video-youtube.png
   video: <a href="#" data-reveal-id="videoModal"><img src="/images/irma-video-youtube.png" width="302" height="182" alt=""/></a>
-widget3:
-  title: Cooperation with SIDN
-  url: https://www.sidn.nl/a/internet-security/why-would-you-share-more-data-than-you-need-to?language_id=2
-  image: SIDN-IRMA-signing-3-12-2018.jpg
-  text: The Privacy by Design foundation and the foundation SIDN that manages registration for the .nl domain have entered into an agreement to improve the usage and availability of IRMA.
+  # title: Cooperation with SIDN
+  # url: https://www.sidn.nl/a/internet-security/why-would-you-share-more-data-than-you-need-to?language_id=2
+  # image: SIDN-IRMA-signing-3-12-2018.jpg
+  # text: The Privacy by Design foundation and the foundation SIDN that manages registration for the .nl domain have entered into an agreement to improve the usage and availability of IRMA.
   # title: Brouwer prize for IRMA
   # url: https://www.khmw.nl/brouwer-prijs-naar-privacy-by-design/
   # image: KHMW-logo.jpg
@@ -92,6 +97,13 @@ The foundation receives external funding via the following projects.
 <div id="videoModal" class="reveal-modal large" data-reveal="">
   <div class="flex-video widescreen vimeo" style="display: block;">
     <iframe width="1280" height="720" src="https://www.youtube-nocookie.com/embed/q6IihEQFPys?start=217" frameborder="0" allowfullscreen></iframe>
+  </div>
+  <a class="close-reveal-modal">&#215;</a>
+</div>
+
+<div id="videoRI" class="reveal-modal large" data-reveal="">
+  <div class="flex-video widescreen vimeo" style="display: block;">
+    <iframe width="1280" height="720" src="https://www.youtube-nocookie.com/embed/vINtD58nLPQ" frameborder="0" allowfullscreen></iframe>
   </div>
   <a class="close-reveal-modal">&#215;</a>
 </div>

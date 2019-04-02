@@ -16,6 +16,16 @@ Some of them are in Dutch.
 
 ## Videos
 
+ * Presentation about Digital Identities at the [Royal
+   Institution](https://www.rigb.org) in London, on feb. 21, 2019, by
+   Bart Jacobs.
+
+   <div style="text-align:center;margin:1.5em"> <iframe width="560"
+   height="315"
+   src="https://www.youtube-nocookie.com/embed/vINtD58nLPQ"
+   frameborder="0" allow="autoplay; encrypted-media"
+   allowfullscreen></iframe> </div>
+
  * An [OMOOC](https://omooc.nl/) video in Dutch from jan. 2019, about
    online identities, developed by the ministry of Internal Affairs of
    The Netherlands, with Wouter Welling, Marleen Stikker, Bart Jacobs

@@ -16,6 +16,16 @@ volgorde.
 
 ## Videos
 
+ * Presentatie over Digitale Identiteiten op het [Royal
+   Institution](https://www.rigb.org) in Londen, op 21 feb. 2019, door
+   Bart Jacobs.
+
+   <div style="text-align:center;margin:1.5em"> <iframe width="560"
+   height="315"
+   src="https://www.youtube-nocookie.com/embed/vINtD58nLPQ"
+   frameborder="0" allow="autoplay; encrypted-media"
+   allowfullscreen></iframe> </div>
+
  * Een [OMOOC](https://omooc.nl/) video van jan. 2019, over online
    identiteiten, ontwikkeld door het ministerie van Binnenlandse
    Zaken, met Wouter Welling, Marleen Stikker, Bart Jacobs en Martijn
