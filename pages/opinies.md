@@ -16,6 +16,13 @@ informatie volg IRMA op [Twitter](https://twitter.com/IRMA_privacy).
 
 ## 2019 
 
+  * Interview met Geert-Jan Bogaerts van [Public
+    Spaces](https://publicspaces.net) en de VPRO, die IRMA (beiden) gaan
+    gebruiken <a
+    href="https://www.bnr.nl/podcast/de-technoloog/10373605/zagen-aan-de-stoelpoten-van-facebook-google-instagram">Zagen
+    aan de stoelpoten van Facebook, Google, Instagram</a>, in de serie
+    <em>De Technoloog</em>, BNR Radio, 28/3/2019.
+
   * Link naar IRMA in het online artikel [Het www is kapot, hoe gaan
     we het
     repareren?](https://nos.nl/nieuwsuur/artikel/2275035-het-www-is-kapot-hoe-gaan-we-het-repareren.html)
