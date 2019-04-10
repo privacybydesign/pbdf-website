@@ -16,6 +16,11 @@ informatie volg IRMA op [Twitter](https://twitter.com/IRMA_privacy).
 
 ## 2019 
 
+  * [IRMA Manifest](../pdf/IRMA-manifest-2019.pdf), waarin IRMA
+    beschreven wordt als een ``Zwitsers zakmes'' voor identiteiten dat
+    maatschappelijke zekerheden geeft via authenticatie, ondertekening
+    en versleuteling. Tevens nodigt die manifest uit tot deelname.
+
   * Interview met Geert-Jan Bogaerts van [Public
     Spaces](https://publicspaces.net) en de VPRO, die IRMA (beiden) gaan
     gebruiken <a
