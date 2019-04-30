@@ -73,12 +73,6 @@ Verkrijg: voornaam, achternaam, emailadres, instelling, medewerker/student, loka
 Opmerking: dit is een experimentele aansluiting. We ontvangen graag feedback op irma 'at' privacybydesign.foundation.
 <!-- [Meer informatie](/uitgifte-surfconext) -->
 
-**Attributen via het [diploma register van DUO](https://duo.nl/particulier/diplomas/mijn-diplomas.jsp)**  
-Verkrijg: aard en tijdstip van diploma's van school en/of studie
-<a class="button" href="/uitgifte/diploma">
-<img src="/images/diploma-logo.png">Laad attributen via DUO uittreksel</a>  
-[Meer informatie](/uitgifte-diploma). Deze dienst is nog experimenteel; we ontvangen graag feedback op irma 'at' privacybydesign.foundation.
-
 **Attributen via het BIG-register --- op basis van iDIN gegevens**  
 Verkrijg: BIG-nummer, startdatum BIG-registratie, medisch beroep, medisch specialisme  
 <a class="button" href="/uitgifte/big">
@@ -96,3 +90,9 @@ Verkrijg: IBAN, BIC, initialen, achternaam, geboortedatum, geslacht, adres, post
 <a class="button" href="/uitgifte/idin">
 <img src="/images/ideal.png"><img src="/images/idin.png">Laad attributen via iDeal en iDIN</a>  
 [Meer informatie](/uitgifte-idin)
+
+**Attributen via het [diploma register van DUO](https://duo.nl/particulier/diplomas/mijn-diplomas.jsp) (tijdelijk uitgeschakeld)**  
+Verkrijg: aard en tijdstip van diploma's van school en/of studie
+<a class="button" style="cursor: not-allowed;" disabled>
+<img src="/images/diploma-logo.png">Laad attributen via DUO uittreksel</a>  
+**Deze experimentele dienst is tijdelijk uitgezet vanwege een wijziging in het uittrekselformaat van DUO.** We ontvangen graag feedback over mogelijke usecases op irma 'at' privacybydesign.foundation. ([meer informatie](/uitgifte-diploma), [toch proberen](/uitgifte/diploma))

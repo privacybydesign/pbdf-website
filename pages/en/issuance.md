@@ -91,12 +91,6 @@ Attributes: given name, family name, email address, institution, staff/student, 
 <img src="/images/surfnet.png">Load attributes via SURFconext</a>  
 [More information](/issuance-surfconext)
 
-**Attributes via the [diploma register of DUO](https://duo.nl/particulier/diplomas/mijn-diplomas.jsp)**  
-Attributes: school and/or study diploma   
-<a class="button" href="/uitgifte/diploma">
-<img src="/images/diploma-logo.png">Load attributes via DUO</a>  
-[More information](/issuance-diploma). This service is still experimental; we are happy to receive feedback via irma 'at' privacybydesign.foundation.
-
 **Attributes via the BIG-register --- based on iDIN data**  
 Attributes: BIG-number, date of BIG-registration, medical profession, medical specialisms  
 <a class="button" href="/issuance/big">
@@ -107,3 +101,9 @@ Attributes: BIG-number, date of BIG-registration, medical profession, medical sp
 Attributen: [AGB-code](https://www.agbcode.nl/) of a medical professional, for declarations etc.
 <a class="button" href="https://irma-agb.nuts.nl/">
 <img src="/images/agb-code.gif">Laad attributen vanuit AGB</a>  
+
+**Attributes via the [diploma register of DUO](https://duo.nl/particulier/diplomas/mijn-diplomas.jsp) (disabled temporarily)**    
+Attributes: school and/or study diploma   
+<a class="button" style="cursor: not-allowed;" disabled>
+<img src="/images/diploma-logo.png">Load attributes via DUO</a>  
+**This experimental service has been temporarily disabled due to a change in the diploma documentent by DUO.** We are happy to receive feedback about possible use-cases via irma 'at' privacybydesign.foundation. ([more information](/issuance-diploma), [try anyway](/uitgifte/diploma))
