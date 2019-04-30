@@ -79,12 +79,6 @@ Attributes: name, birth date, sex, address, zip code, city, BSN
 <img src="/images/nijmegen.png">Load attributes from Dutch Civil Registry</a>  
 [More information](/issuance-brp)
 
-**Attributes via iDeal and iDIN**  
-Attributes: IBAN, BIC, initials, family name, date of birth, gender, address, postal code, city  
-<a class="button" href="/uitgifte/idin">
-<img src="/images/ideal.png"><img src="/images/idin.png">Load attributes via iDeal and iDIN</a>  
-[More information](/issuance-idin)
-
 **Attributes via your dutch educational institute**  
 Attributes: given name, family name, email address, institution, staff/student, local registration number  
 <a class="button" href="/issuance/surfnet?action=login">
@@ -101,6 +95,12 @@ Attributes: BIG-number, date of BIG-registration, medical profession, medical sp
 Attributen: [AGB-code](https://www.agbcode.nl/) of a medical professional, for declarations etc.
 <a class="button" href="https://irma-agb.nuts.nl/">
 <img src="/images/agb-code.gif">Laad attributen vanuit AGB</a>  
+
+**Attributes via iDIN**  
+Attributes: initials, family name, date of birth, gender, address, postal code, city  
+<a class="button" href="/uitgifte/idin">
+<img src="/images/idin.png">Load attributes via iDIN</a>  
+[More information](/issuance-idin)
 
 **Attributes via the [diploma register of DUO](https://duo.nl/particulier/diplomas/mijn-diplomas.jsp) (disabled temporarily)**    
 Attributes: school and/or study diploma   
