@@ -26,7 +26,7 @@ Contributions are welcome, for instance, for integration of IRMA
 authentication and signing in existing software packages, such as for
 communication and text processing. For instance, it would be very nice
 to have plugins for checking IRMA signatures in various mail clients
-or office environments. De foundation hopes that such software will
+or office environments. The foundation hopes that such software will
 become freely available, as open source. However, it is also possible
 to build commmercial and/or closed source software on top of the
 (free) IRMA infrastructure.
