@@ -26,7 +26,7 @@ issue to you the following attributes:
  * medical specialism
 
 These personal attributes are obtained from the BIG-register.  The
-correctness of the attributes is the register's responsability. The
+correctness of the attributes is the register's responsibility. The
 foundation does not check them.
 
 As first step of this issuance process you disclose your name, date of
@@ -53,7 +53,7 @@ In the current set-up the following rules are used.
 
 * If a BIG registration has expired, no attributes are issued.
 * If multiple people, with both the same name and the same date of
-  birth, occur in the BIG register, no attributes are issed: after
+  birth, occur in the BIG register, no attributes are issued: after
   all, the foundation cannot distinguish these individuals.
 * If someone occurs with multiple medical professions in the BIG
   register, a separate credential is created for each of these

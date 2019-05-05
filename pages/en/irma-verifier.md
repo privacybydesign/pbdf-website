@@ -30,7 +30,7 @@ attributes. General explanations about how IRMA works can be found
 [elsewhere](/irma-explanation).
 
  1. [Which attributes of my users can I verify?](#whichattributen)
- 2. [How do I intergrate IRMA software in my webpage?](#software)
+ 2. [How do I integrate IRMA software in my webpage?](#software)
  3. [Can I also issue attributes myself to my customers?](#issue)
  4. [What are the costs of using IRMA?](#costs)
  5. [What level of certainty does IRMA provide?](#level)
@@ -66,32 +66,32 @@ user to a website where the attribute is available. After loading the
 relevant attribute, the user can authenticate at your website.
 
 It is up to you to ask for all sorts of attributes from your users.
-But please be careful: upon loging into your website with IRMA, your
+But please be careful: upon logging into your website with IRMA, your
 customers must explicitly agree to reveal these attributes to you.
-When you ask too many, non-relevant or non-neccessary, attributes, you
+When you ask too many, non-relevant or non-necessary, attributes, you
 may scare away (potential) customers. An important idea underlying
 IRMA is that only strictly necessary attributes should be requested at
-login. European privacy laws require *data minimalisation* and
+login. European privacy laws require *data minimization* and
 *purpose binding*, so that you are allowed to process only those
 personal data of your customers that are strictly necessary for the
 service that you offer.
 
 [To the top](#top)
 
-### <a name="software"></a>2. How do I intergrate IRMA software in my webpage?
+### <a name="software"></a>2. How do I integrate IRMA software in my webpage?
 
 All software for verification of IRMA attributes is open source and
 freely [available](https://credentials.github.io/) to everyone. There
 are several ways to deploy this software.
 
  * If you have ICT skills yourself, or have people with such skills in
-   your organisation, you can install the software on your own
-   computers and integrate it in your webpages.
+   your organization, you can install the software on your own
+   computers and integrate it in your web-pages.
 
  * If your website has been built and is operated by an external
    company, you can ask this company to do the integration for you.
 
- * Possibly, commerical parties will emerge that will offer
+ * Possibly, commercial parties will emerge that will offer
    verification of IRMA attributes as a service.
 
  * In particular, existing *Payment Service Providers* may start
@@ -105,7 +105,7 @@ the foundation can offer advice, but it will not do this
 free-of-charge. For more information, feel free to [get in
 touch](/contact-en).
 
-To summarise: IRMA can be used without any costs, at least if you do
+To summarize: IRMA can be used without any costs, at least if you do
 everything yourself.
 
 The video below provides a tutorial for integrating IRMA attribute
@@ -121,19 +121,19 @@ verification in your website. For more information, see the
 ### <a name="issue"></a>3. Can I also issue attributes myself to my customers?
 
 Suppose you wish to give customers your own attributes, belonging to
-your own organisation, such as membership numbers or specific loyalty
+your own organization, such as membership numbers or specific loyalty
 statuses, like bronze, silver, gold, platinum, etc. This is possible,
 but requires some preparation.
 
 The Privacy by Design foundation runs the IRMA infrastructure. An
 important part of this work is keeping a register of all possible
-attributes. This register must provider transparancy and clarity,
+attributes. This register must provider transparency and clarity,
 so that each user knows the meanings of the various attributes.
 New attributes must become part of this register. It requires
 [contact](/contact-en) with the foundation. The foundation will
 charge for (continued) registration of new attributes.
 
-Once this has been organised, there are several ways to actually issue
+Once this has been organized, there are several ways to actually issue
 attributes to your customers. This involves providing these attributes
 with a digital signature. For this purpose as well open source software
 is freely available. There are several options.
@@ -154,13 +154,13 @@ is freely available. There are several options.
 ### <a name="costs"></a>4. What are the costs of using IRMA?
 
 For the time being the usage of IRMA is free of charge, both for users
-and for verifiers (like webshops). Of course you will have your own
-costs for setting up and maintaining your own webpages in which IRMA
+and for verifiers (like web-shops). Of course you will have your own
+costs for setting up and maintaining your own web-pages in which IRMA
 is integrated. Those costs depend on who does the actual work, in
 which manner, see [above](#software).
 
 The Privacy by Design foundation is a non-profit
-organisation. However, if it comes to large scale usage of IRMA, it is
+organization. However, if it comes to large scale usage of IRMA, it is
 important that the foundation has a stable financial position in order
 to maintain the IRMA infrastructure. As described above, the
 foundation does ask money for certain activities (advice, issuing of
@@ -175,14 +175,14 @@ on subsidies and support of third parties.
 Within the area of *identity management* different assurance levels
 for authentication are distinguished, such as "low", "substantial",
 "high". Often such levels are assigned to specific authentication
-means (such as a chipcard).  Within the IRMA ecosystem assurance
-levels can be assigned to attributes, or, to be more preciese, to
+means (such as a chip-card).  Within the IRMA ecosystem assurance
+levels can be assigned to attributes, or, to be more precise, to
 credentials (sets of attributes). The assurance level of such a
-credential is determined by the manner of authentication that preceeds
+credential is determined by the manner of authentication that precedes
 attribute issuance. The level is for instance *low* for an email
 attribute that has been issued via a confirmation link sent to a
 user-provided email address. The level *substantial* could be assigned
-to an attribute that is issed after e-banking authentication. And the
+to an attribute that is issued after e-banking authentication. And the
 level *high* could be used for attributes that are issued (on the
 spot) only after face-2-face authentication at a counter.
 
@@ -213,7 +213,7 @@ At this stage the foundation offers its operational services for free,
 as "best effort". The foundation offers no guarantees and accepts at
 this stage no liability for matters that possibly go wrong in IRMA
 usage. The foundation tries to solve (reported) problems as soon as
-possible. The responsability for IRMA usage lies entirely with the
+possible. The responsibility for IRMA usage lies entirely with the
 user (the carrier or IRMA attributes), with the verifier of
 attributes, and with the issuer of attributes (if any), not being the
 foundation itself.

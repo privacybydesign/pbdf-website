@@ -46,7 +46,7 @@ The following attributes are issued:
  * birth date
  * age limits (above 12, 16, 18, 21 or 65)
  * sex
- * adress
+ * address
  * zip code
  * city
  * Burger Service Number (BSN).

@@ -19,13 +19,13 @@ To get a quick *hands-on* impression of IRMA:
   * [fill](/issuance) this app with various personal attributes;
 
   * [try out](/demo-en) some of the IRMA demo applications, for
-    logging in with attributes, automatic form-filling, and digitale
+    logging in with attributes, automatic form-filling, and digital
     signatures.
 
 IRMA offers a way for privacy-friendly authentication. When
 authenticating, you as a user reveal only relevant properties
 (attributes) of yourself, using an IRMA app on your mobile phone ---
-for instane that you are older than 16. In addition, with this app you
+for instance that you are older than 16. In addition, with this app you
 can also digitally sign messages, where you identify yourself as a
 signer also with personal attributes. In this way you can sign for
 instance with your name and address, or with your medical
@@ -45,10 +45,10 @@ if you do not wish to disclose anything else.
     and delete all your attributes. You can do all this free of
     charge.
 
-    You can [try out](/demo-en) IRMA yourself, but can also readd more
+    You can [try out](/demo-en) IRMA yourself, but can also read more
     about IRMA first, at [this page](/irma-explanation).
 
- 2. I'm from a **webshop** or another **organisation** that may want
+ 2. I'm from a **webshop** or another **organization** that may want
     to use IRMA in order to let customers/members log in
     (authenticate), or to register consent from customers via a
     digital signature, in accordance with the General Data Protection

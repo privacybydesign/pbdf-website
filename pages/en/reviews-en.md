@@ -17,4 +17,4 @@ This page contains privacy and security reviews of the IRMA platform.
    Walree](https://www.ru.nl/english/people/walree-t/) of the
    Law faculty at Nijmegen, and reviewed by Koen Versmissen
    of [Privacy Management Partners](https://www.pmpartners.nl/),
-   dec. 2018.
+   Dec. 2018.

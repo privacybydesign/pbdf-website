@@ -10,7 +10,7 @@ translations:
 ---
 
 Attributes like your name or email address can be added to your IRMA
-app via the sociale media [Facebook](https://www.facebook.com),
+app via the social media [Facebook](https://www.facebook.com),
 [Twitter](https://twitter.com) en [LinkedIn](https://linkedin.com).
 The Privacy by Design foundation is registered with each of these
 parties in order to receive attributes. The foundation digitally signs
@@ -22,10 +22,10 @@ The following attributes can be used.
 
  * **Facebook**: full name, first name, family name, email address,
  date of birth
- * **Twitter**: username, full name, email address, webaddress
+ * **Twitter**: username, full name, email address, web-address
  of one's own Twitter profile
  * **LinkedIn**: full name, first name, family name, email address,
- webaddress of one's own LinkedIn profile.
+ web-address of one's own LinkedIn profile.
 
 The validity period of these social media attributes is *one year*.
 

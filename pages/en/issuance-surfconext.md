@@ -23,7 +23,7 @@ and can thus obtain attributes about someone who logs in, namely:
 
 These personal attributes are obtained from the institution of the
 user.  The correctness of the attributes is the institution's
-responsability. The foundation does not check them.
+responsibility. The foundation does not check them.
 
 
 The foundation receives, after permission of the user, these
@@ -38,12 +38,12 @@ The validity period of this surfconext credential is *three months*.
 This relatively short time is required, so that people who
 finish their studies, stop working, or leave their (educational)
 institution in some other way, only have a short time period
-in which they can use these credentials. After experation of the
+in which they can use these credentials. After expiration of the
 credential, users have to obtain a new (fresh) credential.
 
 At this stage this attribute issuance is available only for students
 and staff members of a limited number of institutions in higher
-eduction in the Netherlands. Are you studying or working at such an
+education in the Netherlands. Are you studying or working at such an
 institution but does your institution not occur in the list at the <a
 href="https://privacybydesign.foundation/uitgifte/surfnet?action=login">SURFconext
 issuance page</a>? This means that your institution has not "switched
