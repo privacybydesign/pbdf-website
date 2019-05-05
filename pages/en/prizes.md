@@ -45,11 +45,11 @@ has won with the identity platform IRMA.
 
 <img align="left" src="../images/privacyaward.jpg" alt="Privacy Award"
 style="border:10px solid white; width: 35%; height: 35%"/> The
-foundation [Privacy First](https://privacyfirst.nl/) awarded in janary
+foundation [Privacy First](https://privacyfirst.nl/) awarded in January
 2018 the *Dutch Privacy Award* to the identity platform IRMA. The
 [jury](https://privacyfirst.nl/solutions/evenementen/item/1104-winnaars-nederlandse-privacy-awards-2018.html)
 commends IRMA's privacy by design, its large innovative potential, and
-its potential social impact. The prize is an honourfull recognition of
+its potential social impact. The prize is an honored recognition of
 the IRMA's strong focus on privacy protection. This prize does not
 involves prize money, but it does come with a sculpture, as shown in
 the image on the side.

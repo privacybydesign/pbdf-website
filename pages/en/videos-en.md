@@ -17,7 +17,7 @@ Some of them are in Dutch.
 ## Videos
 
  * Presentation about Digital Identities at the [Royal
-   Institution](https://www.rigb.org) in London, on feb. 21, 2019, by
+   Institution](https://www.rigb.org) in London, on Feb. 21, 2019, by
    Bart Jacobs.
 
    <div style="text-align:center;margin:1.5em"> <iframe width="560"
@@ -26,7 +26,7 @@ Some of them are in Dutch.
    frameborder="0" allow="autoplay; encrypted-media"
    allowfullscreen></iframe> </div>
 
- * An [OMOOC](https://omooc.nl/) video in Dutch from jan. 2019, about
+ * An [OMOOC](https://omooc.nl/) video in Dutch from Jan. 2019, about
    online identities, developed by the ministry of Internal Affairs of
    The Netherlands, with Wouter Welling, Marleen Stikker, Bart Jacobs
    and Martijn van der Linden.
@@ -37,7 +37,7 @@ Some of them are in Dutch.
    frameborder="0" allow="autoplay; encrypted-media"
    allowfullscreen></iframe> </div>
 
- * At the VNG Fieldlab week (24-28 sept. 2018) in Zwolle [team
+ * At the VNG Fieldlab week (24-28 Sept. 2018) in Zwolle [team
    NLX](https://nlx.io/) had a fridge full of
    [Club-Mate](https://motherboard.vice.com/en_us/article/xywxm7/how-a-german-soda-became-hackers-fuel-of-choice)
    that could be opened only with the right IRMA attribute. The IRMA
@@ -80,7 +80,7 @@ Some of them are in Dutch.
 
    <br>
 
- * At the VNG Fieldlab meeting in Zwolle, 24-28 sept. 2018:
+ * At the VNG Fieldlab meeting in Zwolle, 24-28 Sept. 2018:
 
    <img align="middle" src="/images/irma-drawing.jpg" alt="fieldlab" style="border:10px solid white" >
    <br/>

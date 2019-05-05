@@ -29,7 +29,7 @@ logs into iDIN, namely:
  * city.
 
 These personal attributes are obtained from the bank of the user.  The
-correctness of the attributes is the bank's responsability. The
+correctness of the attributes is the bank's responsibility. The
 foundation does not check them.
 
 The foundation receives, after permission of the user, these

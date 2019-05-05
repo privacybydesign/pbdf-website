@@ -56,7 +56,7 @@ Attributes (differs per network): first name, family name, email address, birth 
 Attributes: given name, family name, email address, institution, staff/student, local registration number  
 <a class="button" href="/issuance/surfnet/edugain">
 <img src="/images/edugain.png">Load attributes via eduGAIN</a>  
-Notice: this is an experimental service. We appreciate any feedback at irma 'at' privacybydesign.foundation, preferrably with screenshots if something goes wrong.
+Notice: this is an experimental service. We appreciate any feedback at irma 'at' privacybydesign.foundation, preferably with screenshots if something goes wrong.
 
 ### Attributes for Europe
 
@@ -106,4 +106,4 @@ Attributes: initials, family name, date of birth, gender, address, postal code, 
 Attributes: school and/or study diploma   
 <a class="button" style="cursor: not-allowed;" disabled>
 <img src="/images/diploma-logo.png">Load attributes via DUO</a>  
-**This experimental service has been temporarily disabled due to a change in the diploma documentent by DUO.** We are happy to receive feedback about possible use-cases via irma 'at' privacybydesign.foundation. ([more information](/issuance-diploma), [try anyway](/uitgifte/diploma))
+**This experimental service has been temporarily disabled due to a change in the diploma documentation by DUO.** We are happy to receive feedback about possible use-cases via irma 'at' privacybydesign.foundation. ([more information](/issuance-diploma), [try anyway](/uitgifte/diploma))

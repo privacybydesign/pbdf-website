@@ -10,7 +10,7 @@ translations:
 ---
 
 The Privacy by Design foundation processes personal data with the aim
-of realising attribute-based authentication and signatures via the
+of realizing attribute-based authentication and signatures via the
 system [IRMA](/irma-en), an abbreviation for *I Reveal My Attributes*.
 The foundation is responsible for this data processing and in doing so
 abides by the General Data Protection Regulation (GDPR).
@@ -55,14 +55,14 @@ The foundation processes personal data in three different ways.
    purpose is providing an IRMA user insight in the usage of his/her
    own account, associated with the user's email address, in order to
    detect possible abuse and to (subsequently) block the account. With
-   this access to a user's own log data the foundation fulfils its
+   this access to a user's own log data the foundation fulfills its
    obligation to provide users insight in their own data. These log
    data are stored and protected until they are deleted by the
    user. The logs contain only time stamps of actions, together with
    the kind of action that happened, such as *PIN verified* or *IRMA
    session performed*. In particular, these logs do not contain
    personal data, such as attributes, or information about the party
-   to which attributes are revealed, or form which attribes are
+   to which attributes are revealed, or form which attributes are
    received. These log data are not shared with others, unless there
    is a legal obligation to do so. When an IRMA account is terminated,
    or when its data are removed, all these log data are immediately
@@ -72,11 +72,11 @@ The foundation processes personal data in three different ways.
    encounters a serious problem, an error report is made and sent to
    the foundation. These error reports are a critical instrument for
    the foundation in fixing problems and improving the IRMA app.  An
-   error repport never contains user attributes, or data about
+   error report never contains user attributes, or data about
    previous usage of the IRMA app, but only technical data about what
    went wrong and about your phone (for example, IP address, the app
    version number, and the version number of Android or iOS). The
-   foundation removes these reports when they are no longer neccesary,
+   foundation removes these reports when they are no longer necessary,
    or at least within three months.
 
 3. **One time, only temporarily.** At issuance of attributes by the

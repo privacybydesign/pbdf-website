@@ -11,7 +11,7 @@ translations:
 ---
 
 The board of the Privacy by Design foundation consists of the people
-listed below. They all fulfil their role in the board in a personal
+listed below. They all fulfill their role in the board in a personal
 capacity and are not being paid for it.
 
  * **Chairman**: Bart Jacobs (b.jacobs 'at' privacybydesign.foundation)
@@ -34,18 +34,18 @@ capacity and are not being paid for it.
  * **Treasurer**:  Jean Popma (j.popma 'at' privacybydesign.foundation) 
 
    [Jean Popma](https://www.linkedin.com/in/jeanpopma) works as
-   projectmanager Applied Security Research at Radboud University
-   Nijmegen; in that role he is responsible for the realisation o
-   fprivacy-friendly systems for the storage and sharing of scientific
+   project manager Applied Security Research at Radboud University
+   Nijmegen; in that role he is responsible for the realization of
+   privacy-friendly systems for the storage and sharing of scientific
    medical date. He has ample experience as ICT-manager and as
    Security Officer within Radboud University.
 
  * Thea van Kemenade (t.vankemenade 'at' privacybydesign.foundation)
    is business development consultant at Radboud Innovation, the
-   centre for business and project development of Radboud
+   center for business and project development of Radboud
    University. Her central role is bringing together public and
    private, often open-innovation, partners for specific projects,
-   organising funding and actually realising and implementing these
+   organizing funding and actually realizing and implementing these
    innovations.
 
  * Tim Vermeulen (t.vermeulen 'at' privacybydesign.foundation) is IT
@@ -61,7 +61,7 @@ capacity and are not being paid for it.
 Sietse Ringers (s.ringers 'at' privacybydesign.foundation) is *chief
 architect* and *lead developer* of the Privacy by
 Design foundation. In addition, the following people are (or have
-been) active in developing software and webpages of the foundation.
+been) active in developing software and web-pages of the foundation.
 
 #### Active developers
 

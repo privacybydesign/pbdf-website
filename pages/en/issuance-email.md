@@ -25,7 +25,7 @@ attribute.
 
 (It appears that in some email clients on mobile phones this link is
 not properly "clickable". In that case you can try to copy the link
-yourself into a webbrowser. Alternatively, you can read this e-mail on
+yourself into a web-browser. Alternatively, you can read this e-mail on
 another device, such as a laptop or PC. It is being investigated how
 to best solve this problem.)
 

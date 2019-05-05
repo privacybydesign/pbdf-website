@@ -23,7 +23,7 @@ Deze pagina geeft antwoord op de volgende vragen.
 
 ### <a name="getstarted"></a>1. How to get started with IRMA
 
-The next diagram summarises the initial steps, when you wish to start
+The next diagram summarizes the initial steps, when you wish to start
 using IRMA.
 
 <p align="center"><img src="../images/Registratie_Stappenplan_en.png" alt="IRMA issuer" style="width: 50%; height: 50%"/></p>
@@ -73,8 +73,8 @@ registration at the foundation, on the [MyIRMA](/myirma) webpage.
 [Below](#myirma) more information will be given about this.  Adding an
 email address is optional, not compulsory. If you do not add it, the
 foundation knows nothing about you except an automatically generated
-random username. You can see this username, after succesful
-registation, by tapping on "MyIRMA login" in the attributes overview
+random username. You can see this username, after successful
+registration, by tapping on "MyIRMA login" in the attributes overview
 in your IRMA app.
 
 When you choose to associate an email address to your account, please
@@ -88,16 +88,16 @@ In exceptional cases the email address may be used to contact you
 about usage of IRMA. The address is not shared with anyone else.
 
 
-#### 1.3. Personalisation with your email address
+#### 1.3. Penalization with your email address
 
 The email address that you possibly submit upon registration can now
 be loaded into your IRMA app on your phone. After the previous
 registration steps, in which you have chosen your PIN code and email
-address, you will receive a link (webaddress) by email. By clicking on
+address, you will receive a link (web-address) by email. By clicking on
 this link and following subsequent instructions, your email address
 will be added as attribute in your IRMA app.
 
-When you go in a webbrowser to the webaddress in this link (received
+When you go in a web-browser to the web-address in this link (received
 by email), you will see an "Email Issue" button. It illustrates how
 issuing and receiving of attributes works.
 
@@ -116,12 +116,12 @@ issuing and receiving of attributes works.
 After registration you can try out the [IRMATube demo](/demo/irmaTube).
 
 
-#### 1.4. Personalisation with additional attributes
+#### 1.4. Penalization with additional attributes
 
 It is possible to receive more attributes, in addition to your email
 address. You can do this immediately upon registration, but also
 later. To do so, please visit the [IRMA issuance](/issuance) page.
-There you will see several possiblities to load additional attributes.
+There you will see several possibilities to load additional attributes.
 This list of possibilities is not fixed, and will grow in the future,
 as more parties join IRMA. At this stage the focus is on attributes
 from Dutch sources. If you wish to join with other, possibly
@@ -163,7 +163,7 @@ possibilities.
   there that your app is being used while you know nothing about it,
   something is wrong: someone else may be abusing your app in order to
   steal your identity. This is a reason to take action immediately. It
-  brings us to the second possiblity that the myIRMA webpage offers.
+  brings us to the second possibility that the myIRMA webpage offers.
 
 * At the MyIRMA webpage you can disable (block) further usage of your
   IRMA app. Of course, you can do this at any moment when you no
@@ -202,7 +202,7 @@ The text below dives deeper into what precisely happens when you
 register via the IRMA app. This background information is not
 necessary for actual usage of IRMA; it is intended for people who are
 more technically interested and like to know how things have been set
-up and how security and privacy-protection have been organised in the
+up and how security and privacy-protection have been organized in the
 IRMA ecosystem. Even more information is available on a [separate
 page](/irma-explanation).
 
@@ -235,7 +235,7 @@ email. Hence he/she can log into your MyIRMA account. But the only
 thing that the thief can do there is disable your account. Hopefully,
 by then, you have already done this yourself.
 
-To summarise: the MyIRMA server offers additional protection and
+To summarize: the MyIRMA server offers additional protection and
 inspection, but cannot do anything on its own --- except disable.  The
 Privacy by Design foundation operates the MyIRMA server in order enable
 the usage of IRMA. In principle, other parties can run such a server
@@ -254,7 +254,7 @@ When you log into your app with your PIN code, the app computes the
 (large) number *hash( PIN | nonce )*, sends this hash value to the
 MyIRMA server, and deletes your PIN from its memory. If the hash value
 matches the number that the server stores for you, the app and server
-are connected, and your login has succeeded. A succesful attacker
+are connected, and your login has succeeded. A successful attacker
 can possibly extract the nonce from your IRMA app, but that is not
 so useful. The only thing that the attacker can do is try out all
 100,000 possible PIN codes: for each attempt *X*, the number
@@ -262,9 +262,9 @@ so useful. The only thing that the attacker can do is try out all
 server will notice such repeated attempts and will slow down
 the login attempts (*rate limiting*).
 
-The picture below summarises the two roles of the Privacy by Design
+The picture below summarizes the two roles of the Privacy by Design
 foundation. On the one hand, the foundation issues several attributes
-for personalisation of your IRMA app. On the other hand, it operates
+for penalization of your IRMA app. On the other hand, it operates
 the MyIRMA server, for inspection of your own IRMA usage and for
 possibly blocking your account.
 

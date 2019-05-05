@@ -9,7 +9,7 @@ translations:
   nl: /irma-uitleg
 ---
 
-<a name="top"></a> This page explains the ideas behind the idenity
+<a name="top"></a> This page explains the ideas behind the identity
 platform IRMA.  It also explains how the system works and has been
 designed. The following topics will be discussed.
 
@@ -48,13 +48,13 @@ privacy-protection is intrinsic to the system, which is called
 regulation such privacy by design is legally required for new
 ICT-systems.
 
-Apart from instrinsic privacy-protection, IRMA also protects against
+Apart from intrinsic privacy-protection, IRMA also protects against
 identity fraud: if your name and date of birth are not revealed at
 all, they cannot be abused.
 
 The list below gives several examples of attributes that may be useful,
 for instance for interaction with a webshop, with the government,
-with your bank, or at a webforum, etc.
+with your bank, or at a web-forum, etc.
 
 * I'm a student (or a pensioner)
 * I'm older than 12 (or 16, or 18, or 21, or 65)
@@ -69,7 +69,7 @@ with your bank, or at a webforum, etc.
 * My email address is ...
 * My mobile phone number is ...
 * My loyalty card of company X has status bronze / silver / gold
-* My rail subscribtion is first / second class
+* My rail subscription is first / second class
 * etc. etc.
 
 Some of these attributes are uniquely identifying, like your bank
@@ -110,7 +110,7 @@ non-digital world we rely very much on context: the person wears a
 white coat and receives you in an office in a building that says
 "hospital" above it entrance. But in the online world such context
 information is often missing (or is easy to fabricate), so that we
-have to use attributes like in IRMA for trusted intraction.
+have to use attributes like in IRMA for trusted interaction.
 
 [To the top](#top)
 
@@ -119,7 +119,7 @@ have to use attributes like in IRMA for trusted intraction.
 The short answer is: attributes protect you and empower you.
 
 Via a unique personal number, like a passport number or a national
-registration number, people can be recognised in many different
+registration number, people can be recognized in many different
 situations and all their actions can be linked. This has many
 advantages, for instance in public services. But it can also have
 serious disadvantages, especially when this unique personal number is
@@ -132,30 +132,30 @@ cannot be stolen. In this sense, attributes protect you.
 
 Usage of attributes, instead of identities, has additional advantages.
 
-* It is privacy-friendly because of *data minimalisation*. Only those
+* It is privacy-friendly because of *data minimization*. Only those
   attributes which are relevant and necessary for a transaction need
   to be disclosed.
 * It provides the user, at least with IRMA, real control and
-  transparancy about who is requesting to see which attributes.
+  transparency about who is requesting to see which attributes.
 * It is flexible and can be used in many situations.
 * It prevents linking of different transactions, as long as
   non-identifying attributes are being used. Hence it also prevents
-  open or surreptitious surrveillance and profiling, and everything
+  open or surreptitious surveillance and profiling, and everything
   that is associated with it, such as price-discrimination (the price
   that you have to pay depends on the profile that has been assembled
   about you).
 
-In many digitisation projects of the past decades attributes from
+In many digitization projects of the past decades attributes from
 daily life have been replaced by digital identities. An example is
 smart card based e-ticketing in public transport. Traditionally,
 having a (anonymous, untraceable) paper ticket was enough to get on a
 bus or train. These days one implicitly reveals one's identity by
 using a (uniquely numbered) smart card. Via such cards individual
 movements can be traced and stored for many years, be used for
-marketing purposes, and posssibly become public through a computer
+marketing purposes, and possibly become public through a computer
 hack or through negligence. Anonymous cards, at least in the
 Netherlands, do not offer much privacy protection, since when an error
-needs to be corrected or when you want to receive any remaining saldo
+needs to be corrected or when you want to receive any remaining balance
 on the card after its expiration, you need to disclose your
 identity. In this way a connection is made between you and and all
 your travels, which, you thought, were anonymous.
@@ -184,7 +184,7 @@ banking have their own PIN.
 Attributes that hold for you can be downloaded to your IRMA app on
 your phone. Typically this is done via the [web](/issuance), but it is
 also possible to do this in a face-to-face scenario at a counter. An
-organisation that provides attributes is called an *attribute issuer*,
+organization that provides attributes is called an *attribute issuer*,
 or simply an *issuer*. There may be several issuers of attributes, such
 as:
 
@@ -197,16 +197,16 @@ as:
   addresses, phone numbers, IP-addresses
 * the Facebook's / Google's / Apple's / Amazon's / Microsoft's of this
   world for login data
-* big or small webshops, with loyaly cards and custum numbers, with
+* big or small web-shops, with loyalty cards and custom numbers, with
     associated status, coupons, etc.
-* companies and other organisations, for attributes as a basis for
+* companies and other organizations, for attributes as a basis for
   fine-grained role-based access management
-* hospitals and other healthcare organisations, for regulating access
+* hospitals and other healthcare organizations, for regulating access
   via attributes, not only for healthcare professionals, but also for
   patients
 * block chain initiatives, for authentication of users and their roles
-* military organisations, for all their different ranks and (security)
-  compartimentalisations and clearances, and for members of special
+* military organizations, for all their different ranks and (security)
+  compartmentalizations and clearances, and for members of special
   forces whose identifying data are typically not revealed
 * etc.
 
@@ -241,10 +241,10 @@ a *verifier*, or sometimes a *relying party*. There is a special
 It is built into the IRMA system that these verifiers must make very
 clear to you which attributes they request to see.  You, as an IRMA
 user, have to explicitly agree to the release of those attributes.  In
-this way it is clear and transparant who wants to know what about you.
+this way it is clear and transparent who wants to know what about you.
 The IRMA app keeps its own log, so that you can see later which verifier
 has requested which attributes (at what time), and what you have
-revealed. If there are verifiers who request disproportionally much
+revealed. If there are verifiers who request disproportionately much
 information from users, you can file a complaint, based on these logs,
 for instance with your (national) data protection authority.
 
@@ -265,7 +265,7 @@ attributes is much simpler, however, since it can be done online.
 
 The three pictures below give a schematic overview, first of
 downloading attributes at an issuer, and subsequently, of
-using attributes at two different webshops.
+using attributes at two different web-shops.
 <hr>
 <p align="center"><img src="../images/Transactions_IRMA_voorbereiding_en.png" alt="IRMA uitgever" style="width: 55%; height: 55%"/></p>
 <hr>
@@ -313,7 +313,7 @@ IRMA differs in essential ways from other identity management systems,
 such as [Facebook
 login](https://developers.facebook.com/docs/facebook-login), or
 [iDIN](http://www.idin.nl) in the Netherlands. IRMA has a
-*decentralised* architecture. Your attributes are stored only locally,
+*decentralized* architecture. Your attributes are stored only locally,
 on your phone, and not centrally in the computer systems of some
 "identity broker". When you use IRMA to prove to a webshop that you
 are older than 18, your IRMA app communicates directly with the
@@ -332,10 +332,10 @@ wish to login at X. After logging into Facebook, using your Facebook
 credentials, Facebook gives website X certain information about
 you. In this way Facebook learns where you login at what moment and
 uses this information to extend your profile and adapt its
-advertisement targeting. In addition, it is not transparant to you
+advertisement targeting. In addition, it is not transparent to you
 which data about you website X receives from Facebook.
 
-Many identity management systems are organised in such a *centralised*
+Many identity management systems are organized in such a *centralized*
 manner. This is commercially most interesting for the providers of the
 identity management system: they can not only build up and sell
 profiles of all users --- who logs in where and when with which data
@@ -349,23 +349,23 @@ can see whether you login to a liquor store or to a psychiatric
 clinic. The banks [promise](https://www.idin.nl/consumenten) that they
 will not use this information for other purposes, for instance, when
 they decide whether or not you will get a mortgage. In IRMA's
-decentralised architecture such uncomfortable issues do not arise at
-all. In addition, relying parties, such as webshops, need to pay the
+decentralized architecture such uncomfortable issues do not arise at
+all. In addition, relying parties, such as web-shops, need to pay the
 banks per iDIN authentication session. The prices are a real concern
 for them, and have already led to complaints. Again, with IRMA there
-are no such artificial costs imposed by the chosen (centralised)
+are no such artificial costs imposed by the chosen (centralized)
 architecture.
 
-The difference between a decentralised (IRMA) and centralised
+The difference between a decentralized (IRMA) and centralized
 (non-IRMA) set-up is sketched below.
 <p align="center"><img src="../images/Transactions_all_lowres_en.png" alt="overzicht" style="width: 100%; height: 100%"/></p>
 
 It may be clear that in the non-IRMA set-up the issuer of attributes
 is a *privacy hotspot* who facilitates and sees all
-transactions. Moreover, in the centralised architecture a (malicious)
+transactions. Moreover, in the centralized architecture a (malicious)
 issuer can completely take over your identity and impersonate you. You
 have no way to stop this, or even notice it --- until possibly later
-when you are confronted with the consequences. In the decentralised
+when you are confronted with the consequences. In the decentralized
 IRMA set-up you have genuine control over the usage of your own
 attributes: you directly disclose your own attributes yourself, every
 time only after explicit consent, without (unnecessary) interference
@@ -374,12 +374,12 @@ of third parties.  This is similar to the way you can disclose your
 
 In the IRMA system there are no such *privacy hotspots*. At a
 meta-level, IRMA does involve some level of coordination about how
-attributes and credentials are organised and which cryptographic
+attributes and credentials are organized and which cryptographic
 (public) keys are needed at which stage. This coordinating role is
 fulfilled by the Privacy by Design foundation. But: the foundation can
 not see at all which attributes are used where.
 
-The Privacy by Design foundation does not monopolise IRMA and its
+The Privacy by Design foundation does not monopolize IRMA and its
 technology. The software is open source and is freely available, for
 everyone to use. Also other parties can play the coordinating and/or
 issuing roles that the foundation is playing at this stage.  In fact,
@@ -388,22 +388,22 @@ register](/issuance-big) would directly issue IRMA attributes
 themselves, instead of the foundation doing so indirectly ---
 currently, hopefully temporarily.
 
-Decentralised and centralised identity management systems do not
+Decentralized and centralized identity management systems do not
 exclude each other. In fact, they can work well together, for instance
 in the case of iDIN providing attributes for IRMA. IRMA can best be
 used for applications where privacy plays a (big) role and where
-attributes are needed that can not be organised easily in a
-centralised manner, for instance because of legal restrictions or lack
+attributes are needed that can not be organized easily in a
+centralized manner, for instance because of legal restrictions or lack
 of trust in central storage among users. IRMA can also handle
 "temporary" attributes, like an entry ticket for a concert, containing
 the name, date and location of the concert. In principle, you can buy
 such a ticket online and download it as attribute to your IRMA app. At
 the entrance of the concert you can disclose the ticket for
 verification, and subsequently delete it from your phone. (Such
-tickets are strictly personal non-transferrable, because they are
+tickets are strictly personal non-transferable, because they are
 cryptographically connected to your own personal IRMA app.)
 
-A subtle point is wheter IRMA outperforms centralised architectures
+A subtle point is whether IRMA outperforms centralized architectures
 since such architectures intrinsically have a single-point-of-failure;
 if it goes down all authentication is disabled. In fact, IRMA also
 involves a small central *keyshare* component, as will be explained in
@@ -488,9 +488,9 @@ party*). Such a verifier checks a number of things:
 
 The Privacy by Design foundation has freely available open source
 [software](https://credentials.github.io/) also for this verifier
-role.  It allows a webshop, or other organisation, to verify
+role.  It allows a webshop, or other organization, to verify
 attributes from its customers, see the [more detailed
-explanations](/irma-verifier) elsewhere. Small webshops may wish to
+explanations](/irma-verifier) elsewhere. Small web-shops may wish to
 outsource such attribute verifications to third parties, just like
 they often outsource payment processing. This is possible, but is not
 ideal for privacy, since these external verifiers see many
@@ -499,7 +499,7 @@ as a commercial service.
 
 Credentials are cryptographically bound to a mobile phone, and to each
 other, via a personal secret cryptographic key. This private key is
-crucial for the security of the IRMA app; it must be stored securily.
+crucial for the security of the IRMA app; it must be stored securely.
 Such secure local storage is difficult on a mobile phone, since the
 device may be rooted or hacked. That is why a small but crucial part
 of this private key is stored outside the phone on a so-called
@@ -545,7 +545,7 @@ IP-address involved, or the "fingerprint" of the browser. The above
 webshop may conclude, rightly or not, that the same person is involved
 because both attribute disclosures come from the same IP-address.
 
-Protection against this is possible, for instance via anonymisation
+Protection against this is possible, for instance via anonymization
 technologies, such as [Tor](https://www.torproject.org). But such
 protection is not built into IRMA.
 
@@ -559,40 +559,40 @@ relations in society.  In general, the more powerful parties impose
 authentication requirements and mechanisms on the less powerful
 parties. The Privacy by Design foundation is well aware of these
 societally important issues and aims to use value-laden design in
-offering IRMA as a transparant open identity platform for proportional
+offering IRMA as a transparent open identity platform for proportional
 and contextual authentication that empowers, instead of weakens,
 users. This context-dependence is related to [Helen
 Nissenbaum](http://www.nyu.edu/projects/nissenbaum/)'s interpretation
-of privacy as contextuele integrity.
+of privacy as contextual integrity.
 
 IRMA works via freely available open source software. Everyone can
 inspect and judge how it works. This contributes to confidence, not
 only in the proper functioning of the IRMA system, but also in order
-to check that there are no hidden backdoors in the system.  Such
-transparancy is essential for broad voluntary usage and acceptance of
+to check that there are no hidden back-doors in the system.  Such
+transparency is essential for broad voluntary usage and acceptance of
 sensitive ICT-infrastructure, like for authentication. With IRMA there
-is no commerical lock-in, and there is no extorted trust. Even if the
+is no commercial lock-in, and there is no extorted trust. Even if the
 foundation somehow goes down, the IRMA software will still be there
 and can be maintained and continued by others.
 
 Thus, IRMA is not about plundering or deceiving users, or about
 surreptitiously steering them commercially or politically, but about
-encountering them transparantly, with dignity, respecting their
+encountering them transparently, with dignity, respecting their
 autonomy and privacy.
 
 IRMA is based on properties of individuals (attributes) whose source
 is explicitly visible, namely in the form of the issuer who commits
-itself via digitial signatures to the validity of these attributes.
+itself via digital signatures to the validity of these attributes.
 IRMA is thus about "objective" properties and qualifications of people,
 where the objectivity lies in the verifiable origin of attributes.
 In this way IRMA distinguishes itself from "subjective" reputation-based
 systems, in which qualifications can be manipulated relatively
-easilty and their origin is seldomly transparent.
+easily and their origin is seldom transparent.
 
 IRMA does not exclude commercial activities surrounding
 authentication. But these commercial activities work best *on top of*
 an open basic infrastructure, and not in its core.  Internet protocols
-like TCP and IP are also open, and form the basis for the succes of
+like TCP and IP are also open, and form the basis for the success of
 the internet, together with all the commercial transactions that run
 on top of TCP/IP.
 
@@ -619,27 +619,27 @@ strongly bound to an individual via a certificate that contains the
 associated public key. Digital signatures that satisfy certain
 requirements have a legal status.
 
-A big disadvantage of both tranditional and current digital signatures
+A big disadvantage of both traditional and current digital signatures
 is that they give very little information about who precisely signs,
 in which capacity.
 
-An attribute-based signature is a special digital signature in wich
+An attribute-based signature is a special digital signature in which
 the attachment to the document securely contains a number of
 attributes of the signer. These attributes are visible to everyone who
 checks the signature. In this way you can see for instance that a
-written account of ilness has actually been signed by a medical
+written account of illness has actually been signed by a medical
 doctor, via the "medical doctor" attribute, possibly combined with the
-signer's medical specialisation. Another example is a request from a
+signer's medical specialization. Another example is a request from a
 citizen to the authorities, say about some permit, which is signed
 with the citizen's own national registration number included as
-attribute. In this way the authorities recognise that the request
+attribute. In this way the authorities recognize that the request
 really comes from a particular citizen. Also payment orders can be
-realised via attribute-based signatures, by including the bank account
+realized via attribute-based signatures, by including the bank account
 number of the signer as attribute in the signature.
 
 Attribute-based signatures are supported by the IRMA
 software. Attribute-based signatures form a novel concept with
-unprecented application possiblities.
+unprecedented application possibilities.
 
 [To the top](#top)
 
@@ -674,7 +674,7 @@ be an advantage.
 However, the identity platform IRMA is economically viable. Issuance
 and verification of attributes may form a commercial service, which
 can be performed by third parties. Also, the Privacy by Design
-foundation may issue certain specialised credentials for a
+foundation may issue certain specialized credentials for a
 fee. Possibly, in order to maintain its activities in the long-term
 future, the foundation may start charging IRMA users, for instance a
 couple of Euros per year, for a basic set of attributes.
@@ -690,19 +690,19 @@ applications. Several parties are currently working on this.
 
 Do you value careful, privacy-friendly interaction with your
 customers, and do you have a good idea for an IRMA application,
-for instance in your webshop or within your organisation, do
+for instance in your webshop or within your organization, do
 [contact](/contact-en) the Privacy by Design foundation.
 For instance, the foundation can:
 
-* advice about the organisation of attributes for the intended application;
+* advice about the organization of attributes for the intended application;
 * advice about the usage of the open source software of the foundation;
 * possibly extend this software for optimal use within your
   application; such extensions will in principle also be open source
   and be available for others.
 
-The foundation may aks a to-be-determined financial contribution for
+The foundation may ask a to-be-determined financial contribution for
 such advice, in order to maintain its own activities. The foundation
-is a not-for-profit organisation, without commercial targets.
+is a not-for-profit organization, without commercial targets.
 
 Even if you do not have a concrete application in mind, but wish to
 contribute to the IRMA development, via your efforts or via a
