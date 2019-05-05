@@ -33,7 +33,14 @@ and academia. The atmosphere is open and very much content-oriented.
    cs.ru.nl
 
 
-### Next IRMA meeting: Friday, March 8, 2019.
+### Next IRMA meeting: Friday afternoon, July 5, 2019.
+
+The programme, with talks about recent developments around IRMA, will
+appear here in due course. 
+
+
+
+### Earlier IRMA meeting: Friday, March 8, 2019.
 
 **Morning programme:**
 
