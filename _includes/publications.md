@@ -45,7 +45,7 @@
   R.S. CHakraborty and P. Schwabe and J. Solworth (eds), Proceedings
   of the Fifth International Conference on Security, Privacy, and
   Applied Cryptography Engineering (SPACE 2015), Jaipur, India,
-  Springer LNCS 9354, 2015, p.310-328. [Paper](http://www.cs.ru.nl/~brinda/images/Space-paper.pdf).
+  Springer LNCS 9354, 2015, p.310-328. [Paper](http://www.cs.ru.nl/~gergely/objects/2015_ABS_Space.pdf).
 
 * Antonio de la Piedra. 2015. *Efficient Implementation of AND, OR and
   NOT Operators for ABCs.* In Revised Selected Papers of the 7th
@@ -85,7 +85,7 @@
   TILTing Perspectives Conference, Tilburg, NL, April 25-26, 2013.
   [Paper](http://www.cs.ru.nl/~gergely/objects/TILTing_Alpar-Jacobs_CredentialDesign.pdf)
   and
-  [Presentation](https://www.irmacard.org/wp-content/uploads/2013/02/CredentialDesign_Alpar.pdf).
+  [Presentation](http://www.cs.ru.nl/~gergely/objects/TILTing_Alpar-Jacobs_CredentialDesign.pdf).
 
 * Pim Vullers and Gergely Alpár. *Efficient Selective Disclosure on
   Smart Cards using Idemix.* In Chris Mitchell et al., editor, IFIP
@@ -130,7 +130,7 @@
   Disclosure and Blinded Issuing Protocols on Java Card. In:
   O. Markowitch et al., Information Security Theory and
   Practice. Springer LNCS 5746, 2009, p.95-111.
-  [Paper](http://www.cs.ru.nl/~tews/wistp-09/performance-issues.pdf).
+  [Paper](https://link.springer.com/content/pdf/10.1007%2F978-3-642-03944-7_8.pdf).
 
 ### Idemix
 
@@ -144,4 +144,4 @@
   [Link](http://domino.research.ibm.com/library/cyberdig.nsf/1e4115aea78b6e7c85256b360066f0d4/eeb54ff3b91c1d648525759b004fbbb1?OpenDocument).
 
 * Gergely Alpár. *Cryptography fact sheet about Idemix's basic proof techniques*.
-  [PDF](/pdf/idemix_overview.pdf)
+  [PDF](https://privacybydesign.foundation/pdf/Idemix_overview.pdf)
