@@ -2,8 +2,7 @@
 
 * Brinda Hampiholi, *Contextual Identity in Practice Attribute-based
 Authentication and Signing on Smartphones*, PhD Thesis, Radboud
-University,
-2019. [Thesis](https://privacybydesign.foundation/pdf/PhD_Thesis_Brinda.pdf).
+University, 2019. [Thesis](https://privacybydesign.foundation/pdf/PhD_Thesis_Brinda.pdf).
 
 ### 2017
 
