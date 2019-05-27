@@ -16,6 +16,12 @@ informatie volg IRMA op [Twitter](https://twitter.com/IRMA_privacy).
 
 ## 2019 
 
+  * Artikel [Cyberalchemie: onze cryptografische toekomst volgens Bart
+    Jacobs](https://www.nederlandseboekengids.com/20190515-dirk-vis/)
+    in [*de* Nederlandse
+    Boekengids](https://www.nederlandseboekengids.com/), jaargang 4,
+    nummer 3, 2019.
+
   * [IRMA Manifest](../pdf/IRMA-manifest-2019.pdf), waarin IRMA
     beschreven wordt als een ``Zwitsers zakmes'' voor identiteiten dat
     maatschappelijke zekerheden geeft via authenticatie, ondertekening
