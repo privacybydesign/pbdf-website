@@ -16,6 +16,9 @@ informatie volg IRMA op [Twitter](https://twitter.com/IRMA_privacy).
 
 ## 2019 
 
+  * Interview [Van een zorgverzekering aanvragen tot online winkelen:
+    met IRMA kun je alle kanten op](https://www.digitaleoverheid.nl/achtergrondartikelen/van-een-zorgverzekering-aanvragen-tot-online-winkelen-met-irma-kun-je-alle-kanten-op/) with IRMA CTO Sietse Ringers, 27/5/2019.
+
   * Artikel [Cyberalchemie: onze cryptografische toekomst volgens Bart
     Jacobs](https://www.nederlandseboekengids.com/20190515-dirk-vis/)
     in [*de* Nederlandse

@@ -1,13 +1,15 @@
 ### 2019
 
+* Ivar Derksen, *Backup and Recovery of IRMA Credentials*, Master thesis, Radboud University, 2019. [pdf](https://privacybydesign.foundation/pdf/Backup-and-Recovery-of-IRMA-credentials-thesis.pdf).
+
 * Brinda Hampiholi, *Contextual Identity in Practice Attribute-based
 Authentication and Signing on Smartphones*, PhD Thesis, Radboud
-University, 2019. [Thesis](https://privacybydesign.foundation/pdf/PhD_Thesis_Brinda.pdf).
+University, 2019. [pdf](https://privacybydesign.foundation/pdf/PhD_Thesis_Brinda.pdf).
 
 ### 2017
 
 * Wouter Lueks. *Security and Privacy via Cryptography. Having your
-  cake and eating it too*, PhD Thesis, Radboud University, 2017. [Thesis](https://wouterlueks.nl/assets/docs/thesis_lueks_def.pdf).
+  cake and eating it too*, PhD Thesis, Radboud University, 2017. [pdf](https://wouterlueks.nl/assets/docs/thesis_lueks_def.pdf).
 
 * Brinda Hampiholi, Gergely Alpár, Fabian van den Broek, Bart Jacobs,
   Wouter Lueks, and Sietse Ringers. *IRMA: practical, decentralized and
@@ -42,7 +44,7 @@ University, 2019. [Thesis](https://privacybydesign.foundation/pdf/PhD_Thesis_Bri
 
 
 * Sietse Ringers, *Quantization using Jet Space Geometry and Identity Management using Credential Schemes*, PhD Thesis,
-  Groningen University, 2015. [Thesis](https://sietseringers.net/files/thesis.pdf).
+  Groningen University, 2015. [pdf](https://sietseringers.net/files/thesis.pdf).
 
 ### 2015
 
@@ -60,7 +62,7 @@ University, 2019. [Thesis](https://privacybydesign.foundation/pdf/PhD_Thesis_Bri
   Springer LNCS 9565, 2015, p.183-199. [Paper](https://eprint.iacr.org/2015/1117.pdf)
 
 * Gergely Alpár, *Attribute-Based Identity Management*, PhD Thesis,
-  Radboud University, 2015. [Thesis](https://www.cs.ru.nl/~gergely/objects/thesis.pdf).
+  Radboud University, 2015. [pdf](https://www.cs.ru.nl/~gergely/objects/thesis.pdf).
 
 ### 2014
 
@@ -72,7 +74,7 @@ University, 2019. [Thesis](https://privacybydesign.foundation/pdf/PhD_Thesis_Bri
   (Eds.), Springer LNCS 8813, p.270-289. [Paper](https://eprint.iacr.org/2014/684.pdf)
 
 * Pim Vullers, *Efficient Implementations of Attribute-based
-  Credentials on Smart Cards*, PhD Thesis, Radboud University, 2014. [Thesis](http://www.cs.ru.nl/~pim/publications/2014_phd_thesis.pdf).
+  Credentials on Smart Cards*, PhD Thesis, Radboud University, 2014. [pdf](http://www.cs.ru.nl/~pim/publications/2014_phd_thesis.pdf).
 
 * Merel Koning, Paulan Korenhof, Gergely Alpár and Jaap-Henk
   Hoepman. *The ABCs of ABCs: an analysis of attribute-based
