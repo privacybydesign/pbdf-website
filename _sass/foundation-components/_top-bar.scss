@@ -401,6 +401,8 @@ $topbar-dropdown-arrows: true !default; //Set false to remove the \00bb >> text 
         &.moved { position: static;
           & > .dropdown {
             @include topbar-show-dropdown();
+            overflow:auto;
+            max-height: calc(100vh - #{$topbar-height});
             width: 100%;
           }
           & > a:after {
@@ -417,6 +419,8 @@ $topbar-dropdown-arrows: true !default; //Set false to remove the \00bb >> text 
         top: 0;
         z-index: 99;
         @include topbar-hide-dropdown();
+        max-height: calc(100vh - #{$topbar-height});
+        overflow: auto;
 
         li {
           width: 100%;
@@ -563,6 +567,7 @@ $topbar-dropdown-arrows: true !default; //Set false to remove the \00bb >> text 
           &.hover, &.not-click:hover {
             & > .dropdown {
               @include topbar-show-dropdown();
+              overflow:auto;
             }
           }
           > a:focus + .dropdown {
