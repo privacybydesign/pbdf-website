@@ -35,9 +35,39 @@ and academia. The atmosphere is open and very much content-oriented.
 
 ### Next IRMA meeting: Friday afternoon, July 5, 2019.
 
-The programme, with talks about recent developments around IRMA, will
-appear here in due course. 
+**Afternoon programme:** 
+Several general presentations about IRMA and its applications
 
+   1. 13:30 - 14:00 "Quick introduction to IRMA and overview of new
+      developments", Sietse Ringers, [Privacy by Design
+      Foundation](https://privacybydesign.foundation) and Open
+      University.
+
+   2. 14:00 - 14:30 "Toepassingen van IRMA voor Persoonlijke
+      Gezondheidsomgevingen (PGOs), bij Ivido en Medmij", Tristan
+      Garssen, [Ivido](https://www.ivido.nl).
+
+   3. 14:30 - 15:00 "Privacy-by-Design en SIDN samen op weg naar:
+      Garantie op stabiliteit van de IRMA Backbone", Michiel Graat,
+      [SIDN](https://www.sidn.nl).
+
+   4. 15:00 - 15:30 Coffee / Tea
+
+   5. 15:30 - 16:00 "Een gebruiksvriendelijke gegevensmanager voor je
+      online identiteit", Mark Fonds, [Gemeente
+      Amsterdam](https://www.amsterdam.nl/).
+
+   6. 16:00 - 16:30 "IRMA pilots bij verschillende gemeenten", Tomas
+      Harreveld, [Privacy by Design
+      Foundation](https://privacybydesign.foundation).
+
+**Drinks:**
+
+   16:30 - 17:30, offered by SURF; requires registration, see below
+	
+**Registration:** Participation is free, but registration is required
+for logistic reasons if you wish to enjoy the drinks, by sending an
+email to: dis-secr 'at' cs.ru.nl, before **July 3**.
 
 
 ### Earlier IRMA meeting: Friday, March 8, 2019.
