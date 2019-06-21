@@ -10,7 +10,7 @@ stages:
 
 before_script:
   - set -euxo pipefail
-  - bundle install
+  - bundle install --path vendor
 
 site:
   stage: build
