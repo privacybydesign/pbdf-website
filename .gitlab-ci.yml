@@ -1,0 +1,21 @@
+image: privacybydesign/ruby:latest
+
+cache:
+  key: $CI_COMMIT_REF_SLUG
+  paths:
+  - vendor/ruby
+
+stages:
+  - build
+
+before_script:
+  - set -euxo pipefail
+  - bundle install
+
+site:
+  stage: build
+  artifacts:
+    paths:
+      - _site/*
+  script:
+    - bundle exec jekyll build --config _config.yml
