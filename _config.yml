@@ -8,7 +8,7 @@ slogan: 'Developing and supporting usage of privacy-friendly software'
 description: 'The Privacy by Design Foundation develops IRMA: privacy-preserving, user friendly and secure authentication.'
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
-url: 'https://privacybydesign.foundation'
+url: ''
 baseurl: ''
 
 # This URL points directly to the images directory making
@@ -16,7 +16,7 @@ baseurl: ''
 #
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
-urlimg: 'https://privacybydesign.foundation/images/'
+urlimg: '/images/'
 
 # Logo size is 600x80 pixels
 logo: "logo.png"
