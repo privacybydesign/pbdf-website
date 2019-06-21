@@ -1,10 +1,10 @@
 ### 2019
 
-* Ivar Derksen, *Backup and Recovery of IRMA Credentials*, Master thesis, Radboud University, 2019. [pdf](https://privacybydesign.foundation/pdf/Backup-and-Recovery-of-IRMA-credentials-thesis.pdf).
+* Ivar Derksen, *Backup and Recovery of IRMA Credentials*, Master thesis, Radboud University, 2019. [pdf](/pdf/Backup-and-Recovery-of-IRMA-credentials-thesis.pdf).
 
 * Brinda Hampiholi, *Contextual Identity in Practice Attribute-based
 Authentication and Signing on Smartphones*, PhD Thesis, Radboud
-University, 2019. [pdf](https://privacybydesign.foundation/pdf/PhD_Thesis_Brinda.pdf).
+University, 2019. [pdf](/pdf/PhD_Thesis_Brinda.pdf).
 
 ### 2017
 
@@ -152,4 +152,4 @@ University, 2019. [pdf](https://privacybydesign.foundation/pdf/PhD_Thesis_Brinda
   [Link](http://domino.research.ibm.com/library/cyberdig.nsf/1e4115aea78b6e7c85256b360066f0d4/eeb54ff3b91c1d648525759b004fbbb1?OpenDocument).
 
 * Gergely Alpár. *Cryptography fact sheet about Idemix's basic proof techniques*.
-  [PDF](https://privacybydesign.foundation/pdf/Idemix_overview.pdf)
+  [PDF](/pdf/Idemix_overview.pdf)
