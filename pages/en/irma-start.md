@@ -88,7 +88,7 @@ In exceptional cases the email address may be used to contact you
 about usage of IRMA. The address is not shared with anyone else.
 
 
-#### 1.3. Penalization with your email address
+#### 1.3. Personalization with your email address
 
 The email address that you possibly submit upon registration can now
 be loaded into your IRMA app on your phone. After the previous
@@ -116,7 +116,7 @@ issuing and receiving of attributes works.
 After registration you can try out the [IRMATube demo](/demo/irmaTube).
 
 
-#### 1.4. Penalization with additional attributes
+#### 1.4. Personalization with additional attributes
 
 It is possible to receive more attributes, in addition to your email
 address. You can do this immediately upon registration, but also
@@ -264,7 +264,7 @@ the login attempts (*rate limiting*).
 
 The picture below summarizes the two roles of the Privacy by Design
 foundation. On the one hand, the foundation issues several attributes
-for penalization of your IRMA app. On the other hand, it operates
+for personalization of your IRMA app. On the other hand, it operates
 the MyIRMA server, for inspection of your own IRMA usage and for
 possibly blocking your account.
 
