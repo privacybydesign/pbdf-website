@@ -41,7 +41,7 @@ Several general presentations about IRMA and its applications
    1. 13:30 - 14:00 "Quick introduction to IRMA and overview of new
       developments", Sietse Ringers, [Privacy by Design
       Foundation](https://privacybydesign.foundation) and Open
-      University.
+      University. [[slides](../meeting-slides/slides-5-7-19/ringers-harreveld-5-juli-2019.pdf)]
 
    2. 14:00 - 14:30 "Toepassingen van IRMA voor Persoonlijke
       Gezondheidsomgevingen (PGOs), bij Ivido en Medmij", Tristan
@@ -49,17 +49,17 @@ Several general presentations about IRMA and its applications
 
    3. 14:30 - 15:00 "Privacy-by-Design en SIDN samen op weg naar:
       Garantie op stabiliteit van de IRMA Backbone", Michiel Graat,
-      [SIDN](https://www.sidn.nl).
+      [SIDN](https://www.sidn.nl). [[slides](../meeting-slides/slides-5-7-19/graat-5-juli-2019.pdf)]
 
    4. 15:00 - 15:30 Coffee / Tea
 
    5. 15:30 - 16:00 "Een gebruiksvriendelijke gegevensmanager voor je
       online identiteit", Mark Fonds, [Gemeente
-      Amsterdam](https://www.amsterdam.nl/).
+      Amsterdam](https://www.amsterdam.nl/). [[slides](../meeting-slides/slides-5-7-19/fonds-5-juli-2019.pdf)]
 
    6. 16:00 - 16:30 "IRMA pilots bij verschillende gemeenten", Tomas
       Harreveld, [Privacy by Design
-      Foundation](https://privacybydesign.foundation).
+      Foundation](https://privacybydesign.foundation). [[slides](../meeting-slides/slides-5-7-19/ringers-harreveld-5-juli-2019.pdf)]
 
 **Drinks:**
 
