@@ -45,7 +45,7 @@ Several general presentations about IRMA and its applications
 
    2. 14:00 - 14:30 "Toepassingen van IRMA voor Persoonlijke
       Gezondheidsomgevingen (PGOs), bij Ivido en Medmij", Tristan
-      Garssen, [Ivido](https://www.ivido.nl).
+      Garssen, [Ivido](https://www.ivido.nl). [[slides](../meeting-slides/slides-5-7-19/garssen-5-juli-2019.pdf)]
 
    3. 14:30 - 15:00 "Privacy-by-Design en SIDN samen op weg naar:
       Garantie op stabiliteit van de IRMA Backbone", Michiel Graat,
@@ -59,7 +59,7 @@ Several general presentations about IRMA and its applications
 
    6. 16:00 - 16:30 "IRMA pilots bij verschillende gemeenten", Tomas
       Harreveld, [Privacy by Design
-      Foundation](https://privacybydesign.foundation). [[slides](../meeting-slides/slides-5-7-19/ringers-harreveld-5-juli-2019.pdf)]
+      Foundation](https://privacybydesign.foundation). [[slides](../meeting-slides/slides-5-7-19/ringers-harreveld-5-juli-2019.pdf)] (dezelfde als hierboven voor het eerste praatje van Ringers).
 
 **Drinks:**
 
