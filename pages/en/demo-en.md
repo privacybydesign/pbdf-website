@@ -14,10 +14,7 @@ different purposes. With each of the buttons below additional
 information is provided.
 
 Log in with e-mail address
-:   <a class="button" href="/demo-en/mail">E-mail log in</a>  
-
-IRMA signatures for permissions and statements
-:    <a class="button" href="/demo-en/signature">IRMA signatures</a>
+:   <a class="button" href="/demo-en/mail">E-mail log in</a>
 
 Submitting address information by automatic form-filling
 :    <a class="button"
