@@ -41,7 +41,7 @@ Ook kunt u met IRMA attribuut-gebaseerde handtekeningen zetten, zie [IRMA in det
 1. Ontwikkeling en beheer van de [IRMA software](http://github.com/privacybydesign).
 2. Beheer van infrastructuur voor het uitgeven van attributen.
 
-#### Samenwerking
+## Samenwerking
 
 De stichting Privacy by Design is in 2016 voortgekomen uit de [Digital Security](http://www.ru.nl/ds/) onderzoeksgroep van de Radboud Universiteit en het Privacy and Identity Lab [PI.lab](http://www.pilab.nl). De stichting is een onafhankelijke non-profit spin-off.
 
@@ -55,6 +55,12 @@ verschillende andere partijen, waaronder in het bijzonder:
  * de [Radboud Universiteit](https://www.ru.nl), voor (sterke)
    authenticatie van studenten en medewerkers en digitale
    ondertekening van bijv. tentamenuitslagen;
+
+* [NLnet](https://nlnet.nl) voor ontwikkeling van een prototype voor
+   identity-based encryption op basis van IRMA, via het *Next
+   Generation Internet* programma NGI-PET, onder auspiciën van het *DG
+   Communications Networks, Content and Technology* van de Europese
+   Unie.
 
  * [SURFnet](https://www.surfnet.nl), voor uitgifte en controle van
    attributen via [surfconext](https://www.surfconext.nl);

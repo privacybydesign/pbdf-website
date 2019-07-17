@@ -68,6 +68,12 @@ other parties, among which:
    authentication of student and employees and for digital signing of,
    e.g., examination grades.
 
+* [NLnet](https://nlnet.nl) for development of a prototype for
+   identity-based encryption on the basis of IRMA, via the *Next
+   Generation Internet* programma NGI-PET, under the aegis of the
+   European Union's DG Communications Networks, Content and
+   Technology.
+
  * [SURFnet](https://www.surf.nl/en/services-and-products/surfconext/index.html),
    for issuing and verifying of attributes through SURFconext.
 
