@@ -73,7 +73,7 @@ Verkrijg: voornaam, achternaam, emailadres, instelling, medewerker/student, loka
 Opmerking: dit is een experimentele aansluiting. We ontvangen graag feedback op irma 'at' privacybydesign.foundation.
 <!-- [Meer informatie](/uitgifte-surfconext) -->
 
-**Attributen via het BIG-register --- op basis van iDIN gegevens**  
+**Attributen via het BIG-register --- op basis van iDIN gegevens (Experimenteel)**  
 Verkrijg: BIG-nummer, startdatum BIG-registratie, medisch beroep, medisch specialisme  
 <a class="button" href="/uitgifte/big">
 <img src="/images/big.png">Laad attributen vanuit BIG</a>  

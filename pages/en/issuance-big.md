@@ -9,6 +9,9 @@ translations:
   nl: /uitgifte-big
 ---
 
+The issuance of the BIG credential is experimental. We advise against
+relying on it in production.
+
 The [BIG-register](https://english.bigregister.nl/) is a public
 register of healthcare professionals, such as physicians, dentists and
 nurses. Every healthcare professional in the Netherlands is registered

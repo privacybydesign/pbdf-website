@@ -85,7 +85,7 @@ Attributes: given name, family name, email address, institution, staff/student, 
 <img src="/images/surfnet.png">Load attributes via SURFconext</a>  
 [More information](/issuance-surfconext)
 
-**Attributes via the BIG-register --- based on iDIN data**  
+**Attributes via the BIG-register --- based on iDIN data (Experimental)**  
 Attributes: BIG-number, date of BIG-registration, medical profession, medical specialisms  
 <a class="button" href="/issuance/big">
 <img src="/images/big.png">Load attributes via BIG</a>  
