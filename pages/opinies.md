@@ -16,6 +16,14 @@ informatie volg IRMA op [Twitter](https://twitter.com/IRMA_privacy).
 
 ## 2019 
 
+  * Open [brief](../pdf/stas-bzk-aug-19.pdf) van de stichting [Privacy
+    by Design](https://privacybydesign.foundation/) aan
+    staatssecretaris [Raymond
+    Knops](https://www.rijksoverheid.nl/regering/bewindspersonen/raymond-knops),
+    verantwoordelijk voor (elektronische) identiteiten, over zijn
+    mogelijke, onnodige plannen voor een wetswijziging om BSNs bij
+    private eID-partijen op te slaan.
+
   * Podcast *Identificatie met IRMA* van stichting
     [Nuts](https://nuts.nl/) voor
     [Spotify](https://open.spotify.com/show/59V4WgEKfbWhMvzSf8AKlE) en
