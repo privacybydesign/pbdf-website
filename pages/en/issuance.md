@@ -75,7 +75,7 @@ number, or registration at a Dutch university/school.
 
 **Attributes from Dutch Civil Registry**  
 Attributes: name, birth date, sex, address, zip code, city, BSN  
-<a class="button" href="https://services.nijmegen.nl/irma/issue/start">
+<a class="button" href="https://services.nijmegen.nl/irma/gemeente/start">
 <img src="/images/nijmegen.png">Load attributes from Dutch Civil Registry</a>  
 [More information](/issuance-brp)
 

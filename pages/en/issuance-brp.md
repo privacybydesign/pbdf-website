@@ -34,7 +34,7 @@ registered in the Civil Registry that can login with
 [DigiD](https://www.digid.nl/en/).
 
 <p style="text-align: center;">
-	<a class="button" href="https://services.nijmegen.nl/irma/issue/start">
+	<a class="button" href="https://services.nijmegen.nl/irma/gemeente/start">
 		<img src="/images/nijmegen.png">Load attributes from Dutch Civil Registry
 	</a>  
 </p>

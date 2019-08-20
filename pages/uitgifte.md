@@ -34,7 +34,7 @@ op zijn/haar telefoon laden.
 
 **Attributen uit Basisregistratie Personen (BRP)**  
 Verkrijg: naam, geboortedatum, geslacht, adres, postcode, plaats, BSN  
-<a class="button" href="https://services.nijmegen.nl/irma/issue/start">
+<a class="button" href="https://services.nijmegen.nl/irma/gemeente/start">
 <img src="/images/nijmegen.png">Laad attributen uit de BRP</a>  
 [Meer informatie](/uitgifte-brp)
 

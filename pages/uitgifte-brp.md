@@ -35,7 +35,7 @@ iedereen die in de BRP geregistreerd staat en kan inloggen met
 [DigiD](https://www.digid.nl). 
 
 <p style="text-align: center;">
-	<a class="button" href="https://services.nijmegen.nl/irma/issue/start">
+	<a class="button" href="https://services.nijmegen.nl/irma/gemeente/start">
 		<img src="/images/nijmegen.png">Laad attributen uit de BRP
 	</a>  
 </p>
