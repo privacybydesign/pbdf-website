@@ -60,7 +60,9 @@ verschillende andere partijen, waaronder in het bijzonder:
    identity-based encryption op basis van IRMA, via het *Next
    Generation Internet* programma NGI-PET, onder auspiciën van het *DG
    Communications Networks, Content and Technology* van de Europese
-   Unie.
+   Unie, zie de aankondiging [`User-friendly email encryption possible
+   with identity-based
+   cryptography'](https://www.ngi.eu/news/2019/08/20/user-friendly-email-encryption-possible-with-identity-based-cryptography/).
 
  * [SURFnet](https://www.surfnet.nl), voor uitgifte en controle van
    attributen via [surfconext](https://www.surfconext.nl);

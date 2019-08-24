@@ -16,6 +16,12 @@ informatie volg IRMA op [Twitter](https://twitter.com/IRMA_privacy).
 
 ## 2019 
 
+  * Announcement by Europe's New Generation Internet Initiative
+    [NGI](https://www.ngi.eu/) of the project [`User-friendly email
+    encryption possible with identity-based
+    cryptography'](https://www.ngi.eu/news/2019/08/20/user-friendly-email-encryption-possible-with-identity-based-cryptography/)
+    with IRMA, 20 aug. 2019.
+
   * Open [brief](../pdf/stas-bzk-aug-19.pdf) van de stichting [Privacy
     by Design](https://privacybydesign.foundation/) aan
     staatssecretaris [Raymond
