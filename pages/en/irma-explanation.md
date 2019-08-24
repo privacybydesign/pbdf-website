@@ -10,7 +10,7 @@ translations:
 ---
 
 <a name="top"></a> This page explains the ideas behind the identity
-platform IRMA.  It also explains how the system works and has been
+platform IRMA. It also explains how the system works and has been
 designed. The following topics will be discussed.
 
  1. [What is IRMA all about?](#topic)
@@ -80,23 +80,20 @@ involved. These non-identifying attributes apply to multiple people.
 Attributes form a natural mechanism for revealing certain aspects of
 yourself, while at the same time selectively disclosing other aspects.
 There are many scenarios where attributes provide precisely the
-relevant information that is required for a certain transaction.
+relevant information that is required for a certain transaction:
 
 * If you wish to join an online chat-box for minors, you have to prove
   that you are younger than 15, for instance. Or if you want to
   participate in an online discussion group of people with a certain
   sensitive disease, this disease itself can be the attribute that
   gives you anonymous access to the group.
-
 * When you wish to buy a violent game/movie/book online, you have to
-  prove that you are older than 16, or may even older than 18.
-
+  prove that you are older than 16, or maybe even older than 18.
 * If you possess the "student" attribute you may be able to get a
-  discount at a hairdresser; en if you have the "handicapped"
+  discount at a hairdresser; if you have the "handicapped"
   attribute of specific kind, you may be entitled to special
   transportation.
-
-* For a purchase online you home address attribute is needed for
+* For a purchase online your home address attribute is needed for
   delivery. Discounts may be available via a loyalty attribute of the
   webshop. And possible an age limit attribute is required if the item
   that you purchase is not intended for minors.
@@ -195,16 +192,16 @@ as:
   insurance account numbers, type of insurance, etc.
 * internet service providers and telecom operators, for: email
   addresses, phone numbers, IP-addresses
-* the Facebook's / Google's / Apple's / Amazon's / Microsoft's of this
+* the Facebooks / Googles / Apples / Amazons / Microsofts of this
   world for login data
 * big or small web-shops, with loyalty cards and custom numbers, with
-    associated status, coupons, etc.
+  associated status, coupons, etc.
 * companies and other organizations, for attributes as a basis for
   fine-grained role-based access management
 * hospitals and other healthcare organizations, for regulating access
   via attributes, not only for healthcare professionals, but also for
   patients
-* block chain initiatives, for authentication of users and their roles
+* blockchain initiatives, for authentication of users and their roles
 * military organizations, for all their different ranks and (security)
   compartmentalizations and clearances, and for members of special
   forces whose identifying data are typically not revealed
@@ -239,8 +236,8 @@ a *verifier*, or sometimes a *relying party*. There is a special
 [verifier page](/irma-verifier) explaining what this role amounts to.
 
 It is built into the IRMA system that these verifiers must make very
-clear to you which attributes they request to see.  You, as an IRMA
-user, have to explicitly agree to the release of those attributes.  In
+clear to you which attributes they request to see. You, as an IRMA
+user, have to explicitly agree to the release of those attributes. In
 this way it is clear and transparent who wants to know what about you.
 The IRMA app keeps its own log, so that you can see later which verifier
 has requested which attributes (at what time), and what you have
@@ -267,11 +264,11 @@ The three pictures below give a schematic overview, first of
 downloading attributes at an issuer, and subsequently, of
 using attributes at two different web-shops.
 <hr>
-<p align="center"><img src="../images/Transactions_IRMA_voorbereiding_en.png" alt="IRMA uitgever" style="width: 55%; height: 55%"/></p>
+<p align="center"><img src="../images/Transactions_IRMA_voorbereiding_en.png" alt="IRMA preparation" style="width: 55%; height: 55%"/></p>
 <hr>
-<p align="center"><img src="../images/Transactions_IRMA_eerste_gebruik_en.png" alt="IRMA gebruik" style="width: 50%; height: 50%"/></p>
+<p align="center"><img src="../images/Transactions_IRMA_eerste_gebruik_en.png" alt="IRMA first use" style="width: 50%; height: 50%"/></p>
 <hr>
-<p align="center"><img src="../images/Transactions_IRMA_enzovoort_en.png" alt="IRMA gebruik" style="width: 50%; height: 50%"/></p>
+<p align="center"><img src="../images/Transactions_IRMA_enzovoort_en.png" alt="IRMA and so on" style="width: 50%; height: 50%"/></p>
 <hr>
 
 This downloading of attributes is a natural form of modern *identity
@@ -299,7 +296,7 @@ attributes. However, it is still wise to immediately block your
 IRMA app via the [MyIRMA](../myirma) portal.
 
 The Privacy by Design foundation is working on *backup* functionality
-for attributes.  It allows you to restore these attributes from this
+for attributes. It allows you to restore these attributes from this
 back-up into your new phone. The attributes in the old phone are then
 disabled. This back-up functionality will be added to the IRMA app in
 due course, via the regular update mechanism.
@@ -358,7 +355,7 @@ architecture.
 
 The difference between a decentralized (IRMA) and centralized
 (non-IRMA) set-up is sketched below.
-<p align="center"><img src="../images/Transactions_all_lowres_en.png" alt="overzicht" style="width: 100%; height: 100%"/></p>
+<p align="center"><img src="../images/Transactions_all_lowres_en.png" alt="summary" style="width: 100%; height: 100%"/></p>
 
 It may be clear that in the non-IRMA set-up the issuer of attributes
 is a *privacy hotspot* who facilitates and sees all
@@ -369,7 +366,7 @@ when you are confronted with the consequences. In the decentralized
 IRMA set-up you have genuine control over the usage of your own
 attributes: you directly disclose your own attributes yourself, every
 time only after explicit consent, without (unnecessary) interference
-of third parties.  This is similar to the way you can disclose your
+of third parties. This is similar to the way you can disclose your
 (physical) passport yourself, without dependence on others.
 
 In the IRMA system there are no such *privacy hotspots*. At a
@@ -382,7 +379,7 @@ not see at all which attributes are used where.
 The Privacy by Design foundation does not monopolize IRMA and its
 technology. The software is open source and is freely available, for
 everyone to use. Also other parties can play the coordinating and/or
-issuing roles that the foundation is playing at this stage.  In fact,
+issuing roles that the foundation is playing at this stage. In fact,
 it would be better if [iDIN](/issuance-idin) or the [BIG
 register](/issuance-big) would directly issue IRMA attributes
 themselves, instead of the foundation doing so indirectly ---
@@ -426,7 +423,7 @@ Technical details of IRMA will be given below, explaining why IRMA
 works in a privacy-friendly and secure manner. IRMA is based on
 non-trivial cryptography for attribute-based credentials. These
 credentials are containers for attributes, equipped with an expiry
-date and a digital signature, produced by the issuer.  The underlying
+date and a digital signature, produced by the issuer. The underlying
 cryptography is based on
 [Idemix](http://www.research.ibm.com/labs/zurich/idemix/), which has
 been developed since the late nineties at IBM Zürich. The technology
@@ -443,7 +440,7 @@ were developed.
 
 As mentioned, individual IRMA attributes are combined in a credential.
 For instance, you can have a credential containing the following
-attributes.
+attributes:
 
 * nationality
 * place of birth
@@ -453,7 +450,7 @@ Such a credential may for instance be issued by the (local or
 national) authorities. You, as user, can decide, per transaction, to
 disclose any subset of these attributes. In the above example, you can
 for instance disclose your nationality, without revealing where or
-when you were born. This is *selective disclosure* property is the
+when you were born. This *selective disclosure* property is the
 basis of IRMA's privacy by design.
 
 The party that offers such credentials according to the IRMA protocols
@@ -488,7 +485,7 @@ party*). Such a verifier checks a number of things:
 
 The Privacy by Design foundation has freely available open source
 [software](https://credentials.github.io/) also for this verifier
-role.  It allows a webshop, or other organization, to verify
+role. It allows a webshop, or other organization, to verify
 attributes from its customers, see the [more detailed
 explanations](/irma-verifier) elsewhere. Small web-shops may wish to
 outsource such attribute verifications to third parties, just like
@@ -505,7 +502,7 @@ device may be rooted or hacked. That is why a small but crucial part
 of this private key is stored outside the phone on a so-called
 *keyshare-server* that is operated by the Privacy by Design
 foundation. The IRMA PIN code is checked by the keyshare server, see
-the [more detailed explanations](/irma-start/#hood) elsewhere.  Only
+the [more detailed explanations](/irma-start/#hood) elsewhere. Only
 when the PIN checks out, will the server participate with its own
 small part of the secret personal key, and can attributes be
 disclosed. The keyshare sever will not see the attributes themselves,
@@ -531,7 +528,6 @@ The following terminology is used for IRMA's privacy guarantees.
     there data together. Of course, this does not work for identifying
     attributes, like your bank account number, but it does work for
     non-identifying attributes, like your gender.
-
 * **Multi-show unlinkability.** This means that multiple disclosures
     of the same attribute by the same user cannot be linked by a
     verifier. Concretely, if, on a single day, you prove to a webshop
@@ -555,7 +551,7 @@ protection is not built into IRMA.
 ### <a name="values"></a>8. Which values does the IRMA technology embody?
 
 Authentication requirements, and information flows, reflect the power
-relations in society.  In general, the more powerful parties impose
+relations in society. In general, the more powerful parties impose
 authentication requirements and mechanisms on the less powerful
 parties. The Privacy by Design foundation is well aware of these
 societally important issues and aims to use value-laden design in
@@ -568,7 +564,7 @@ of privacy as contextual integrity.
 IRMA works via freely available open source software. Everyone can
 inspect and judge how it works. This contributes to confidence, not
 only in the proper functioning of the IRMA system, but also in order
-to check that there are no hidden back-doors in the system.  Such
+to check that there are no hidden back-doors in the system. Such
 transparency is essential for broad voluntary usage and acceptance of
 sensitive ICT-infrastructure, like for authentication. With IRMA there
 is no commercial lock-in, and there is no extorted trust. Even if the
@@ -591,7 +587,7 @@ easily and their origin is seldom transparent.
 
 IRMA does not exclude commercial activities surrounding
 authentication. But these commercial activities work best *on top of*
-an open basic infrastructure, and not in its core.  Internet protocols
+an open basic infrastructure, and not in its core. Internet protocols
 like TCP and IP are also open, and form the basis for the success of
 the internet, together with all the commercial transactions that run
 on top of TCP/IP.
@@ -648,7 +644,7 @@ unprecedented application possibilities.
 
 The most important advantage of IRMA is: the user maintains and fully
 controls his/her own attributes. But this is at the same time a
-disadvantage: an IRMA user will have to do this actively.  This
+disadvantage: an IRMA user will have to do this actively. This
 requires some effort, and also some level of understanding how IRMA
 works and what has to be done.
 
@@ -694,8 +690,8 @@ for instance in your webshop or within your organization, do
 [contact](/contact-en) the Privacy by Design foundation.
 For instance, the foundation can:
 
-* advice about the organization of attributes for the intended application;
-* advice about the usage of the open source software of the foundation;
+* advise about the organization of attributes for the intended application;
+* advise about the usage of the open source software of the foundation;
 * possibly extend this software for optimal use within your
   application; such extensions will in principle also be open source
   and be available for others.
