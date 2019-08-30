@@ -16,6 +16,9 @@ knoppen wordt verdere uitleg gegeven.
 Login met e-mail adres
 :   <a class="button" href="/demo/mail">E-mail login</a>
 
+IRMA handtekeningen voor toestemmingen en verklaringen
+:    <a class="button" href="/demo/ondertekenen">IRMA handtekening</a>
+
 Adres opgave via automatisch invullen van velden
 :    <a class="button"
 href="/demo/adres">Adres invullen</a>
