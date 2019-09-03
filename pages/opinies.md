@@ -16,6 +16,16 @@ informatie volg IRMA op [Twitter](https://twitter.com/IRMA_privacy).
 
 ## 2019 
 
+  * Leidsche Verzekering Maatschappij stelt een klant in een
+    klachtenprocedure over het gedoe rond het
+    bewijzen-van-in-leven-zijn (attestatie de vita) het gebruik van de
+    IRMA app in het vooruitzicht, zie bericht [Verzekeraar mag vragen
+    om bewijs van in leven
+    zijn](https://www.vvponline.nl/nieuws/verzekeraar-mag-vragen-om-bewijs-van-in-leven-zijn),
+    2/9/2019.
+
+  * Artikel [Baas over eigen data, willen we dat eigenlijk wel?](../pdf/Gelderlander-28-8-2019.pdf) in regionale krant [De Gelderlander](https://www.gelderlander.nl/), 28/8/2019.
+
   * Announcement by Europe's New Generation Internet Initiative
     [NGI](https://www.ngi.eu/) of the project [`User-friendly email
     encryption possible with identity-based
