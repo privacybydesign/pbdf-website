@@ -20,7 +20,7 @@ widget2:
   title: BRP attributes in IRMA
   url: /issuance-brp/
   image: nijmegen_logo_inverted.png
-  text: The city of Nijmegen is the first to issue IRMA attributes from the Dutch Civil Registry. Everyone in the Netherlands that can login with DigiD can obtain these attributes. This opens a wide array of new applications.
+  text: Everyone in the Netherlands can load IRMA attributes from the Dutch Civil Registry (BRP) into their own IRMA app. This works via a DigiD login at the city of Nijmegen, with support of dozens of other municipalities. This opens a wide array of new IRMA applications.
 widget3:
   title: IRMA itself
   url: /irma-en/

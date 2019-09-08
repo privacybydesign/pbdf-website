@@ -13,7 +13,7 @@ widget1:
   title: BRP attributen in IRMA
   url: /uitgifte-brp/
   image: nijmegen_logo_inverted.png
-  text: De gemeente Nijmegen geeft als koploper IRMA attributen uit vanuit de basisregistratie personen. Elke burger in Nederland die kan inloggen met een DigiD kan deze attributen verkrijgen. Hierdoor komen veel nieuwe toepassingen binnen handbereik. 
+  text: Elke burger in Nederland kan IRMA attributen vanuit de basisregistratie personen in de eigen IRMA app laden. Dit werkt via een DigiD login bij de gemeene Nijmegen. Dit wordt door tientallen gemeenten gesteund. Hier kunnen veel nieuwe IRMA toepassingen, bijv. in de zorg, op voortbouwen.
 widget2:
   title: Onderzoek naar digitale identiteit met IRMA
   url: https://omooc.nl/inzicht/digitale-identiteit/
