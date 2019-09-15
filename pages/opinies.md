@@ -16,6 +16,12 @@ informatie volg IRMA op [Twitter](https://twitter.com/IRMA_privacy).
 
 ## 2019 
 
+  * Interview [Gemeente Nijmegen wil open en weerbaar
+    zijn](../pdf/irma-ingovernment-september-2019.pdf) met Marijn van
+    der Linden van de gemeente Nijmegen over IRMA, in tijdschrift
+    [InGovernment](https://onlinetouch.nl/ingovernment), een platform
+    voor de digitale overheid, sept. 2019.
+
   * Leidsche Verzekering Maatschappij stelt een klant in een
     klachtenprocedure over het gedoe rond het
     bewijzen-van-in-leven-zijn (attestatie de vita) het gebruik van de
