@@ -14,8 +14,9 @@ translations:
 
 Het eerste jaarverslag, met daarin onder andere een overzicht van de
 uitgeoefende activiteiten en een financiële verantwoording, is hier
-te vinden. Aangezien de stichting eind 2016 is opgericht behelst dit
-jaarverslag niet alleen 2017 maar ook de laatste maanden van 2016.
+te vinden. 
+
+* [Jaarverslag 2018](/pdf/jaarverslag-2018.pdf)
 
 * [Jaarverslag 2017 en eind 2016](/pdf/jaarverslag-2017.pdf)
 

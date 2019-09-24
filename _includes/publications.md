@@ -1,10 +1,16 @@
 ### 2019
 
-* Ivar Derksen, *Backup and Recovery of IRMA Credentials*, Master thesis, Radboud University, 2019. [pdf](/pdf/Backup-and-Recovery-of-IRMA-credentials-thesis.pdf).
+* José van Dijck and Bart Jacobs. Electronic identity services as
+  sociotechnical and political-economic constructs, *New Media and
+  Society* ([NMS](https://journals.sagepub.com/home/nms)), 2019.
+  [doi](https://doi.org/10.1177/1461444819872537)
+
+* Ivar Derksen, *Backup and Recovery of IRMA Credentials*, Master
+  thesis, Radboud University, 2019. [pdf](/pdf/Backup-and-Recovery-of-IRMA-credentials-thesis.pdf).
 
 * Brinda Hampiholi, *Contextual Identity in Practice Attribute-based
-Authentication and Signing on Smartphones*, PhD Thesis, Radboud
-University, 2019. [pdf](/pdf/PhD_Thesis_Brinda.pdf).
+  Authentication and Signing on Smartphones*, PhD Thesis, Radboud
+  University, 2019. [pdf](/pdf/PhD_Thesis_Brinda.pdf).
 
 ### 2017
 
