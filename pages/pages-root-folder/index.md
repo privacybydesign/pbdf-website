@@ -13,7 +13,7 @@ widget1:
   title: BRP attributen in IRMA
   url: /uitgifte-brp/
   image: nijmegen_logo_inverted.png
-  text: Elke burger in Nederland kan IRMA attributen vanuit de basisregistratie personen in de eigen IRMA app laden. Dit werkt via een DigiD login bij de gemeene Nijmegen. Dit wordt door tientallen gemeenten gesteund. Hier kunnen veel nieuwe IRMA toepassingen, bijv. in de zorg, op voortbouwen.
+  text: Elke burger in Nederland kan IRMA attributen vanuit de basisregistratie personen in de eigen [IRMA app](https://irma.app/) laden. Dit werkt via een DigiD login bij de gemeene Nijmegen. Dit wordt door tientallen gemeenten gesteund. Hier kunnen veel nieuwe IRMA toepassingen, bijv. in de zorg, op voortbouwen.
 widget2:
   title: Onderzoek naar digitale identiteit met IRMA
   url: https://omooc.nl/inzicht/digitale-identiteit/
@@ -30,7 +30,7 @@ widget3:
 
 <img src="/images/pbd.png" style="float: right; width: 40%; padding: 15px" />
 
-De stichting Privacy by Design creëert en onderhoudt gratis open source software waarbij de privacy van de gebruiker voorop staat. Het belangrijkste onderwerp van de stichting is het identity platform [IRMA](/irma), een afkorting voor I Reveal my Attributes. De stichting wil ook in algemene zin de ontwikkeling en het gebruik van open, privacy-vriendelijke en goed-beveiligde ICT bevorderen.
+De stichting Privacy by Design creëert en onderhoudt gratis open source software waarbij de privacy van de gebruiker voorop staat. Het belangrijkste onderwerp van de stichting is het identity platform [IRMA](/irma), een afkorting voor I Reveal my Attributes, zie ook de aparte webpagina voor de [IRMA app](https://irma.app/). De stichting wil ook in algemene zin de ontwikkeling en het gebruik van open, privacy-vriendelijke en goed-beveiligde ICT bevorderen.
 
 Met IRMA kunt u op een privacy-vriendelijke, beveiligde manier eigenschappen (attributen) van uzelf onthullen (zoals: ik ben boven de 18), zonder dat u andere, niet-relevante informatie over uzelf weggeeft. Via zulke attributen kunt u zichzelf authenticeren bijvoorbeeld om in te loggen op een webpagina. 
 
