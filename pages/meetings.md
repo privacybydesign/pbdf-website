@@ -10,15 +10,15 @@ translations:
   en: /meetings
 ---
 
-About two or three times per year an *IRMA meeting* is organised at
-SURFnet in Utrecht, free of charge, open to everyone interested in
-identity management in general and in IRMA in particular. The meetings
-usually draw between 25 and 50 participants, from industry, government
-and academia. The atmosphere is open and very much content-oriented.
+About two or three times per year an *IRMA meeting* is organised, free
+of charge, open to everyone interested in identity management in
+general and in IRMA in particular. The meetings usually draw between
+25 and 50 participants, from industry, government and academia. The
+atmosphere is open and very much content-oriented.
 
- * **Location:** SURFnet, Hoog Overborch (Hoog Catharijne), Utrecht
-   [route](https://www.surf.nl/over-surf/contact/routebeschrijving-surf-surfmarket-en-surfnet/index.html),
-   about 5 min. walking distance from Utrecht Central train station
+[//]: # * **Location:** SURFnet, Hoog Overborch (Hoog Catharijne), Utrecht
+[//]: #   [route](https://www.surf.nl/over-surf/contact/routebeschrijving-surf-surfmarket-en-surfnet/index.html),
+[//]: #   about 5 min. walking distance from Utrecht Central train station
 
  * **Language:** mix of English and Dutch, depending on speaker and
      audience.
@@ -33,7 +33,15 @@ and academia. The atmosphere is open and very much content-oriented.
    cs.ru.nl
 
 
-### Next IRMA meeting: Friday afternoon, July 5, 2019.
+### Next IRMA meeting: Friday afternoon, November 29, 2019.
+
+This meeting will be organised at a location of the city of Amsterdam
+(Weesperstraat 113), from 13:30 - 17:30. Details, including a program,
+will be provided later.
+
+
+
+### Earlier IRMA meeting: Friday afternoon, July 5, 2019.
 
 **Afternoon programme:** 
 Several general presentations about IRMA and its applications
