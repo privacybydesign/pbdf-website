@@ -90,8 +90,8 @@ Verkrijg: BIG-nummer, startdatum BIG-registratie, medisch beroep, medisch specia
 <img src="/images/big.png">Laad attributen vanuit BIG</a>  
 Deze dienst is uitgezet vanwege een wijziging aan de kant van het BIG-register. Zorgprofessionals kunnen wel AGB attributen laden, zie hierboven. [Meer informatie](/uitgifte-big)
 
-**Attributen via het [diploma register van DUO](https://duo.nl/particulier/diplomas/mijn-diplomas.jsp) (tijdelijk uitgeschakeld)**  
+**Attributen via het [diploma register van DUO](https://duo.nl/particulier/diplomas/mijn-diplomas.jsp) (uitgeschakeld)**  
 Verkrijg: aard en tijdstip van diploma's van school en/of studie
 <a class="button" style="cursor: not-allowed;" disabled>
 <img src="/images/diploma-logo.png">Laad attributen via DUO uittreksel</a>  
-Deze experimentele dienst is tijdelijk uitgezet vanwege een wijziging in het uittrekselformaat van DUO. We ontvangen graag feedback over mogelijke usecases op irma 'at' privacybydesign.foundation. ([meer informatie](/uitgifte-diploma), [toch proberen](/uitgifte/diploma))
+Deze experimentele dienst is uitgezet vanwege een wijziging in het uittrekselformaat van DUO. We ontvangen graag feedback over mogelijke usecases op irma 'at' privacybydesign.foundation. [Meer informatie](/uitgifte-diploma)

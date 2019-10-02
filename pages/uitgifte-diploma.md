@@ -26,7 +26,7 @@ deze pdf documenten bij DUO op te halen. Na inloggen bij
 gewenste dipoloma's selecteren en downloaden, typisch onder de naam:
 Uittreksel_diplomaregister.pdf
 
-Op de [diploma uitgifte](/uitgifte/diploma) pagina van de stichting
+Op de diploma uitgifte pagina (tijdelijk uitgezet) van de stichting
 Privacy by Design kunt u zo'n pdf diploma document uploaden. De
 stichting controleert dan de digitale handtekening van DUO.
 
