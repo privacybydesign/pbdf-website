@@ -13,7 +13,7 @@ widget1:
   title: BRP attributen in IRMA
   url: /uitgifte-brp/
   image: nijmegen_logo_inverted.png
-  text: Elke burger in Nederland kan IRMA attributen vanuit de basisregistratie personen in de eigen [IRMA app](https://irma.app/) laden. Dit werkt via een DigiD login bij de gemeene Nijmegen. Dit wordt door tientallen gemeenten gesteund. Hier kunnen veel nieuwe IRMA toepassingen, bijv. in de zorg, op voortbouwen.
+  text: Elke burger in Nederland kan IRMA attributen vanuit de basisregistratie personen in de eigen <a href="https://irma.app/">IRMA app</a> laden. Dit werkt via een DigiD login bij de gemeene Nijmegen. Dit wordt door tientallen gemeenten gesteund. Hier kunnen veel nieuwe IRMA toepassingen, bijv. in de zorg, op voortbouwen.
 widget2:
   title: Onderzoek naar digitale identiteit met IRMA
   url: https://omooc.nl/inzicht/digitale-identiteit/
