@@ -95,4 +95,4 @@ Verkrijg: initialen, achternaam, geboortedatum, geslacht, adres, postcode, plaat
 Verkrijg: aard en tijdstip van diploma's van school en/of studie
 <a class="button" style="cursor: not-allowed;" disabled>
 <img src="/images/diploma-logo.png">Laad attributen via DUO uittreksel</a>  
-**Deze experimentele dienst is tijdelijk uitgezet vanwege een wijziging in het uittrekselformaat van DUO.** We ontvangen graag feedback over mogelijke usecases op irma 'at' privacybydesign.foundation. ([meer informatie](/uitgifte-diploma), [toch proberen](/uitgifte/diploma))
+**Deze experimentele dienst is tijdelijk uitgezet vanwege een wijziging in het uittrekselformaat van DUO.** We ontvangen graag feedback over mogelijke usecases op irma 'at' privacybydesign.foundation. ([meer informatie](/uitgifte-diploma))
