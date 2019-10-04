@@ -44,7 +44,9 @@ informatie volg IRMA op [Twitter](https://twitter.com/IRMA_privacy).
     Knops](https://www.rijksoverheid.nl/regering/bewindspersonen/raymond-knops),
     verantwoordelijk voor (elektronische) identiteiten, over zijn
     mogelijke, onnodige plannen voor een wetswijziging om BSNs bij
-    private eID-partijen op te slaan.
+    private eID-partijen op te slaan. Ziehier ook de
+    [reactie](../pdf/reactie-stas-bzk-sept-19.pdf) van de
+    staatssecretaris.
 
   * Podcast *Identificatie met IRMA* van stichting
     [Nuts](https://nuts.nl/) voor
