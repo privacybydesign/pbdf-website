@@ -29,7 +29,8 @@ href="/demo/student">Student check</a>
 
 Leeftijdscontrole
 :    <a class="button"
-href="/demo/18plus">18+ check</a>
+href="/demo/18plus">18+ check</a> &nbsp; <a class="button"
+href="https://www.angrygames.nl/index.html">Angry Games Demo</a>
 
 Registratie en verificatie om online films te kijken
 :    <a class="button"
