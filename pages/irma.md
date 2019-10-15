@@ -4,7 +4,7 @@ header:
   image_fullwidth: header_poly2.png
   title: Over IRMA
 meta_title: IRMA
-teaser: IRMA is een uniek privacy-vriendelijk identiteitsplatform voor zowel authenticatie als ondertekening. De IRMA app heeft een [eigen pagina](https://irma.app/) een korte inleiding. Hieronder staat een iets uitgebreider verhaal. 
+teaser: IRMA is een uniek privacy-vriendelijk identiteitsplatform voor zowel authenticatie als ondertekening. De IRMA app heeft een <a href="https://irma.app/">eigen pagina</a> met een korte inleiding. Hieronder staat een iets uitgebreider verhaal. 
 permalink: /irma/
 language: nl
 translations:
