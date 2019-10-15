@@ -16,6 +16,12 @@ informatie volg IRMA op [Twitter](https://twitter.com/IRMA_privacy).
 
 ## 2019 
 
+  * Artikel [Alibaba of
+    Irma?](https://www.computable.nl/artikel/achtergrond/security/6817080/1444691/alibaba-of-irma.html)
+    in [Computable](https://www.computable.nl) naar aanleiding van een
+    IRMA presentatie op het congres [Overheid
+    360](https://www.overheid360.nl/) op 7 okt. 2019 in Utrecht.
+
   * Interview [Gemeente Nijmegen wil open en weerbaar
     zijn](../pdf/irma-ingovernment-september-2019.pdf) met Marijn van
     der Linden van de gemeente Nijmegen over IRMA, in tijdschrift
