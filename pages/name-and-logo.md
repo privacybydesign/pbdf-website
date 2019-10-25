@@ -6,7 +6,7 @@ header:
 permalink: /name-and-logo
 language: en
 translations:
-  en: /naam-en-logo
+  nl: /naam-en-logo
 ---
 
 The Privacy by Design foundation holds the rights to the IRMA name and
