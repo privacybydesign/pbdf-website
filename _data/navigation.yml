@@ -42,6 +42,8 @@ nl:
         url: /publicaties/
       - title: Technische documentatie
         url: https://irma.app/docs
+      - title: Gebruik naam en logo
+        url: /naam-en-logo/
 
   - title: Over de stichting
     side: right
@@ -108,6 +110,8 @@ en:
         url: /publications/
       - title: Technical documentation
         url: https://irma.app/docs
+      - title: Name and logo usage
+        url: /name-and-logo/
 
   - title: About the foundation
     side: right
