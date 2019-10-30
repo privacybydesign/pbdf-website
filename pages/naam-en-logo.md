@@ -3,10 +3,10 @@ layout: page
 header:
   image_fullwidth: header_poly2.png
   title: Gebruik naam en logo
-permalink: /naam-en-logo
+permalink: /naam-en-logo/
 language: nl
 translations:
-  en: /name-and-logo
+  en: /name-and-logo/
 ---
 
 De stichting Privacy by Design bezit de rechten m.b.t. de IRMA naam en

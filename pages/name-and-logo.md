@@ -3,10 +3,10 @@ layout: page
 header:
   image_fullwidth: header_poly2.png
   title: Name and logo usage
-permalink: /name-and-logo
+permalink: /name-and-logo/
 language: en
 translations:
-  nl: /naam-en-logo
+  nl: /naam-en-logo/
 ---
 
 The Privacy by Design foundation holds the rights to the IRMA name and
