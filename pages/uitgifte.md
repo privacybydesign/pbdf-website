@@ -73,13 +73,6 @@ Verkrijg: voornaam, achternaam, emailadres, instelling, medewerker/student, loka
 Opmerking: dit is een experimentele aansluiting. We ontvangen graag feedback op irma 'at' privacybydesign.foundation.
 <!-- [Meer informatie](/uitgifte-surfconext) -->
 
-**Attributen via het BIG-register --- op basis van iDIN gegevens (Experimenteel)**  
-Verkrijg: BIG-nummer, startdatum BIG-registratie, medisch beroep, medisch specialisme  
-<a class="button" href="/uitgifte/big">
-<img src="/images/big.png">Laad attributen vanuit BIG</a>  
-
-[Meer informatie](/uitgifte-big)
-
 **Attributen via het AGB-register --- uitgegeven door de stichting [nuts.nl](https://nuts.nl) vanuit Vektis**  
 Verkrijg: [AGB-code](https://www.agbcode.nl/) van een medische zorgverlener, voor declaraties, inkopen, etc.
 <a class="button" href="https://irma-agb.nuts.nl/">
@@ -91,8 +84,14 @@ Verkrijg: initialen, achternaam, geboortedatum, geslacht, adres, postcode, plaat
 <img src="/images/idin.png">Laad attributen via iDIN</a>  
 [Meer informatie](/uitgifte-idin)
 
+**Attributen via het BIG-register --- op basis van iDIN gegevens (uitgeschakeld)**  
+Verkrijg: BIG-nummer, startdatum BIG-registratie, medisch beroep, medisch specialisme  
+<a class="button" style="cursor: not-allowed;" disabled>
+<img src="/images/big.png">Laad attributen vanuit BIG</a>  
+Deze dienst is uitgezet vanwege een wijziging aan de kant van het BIG-register. Zorgprofessionals kunnen wel AGB attributen laden, zie hierboven. [Meer informatie](/uitgifte-big)
+
 **Attributen via het [diploma register van DUO](https://duo.nl/particulier/diplomas/mijn-diplomas.jsp) (tijdelijk uitgeschakeld)**  
 Verkrijg: aard en tijdstip van diploma's van school en/of studie
 <a class="button" style="cursor: not-allowed;" disabled>
 <img src="/images/diploma-logo.png">Laad attributen via DUO uittreksel</a>  
-**Deze experimentele dienst is tijdelijk uitgezet vanwege een wijziging in het uittrekselformaat van DUO.** We ontvangen graag feedback over mogelijke usecases op irma 'at' privacybydesign.foundation. ([meer informatie](/uitgifte-diploma), [toch proberen](/uitgifte/diploma))
+Deze experimentele dienst is tijdelijk uitgezet vanwege een wijziging in het uittrekselformaat van DUO. We ontvangen graag feedback over mogelijke usecases op irma 'at' privacybydesign.foundation. ([meer informatie](/uitgifte-diploma), [toch proberen](/uitgifte/diploma))

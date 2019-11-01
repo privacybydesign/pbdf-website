@@ -85,12 +85,6 @@ Attributes: given name, family name, email address, institution, staff/student, 
 <img src="/images/surfnet.png">Load attributes via SURFconext</a>  
 [More information](/issuance-surfconext)
 
-**Attributes via the BIG-register --- based on iDIN data (Experimental)**  
-Attributes: BIG-number, date of BIG-registration, medical profession, medical specialisms  
-<a class="button" href="/issuance/big">
-<img src="/images/big.png">Load attributes via BIG</a>  
-[More information](/issuance-big)
-
 **Attributen via the AGB-register --- issued by the foundation [nuts.nl](https://nuts.nl) from Vektis**  
 Attributen: [AGB-code](https://www.agbcode.nl/) of a medical professional, for declarations etc.
 <a class="button" href="https://irma-agb.nuts.nl/">
@@ -102,8 +96,14 @@ Attributes: initials, family name, date of birth, gender, address, postal code, 
 <img src="/images/idin.png">Load attributes via iDIN</a>  
 [More information](/issuance-idin)
 
+**Attributes via the BIG-register --- based on iDIN data (Experimental)**  
+Attributes: BIG-number, date of BIG-registration, medical profession, medical specialisms  
+<a class="button" style="cursor: not-allowed;" disabled>
+<img src="/images/big.png">Load attributes via BIG</a>  
+This service has been disabled due to a breaking change at the BIG-register. Medical professionals can still load AGB attributes, see above. [More information](/issuance-big)
+
 **Attributes via the [diploma register of DUO](https://duo.nl/particulier/diplomas/mijn-diplomas.jsp) (disabled temporarily)**    
 Attributes: school and/or study diploma   
 <a class="button" style="cursor: not-allowed;" disabled>
 <img src="/images/diploma-logo.png">Load attributes via DUO</a>  
-**This experimental service has been temporarily disabled due to a change in the diploma documentation by DUO.** We are happy to receive feedback about possible use-cases via irma 'at' privacybydesign.foundation. ([more information](/issuance-diploma), [try anyway](/uitgifte/diploma))
+This experimental service has been temporarily disabled due to a change in the diploma documentation by DUO. We are happy to receive feedback about possible use-cases via irma 'at' privacybydesign.foundation. ([more information](/issuance-diploma), [try anyway](/uitgifte/diploma))
