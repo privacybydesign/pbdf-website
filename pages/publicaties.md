@@ -20,6 +20,11 @@ te vinden.
 
 * [Jaarverslag 2017 en eind 2016](/pdf/jaarverslag-2017.pdf)
 
+# Presentaties
+
+* Tweakers XL meetup "Privacy and Security", 2 november 2019.
+  Sietse Ringers, *IRMA: I Reveal My Attributes*. [pdf](/pdf/Tweakers-XL-nov-20.pdf).
+
 # IRMA academische publicaties
 
 Hieronder staan (in omgekeerd chronologische volgorde) wetenschappelijke
