@@ -29,7 +29,7 @@ eigen product naam of logo is in aanvulling op bovengenoemde
 toestemming een contract nodig waarin geregeld wordt hoe de stichting
 Privacy by Design voordeel heeft van zulk gebruik.
 
-Hieronder kunt de IRMA logo's downloaden.
+Hieronder kunt u de IRMA logo's downloaden.
 
 <div class="row" style="width: 100%">
     <div class="columns" style="width: 100%">
