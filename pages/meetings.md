@@ -29,7 +29,7 @@ atmosphere is open and very much content-oriented.
    'at' privacybydesign.foundation
 
  * **Participation** is free, but registration is appreciated by
-   sending a short message to the email address: I.Haerkens 'at'
+   sending a short message to the email address: dis-secr 'at'
    cs.ru.nl
 
 
