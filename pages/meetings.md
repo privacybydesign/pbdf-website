@@ -35,10 +35,39 @@ atmosphere is open and very much content-oriented.
 
 ### Next IRMA meeting: Friday afternoon, November 29, 2019.
 
-This meeting will be organised at a location of the city of Amsterdam
-(Weesperstraat 113), from 13:30 - 17:30. Details, including a program,
-will be provided later.
+**This meeting is not in Utrecht**. This time it will be organised by
+the city of Amsterdam, at **Weesperstraat 113**, from 13:30 -
+17:30.
 
+**Afternoon programme:** 
+Several general presentations about IRMA and its applications
+
+   1. 13:30 - 14:00 "State of the IRMA", Sietse Ringers en Tomas
+      Harreveld, Privacy by Design Foundation.
+
+   2. 14:00 - 14:30 "Inwoners centraal bij het ontwerp van nieuwe
+      diensten", Mark Fonds, Ineke van Gelder, Mike Alders, 
+      Gemeente Amsterdam.
+
+   3. 14:30 - 15:00 "Proef met DigiD Bronidentiteit in combinatie met
+      IRMA", Hans Rob de Reus, Ministerie van Binnenlandse Zaken.
+
+   15:00 - 15:30 Coffee / tea break
+
+   4. 15:30 - 16:00 "Veilig Bellen", Alexander Blom, Bloqzone
+
+   5. 16:00 - 16:30 "Proof of Concept Patientauthenticatie met IRMA",
+      Marcel Settels Vereniging van Zorgaanbieders voor
+      Zorgcommunicatie (VZVZ).
+
+   6. 16:30 - 17:00 "Identity based encryption of email with IRMA",
+      Wouter Geraedts, Privacy by Design Foundation.
+
+   17:00 - 17:30 Drinks
+
+**Registration:** Participation is free, but registration is required
+for logistic reasons if you wish to enjoy the drinks, by sending an
+email to: dis-secr 'at' cs.ru.nl, before **Nov. 26**.
 
 
 ### Earlier IRMA meeting: Friday afternoon, July 5, 2019.
