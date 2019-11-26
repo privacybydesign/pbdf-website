@@ -30,12 +30,12 @@ href="/demo/student">Student check</a>
 Leeftijdscontrole
 :    <a class="button"
 href="/demo/18plus">18+ check</a> &nbsp; <a class="button"
-href="https://www.angrygames.nl/index.html">Angry Games Demo</a>
+href="https://www.angrygames.nl/index.html">Angry Games demo</a>
 
 Registratie en verificatie om online films te kijken
 :    <a class="button"
 href="/demo/irmaTube">IRMATube</a>
 
-
-
-
+Verificatie of iemand in leven is
+:    <a class="button"
+href="/demo/attestatiedevita">Attestatie de vita demo</a>

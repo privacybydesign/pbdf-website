@@ -29,10 +29,13 @@ href="/demo-en/student">Student check</a>
 
 Age verification
 :    <a class="button"
-href="/demo-en/18plus">18+ check</a>
+href="/demo-en/18plus">18+ check</a> &nbsp; <a class="button"
+href="https://www.angrygames.nl/index.html">Angry Games demo</a>
 
 Registration and verification for watching movies online
 :    <a class="button"
 href="/demo-en/irmaTube">IRMATube</a>
 
-
+Verification whether someone is being alive
+:    <a class="button"
+href="/demo-en/beingalive">Attestatio de vita demo</a>
