@@ -38,7 +38,7 @@ nl:
         url: /prijzen/
       - title: Meetings
         url: /meetings/
-      - title: Wetenschappelijke publicaties
+      - title: Publicaties
         url: /publicaties/
       - title: Technische documentatie
         url: https://irma.app/docs
@@ -106,7 +106,7 @@ en:
         url: /prizes/
       - title: Meetings
         url: /meetings/
-      - title: Scientific publications
+      - title: Publications
         url: /publications/
       - title: Technical documentation
         url: https://irma.app/docs
