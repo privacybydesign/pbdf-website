@@ -16,6 +16,17 @@ volgorde.
 
 ## Videos
 
+ * IRMA introductie over o.a. IRMA software, de technische werking
+   van IRMA sessies, een voorbeeld van hoe attributen uitgevraagd kunnen
+   worden, en bestaande IRMA attributen. Door Sietse Ringers, Tweakers
+   Meet-up XL over Privacy & Security, 2 nov. 2019.
+
+   <div style="text-align:center;margin:1.5em"> <iframe width="560"
+   height="315"
+   src="https://www.youtube-nocookie.com/embed/XTpPfd1Linc"
+   frameborder="0" allow="autoplay; encrypted-media"
+   allowfullscreen></iframe> </div>
+
  * Presentatie over Digitale Identiteiten op het [Royal
    Institution](https://www.rigb.org) in Londen, op 21 feb. 2019, door
    Bart Jacobs.
@@ -46,17 +57,6 @@ volgorde.
    <div style="text-align:center;margin:1.5em"> <iframe width="560"
    height="315"
    src="https://www.youtube-nocookie.com/embed/qEUbyLFk_IU"
-   frameborder="0" allow="autoplay; encrypted-media"
-   allowfullscreen></iframe> </div>
-
- * In het filmpje hieronder, van mei 2018, geven Brinda Hampiholi en
-   Sietse Ringers technische uitleg over de integratie van IRMA
-   attribuut-controle in een website. Voor meer informatie, zie de
-   [technische documentatie](/documentation).
-
-   <div style="text-align:center;margin:1.5em"> <iframe width="560"
-   height="315"
-   src="https://www.youtube-nocookie.com/embed/5aYQ2N7KR3c"
    frameborder="0" allow="autoplay; encrypted-media"
    allowfullscreen></iframe> </div>
 

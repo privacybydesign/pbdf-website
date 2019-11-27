@@ -16,6 +16,17 @@ Some of them are in Dutch.
 
 ## Videos
 
+ * IRMA introduction (in Dutch) about a.o. the IRMA software, technical
+   details of IRMA sessions, an example how attributes can be requested,
+   and existing IRMA attributes. By Sietse Ringers, Tweakers Meet-up XL
+   on Privacy & Security, on Nov. 2, 2019.
+
+   <div style="text-align:center;margin:1.5em"> <iframe width="560"
+   height="315"
+   src="https://www.youtube-nocookie.com/embed/XTpPfd1Linc"
+   frameborder="0" allow="autoplay; encrypted-media"
+   allowfullscreen></iframe> </div>
+
  * Presentation about Digital Identities at the [Royal
    Institution](https://www.rigb.org) in London, on Feb. 21, 2019, by
    Bart Jacobs.
@@ -46,17 +57,6 @@ Some of them are in Dutch.
    <div style="text-align:center;margin:1.5em"> <iframe width="560"
    height="315"
    src="https://www.youtube-nocookie.com/embed/qEUbyLFk_IU"
-   frameborder="0" allow="autoplay; encrypted-media"
-   allowfullscreen></iframe> </div>
-
- * In the video below, from May 2018, Brinda Hampiholi and Sietse
-   Ringers provide technical explanation about the integration of IRMA
-   attribute-verification in a website. For more information, see the
-   [technical documentation](/documentation).
-
-   <div style="text-align:center;margin:1.5em"> <iframe width="560"
-   height="315"
-   src="https://www.youtube-nocookie.com/embed/5aYQ2N7KR3c"
    frameborder="0" allow="autoplay; encrypted-media"
    allowfullscreen></iframe> </div>
 
