@@ -16,6 +16,11 @@ informatie volg IRMA op [Twitter](https://twitter.com/IRMA_privacy).
 
 ## 2019 
 
+  * Verwijzing naar IRMA in [Volkskrant
+    interview](https://www.volkskrant.nl/wetenschap/het-internet-is-stuk-maar-nog-niet-verloren~ba49e4ec/)
+    *Het internet is stuk, maar nog niet verloren* met Marleen
+    Stikker, op 31 nov. 2019
+
   * Artikel [Alibaba of
     Irma?](https://www.computable.nl/artikel/achtergrond/security/6817080/1444691/alibaba-of-irma.html)
     in [Computable](https://www.computable.nl) naar aanleiding van een

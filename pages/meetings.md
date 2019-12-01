@@ -47,7 +47,7 @@ Several general presentations about IRMA and its applications
 
    2. 14:00 - 14:30 "Inwoners centraal bij het ontwerp van nieuwe
       diensten", Mark Fonds, Ineke van Gelder, Mike Alders, 
-      Gemeente Amsterdam.
+      Gemeente Amsterdam. [[slides](../meeting-slides/slides-29-11-19/Amsterdam-Inwonerscentraal-ontwerpen-ontwikkelen.pdf)]
 
    3. 14:30 - 15:00 "Proef met DigiD Bronidentiteit in combinatie met
       IRMA", Hans Rob de Reus, Ministerie van Binnenlandse Zaken.
