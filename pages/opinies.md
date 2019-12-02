@@ -16,6 +16,12 @@ informatie volg IRMA op [Twitter](https://twitter.com/IRMA_privacy).
 
 ## 2019 
 
+  * Artikel [Sleutelen aan een digitaal
+    paspoort](https://fd.nl/beurs/1323728/sleutelen-aan-een-digitaal-paspoort)
+    in het [Financieel Dagblad](https://fd.nl/), met vermelding van
+    IRMA tussen verschillende commerci\"{e}le privacy-onvriendelijke
+    alternatieven (iDIN, Itsme), op 2 dec. 2019.
+
   * Verwijzing naar IRMA in [Volkskrant
     interview](https://www.volkskrant.nl/wetenschap/het-internet-is-stuk-maar-nog-niet-verloren~ba49e4ec/)
     *Het internet is stuk, maar nog niet verloren* met Marleen

@@ -58,7 +58,7 @@ Several general presentations about IRMA and its applications
 
    5. 16:00 - 16:30 "Proof of Concept Patientauthenticatie met IRMA",
       Marcel Settels Vereniging van Zorgaanbieders voor
-      Zorgcommunicatie (VZVZ).
+      Zorgcommunicatie (VZVZ). [[slides](../meeting-slides/slides-29-11-19/VZVZ_patientauthenticatie_POC.pdf)]
 
    6. 16:30 - 17:00 "Identity based encryption of email with IRMA",
       Wouter Geraedts, Privacy by Design Foundation.
