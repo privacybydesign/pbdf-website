@@ -61,7 +61,7 @@ Several general presentations about IRMA and its applications
       Zorgcommunicatie (VZVZ). [[slides](../meeting-slides/slides-29-11-19/VZVZ_patientauthenticatie_POC.pdf)]
 
    6. 16:30 - 17:00 "Identity based encryption of email with IRMA",
-      Wouter Geraedts, Privacy by Design Foundation.
+      Wouter Geraedts, Privacy by Design Foundation. [[slides](../meeting-slides/slides-29-11-19/IRMAseal-presentation.pdf)]
 
    17:00 - 17:30 Drinks
 
