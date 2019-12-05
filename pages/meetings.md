@@ -43,7 +43,7 @@ the city of Amsterdam, at **Weesperstraat 113**, from 13:30 -
 Several general presentations about IRMA and its applications
 
    1. 13:30 - 14:00 "State of the IRMA", Sietse Ringers en Tomas
-      Harreveld, Privacy by Design Foundation.
+      Harreveld, Privacy by Design Foundation. [[slides](../meeting-slides/slides-29-11-19/ringers-harreveld-irma.pdf)]
 
    2. 14:00 - 14:30 "Inwoners centraal bij het ontwerp van nieuwe
       diensten", Mark Fonds, Ineke van Gelder, Mike Alders, 
