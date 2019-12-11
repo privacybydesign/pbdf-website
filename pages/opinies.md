@@ -16,6 +16,16 @@ informatie volg IRMA op [Twitter](https://twitter.com/IRMA_privacy).
 
 ## 2019 
 
+  * Artikel [Omscholing: `Van trombonist naar
+    softwareontwikkelaar'](https://www.computable.nl/artikel/advertorial/sponsored/6844400/5740344/omscholing-van-trombonist-naar-softwareontwikkelaar.html)
+    over studenten van de Open Universiteit die een IRMA project doen,
+    in [Computable](https://www.computable.nl), 10 dec. 2019.
+
+  * Blog [Teken tegen
+    nepnieuws](https://ibestuur.nl/weblog/teken-tegen-nepnieuws) met
+    vermelding van IRMA, op [iBestuur.nl](https://ibestuur.nl/), 9
+    dec. 2019.
+
   * Artikel [Sleutelen aan een digitaal
     paspoort](https://fd.nl/beurs/1323728/sleutelen-aan-een-digitaal-paspoort)
     in het [Financieel Dagblad](https://fd.nl/), met vermelding van
