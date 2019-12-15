@@ -24,7 +24,11 @@ informatie volg IRMA op [Twitter](https://twitter.com/IRMA_privacy).
   * Blog [Teken tegen
     nepnieuws](https://ibestuur.nl/weblog/teken-tegen-nepnieuws) met
     vermelding van IRMA, op [iBestuur.nl](https://ibestuur.nl/), 9
-    dec. 2019.
+    dec. 2019. Deze blog is <a
+    href="https://www.netkwesties.nl/1400/teken-tegen-nepnieuws.htm">overgenomen</a>
+    door <a href="https://www.netkwesties.nl">NetKwesties</a>,
+    15/12/2019.
+
 
   * Artikel [Sleutelen aan een digitaal
     paspoort](https://fd.nl/beurs/1323728/sleutelen-aan-een-digitaal-paspoort)
