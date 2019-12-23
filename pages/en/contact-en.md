@@ -12,7 +12,7 @@ translations:
 ---
 
  * Email: info 'at' privacybydesign.foundation
- * For email addresses of the board members, see [Board](/board)
+ * For email addresses of the board members, see [People](/people)
  * Follow IRMA developments on [Twitter](https://twitter.com/IRMA_privacy)
  * Donate Bitcoins to the foundation on account/address: **13RJFgBP2XDqQDY2R3mYzwwUqwYX56AeM5**
  * Postal address: Toernooiveld 212, 6525 EC Nijmegen, The Netherlands

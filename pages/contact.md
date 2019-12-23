@@ -12,7 +12,7 @@ translations:
 ---
 
  * E-mail: info 'at' privacybydesign.foundation
- * Voor email-adressen van de bestuursleden, zie [Bestuur](/bestuur)
+ * Voor email-adressen van de bestuursleden, zie [Mensen](/mensen)
  * Volg IRMA ontwikkelingen op [Twitter](https://twitter.com/IRMA_privacy)
  * Doneer Bitcoins aan de stichting op rekening/adres: **13RJFgBP2XDqQDY2R3mYzwwUqwYX56AeM5**
  * Postadres: Toernooiveld 212, 6525 EC Nijmegen
