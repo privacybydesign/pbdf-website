@@ -84,6 +84,12 @@ Verkrijg: initialen, achternaam, geboortedatum, geslacht, adres, postcode, plaat
 <img src="/images/idin.png">Laad attributen via iDIN</a>  
 [Meer informatie](/uitgifte-idin)
 
+**Attributen via iDEAL**  
+Verkrijg: IBAN, rekeninghouder, BIC  
+<a class="button" href="/uitgifte/ideal">
+<img src="/images/ideal.png">Laad attributen via iDEAL</a>  
+[Meer informatie](/uitgifte-ideal)
+
 **Attributen via het BIG-register --- op basis van iDIN gegevens (uitgeschakeld)**  
 Verkrijg: BIG-nummer, startdatum BIG-registratie, medisch beroep, medisch specialisme  
 <a class="button" style="cursor: not-allowed;" disabled>

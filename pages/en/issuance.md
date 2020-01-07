@@ -88,13 +88,19 @@ Attributes: given name, family name, email address, institution, staff/student, 
 **Attributen via the AGB-register --- issued by the foundation [nuts.nl](https://nuts.nl) from Vektis**  
 Attributen: [AGB-code](https://www.agbcode.nl/) of a medical professional, for declarations etc.
 <a class="button" href="https://irma-agb.nuts.nl/">
-<img src="/images/agb-code.gif">Laad attributen vanuit AGB</a>  
+<img src="/images/agb-code.gif">Load attributes via AGB</a>  
 
 **Attributes via iDIN**  
 Attributes: initials, family name, date of birth, gender, address, postal code, city  
 <a class="button" href="/uitgifte/idin">
 <img src="/images/idin.png">Load attributes via iDIN</a>  
 [More information](/issuance-idin)
+
+**Attributes via iDEAL**  
+Attributes: IBAN, account holder, BIC  
+<a class="button" href="/uitgifte/ideal">
+<img src="/images/ideal.png">Load attributes via iDEAL</a>  
+[More information](/issuance-ideal)
 
 **Attributes via the BIG-register --- based on iDIN data (Experimental)**  
 Attributes: BIG-number, date of BIG-registration, medical profession, medical specialisms  
