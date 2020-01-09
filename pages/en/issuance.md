@@ -100,7 +100,8 @@ Attributes: initials, family name, date of birth, gender, address, postal code, 
 Attributes: IBAN, account holder, BIC  
 <a class="button" href="/uitgifte/ideal">
 <img src="/images/ideal.png">Load attributes via iDEAL</a>  
-[More information](/issuance-ideal)
+More information about these attributes can be found on the issuance page itself.
+This information is only available in Dutch.
 
 **Attributes via the BIG-register --- based on iDIN data (Experimental)**  
 Attributes: BIG-number, date of BIG-registration, medical profession, medical specialisms  
