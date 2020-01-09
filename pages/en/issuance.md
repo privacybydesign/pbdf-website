@@ -113,4 +113,4 @@ This service has been disabled due to a breaking change at the BIG-register. Med
 Attributes: school and/or study diploma   
 <a class="button" style="cursor: not-allowed;" disabled>
 <img src="/images/diploma-logo.png">Load attributes via DUO</a>  
-This experimental service has been temporarily disabled due to a change in the diploma documentation by DUO. We are happy to receive feedback about possible use-cases via irma 'at' privacybydesign.foundation. ([more information](/issuance-diploma), [try anyway](/uitgifte/diploma))
+This experimental service has been temporarily disabled due to a change in the diploma documentation by DUO. We are happy to receive feedback about possible use-cases via irma 'at' privacybydesign.foundation. ([more information](/issuance-diploma))
