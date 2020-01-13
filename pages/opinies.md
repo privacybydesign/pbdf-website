@@ -14,6 +14,13 @@ Deze pagina bevat (links naar) persartikelen, opinies, blogs,
 etc. over IRMA, in omgekeerde chronologische volgorde. Voor actuele
 informatie volg IRMA op [Twitter](https://twitter.com/IRMA_privacy).
 
+## 2020
+
+  * Beantwoording vragen van Tweede Kamer lid Slootweg (CDA) over
+    IRMA, 7 jan. 2020, zie [locale
+    pdf](../pdf/antwoorden-slootweg-jan-2020.pdf) en
+    [online](https://www.rijksoverheid.nl/documenten/kamerstukken/2020/01/07/beantwoording-kamervragen-over-het-bericht-dat-de-irma-app-wordt-gebruikt-in-een-huisartsenpost).
+
 ## 2019 
 
   * Artikel [Omscholing: `Van trombonist naar
