@@ -16,6 +16,16 @@ informatie volg IRMA op [Twitter](https://twitter.com/IRMA_privacy).
 
 ## 2020
 
+  * Bespreking van IRMA en andere eIDs in: Peter Olsthoorn, *Wordt de
+    burger eigen databaas?*, [iBestuur
+    magazine](https://ibestuur.nl/Bestand+downloaden/532/iBestuur_33.pdf)
+    nr. 33, jan. 2020, p.44-47.
+
+  * Korte IRMA pitch op *Sustainable Finance Lab* bijeenkomst in
+    Pakhuis de Zwijger in Amsterdam op 15 jan. 2020, zie
+    [video](https://www.youtube.com/watch?v=Rs1K4koT6oc), met IRMA
+    deel vanaf 33:30.
+
   * Beantwoording vragen van Tweede Kamer lid Slootweg (CDA) over
     IRMA, 7 jan. 2020, zie [locale
     pdf](../pdf/antwoorden-slootweg-jan-2020.pdf) en
