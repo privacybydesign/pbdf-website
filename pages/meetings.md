@@ -16,9 +16,9 @@ general and in IRMA in particular. The meetings usually draw between
 25 and 50 participants, from industry, government and academia. The
 atmosphere is open and very much content-oriented.
 
-[//]: # * **Location:** SURFnet, Hoog Overborch (Hoog Catharijne), Utrecht
-[//]: #   [route](https://www.surf.nl/over-surf/contact/routebeschrijving-surf-surfmarket-en-surfnet/index.html),
-[//]: #   about 5 min. walking distance from Utrecht Central train station
+ * **Location:** SURFnet, Hoog Overborch (Hoog Catharijne), Utrecht
+   [route](https://www.surf.nl/over-surf/contact/routebeschrijving-surf-surfmarket-en-surfnet/index.html),
+   about 5 min. walking distance from Utrecht Central train station
 
  * **Language:** mix of English and Dutch, depending on speaker and
      audience.
@@ -33,7 +33,12 @@ atmosphere is open and very much content-oriented.
    cs.ru.nl
 
 
-### Next IRMA meeting: Friday afternoon, November 29, 2019.
+### Next IRMA meeting: Friday afternoon, April 3, 2020.
+
+Details will be provided here in due course.
+
+
+### Earlier IRMA meeting: Friday afternoon, November 29, 2019.
 
 **This meeting is not in Utrecht**. This time it will be organised by
 the city of Amsterdam, at **Weesperstraat 113**, from 13:30 -
