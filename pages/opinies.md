@@ -16,6 +16,15 @@ informatie volg IRMA op [Twitter](https://twitter.com/IRMA_privacy).
 
 ## 2020
 
+  * Artikel [WDO verbeterpunten voor een
+    goed-ID](../pdf/wdo-input-pbdf.pdf) als input voor het kamerdebat
+    over het wetsvoorstel Digitale Identiteit op 30 jan. 2020, 28
+    jan. 2020.
+
+  * Aanbeveling van IRMA als eID-middel in blog [Online
+    identiteit](https://ibestuur.nl/weblog/online-identiteit) door
+    Douwe Schmidt op [ibestuur](https://ibestuur.nl), 24 jan. 2020.
+
   * Bespreking van IRMA en andere eIDs in: Peter Olsthoorn, *Wordt de
     burger eigen databaas?*, [iBestuur
     magazine](https://ibestuur.nl/Bestand+downloaden/532/iBestuur_33.pdf)
