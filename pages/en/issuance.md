@@ -48,8 +48,8 @@ Attributes (differs per network): first name, family name, email address, birth 
 <img src="/images/facebook.png">Load attributes via Facebook</a>  
 <a class="button" href="/issuance/social/twitter">
 <img src="/images/twitter.png">Load attributes via Twitter</a>  
-<!-- <a class="button" href="/issuance/social/linkedin">
-<img src="/images/linkedin.png">Load attributes via LinkedIn</a>   -->
+<a class="button" href="/issuance/social/linkedin">
+<img src="/images/linkedin.png">Load attributes via LinkedIn</a>  
 [More information](/issuance-socialmedia)
 
 **Attributes via your educational institution**  

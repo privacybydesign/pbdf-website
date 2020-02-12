@@ -53,11 +53,11 @@ Verkrijg: telefoonnummer
 **Sociaal netwerk-attributen**  
 Verkrijg (enige variatie per netwerk): voornaam, achternaam, e-mailadres, geboortedatum, gebruikersnaam  
 <a class="button" href="/uitgifte/social/facebook">
-<img src="/images/facebook.png">Laad attributen vanuit Facebook</a>
+<img src="/images/facebook.png">Laad attributen vanuit Facebook</a>  
 <a class="button" href="/uitgifte/social/twitter">
 <img src="/images/twitter.png">Laad attributen vanuit Twitter</a>  
-<!-- <a class="button" href="/uitgifte/social/linkedin">
-<img src="/images/linkedin.png">Laad attributen vanuit LinkedIn</a>   -->
+<a class="button" href="/uitgifte/social/linkedin">
+<img src="/images/linkedin.png">Laad attributen vanuit LinkedIn</a>  
 [Meer informatie](/uitgifte-socialmedia)
 
 **Attributen via uw (Nederlandse) onderwijsinstelling**  
