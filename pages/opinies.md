@@ -16,6 +16,11 @@ informatie volg IRMA op [Twitter](https://twitter.com/IRMA_privacy).
 
 ## 2020
 
+  * [Brief](../pdf/eherkenning-pbdf-maart20.pdf) van de stichting
+    Privacy by Design aan de vaste commissie financi&euml;n van de
+    Tweede Kamer over de aanschafkosten van eHerkenning en over IRMA
+    als kostenloos alternatief.
+
   * Artikel [WDO verbeterpunten voor een
     goed-ID](../pdf/wdo-input-pbdf.pdf) als input voor het kamerdebat
     over het wetsvoorstel Digitale Identiteit op 30 jan. 2020, 28
