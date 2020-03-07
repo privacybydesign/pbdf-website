@@ -61,7 +61,7 @@ atmosphere is open and very much content-oriented.
    17:00 - 18:00, offered by SURF; requires registration, see below
 	
 **Registration:** Participation is free, but requires registration, by
-sending an email to: I.Haerkens 'at' cs.ru.nl with your name and
+sending an email to: dis-secr 'at' cs.ru.nl with your name and
 intention to join. Drinks are only available if you register on or
 before **April 1**.
 
