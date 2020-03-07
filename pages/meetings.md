@@ -35,7 +35,36 @@ atmosphere is open and very much content-oriented.
 
 ### Next IRMA meeting: Friday afternoon, April 3, 2020.
 
-Details will be provided here in due course.
+**Programme:**
+
+   1. 13:30 - 14:00 "Gebruiksproeven met de nieuwe IRMA interface",
+      Mark Fonds, Gemeente Amsterdam.
+
+   2. 14:00 - 14:30 "State of the IRMA", Sietse Ringers en Tomas Harreveld,
+      Privacy by Design Foundation.
+
+   3. 14:30 - 15:00 "Remote identity vetting voor enrolment met IRMA,
+      iDIN en ReadID", Pieter van der Meulen, SURFnet
+
+      15:00 - 15:30 Koffie / thee
+
+   4. 15:30 - 16:00 "Authenticatie met IRMA binnen het ministerie van
+      justitie en veiligheid: work in progress", Bernd Keuning, JustId.
+
+   5. 16:00 - 16:30 "Van een technologische silo benadering naar een
+      'samenlevingsarchitectuur'", Steven Gort, ICTU
+
+   6. 16:30 - 17:00 "DigieSign met IRMA", Patrick Terranea, Zynyo.
+
+**Drinks:**
+
+   17:00 - 18:00, offered by SURF; requires registration, see below
+	
+**Registration:** Participation is free, but requires registration, by
+sending an email to: I.Haerkens 'at' cs.ru.nl with your name and
+intention to join. Drinks are only available if you register on or
+before **April 1**.
+
 
 
 ### Earlier IRMA meeting: Friday afternoon, November 29, 2019.
