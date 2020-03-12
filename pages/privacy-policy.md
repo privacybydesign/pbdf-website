@@ -23,7 +23,7 @@ samenwerkingsovereenkomst en een verwerkingsovereenkomst met
 Als onderdeel van deze overeenkomst is SIDN uitvoerder bij de
 registratie van nieuwe IRMA gebruikers.  Daarbij bewaart SIDN per
 gebruiker enkel een willekeurig gebruikersnaam (een pseudoniem), en,
-alleen als de gebruiker dat zelf expliciet wil, een e-mail adres, en
+alleen als de gebruiker dat zelf expliciet wil, een e-mailadres, en
 daarnaast een zeer beperkte verzameling historische gebruiksgegevens,
 zoals hieronder nader verklaard wordt.
 
@@ -41,30 +41,30 @@ beschermd met een persoonlijke PIN code. Dit vormt de grondslag voor
 de verwerking van de betreffende attributen door deze (derde)
 partijen.
 
-Door de stichting Privacy by Design en SIDN worden op drie manieren
+Door de stichtingen Privacy by Design en SIDN worden op drie manieren
 persoonsgegevens verwerkt.
 
 1. **Continu.** Bij registratie wordt voor een nieuwe gebruiker van
    IRMA een willekeurige gebruikersnaam automatisch gecreëerd. Als de
-   gebruiker daar zelf voor kiest wordt een zelfgekozen e-mail adres
+   gebruiker daar zelf voor kiest wordt een zelfgekozen e-mailadres
    aan dit account gekoppeld. Dit is echter niet noodzakelijk. Het
-   e-mail adres wordt door de SIDN bewaard en beschermd, totdat de
+   e-mailadres wordt door SIDN bewaard en beschermd, totdat de
    gebruiker de gegevens wijzigt of verwijdert of het account opheft,
    in de [mijnIRMA](/mijnirma) omgeving.
 
    De willekeurig gekozen gebruikersnaam is een pseudoniem waarmee de
-   accounts onderscheiden worden. Het (eventueel toegevoegde) e-mail
-   adres wordt gebruikt voor communicatie met de gebruiker,
+   accounts onderscheiden worden. Het (eventueel toegevoegde) e-mailadres
+   wordt gebruikt voor communicatie met de gebruiker,
    bijvoorbeeld bij login op [mijnIRMA](/mijnirma). De stichting en
-   SIDN houden het e-mail adres van een IRMA gebruiker geheim en geven
+   SIDN houden het e-mailadres van een IRMA gebruiker geheim en geven
    derden er geen toegang toe, tenzij daar een wettelijke verplichting
-   toe bestaat. De stichting en SIDN gebruiken het e-mail adres enkel
+   toe bestaat. De stichting en SIDN gebruiken het e-mailadres enkel
    ten behoeve van de functionaliteit van IRMA.
 
    Per account houden de stichting en SIDN gebruiksgegevens ("logs")
    bij. Het enige doel daarvan is om een IRMA gebruiker inzage te
-   geven in het gebruik van het eigen account dat aan het eigen e-mail
-   adres gekoppeld is, om eventueel misbruik te kunnen detecteren en
+   geven in het gebruik van het eigen account dat aan het eigen e-mailadres
+   gekoppeld is, om eventueel misbruik te kunnen detecteren en
    (vervolgens) het account af te kunnen sluiten. Met deze toegang tot
    de eigen log-gegevens geeft de stichting vorm aan het recht op
    inzage dat iedere IRMA gebruiker heeft. Deze log-gegevens worden
