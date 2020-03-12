@@ -16,6 +16,11 @@ informatie volg IRMA op [Twitter](https://twitter.com/IRMA_privacy).
 
 ## 2020
 
+  * [Brief](../pdf/eherkenning-aanbod-pbdf-maart20.pdf) van de
+    stichting Privacy by Design aan minister Knops en staatssecretaris
+    Vijlbrief met daarin een aanbod ten behoeve van gratis inloggen
+    door bedrijven.
+
   * [Brief](../pdf/eherkenning-pbdf-maart20.pdf) van de stichting
     Privacy by Design aan de vaste commissie financi&euml;n van de
     Tweede Kamer over de aanschafkosten van eHerkenning en over IRMA
