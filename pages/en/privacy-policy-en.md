@@ -16,57 +16,63 @@ The foundation is responsible for this data processing and in doing so
 abides by the General Data Protection Regulation (GDPR).
 
 The design of IRMA is such that personal data, attributes in
-particular, are stored locally at the user's side on his/her own phone
-or tablet, and not at the foundation's side on its computers. The
-foundation only stores a user's email address, if the user explicitly
-so chooses, together with a very limited set of historical usage data,
-as will be explained below.
+particular, are stored exclusively at the user's side on his/her own
+phone or tablet. The foundation has a cooperation agreement and also a
+data processing agreement with
+[SIDN](https://www.sidn.nl/en/news-and-blogs/sidn-and-privacy-by-design-join-forces-for-privacy-friendly-electronic-identities-based-on-irma).
+As part of this cooperation, SIDN handles the registration of new IRMA
+users. In this registration process SIDN only stores a user's email
+address, if the user explicitly so chooses, together with a very
+limited set of historical usage data, as will be explained below.
 
 A user of IRMA is asked to consent (agree) at every data processing
-step by the foundation. This consent forms the legal basis for the
-data processing. A user can at any stage terminate the foundation's
-processing of his/her personal data by terminating (blocking) his/her
-personal IRMA account, via the [MyIRMA](/myirma) webpage. The IRMA app
-asks the user to consent whenever attributes are received or revealed,
-via an **OK** button. The IRMA app itself is protected via a personal
-PIN code. This consent forms the legal basis for the processing or the
-relevant attributes by these (third) parties, providing or receiving
+step by the foundation, as data controller, or by SIDN as
+processor. This consent forms the legal basis for the data
+processing. A user can at any stage terminate the foundation's (and
+thereby also SIDN's) processing of his/her personal data by
+terminating (blocking) his/her personal IRMA account, via the
+[MyIRMA](/myirma) webpage. The IRMA app asks the user to consent
+whenever attributes are received or revealed, via an **OK**
+button. The IRMA app itself is protected via a personal PIN code. This
+consent forms the legal basis for the processing or the relevant
+attributes by these (third) parties, providing or receiving
 attributes.
 
-The foundation processes personal data in three different ways.
+The Privacy by Design foundation and SIDN process personal data in
+three different ways.
 
 1. **Continuously.** At registration an arbitrary username is
    automatically created for a new user of IRMA. The user can choose
    to associate a self-chosen email address with this IRMA
    account. This is not necessary, but optional. The email address is
-   stored and protected by the foundation, until the user changes or
+   stored and protected by SIDN, until the user changes or
    removes or cancels his/her account, in the [MyIRMA](/myirma)
    environment.
 
    The arbitrarily chosen username is a pseudonym that identifies an
    account at the foundation. The (optionally added) email address 
    can be used for communication with the user, for instance for
-   logging into [MyIRMA](/myirma). The foundation keeps the email
+   logging into [MyIRMA](/myirma). SIDN keeps the email
    address secret and does not share it with others, unless there is a
-   legal obligation to do so. The foundation uses the address
+   legal obligation to do so. The foundation and SIDN uses the address
    exclusively for IRMA functionality.
 
-   The foundation records usage data ("logs") per account. Its sole
-   purpose is providing an IRMA user insight in the usage of his/her
-   own account, associated with the user's email address, in order to
-   detect possible abuse and to (subsequently) block the account. With
-   this access to a user's own log data the foundation fulfills its
-   obligation to provide users insight in their own data. These log
-   data are stored and protected until they are deleted by the
-   user. The logs contain only time stamps of actions, together with
-   the kind of action that happened, such as *PIN verified* or *IRMA
-   session performed*. In particular, these logs do not contain
-   personal data, such as attributes, or information about the party
-   to which attributes are revealed, or form which attributes are
-   received. These log data are not shared with others, unless there
-   is a legal obligation to do so. When an IRMA account is terminated,
-   or when its data are removed, all these log data are immediately
-   removed by the foundation.
+   The foundation and SIDN record usage data ("logs") per account. The
+   sole purpose is providing an IRMA user with insight in the usage of
+   his/her own account, associated with the user's email address, in
+   order to detect possible abuse and to (subsequently) block the
+   account. With this access to a user's own log data the foundation
+   and SIDN fulfill their obligation to provide users insight in their
+   own data. These log data are stored and protected until they are
+   deleted by the user. The logs contain only time stamps of actions,
+   together with the kind of action that happened, such as *PIN
+   verified* or *IRMA session performed*. In particular, these logs do
+   not contain personal data, such as attributes, or information about
+   the party to which attributes are revealed, or fromm which
+   attributes are received. These log data are not shared with others,
+   unless there is a legal obligation to do so. When an IRMA account
+   is terminated, or when its data are removed, all these log data are
+   immediately removed by the foundation.
 
 2. **Incidentally.** When the [IRMA app](/download-en) crashes or
    encounters a serious problem, an error report is made and sent to
@@ -88,12 +94,8 @@ The foundation processes personal data in three different ways.
    issuance.
 
    For some forms of issuance the user is asked to first authenticate
-   with necessary attributes. For instance, for issuance of healthcare
-   professional [BIG](https://english.bigregister.nl/) attributes, the
-   name and date of birth of the user are asked first; these data are
-   necessary for searching the associated BIG registration data in the
-   BIG register. Also such necessary authentication attributes are
-   deleted immediately hereafter.
+   with necessary attributes. Such authentication attributes are also
+   deleted immediately after usage.
 
 The foundation publishes via its own
 [dashbord](https://metrics.privacybydesign.foundation/grafana/dashboard/db/irma-dashboard?orgId=1)
@@ -124,4 +126,4 @@ foundation's data processing one can also contact the [Data Protection
 Authority](https://autoriteitpersoonsgegevens.nl/en) of the
 Netherlands.
 
-Date: January 24, 2019.
+Date: March 12, 2020.

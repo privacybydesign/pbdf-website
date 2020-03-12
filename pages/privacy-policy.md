@@ -16,48 +16,55 @@ De stichting is daarbij verantwoordelijk voor de verwerking en houdt
 zich daarin aan de Algemene Verordening Gegevensbescherming (AVG).
 
 De opzet van IRMA is zodanig dat persoonsgegevens, in het bijzonder
-attributen, bij de gebruiker zelf, en niet bij de stichting,
-opgeslagen worden, in de IRMA app op de eigen telefoon of tablet.  De
-stichting bewaart per gebruiker enkel een willekeurig gebruikersnaam
-(een pseudoniem), en, alleen als de gebruiker dat zelf expliciet wil,
-een email adres, en daarnaast een zeer beperkte verzameling
-historische gebruiksgegevens, zoals hieronder nader verklaard wordt.
+attributen, exclusief bij de gebruiker zelf in de IRMA app op de eigen
+telefoon of tablet worden opgeslagen.  De stichting heeft een
+samenwerkingsovereenkomst en een verwerkingsovereenkomst met
+[SIDN](https://www.sidn.nl/nieuws-en-blogs/sidn-en-privacy-by-design-bundelen-krachten-voor-privacyvriendelijke-elektronische-identiteiten-via-irma).
+Als onderdeel van deze overeenkomst is SIDN uitvoerder bij de
+registratie van nieuwe IRMA gebruikers.  Daarbij bewaart SIDN per
+gebruiker enkel een willekeurig gebruikersnaam (een pseudoniem), en,
+alleen als de gebruiker dat zelf expliciet wil, een e-mail adres, en
+daarnaast een zeer beperkte verzameling historische gebruiksgegevens,
+zoals hieronder nader verklaard wordt.
 
 Een IRMA gebruiker wordt bij iedere verwerking door de stichting
-expliciet om toestemming gevraagd. Die toestemming vormt de wettelijke
-grondslag voor de verwerking. De gebruiker kan op ieder moment de
-verwerking door de stichting beëindigen door het eigen IRMA account op
-te heffen, via de [mijnIRMA](/mijnirma) pagina. De IRMA app vraagt de
-gebruiker bij iedere ontvangst en bij iedere onthulling van
-attributen, typisch tegenover derde partijen, ook expliciet om
-toestemming voor deze actie, niet alleen via een **OK** knop.  De IRMA
-app zelf wordt beschermd met een persoonlijke PIN code. Dit vormt de
-grondslag voor de verwerking van de betreffende attributen door deze
-(derde) partijen.
+Privacy by Design als verwerkingsverantwoordelijke, of door uitvoerder
+SIDN, expliciet om toestemming gevraagd. Die toestemming vormt de
+wettelijke grondslag voor de verwerking. De gebruiker kan op ieder
+moment de verwerking door de stichting (en daarmee ook SIDN)
+beëindigen door het eigen IRMA account op te heffen, via de
+[mijnIRMA](/mijnirma) pagina. De IRMA app vraagt de gebruiker bij
+iedere ontvangst en bij iedere onthulling van attributen, typisch
+tegenover derde partijen, ook expliciet om toestemming voor deze
+actie, niet alleen via een **OK** knop.  De IRMA app zelf wordt
+beschermd met een persoonlijke PIN code. Dit vormt de grondslag voor
+de verwerking van de betreffende attributen door deze (derde)
+partijen.
 
-Door de stichting worden op drie manieren persoonsgegevens verwerkt.
+Door de stichting Privacy by Design en SIDN worden op drie manieren
+persoonsgegevens verwerkt.
 
 1. **Continu.** Bij registratie wordt voor een nieuwe gebruiker van
    IRMA een willekeurige gebruikersnaam automatisch gecreëerd. Als de
-   gebruiker daar zelf voor kiest wordt een zelfgekozen email adres
+   gebruiker daar zelf voor kiest wordt een zelfgekozen e-mail adres
    aan dit account gekoppeld. Dit is echter niet noodzakelijk. Het
-   email adres wordt door de stichting bewaard en beschermd, totdat de
+   e-mail adres wordt door de SIDN bewaard en beschermd, totdat de
    gebruiker de gegevens wijzigt of verwijdert of het account opheft,
    in de [mijnIRMA](/mijnirma) omgeving.
 
    De willekeurig gekozen gebruikersnaam is een pseudoniem waarmee de
-   stichting accounts onderscheidt. Het (eventueel toegevoegde) email
+   accounts onderscheiden worden. Het (eventueel toegevoegde) e-mail
    adres wordt gebruikt voor communicatie met de gebruiker,
-   bijvoorbeeld bij login op [mijnIRMA](/mijnirma). De stichting houdt
-   het email adres van een IRMA gebruiker geheim en geeft derden er
-   geen toegang toe, tenzij daar een wettelijke verplichting toe
-   bestaat. De stichting gebruikt het email adres enkel ten behoeve
-   van de functionaliteit van IRMA.
+   bijvoorbeeld bij login op [mijnIRMA](/mijnirma). De stichting en
+   SIDN houden het e-mail adres van een IRMA gebruiker geheim en geven
+   derden er geen toegang toe, tenzij daar een wettelijke verplichting
+   toe bestaat. De stichting en SIDN gebruiken het e-mail adres enkel
+   ten behoeve van de functionaliteit van IRMA.
 
-   Per account houdt de stichting gebruiksgegevens ("logs") bij. Het
-   enige doel daarvan is om een IRMA gebruiker inzage te geven in het
-   gebruik van het eigen account dat aan het eigen email adres
-   gekoppeld is, om eventueel misbruik te kunnen detecteren en
+   Per account houden de stichting en SIDN gebruiksgegevens ("logs")
+   bij. Het enige doel daarvan is om een IRMA gebruiker inzage te
+   geven in het gebruik van het eigen account dat aan het eigen e-mail
+   adres gekoppeld is, om eventueel misbruik te kunnen detecteren en
    (vervolgens) het account af te kunnen sluiten. Met deze toegang tot
    de eigen log-gegevens geeft de stichting vorm aan het recht op
    inzage dat iedere IRMA gebruiker heeft. Deze log-gegevens worden
@@ -93,13 +100,9 @@ Door de stichting worden op drie manieren persoonsgegevens verwerkt.
    uitgifte.
 
    Voor sommige vormen van uitgifte wordt de gebruiker eerst gevraagd
-   zichzelf met noodzakelijke attributen te
-   authenticeren. Bijvoorbeeld voor uitgifte van
-   [BIG](https://www.bigregister.nl/) attributen worden eerst de naam
-   en geboortedatum van de gebruiker gevraagd; deze gegevens zijn
-   noodzakelijk om in het BIG-register te zoeken naar een bijbehorende
-   BIG-registratie. Ook deze noodzakelijke authenticatie attributen
-   van de gebruiker worden hierna terstond verwijderd.
+   zichzelf met noodzakelijke attributen te authenticeren. Ook deze
+   noodzakelijke authenticatie attributen van de gebruiker worden
+   hierna terstond verwijderd.
 
 De stichting maakt via een eigen
 [dashbord](https://metrics.privacybydesign.foundation/grafana/dashboard/db/irma-dashboard?orgId=1)
@@ -114,7 +117,7 @@ het totaal aantal transacties per tijdseenheid (dag, maand of jaar).
 De [privacybydesign.foundation](https://privacybydesign.foundation)
 website staat onder beheer van de stichting Privacy by Design. De
 stichting verzamelt geen gegevens van bezoekers en plaatst geen
-cookies. Ook verzamelt de stichting geen contact gegevens (zoals
+cookies. Ook verzamelt de stichting geen contactgegevens (zoals
 IP-adressen) van de IRMA apps die contact leggen met de stichting.
 
 Technische veranderingen in het IRMA systeem, of eventuele nieuwe
@@ -130,4 +133,4 @@ over de verwerking van gegevens door de stichting kan ook contact
 opgenomen worden met de [Autoriteit
 Persoonsgegevens](https://autoriteitpersoonsgegevens.nl).
 
-Datum: 24 januari 2019.
+Datum: 12 maart 2020.
