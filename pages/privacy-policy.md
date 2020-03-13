@@ -18,7 +18,7 @@ zich daarin aan de Algemene Verordening Gegevensbescherming (AVG).
 De opzet van IRMA is zodanig dat persoonsgegevens, in het bijzonder
 attributen, exclusief bij de gebruiker zelf in de IRMA app op de eigen
 telefoon of tablet worden opgeslagen.  De stichting heeft een
-samenwerkingsovereenkomst en een verwerkingsovereenkomst met
+samenwerkingsovereenkomst en een verwerkersovereenkomst met
 [SIDN](https://www.sidn.nl/nieuws-en-blogs/sidn-en-privacy-by-design-bundelen-krachten-voor-privacyvriendelijke-elektronische-identiteiten-via-irma).
 Als onderdeel van deze overeenkomst is SIDN uitvoerder bij de
 registratie van nieuwe IRMA gebruikers.  Daarbij bewaart SIDN per
