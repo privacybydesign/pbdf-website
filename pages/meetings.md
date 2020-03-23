@@ -33,7 +33,7 @@ atmosphere is open and very much content-oriented.
    cs.ru.nl
 
 
-### Next IRMA meeting: Friday afternoon, April 3, 2020.
+### Next IRMA meeting: Friday afternoon, July 3, 2020.
 
 **Programme:**
 
