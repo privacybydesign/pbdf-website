@@ -10,6 +10,7 @@ stages:
 
 before_script:
   - set -euxo pipefail
+  - gem install bundler -v "~>1.0"
   - bundle install --path vendor
 
 site:
