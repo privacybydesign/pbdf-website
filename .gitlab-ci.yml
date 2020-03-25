@@ -16,6 +16,8 @@ before_script:
 site:
   stage: build
   artifacts:
+    # Disabling artifact expiry is not supported yet, so make
+    expire_in: 100 year
     paths:
       - _site/*
   script:
