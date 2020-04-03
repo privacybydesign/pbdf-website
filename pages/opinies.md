@@ -16,6 +16,13 @@ informatie volg IRMA op [Twitter](https://twitter.com/IRMA_privacy).
 
 ## 2020
 
+  * Artikel [Gemeenten laten inwoners bellen via identiteitsplatform
+    IRMA](https://www.security.nl/posting/650439/Gemeenten+laten+inwoners+bellen+via+identiteitsplatform+IRMA)
+    op [security.nl](https://www.security.nl/), 2 april 2020. Zie ook
+    het SIDN Persbericht [Privacyvriendelijk bellen met je gemeente
+    dankzij
+    IRMA](https://www.sidn.nl/nieuws-en-blogs/privacyvriendelijk-bellen-met-je-gemeente-dankzij-irma).
+
   * [Brief](../pdf/eherkenning-aanbod-pbdf-maart20.pdf) van de
     stichting Privacy by Design aan minister Knops en staatssecretaris
     Vijlbrief met daarin een aanbod ten behoeve van gratis inloggen
