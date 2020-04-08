@@ -16,6 +16,11 @@ informatie volg IRMA op [Twitter](https://twitter.com/IRMA_privacy).
 
 ## 2020
 
+  * Interview in programma [ZOOM: nog nooit zo populair nog nooit
+    zoveel
+    kritiek](https://www.bnr.nl/podcast/digitaal/10407276/zoom-nog-nooit-zo-populair-nog-nooit-zoveel-kritiek)
+    in radio programma BRN Digitaal, op 8 april 2020.
+
   * Artikel [Gemeenten laten inwoners bellen via identiteitsplatform
     IRMA](https://www.security.nl/posting/650439/Gemeenten+laten+inwoners+bellen+via+identiteitsplatform+IRMA)
     op [security.nl](https://www.security.nl/), 2 april 2020. Zie ook
