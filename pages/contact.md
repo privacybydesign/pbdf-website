@@ -18,5 +18,6 @@ translations:
  * Postadres: Toernooiveld 212, 6525 EC Nijmegen
  * Kamer van Koophandel registratie: 67144128; ; fiscaal (RSIN) number: 856848359
  * Bank rekening: NL54 INGB 0007522950
+ * BIC: INGBNL2A
  * BTW nr: NL856848359B01
  * Oprichtingsdatum: 25 okt. 2016
