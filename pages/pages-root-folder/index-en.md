@@ -11,11 +11,10 @@ homepage: true
 image:
   title: pbd.png
 widget1:
-  title: IRMA at Royal Institution
-  url: https://www.rigb.org/whats-on/events-2019/february/public-electronic-identities
-  text: Watch over an hour long presentation about digital identities, including IRMA, at London's Royal Institution, with much background information
-  # image: ri-video-youtube.png
-  video: <a href="#" data-reveal-id="videoRI"><img src="https://privacybydesign.foundation/images/ri-video-youtube.png" width="302" height="182" alt="/images/ri-video-youtube.png"/></a>
+  title: Video calls with certainty
+  url: https://irma-meet.nl
+  image: irma-meet.svg
+  text: "Sometimes you do not already know people in video calls, but you do need to be certain. IRMA supports a new service for authenticated video calls."
 widget2:
   title: BRP attributes in IRMA
   url: /issuance-brp/

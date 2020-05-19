@@ -15,10 +15,10 @@ widget1:
   image: nijmegen_logo_inverted.png
   text: Elke burger in Nederland kan IRMA attributen vanuit de basisregistratie personen in de eigen <a href="https://irma.app/">IRMA app</a> laden. Dit werkt via een DigiD login bij de gemeene Nijmegen. Dit wordt door tientallen gemeenten gesteund. Hier kunnen veel nieuwe IRMA toepassingen, bijv. in de zorg, op voortbouwen.
 widget2:
-  title: Onderzoek naar digitale identiteit met IRMA
-  url: https://omooc.nl/inzicht/digitale-identiteit/
-  text: "Wouter Welling van het ministerie van Binnenlandse Zaken onderzoekt voor OMOOC digitale identiteit en IRMA, en interviewt Bart Jacobs, Marleen Stikker en Martijn van der Linden."
-  video: <a href="#" data-reveal-id="videoModal"><img src="/images/omooc-digitale-identiteit-youtube.png" width="302" height="182" alt=""/></a>
+  title: Weet met wie je video belt
+  url: https://irma-meet.nl
+  image: irma-meet.svg
+  text: "Soms ken je mensen niet van te voren in een video gesprek en is zekerheid over wie ze zijn belangrijk. IRMA geeft die zekerheid in een nieuwe dienst voor geautheniceerde video gesprekken."
 widget3:
   title: IRMA wint Internet Innovatie Award 2019
   url: https://awards.isoc.nl/innovatie/2019/
