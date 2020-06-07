@@ -11,15 +11,15 @@ homepage: true
 image:
   title: pbd.png
 widget1:
+  title: Renewed IRMA app
+  url: https://irma.app/?lang=en
+  image: screenshot-en.png
+  text: The IRMA app has a completely renewed interface, with personal data conveniently organised in cards. Try it yourself!
+widget2:
   title: Video calls with certainty
   url: https://irma-meet.nl
   image: irma-meet.svg
   text: "Sometimes you do not already know people in video calls, but you do need to be certain. IRMA supports a new service for authenticated video calls."
-widget2:
-  title: BRP attributes in IRMA
-  url: /issuance-brp/
-  image: nijmegen_logo_inverted.png
-  text: Everyone in the Netherlands can load IRMA attributes from the Dutch Civil Registry (BRP) into their own IRMA app. This works via a DigiD login at the city of Nijmegen, with support of dozens of other municipalities. This opens a wide array of new IRMA applications.
 widget3:
   title: IRMA itself
   url: /irma-en/
