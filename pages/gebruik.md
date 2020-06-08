@@ -4,28 +4,37 @@ header:
   image_fullwidth: header_poly2.png
   title: IRMA gebruik
 permalink: /gebruik/
+language: nl
+translations:
+  en: /usage
+
 ---
-IRMA heeft zich de afgelopen jaren ontwikkeld van een academisch
-experiment tot een bruikbare oplossing voor privacy-vriendelijk
-identity management. Echter, IRMA staat nog in de kinderschoenen.
-Veel gebruikservaring moet nog opgebouwd worden.
 
-Desondanks worden nu experimenten opgezet met verschillende partners
-in de volgende sectoren.
+Ziehier een lijstje van websites waar IRMA nu gebruikt kan worden om
+in te loggen.
 
-* hoger onderwijs
-* pati&euml;ntenzorg
-* toegang tot huizen van de toekomst
+  * [IRMA-meet](https://irma-meet.nl/) voor videobellen waarbij de
+    deelnemers eerst moeten bewijzen wie ze zijn.
 
-Er is een experimentele aansluiting gerealiseerd van IRMA op het
-authenticatie systeem [iDIN](http://www.idin.nl) van de banken,
-waarmee attributen die door een bank verschaft zijn in een IRMA app op
-de telefoon geladen kunnen worden. Deze aansluiting wordt op dit
-moment geprofessionaliseerd.
+  * [Helder.health](https://helder.health/) voor artsen om toegang te
+    krijgen tot medische dossiers van pati&euml;nten.
 
-Het is echter al goed mogelijk zelf met de [IRMA
-app](https://play.google.com/store/apps/details?id=org.irmacard.cardemu)
-te experimenteren, bijvoorbeeld op de volgende webpagina.
+  * [Ivido](https://ivido.nl/) een persoonlijke gezondheidsomgeving
+    (PGO) voor iedereen die zich aanmeldt.
 
-* [demo](https://demo.irmacard.org/)
+  * [Declaratie bij VGZ](https://www.vgz.nl/irma#/) voor
+    zaakwaarnemers.
+
+  * [030 IRMA](https://www.030irma.nl/) voor het toevoegen van
+    persoonsgegevens aan een pdf document.
+
+  * [MijnIRMA](https://privacybydesign.foundation/mijnirma/) voor het
+    beheer van de eigen IRMA app en inzien van het gebruik ervan.
+
+Deze lijst is ongetwijfeld niet volledig. Laat het vooral weten als er
+(stabiele) IRMA toepassingen zijn die hier ontbreken (op: irma 'at'
+privacybydesign.foundation).
+
+Op een aparte pagina zijn ook [demo's](/demo) van het gebruik van IRMA
+beschikbaar.
 

@@ -21,11 +21,14 @@ widget2:
   image: irma-meet.svg
   text: "Sometimes you do not already know people in video calls, but you do need to be certain. IRMA supports a new service for authenticated video calls."
 widget3:
-  title: IRMA itself
-  url: /irma-en/
-  text: IRMA is the unique platform that makes you digitally <em>self-sovereign</em> and gives you full control over your personal data&#58; with IRMA on your phone you are empowered not only to prove who you are, but also to digitally sign statements.
+  title: IRMA usage 
+  url: /usage
+  image: irma_logo-02.png
+  text: "An overview of websites where IRMA can now be used for login."
+  # url: /irma-en/
+  # text: IRMA is the unique platform that makes you digitally <em>self-sovereign</em> and gives you full control over your personal data&#58; with IRMA on your phone you are empowered not only to prove who you are, but also to digitally sign statements.
   # image: irma-video-youtube.png
-  video: <a href="#" data-reveal-id="videoModal"><img src="/images/irma-video-youtube.png" width="302" height="182" alt=""/></a>
+  # video: <a href="#" data-reveal-id="videoModal"><img src="/images/irma-video-youtube.png" width="302" height="182" alt=""/></a>
   # title: Cooperation with SIDN
   # url: https://www.sidn.nl/a/internet-security/why-would-you-share-more-data-than-you-need-to?language_id=2
   # image: SIDN-IRMA-signing-3-12-2018.jpg

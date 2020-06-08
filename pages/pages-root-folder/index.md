@@ -20,10 +20,10 @@ widget2:
   image: irma-meet.svg
   text: "Soms ken je mensen niet van te voren in een video gesprek en is zekerheid over wie ze zijn belangrijk. IRMA geeft die zekerheid in een nieuwe dienst voor geautheniceerde video gesprekken."
 widget3:
-  title: IRMA wint Internet Innovatie Award 2019
-  url: https://awards.isoc.nl/innovatie/2019/
-  image: isoc-prijs.jpg
-  text: "De stichting Privacy by Design heeft de Internet Innovatie Award 2019 van de Internet Society gewonnen voor het identiteitsplatform IRMA."
+  title: Overzicht IRMA gebruik
+  url: /gebruik
+  image: irma_logo-02.png
+  text: "Een overzicht van websites waar IRMA nu gebruikt wordt om in te loggen."
 ---
 
 ### Stichting Privacy by Design

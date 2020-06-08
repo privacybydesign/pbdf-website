@@ -16,6 +16,13 @@ informatie volg IRMA op [Twitter](https://twitter.com/IRMA_privacy).
 
 ## 2020
 
+  * Artikel [Privacyvriendelijke authenticatieapp IRMA krijgt nieuw
+    uiterlijk](https://tweakers.net/nieuws/168124/privacyvriendelijke-authenticatieapp-irma-krijgt-nieuw-uiterlijk.html)
+    op tech website [Tweakers](https://tweakers.net) over de geheel
+    vernieuwde IRMA app, gebaseerd op het
+    [persbericht](https://www.sidn.nl/nieuws-en-blogs/app-privacyvriendelijk-identiteitsplatform-irma-vernieuwd)
+    van SIDN, 8 juni 2020.
+
   * Interview in programma [ZOOM: nog nooit zo populair nog nooit
     zoveel
     kritiek](https://www.bnr.nl/podcast/digitaal/10407276/zoom-nog-nooit-zo-populair-nog-nooit-zoveel-kritiek)
