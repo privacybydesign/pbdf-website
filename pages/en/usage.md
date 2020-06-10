@@ -18,7 +18,7 @@ Below is a list of websites where IRMA can now be used for login.
   * [Helder.health](https://helder.health/) for medical doctors to
     get access to the dossiers of patients.
 
-  * [Ivido](https://ivido.nl/) a personal health environment for 
+  * [Ivido](https://platform.ivido.nl/) a personal health environment for 
     everyone who signs up.
 
   * [VGZ](https://www.vgz.nl/irma#/) for medical cost declarations by

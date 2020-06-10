@@ -19,7 +19,7 @@ in te loggen.
   * [Helder.health](https://helder.health/) voor artsen om toegang te
     krijgen tot medische dossiers van pati&euml;nten.
 
-  * [Ivido](https://ivido.nl/) een persoonlijke gezondheidsomgeving
+  * [Ivido](https://platform.ivido.nl/) een persoonlijke gezondheidsomgeving
     (PGO) voor iedereen die zich aanmeldt.
 
   * [Declaratie bij VGZ](https://www.vgz.nl/irma#/) voor
