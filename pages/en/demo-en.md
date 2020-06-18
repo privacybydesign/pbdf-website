@@ -9,9 +9,10 @@ translations:
   nl: /demo
 ---
 
-This page describes how IRMA can be used to disclose attributes for
-different purposes. With each of the buttons below additional
-information is provided.
+This page describes different possible applications of IRMA, both for
+disclosing relevant information about yourself and for digital
+signing. With each of the buttons below additional information is
+provided.
 
 Log in with e-mail address
 :   <a class="button" href="/demo-en/mail">E-mail log in</a>

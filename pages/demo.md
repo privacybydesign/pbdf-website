@@ -9,9 +9,10 @@ translations:
   en: /demo-en
 ---
 
-Deze pagina beschrijft hoe IRMA gebruikt kan worden om attributen voor
-verschillende doeleinden te onthullen. Bij ieder van de onderstaande
-knoppen wordt verdere uitleg gegeven.
+Deze pagina geeft uitleg over verschillende mogelijke toepassingen van
+IRMA, om jezelf bekend te maken maar ook om zelf een digitale
+handtekeningen te zetten.  Bij ieder van de onderstaande knoppen wordt
+verdere uitleg gegeven.
 
 Login met e-mail adres
 :   <a class="button" href="/demo/mail">E-mail login</a>
