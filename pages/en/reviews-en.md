@@ -12,6 +12,12 @@ translations:
 
 This page contains privacy and security reviews of the IRMA platform.
 
+ * [Code audit](/reviews/irmago-gabi-audit) of the [irmago](https://github.com/privacybydesign/irmago) and
+   [gabi](https://github.com/privacybydesign/gabi) source code repositories
+   (which implement a.o. the IRMA server, the core of the IRMA app, and the
+   IRMA cryptography). Performed by Stef Marsiske and Jonathan Levin of
+   [Radically Open Security](https://radicallyopensecurity.com/).
+   Accompanying [reaction](/reviews/irmago-gabi-audit-reaction) by [Sietse Ringers](/people#developers).
  * [Dataprotection Impact Assessment](../pdf/DPIA-IRMA-dec-2018.pdf),
    carried out by PhD students Katerina Demetzou and [Tim
    Walree](https://www.ru.nl/english/people/walree-t/) of the
