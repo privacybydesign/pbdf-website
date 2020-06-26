@@ -33,9 +33,14 @@ atmosphere is open and very much content-oriented.
    cs.ru.nl
 
 
-### Next IRMA meeting: Friday afternoon, July 3, 2020.
+### **Cancelled:** IRMA meeting: Friday afternoon, July 3, 2020.
 
-**Programme:**
+Due to Covid-19 restrictions this meeting is postponed until after the
+summer.
+
+<!--- 
+
+**Programme:** 
 
    1. 13:30 - 14:00 "Gebruiksproeven met de nieuwe IRMA interface",
       Mark Fonds, Gemeente Amsterdam.
@@ -64,6 +69,8 @@ atmosphere is open and very much content-oriented.
 sending an email to: dis-secr 'at' cs.ru.nl with your name and
 intention to join. Drinks are only available if you register on or
 before **April 1**.
+
+--->
 
 
 
