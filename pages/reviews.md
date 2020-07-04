@@ -13,13 +13,15 @@ translations:
 Deze pagina beschrijft reviews van het IRMA platform, op het gebied
 van privacy en security.
 
- * [Code audit](/reviews/irmago-gabi-audit) (Engels) van de
+ * [Code audit](/pdf/irmago-gabi-audit-report.pdf) (Engels) van de
    [irmago](https://github.com/privacybydesign/irmago) and
    [gabi](https://github.com/privacybydesign/gabi) broncode
    (waarin onder andere de IRMA server, kern van de IRMA app, en de IRMA cryptografie
    zijn geïmplementeerd). Uitgevoerd door Stef Marsiske en Jonathan Levin van
-   [Radically Open Security](https://radicallyopensecurity.com/).
-   Begeleidende [reactie](/reviews/irmago-gabi-audit-reaction) (Engels) van [Sietse Ringers](/mensen#ontwikkelaars).
+   [Radically Open Security](https://radicallyopensecurity.com/)
+   (zie ook hun [notities](/reviews/irmago-gabi-audit) (Engels)).
+   Begeleidende [reactie](/reviews/irmago-gabi-audit-reaction)
+   (Engels) van [Sietse Ringers](/mensen#ontwikkelaars).
  * [Effectbeoordeling
    gegevensbescherming](../pdf/DPIA-IRMA-dec-2018.pdf), uitgevoerd
    door promovendi Katerina Demetzou en [Tim
