@@ -35,3 +35,6 @@ Undoubtedly, this list is not complete. Please inform us about missing
 
 There is a separate page for IRMA [demos](/demo-en).
 
+Our *preferred partner* for development and integration of
+IRMA-applications is [Tweede Golf](https://tweedegolf.nl/).
+
