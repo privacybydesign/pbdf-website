@@ -16,7 +16,17 @@ informatie volg IRMA op [Twitter](https://twitter.com/IRMA_privacy).
 
 ## 2020
 
-  * Artikel [Privacyvriendelijke authenticatieapp IRMA krijgt nieuw
+
+  * [Aankondiging](https://www.drechtsteden.nl/Drechtsteden/ID_Bellen)
+    van drie gemeenten (Arnhem, Nijmegen en de Drechtsteden) die
+    werken aan het project *ID-bellen* waarmee je via de telefoon (met
+    IRMA) kunt bewijzen wie je bent. Zie ook berichtgeving op
+    [security.nl](https://www.security.nl/posting/650439/Gemeenten+laten+inwoners+bellen+via+identiteitsplatform+IRMA)
+    van 2 april 2020 en het
+    [persbericht](https://www.drechtsteden.nl/Nieuws/Innovatiebudget_voor_ID_Contact)
+    voor een opvolg project *ID-contact* dat subsidie krijgt van het
+    ministerie van Binnenlandse zaken.  * Artikel [Privacyvriendelijke
+    authenticatieapp IRMA krijgt nieuw
     uiterlijk](https://tweakers.net/nieuws/168124/privacyvriendelijke-authenticatieapp-irma-krijgt-nieuw-uiterlijk.html)
     op tech website [Tweakers](https://tweakers.net) over de geheel
     vernieuwde IRMA app, gebaseerd op het
