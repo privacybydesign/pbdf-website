@@ -16,6 +16,11 @@ informatie volg IRMA op [Twitter](https://twitter.com/IRMA_privacy).
 
 ## 2020
 
+  * [Persbericht](https://www.ru.nl/fnwi/onderzoek/radboud-innovation-science/nieuwsberichten-ris/2020/interdisciplinaire-samenwerking-encryption-4-all/)
+    *Interdisciplinaire samenwerking Encryption 4 All van start* van
+    de Radboud Universiteit over de aanvang van een nieuw groot NWO
+    project over gebruiksvriendelijke versleuteling van e-mail via
+    IRMA, 23 juni 2020.
 
   * [Aankondiging](https://www.drechtsteden.nl/Drechtsteden/ID_Bellen)
     van drie gemeenten (Arnhem, Nijmegen en de Drechtsteden) die
