@@ -42,8 +42,12 @@ privacybydesign.foundation).
 Op een aparte pagina zijn ook [demo's](/demo) van het gebruik van IRMA
 beschikbaar.
 
-Onze *preferred partner* voor ontwikkeling en integratie van
-IRMA-toepassingen is [Tweede Golf](https://tweedegolf.nl/).
+Onze *preferred partners* 
+
+* voor ontwikkeling en integratie van IRMA-toepassingen: [Tweede
+  Golf](https://tweedegolf.nl/)
+
+* voor user experience (UX) / design: [informaat](https://informaat.nl/nl)
 
 
 

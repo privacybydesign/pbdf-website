@@ -39,6 +39,10 @@ Undoubtedly, this list is not complete. Please inform us about missing
 
 There is a separate page for IRMA [demos](/demo-en).
 
-Our *preferred partner* for development and integration of
-IRMA-applications is [Tweede Golf](https://tweedegolf.nl/).
+Our *preferred partners* 
+
+* for development and integration of IRMA-applications: [Tweede
+  Golf](https://tweedegolf.nl/)
+
+* for user experience (UX) / design: [informaat](https://informaat.nl/en)
 

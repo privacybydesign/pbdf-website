@@ -68,18 +68,20 @@ ontwikkeling van de software and de webpagina's van de stichting.
 
 #### Actieve ontwikkelaars
 
-* Fabian van den Broek
-* Joost van Dijk
-* Tomas Harreveld
-* Koen van Ingen
-* Bart Jacobs
-* Ayke van Laethem
 * Sietse Ringers
-* Hanna Schraffenberger
 * David Venhoek
+* Ivar Derksen
+* Leon Botros
+* Hanna Schraffenberger
+* Fabian van den Broek
+* Tomas Harreveld
+* Bart Jacobs
 
 #### Voormalige ontwikkelaars
 
+* Ayke van Laethem
+* Koen van Ingen
+* Joost van Dijk
 * [Maarten Everts](https://nn8.nl/)
 * Wouter Lueks
 * Roland van Rijswijk-Deij
