@@ -46,3 +46,5 @@ Our *preferred partners*
 
 * for user experience (UX) / design: [informaat](https://informaat.nl/en)
 
+* for managed hosting: [ProcoliX](https://www.procolix.com/)
+
