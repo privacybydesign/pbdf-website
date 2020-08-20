@@ -10,7 +10,13 @@ translations:
   nl: /reviews/
 ---
 
-This page contains privacy and security reviews of the IRMA platform.
+This page contains privacy and security reviews/audits of the IRMA platform.
+
+ * [Stress
+   test](https://www.sidn.nl/nieuws-en-blogs/infrastructuur-voor-irma-app-klaar-voor-grootschalige-inzet)
+   of the IRMA infrastructure (backbone), which is hosted by
+   [SIDN](https://www.sidn.nl), aug. 2020. Brief conclusion: IRMA is
+   ready for wide-scale deployment.
 
  * [Code audit](/pdf/irmago-gabi-audit-report.pdf) of the
    [irmago](https://github.com/privacybydesign/irmago) and
@@ -21,6 +27,7 @@ This page contains privacy and security reviews of the IRMA platform.
    (see also their [notes](/reviews/irmago-gabi-audit)).
    Accompanying [reaction](/reviews/irmago-gabi-audit-reaction) by
    [Sietse Ringers](/people#developers).
+
  * [Dataprotection Impact Assessment](../pdf/DPIA-IRMA-dec-2018.pdf),
    carried out by PhD students Katerina Demetzou and [Tim
    Walree](https://www.ru.nl/english/people/walree-t/) of the
