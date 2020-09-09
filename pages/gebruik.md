@@ -16,6 +16,9 @@ in te loggen.
   * [IRMA-meet](https://irma-meet.nl/) voor videobellen waarbij de
     deelnemers eerst moeten bewijzen wie ze zijn.
 
+  * [ID-bellen](https://www.idbellen.nl/) voor (mobiel) bellen met je
+    gemeente waarbij bellers eerst met IRMA bewijzen wie ze zijn.
+
   * [Helder.health](https://helder.health/) voor artsen om toegang te
     krijgen tot medische dossiers van pati&euml;nten.
 
