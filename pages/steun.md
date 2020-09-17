@@ -72,4 +72,41 @@ bijstaan.  Financiële bijdragen zullen enkel in lijn met de
 de stichting besteed worden. De stichting publiceert een jaarverslag
 met daarin een financiële verantwoording.
 
+<fieldset id="donation">
+    <legend>Doneren</legend>
+    <div id="donation-loading" class="panel callout hide">
+      Verbinden met uw bank...
+    </div>
+    <div id="donation-failed" class="alert-box alert hide">
+        Er is een fout opgetreden. Probeer het later opnieuw.
+    </div>
+    <div id="donation-cancelled" class="alert-box warning hide">
+       Donatie is geannuleerd.
+    </div>
+    <p id="donation-success" class="hide">
+        Bedankt voor uw donatie!
+    </p>
+    <form id="donation-form" class="hide" onsubmit="return false;">
+        <div>
+            <label>Kies uw bank
+                <select id="donation-select-bank" required>
+                    <option disabled value="">Laden...</option>
+                </select>
+            </label>
+            <small class="error hide">Vereist</small>
+        </div>
+        <div>
+            <label>Kies donatie
+                <select id="donation-select-amount" required>
+                    <option disabled value="">Laden...</option>
+                </select>
+            </label>
+            <small class="error hide">Vereist</small>
+        </div>
+        <div class="text-right">
+            <input type="submit" id="donation-submit" class="button" value="Start betaling"/>
+        </div>
+    </form>
+</fieldset>
 
+<script src="/assets/js/donation.js" defer></script>
