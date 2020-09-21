@@ -24,9 +24,11 @@ Below is a list of websites where IRMA can now be used for login.
   * [Ivido](https://platform.ivido.nl/) a personal health environment for 
     everyone who signs up.
 
-  * [Medipark Uden](https://medipark.hix365.nl/) a cooperation of
-    five general practioners, supported by
-    [Chipsoft](https://www.chipsoft.nl/nieuws/371/Medipark-Uden-live-met-HiX).
+  * General Practioners [Medipark Uden](https://medipark.hix365.nl/)
+    en [1e
+    lijn](https://1elijn.praktijkinfo.nl/onlinepatientomgeving/) en
+    [Snelder](https://mijn.huisartsenpraktijksnelder.nl/), supported
+    by [Chipsoft](https://www.chipsoft.nl).
 
   * [VGZ](https://www.vgz.nl/irma#/) for medical cost declarations by
     representatives.

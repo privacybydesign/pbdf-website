@@ -25,9 +25,10 @@ in te loggen.
   * [Ivido](https://platform.ivido.nl/) een persoonlijke gezondheidsomgeving
     (PGO) voor iedereen die zich aanmeldt.
 
-  * [Medipark Uden](https://medipark.hix365.nl/) een samenwerking
-    tussen vijf huisartsenpraktijken, ondersteund door
-    [Chipsoft](https://www.chipsoft.nl/nieuws/371/Medipark-Uden-live-met-HiX).
+  * Huisartspraktijken [Medipark Uden](https://medipark.hix365.nl/) en
+    [1e lijn](https://1elijn.praktijkinfo.nl/onlinepatientomgeving/)
+    en [Snelder](https://mijn.huisartsenpraktijksnelder.nl/),
+    ondersteund door [Chipsoft](https://www.chipsoft.nl).
 
   * [Declaratie bij VGZ](https://www.vgz.nl/irma#/) voor
     zaakwaarnemers.
