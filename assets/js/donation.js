@@ -1,3 +1,7 @@
+var config = {
+  idealServer: '/ideal-issuer/api/v1/ideal/',
+};
+
 function insertBanksIntoForm(data, select) {
   // clear existing data ('Loading...')
   select.empty();
@@ -188,5 +192,4 @@ function init() {
   $('#donation-submit').click(startIDealTransaction);
 }
 
-$.getScript('/assets/js/config.js')
-  .then(init);
+init();
