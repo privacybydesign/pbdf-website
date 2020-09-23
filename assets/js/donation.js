@@ -172,7 +172,7 @@ function init() {
     })
     .fail(function () {
       selectBank.empty();
-      selectBank.append($('<option selected disabled hidden>Failed to load bank list</option>'));
+      selectBank.append($('<option selected disabled hidden>Fout bij het laden</option>'));
     });
 
   // Fetch the list of allowed payment amounts
@@ -185,7 +185,7 @@ function init() {
     })
     .fail(function () {
       selectAmount.empty();
-      selectAmount.append($('<option selected disabled hidden>Failed to load amounts list</option>'));
+      selectAmount.append($('<option selected disabled hidden>Fout bij het laden</option>'));
     });
 
   // Assign click handlers

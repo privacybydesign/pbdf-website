@@ -10,67 +10,15 @@ translations:
   en: /support
 ---
 
-De stichting Privacy by Design wil niet monopoliseren en ziet het
-ontwikkelen van het identiteitsplatform IRMA als een *community
-effort*, waarbij betrokkenheid, samenwerking en steun van
-verschillende kanten en op verschillende manieren mogelijk
-is. Hieronder wordt op twee mogelijkheden verder ingegaan (*in kind*
-en *in cash*). Voor andere mogelijke bijdragen neem gerust
-[contact](/contact) op.
+De stichting Privacy by Design ontwikkelt en onderhoudt de IRMA-app
+voor privacy-vriendelijk inloggen en ondertekenen. Dat gebeurt zonder
+winstoogmerk, en zonder misbruik van persoonsgegevens. Vindt u dat
+belangrijk? Dan kunt u hieronder uw morele steun omzetten in
+financiële steun.
 
-### Steun bij software ontwikkeling
-
-Wilt u, als individu of organisatie, bijdragen aan de verdere
-ontwikkeling van de IRMA software, neem dan AUB contact op met de
-*lead developer* Sietse Ringers (s.ringers 'at'
-privacybydesign.foundation).  Bijdragen zijn bijvoorbeeld gewenst bij
-het integreren van IRMA authenticatie en ondertekening in bestaande
-software pakketten, zoals voor communicatie of tekst
-verwerking. Bijvoorbeeld, het zou heel handig zijn om plugins te
-hebben om IRMA handtekeningen te kunnen controleren in diverse mail
-clients, of in office omgevingen.  De stichting hoopt dat zulke
-software als gratis open source beschikbaar komt. Het is echter ook
-mogelijk om commerciële en/of closed source software te bouwen bovenop
-de (gratis) IRMA infrastructuur.
-
-### Financiële steun
-
-De stichting Privacy by Design wil zo veel mogelijk van haar diensten
-gratis aanbieden. De activiteiten van de stichting kosten echter wel
-geld, zoals bijvoorbeeld het in de lucht houden van de IRMA
-infrastructuur en het ontwikkelen en onderhouden van nieuwe diensten
-en software (waaronder in het bijzonder de [IRMA
-app](/download/)).
-
-De stichting Privacy by Design heeft geen winstoogmerk, maar heeft
-toch geld nodig. U kunt daarbij helpen, zeker als u de stichting een
-warm hart toedraagt.
-
-De stichting kent de speciale status *Friend of the Foundation* of
-*Hero of the Foundation* toe aan bedrijven of andere organisaties, of
-aan particulieren, die de stichting steunen met een bedrag van
-minstens tienduizend Euro (vrienden) of honderdduizend Euro
-(helden). 
-
-Heeft u belangstelling om ook vriend of held van de stichting te
-worden, neem dan contact op met de voorzitter van de stichting
-(voorzitter 'at' privacybydesign.foundation). Mogelijke redenen om de
-stichting te ondersteunen zijn:
-
-* U vindt het belangrijk dat er een onafhankelijk niet-commercieel
-  open source identiteitsplatform is, waar iedereen gebruik van kan
-  maken.  
-* U bent (huidig of toekomstig) gebruiker van IRMA en wil
-  dat de stichting (financieel) voldoende stabiel is om haar
-  activiteiten op langere termijn voort te zetten.
-
-Vriendschap/heldendom van de stichting levert geen invloed op het
-beleid: de stichting is en blijft onafhankelijk. De stichting zal wel,
-zonodig, haar vrienden en helden bij operationele problemen als eerste
-bijstaan.  Financiële bijdragen zullen enkel in lijn met de
-[doelstellingen](/over/) van
-de stichting besteed worden. De stichting publiceert een jaarverslag
-met daarin een financiële verantwoording.
+Via iDEAL kunt u een kleine persoonlijke bijdrage (naar keuze) leveren
+aan het werk van de stichting. Neem vooral [contact](/contact) op voor
+andere vormen van ondersteuning of samenwerking.
 
 <fieldset id="donation">
     <legend>Doneren</legend>
@@ -110,3 +58,4 @@ met daarin een financiële verantwoording.
 </fieldset>
 
 <script src="/assets/js/donation.js" defer></script>
+
