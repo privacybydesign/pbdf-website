@@ -44,8 +44,9 @@ Attribute: e-mail address
 
 **Social media attributes**  
 Attributes (differs per network): first name, family name, email address, birth date, username  
-<a class="button" href="/issuance/social/facebook">
+<a class="button" href="/issuance/social/facebook" style="cursor: not-allowed;" disabled>
 <img src="/images/facebook.png">Load attributes via Facebook</a>  
+Loading attributes via Facebook is not working at the moment.  
 <a class="button" href="/issuance/social/twitter">
 <img src="/images/twitter.png">Load attributes via Twitter</a>  
 <a class="button" href="/issuance/social/linkedin">

@@ -52,8 +52,9 @@ Verkrijg: telefoonnummer
 
 **Sociaal netwerk-attributen**  
 Verkrijg (enige variatie per netwerk): voornaam, achternaam, e-mailadres, geboortedatum, gebruikersnaam  
-<a class="button" href="/uitgifte/social/facebook">
+<a class="button" href="/uitgifte/social/facebook" style="cursor: not-allowed;" disabled>
 <img src="/images/facebook.png">Laad attributen vanuit Facebook</a>  
+Het laden van attributen vanuit Facebook werkt momenteel niet.  
 <a class="button" href="/uitgifte/social/twitter">
 <img src="/images/twitter.png">Laad attributen vanuit Twitter</a>  
 <a class="button" href="/uitgifte/social/linkedin">
