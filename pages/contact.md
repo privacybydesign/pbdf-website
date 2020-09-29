@@ -3,7 +3,7 @@ layout: page
 title: Contact
 meta_title: Contact us
 header:
-  image_fullwidth: header_unsplash_1.jpg
+  image_fullwidth: header_poly2.png
   title: Privacy by Design Foundation
 permalink: /contact/
 language: nl
