@@ -1,5 +1,6 @@
 var config = {
   idealServer: '/ideal-issuer/api/v1/ideal/',
+  minDonationAmount: 5.00,
 };
 
 function insertBanksIntoForm(data, select) {
@@ -47,10 +48,12 @@ function insertAmountsIntoForm(data, select) {
 
   // Insert other amounts (if present)
   for (let i=0; i < amounts.length; i++) {
-    const option = $('<option>');
-    option.html(`&euro; ${amounts[i]}`);
-    option.val(amounts[i]);
-    select.append(option);
+    if (parseFloat(amounts[i]) >= config.minDonationAmount) {
+      const option = $('<option>');
+      option.html(`&euro; ${amounts[i]}`);
+      option.val(amounts[i]);
+      select.append(option);
+    }
   }
   if (sessionStorage.idx_input) {
     select.val(sessionStorage.idx_amount);
