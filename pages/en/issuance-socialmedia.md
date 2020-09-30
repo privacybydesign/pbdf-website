@@ -10,18 +10,15 @@ translations:
 ---
 
 Attributes like your name or email address can be added to your IRMA
-app via the social media [Facebook](https://www.facebook.com),
-[Twitter](https://twitter.com) en [LinkedIn](https://linkedin.com).
-The Privacy by Design foundation is registered with each of these
-parties in order to receive attributes. The foundation digitally signs
-these attributes and places them in the IRMA app of a user.
-Immediately after issuance, the foundation removes these attributes
-from its own systems. The foundation does not keep a log of issuance.
+app via the social media [Twitter](https://twitter.com) and
+[LinkedIn](https://linkedin.com). The Privacy by Design foundation
+is registered with each of these parties in order to receive attributes.
+The foundation digitally signs these attributes and places them in the IRMA
+app of a user. Immediately after issuance, the foundation removes these
+attributes from its own systems. The foundation does not keep a log of issuance.
 
 The following attributes can be used.
 
- * **Facebook**: full name, first name, family name, email address,
- date of birth
  * **Twitter**: username, full name, email address, web-address
  of one's own Twitter profile
  * **LinkedIn**: full name, first name, family name, email address,
@@ -31,8 +28,6 @@ The validity period of these social media attributes is *one year*.
 
 In order to receive these attributes you first log in, via the special
 buttons for
-[Facebook](/issuance/social/facebook)
-/
 [Twitter](/issuance/social/twitter)
 /
 [LinkedIn](/issuance/social/linkedin).

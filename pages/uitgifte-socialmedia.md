@@ -9,21 +9,18 @@ translations:
   en: /issuance-socialmedia
 ---
 
-Attributen zoals uw naam en email adres kunnen in uw IRMA app
-toegevoegd worden vanuit de sociale media
-[Facebook](https://www.facebook.com), [Twitter](https://twitter.com)
+Attributen zoals uw naam en emailadres kunnen in uw IRMA-app
+toegevoegd worden vanuit de sociale media [Twitter](https://twitter.com)
 en [LinkedIn](https://linkedin.com). De stichting Privacy by Design
 heeft zich bij ieder van deze partijen geregistreerd om attributen te
 kunnen ontvangen. De stichting voorziet deze attributen van een
-digitale handtekening en plaatst ze in de IRMA app van de
+digitale handtekening en plaatst ze in de IRMA-app van de
 gebruiker. Direct daarna verwijdert de stichting deze attributen uit
 de eigen systemen. De stichting houdt geen log bij van de uitgegeven
 attributen.
 
 De volgende attributen worden gebruikt.
 
- * **Facebook**: volledige naam, voornaam, achternaam, email adres,
- geboortedatum
  * **Twitter**: gebruikersnaam, volledige naam, email adres, webadres
  van het eigen Twitter profiel.
  * **LinkedIn**: volledige naam, voornaam, achternaam, email adres,
@@ -34,8 +31,6 @@ De geldigheid van deze sociale media attributen in uw IRMA app is
 
 Om deze attributen te ontvangen logt u eerst in via de aangegeven knop
 voor
-[Facebook](/uitgifte/social/facebook)
-/
 [Twitter](/uitgifte/social/twitter)
 /
 [LinkedIn](/uitgifte/social/linkedin). Vervolgens
