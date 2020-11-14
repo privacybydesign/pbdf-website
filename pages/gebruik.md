@@ -39,6 +39,9 @@ in te loggen.
   * [MijnIRMA](https://privacybydesign.foundation/mijnirma/) voor het
     beheer van de eigen IRMA app en inzien van het gebruik ervan.
 
+  * [IRMA: nieuwe manier van
+    inloggen](https://www.amsterdam.nl/wonen-leefomgeving/innovatie/de-digitale-stad/irma-nieuwe-manier-inloggen/) demo website van gemeente Amsterdam.
+
 Deze lijst is ongetwijfeld niet volledig. Laat het vooral weten als er
 (stabiele) IRMA toepassingen zijn die hier ontbreken (op: irma 'at'
 privacybydesign.foundation).

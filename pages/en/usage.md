@@ -39,6 +39,10 @@ Below is a list of websites where IRMA can now be used for login.
   * [MijnIRMA](https://privacybydesign.foundation/mijnirma/) for
     managing ones own IRMA app and for inspecting its usage.
 
+  * [IRMA: nieuwe manier van
+    inloggen](https://www.amsterdam.nl/wonen-leefomgeving/innovatie/de-digitale-stad/irma-nieuwe-manier-inloggen/) demo website of the city of Amsterdam.
+
+
 Undoubtedly, this list is not complete. Please inform us about missing
 (stable) IRMA applications (at: irma 'at' privacybydesign.foundation).
 
