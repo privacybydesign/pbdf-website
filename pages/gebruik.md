@@ -16,6 +16,9 @@ in te loggen.
   * [IRMA-meet](https://irma-meet.nl/) voor videobellen waarbij de
     deelnemers eerst moeten bewijzen wie ze zijn.
 
+  * [QRona](https://qrona.info/) voor het zelf registreren van 
+    bezoekers, tegen corona.
+
   * [ID-bellen](https://www.idbellen.nl/) voor (mobiel) bellen met je
     gemeente waarbij bellers eerst met IRMA bewijzen wie ze zijn.
 
