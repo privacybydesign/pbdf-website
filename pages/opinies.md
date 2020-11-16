@@ -19,11 +19,13 @@ informatie volg IRMA op [Twitter](https://twitter.com/IRMA_privacy).
   * Aankonding van [IRMA: nieuwe manier van
     inloggen](https://www.amsterdam.nl/wonen-leefomgeving/innovatie/de-digitale-stad/irma-nieuwe-manier-inloggen/)
     van gemeente Amsterdam, met follow-up aandacht van
+    [nu.nl](https://www.nu.nl/amsterdam/6089985/amsterdam-wil-nieuwe-app-voor-betere-privacy-tijdens-contact-met-gemeente.html),
     [Tweakers](https://tweakers.net/nieuws/174524/amsterdamse-burgers-kunnen-irma-app-testen-om-zich-bij-gemeente-te-identificeren.html),
     [Het
-    Parool](https://www.parool.nl/amsterdam/nieuwe-identificatie-app-biedt-amsterdammers-meer-privacy~bc23805f/), [AT5](https://www.at5.nl/artikelen/205548/gemeente-werkt-aan-nieuwe-app-voor-online-contact-met-amsterdammers)
-    en van [AG Connect](https://www.agconnect.nl/artikel/amsterdam-test-privacyvriendelijker-alternatief-voor-digid).
-    
+    Parool](https://www.parool.nl/amsterdam/nieuwe-identificatie-app-biedt-amsterdammers-meer-privacy~bc23805f/),
+    [AT5](https://www.at5.nl/artikelen/205548/gemeente-werkt-aan-nieuwe-app-voor-online-contact-met-amsterdammers)
+    en van [AG
+    Connect](https://www.agconnect.nl/artikel/amsterdam-test-privacyvriendelijker-alternatief-voor-digid).
 
   * [Persbericht](https://www.ru.nl/fnwi/onderzoek/radboud-innovation-science/nieuwsberichten-ris/2020/interdisciplinaire-samenwerking-encryption-4-all/)
     *Interdisciplinaire samenwerking Encryption 4 All van start* van
