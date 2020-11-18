@@ -97,8 +97,7 @@ three different ways.
    with necessary attributes. Such authentication attributes are also
    deleted immediately after usage.
 
-The foundation publishes via its own
-[dashbord](https://metrics.privacybydesign.foundation/grafana/dashboard/db/irma-dashboard?orgId=1)
+The foundation publishes via its own [dashboard](/dashboard/)
 how many IRMA users are registered in which country at any point in
 time. This only involves the *number* of registered usernames
 (pseudonyms) and the *number* of credentials (sets of attributes) per

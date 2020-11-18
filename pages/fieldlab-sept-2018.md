@@ -68,7 +68,7 @@ verschillende mensen op het podium IRMA noemden als het meest inspirerende
 wat ze de afgelopen week gezien hadden.
 De woensdag na de aankondiging van de Nijmegen-BRP attributen zijn
 alle IRMA records aan diggelen gegaan: die dag hebben [345 mensen de IRMA app
-geïnstalleerd](https://metrics.privacybydesign.foundation/grafana/dashboard/db/irma-dashboard?orgId=1) -
+geïnstalleerd](/dashboard/) -
 meer dan vijf keer zoveel als ons vorige record - 
 en inmiddels zijn we de 2000 installaties gepasseerd.
 

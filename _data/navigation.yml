@@ -27,7 +27,7 @@ nl:
       - title: Mijn IRMA
         url: /mijnirma/
       - title: IRMA Dashboard
-        url: https://metrics.privacybydesign.foundation/grafana/dashboard/db/irma-dashboard?orgId=1
+        url: /dashboard/
       - title: Videos en tekeningen
         url: /videos/
       - title: Pers en opinies
@@ -95,7 +95,7 @@ en:
       - title: My IRMA
         url: /myirma/
       - title: IRMA Dashboard
-        url: https://metrics.privacybydesign.foundation/grafana/dashboard/db/irma-dashboard?orgId=1
+        url: /dashboard/
       - title: Videos and drawings
         url: /videos-en/
       - title: Press (in Dutch)

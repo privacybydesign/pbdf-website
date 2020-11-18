@@ -104,8 +104,7 @@ persoonsgegevens verwerkt.
    noodzakelijke authenticatie attributen van de gebruiker worden
    hierna terstond verwijderd.
 
-De stichting maakt via een eigen
-[dashbord](https://metrics.privacybydesign.foundation/grafana/dashboard/db/irma-dashboard?orgId=1)
+De stichting maakt via een eigen [dashboard](/dashboard/)
 bekend hoeveel IRMA gebruikers in welk land op enig moment
 geregistreerd staan. Daarbij wordt enkel het *aantal* geregistreerde
 gebruikersnamen (pseudoniemen) en het *aantal* door de stichting
