@@ -76,7 +76,10 @@ three different ways.
 
 2. **Incidentally.** When the [IRMA app](/download-en) crashes or
    encounters a serious problem, an error report is made and sent to
-   the foundation. These error reports are a critical instrument for
+   the foundation, if you as IRMA app user provided consent for that.
+   This consent can be provided by enabling the "Send error reports to IRMA"
+   toggle in the settings of the IRMA app. If this toggle is not enabled, then
+   error reports are not sent. These error reports are a critical instrument for
    the foundation in fixing problems and improving the IRMA app.  An
    error report never contains user attributes, or data about
    previous usage of the IRMA app, but only technical data about what

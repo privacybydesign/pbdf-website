@@ -82,7 +82,11 @@ persoonsgegevens verwerkt.
 
 2. **Incidenteel.** Wanneer de [IRMA app](/download) crasht of een
    ernstig probleem tegenkomt wordt een rapport van de fout samengesteld
-   en naar de stichting gestuurd. Deze rapporten zijn een
+   en naar de stichting gestuurd, als u als IRMA app gebruiker daarvoor
+   toestemming heeft gegeven. Deze toestemming kan gegeven worden middels
+   de "Fouten naar IRMA sturen" optie in de Instellingen van de IRMA app.
+   Als deze optie niet is ingeschakeld worden deze rapporten niet verstuurd.
+   Deze rapporten zijn een
    belangrijk instrument voor de stichting in het verhelpen van problemen
    en verbeteren van de IRMA app. Een rapport bevat nooit uw
    attributen, of gegevens over uw eerdere gebruik van de IRMA app of uw,
