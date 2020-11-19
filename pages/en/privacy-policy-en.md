@@ -96,8 +96,8 @@ three different ways.
    foundation. The foundation does not keep a record of attribute
    issuance.
 
-   For some forms of issuance the user is asked to first authenticate
-   with necessary attributes. Such authentication attributes are also
+   For some forms of issuance, as well as for some <a href="/demo-en/">demos</a>,
+   the user is asked to first authenticate with attributes. These attributes are also
    deleted immediately after usage.
 
 The foundation publishes via its own [dashboard](/dashboard/)

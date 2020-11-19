@@ -103,10 +103,9 @@ persoonsgegevens verwerkt.
    stichting. De stichting houdt geen registratie bij van attribuut
    uitgifte.
 
-   Voor sommige vormen van uitgifte wordt de gebruiker eerst gevraagd
-   zichzelf met noodzakelijke attributen te authenticeren. Ook deze
-   noodzakelijke authenticatie attributen van de gebruiker worden
-   hierna terstond verwijderd.
+   Voor sommige vormen van uitgifte, en voor enkele <a href="/demo/">demo's</a>,
+   wordt de gebruiker eerst gevraagd zichzelf met attributen te authenticeren. Ook deze
+   attributen van de gebruiker worden hierna terstond verwijderd.
 
 De stichting maakt via een eigen [dashboard](/dashboard/)
 bekend hoeveel IRMA gebruikers in welk land op enig moment
