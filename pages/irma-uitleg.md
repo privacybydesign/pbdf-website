@@ -305,6 +305,15 @@ update proces.
 
 ### <a name="architectuur"></a>5. Hoe verschilt IRMA van andere authenticatie systemen als iDIN en idensys?
 
+IRMA is geen authenticatie systeem, maar een identificatie systeem.
+Het is geen manier om te bewijzen wie je bent, maar om te laten zien
+wie je bent en dit is een wezenlijk ander proces. Wanneer je een
+gebruikersnaam en wachtwoord invoert dan: 1) claim je wie je bent ("username")
+en 2) bewijs je vervolgens dat jij dit bent ("wachtwoord"). Dit proces
+heet "authenticatie". Als je op een geloofwaardige manier laat zien
+wie je bent dan heet dit "identificatie". Dit is wat IRMA doet middels
+het onthullen van de attributen.
+
 IRMA is wezenlijk verschillend van andere identity management systemen
 zoals [Facebook
 login](https://developers.facebook.com/docs/facebook-login), of
