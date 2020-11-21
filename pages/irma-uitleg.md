@@ -147,6 +147,8 @@ nummer van een OV-chipkaart. Via zulke kaarten kunnen al uw reizen
 bijgehouden en gekoppeld worden, gebruikt worden voor marketing
 doeleinden, en mogelijk openbaar worden door een hack of door
 slordigheid. Anonieme OV-chipkaarten bieden weinig bescherming, omdat
+er niet gekozen is voor de Mifare kaarten met de random UID functie
+(zoals Mifare Plus). Dit vaste nummer zorgt voor problemen omdat
 bij herstel van een fout of geld-teruggave van een verlopen kaart u
 toch uw identiteit moet onthullen. Daarmee wordt er een koppeling
 gelegd tussen u en al uw eerdere reizen, waarvan u dacht dat ze
