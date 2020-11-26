@@ -9,8 +9,12 @@ translations:
   en: /issuance-big
 ---
 
-De uitgifte van BIG credentials is op dit moment expirimenteel. Het wordt
-afgeraden in productie op dit credential te vertrouwen
+**Let op:** De uitgifte van BIG-gegevens is helaas permanent uitgeschakeld omdat
+het niet voldoende betrouwbaar werkte. De informatie hieronder beschrijft
+deze uitgifte zoals zij was. Deze informatie is dus niet meer van
+toepassing.
+
+---
 
 Het [BIG-register](https://www.bigregister.nl/) is een openbaar
 register van zorgverleners, zoals artsen, tandartsen, verpleegkundigen

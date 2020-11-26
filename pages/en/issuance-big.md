@@ -9,8 +9,11 @@ translations:
   nl: /uitgifte-big
 ---
 
-The issuance of the BIG credential is experimental. We advise against
-relying on it in production.
+**Note:** Issuance of BIG attributes is unfortunately permanently disabled,
+because it did not work sufficiently reliably. The information below describes
+the issuer as it was. Hence this information no longer applies.
+
+---
 
 The [BIG-register](https://english.bigregister.nl/) is a public
 register of healthcare professionals, such as physicians, dentists and
