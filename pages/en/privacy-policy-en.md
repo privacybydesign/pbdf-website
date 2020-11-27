@@ -100,6 +100,26 @@ three different ways.
    the user is asked to first authenticate with attributes. These attributes are also
    deleted immediately after usage.
 
+   The foundation also has to process the IP address of your computer or phone
+   in the following cases:
+
+   * You visit this website or one of the other ones of the foundation.
+   * You scan a QR code with your IRMA app of one of the issuers or demos
+     of the foundation (on desktop), or when (on mobile) the IRMA app is opened
+     by one of these issuers or demos.
+   * When, after the previous step, you receive or disclose data in the IRMA app
+     from or to one of the IRMA applications of the foundation.
+
+   In these cases your IP address is not stored, unless a technical error occurs.
+   In that case your IP address is stored for two weeks, after which it is
+   automatically deleted.
+
+In addition, during the last step (the receiving or disclosing of data) your
+IP address is also processed and logged by [SIDN](https://sidn.nl/en), a partner
+of the foundation that runs the [IRMA keyshare server](/irma-explanation/#hood).
+This also happens when you receive or disclose data to or from other parties than
+the foundation.
+
 The foundation publishes via its own [dashboard](/dashboard/)
 how many IRMA users are registered in which country at any point in
 time. This only involves the *number* of registered usernames
