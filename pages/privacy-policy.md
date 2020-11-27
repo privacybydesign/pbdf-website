@@ -107,24 +107,24 @@ persoonsgegevens verwerkt.
    wordt de gebruiker eerst gevraagd zichzelf met attributen te authenticeren. Ook deze
    attributen van de gebruiker worden hierna terstond verwijderd.
 
-   De stichting moet ook het IP-adres van je computer of telefoon
+   De stichting moet ook het IP-adres van uw computer of telefoon
    verwerken in de volgende gevallen:
 
-   * Je bezoekt deze of een andere website van de stichting;
-   * Je scant een QR-code met je IRMA-app van een van de uitgevers of demo's
+   * U bezoekt deze of een andere website van de stichting;
+   * U scant een QR-code met uw IRMA-app van een van de uitgevers of demo's
      van de stichting (op desktop), of wanneer (op mobiel) de IRMA app geopend
      wordt door een van die uitgevers of demo's;
-   * Wanneer je (na de vorige stap) in de IRMA-app gegevens ontvangt of vrijgeeft
+   * Wanneer u (na de vorige stap) in de IRMA-app gegevens ontvangt of vrijgeeft
      bij een van de IRMA-applicaties van de stichting.
 
-   In deze gevallen wordt je IP-adres niet opgeslagen, tenzij er sprake is van
-   een technische fout. In dat geval wordt je IP-adres voor twee weken opgeslagen,
+   In deze gevallen wordt uw IP-adres niet opgeslagen, tenzij er sprake is van
+   een technische fout. In dat geval wordt uw IP-adres voor twee weken opgeslagen,
    en daarna automatisch verwijderd.
 
 Daarnaast wordt bij de laatste stap (het ontvangen of vrijgeven van gegevens)
-je IP-adres ook verwerkt en gelogd door [SIDN](https://sidn.nl), een partner
+uw IP-adres ook verwerkt en gelogd door [SIDN](https://sidn.nl), een partner
 van de stichting die de [IRMA keyshare server](/irma-uitleg/#motorkap) draait.
-Dit geldt ook wanneer je gegevens ontvangt of vrijgeeft bij andere partijen
+Dit geldt ook wanneer u gegevens ontvangt of vrijgeeft bij andere partijen
 dan de stichting.
 
 De stichting maakt via een eigen [dashboard](/dashboard/)
