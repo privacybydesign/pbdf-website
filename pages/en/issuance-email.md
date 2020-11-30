@@ -31,9 +31,14 @@ to best solve this problem.)
 
 The validity period of this e-mail address attribute is *one year*.
 
-Immediately after issuance, the foundation removes this e-mail
-attribute from its own systems. The foundation does not keep a log of
-issuance.
+**Note:**
+As of November 30th, 2020, the issuance of e-mail attributes is no longer
+handled by the Privacy by Design foundation, but rather by
+[SIDN](https://www.sidn.nl/en).
+
+After issuance, SIDN removes the e-mail address from its systems.
+Regarding maintenance and monitoring, SIDN does keep a log of the issuance,
+however this log is automatically removed and does not include the e-mail address.
 
 [Back](/issuance) to attribute issuance.
 
