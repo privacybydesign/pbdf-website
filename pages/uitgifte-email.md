@@ -24,14 +24,20 @@ Wanneer u op die link klikt ontvangt u het e-mail attribuut.
 
 (Het blijkt dat in sommige e-mail lezers op mobiele telefoons deze
 link niet goed "klikbaar" weergegeven wordt. U kunt dan proberen de
-link zelf te copieëren in een webbrowser. U kunt ook proberen de mail
+link zelf te kopiëren in een webbrowser. U kunt ook proberen de mail
 op een ander apparaat, zoals een laptop of PC, te lezen. Er wordt naar
 gekeken hoe dit probleem het beste opgelost kan worden.)
 
 De geldigheid van dit e-mail attribuut is *een jaar*.
 
-De stichting Privacy by Design verwijdert dit e-mail adres na uitgifte
-uit de eigen systemen. De stichting houdt geen log bij van de
-uitgifte.
+**Opmerking:**
+Vanaf 30 November 2020 worden e-mail attributen niet meer uitgegeven
+door de stichting Privacy by Design, maar door
+[SIDN](https://www.sidn.nl).
+
+SIDN verwijdert dit e-mailadres na uitgifte uit de systemen.
+In het kader van onderhoud en monitoring houdt SIDN logs bij van uitgiftes.
+Het logbestand wordt automatisch verwijderd na verloop van tijd.
+Bovendien staat het e-mailadres hier niet in vermeld.
 
 [Terug](/uitgifte) naar uitgifte van attributen.

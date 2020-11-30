@@ -40,7 +40,7 @@ Verkrijg: naam, geboortedatum, geslacht, adres, postcode, plaats, BSN
 
 **E-mailadres attribuut**  
 Verkrijg: e-mailadres  
-<a class="button" href="/uitgifte/email">
+<a class="button" href="https://sidnemailissuer.irmaconnect.nl/uitgifte/email/">
 <img src="/images/email.png">Laad e-mailadres attribuut</a>  
 [Meer informatie](/uitgifte-email)
 

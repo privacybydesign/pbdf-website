@@ -38,7 +38,7 @@ The following attributes can be loaded into an IRMA app by anyone on earth.
 
 **E-mail address attribute**  
 Attribute: e-mail address  
-<a class="button" href="/issuance/email">
+<a class="button" href="https://sidnemailissuer.irmaconnect.nl/issuance/email/">
 <img src="/images/email.png">Load e-mail address attribute</a>  
 [More information](/issuance-email)
 
