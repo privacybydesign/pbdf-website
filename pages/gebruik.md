@@ -45,6 +45,10 @@ in te loggen.
   * [IRMA: nieuwe manier van
     inloggen](https://www.amsterdam.nl/wonen-leefomgeving/innovatie/de-digitale-stad/irma-nieuwe-manier-inloggen/) demo website van gemeente Amsterdam.
 
+  * [Surfdrive online
+    opslag](https://www.surf.nl/nieuws/pilot-surfdrive-voor-studenten)
+    voor studenten, na authenticatie met IRMA.
+
 Deze lijst is ongetwijfeld niet volledig. Laat het vooral weten als er
 (stabiele) IRMA toepassingen zijn die hier ontbreken (op: irma 'at'
 privacybydesign.foundation).
