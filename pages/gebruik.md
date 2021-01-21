@@ -49,6 +49,9 @@ in te loggen.
     opslag](https://www.surf.nl/nieuws/pilot-surfdrive-voor-studenten)
     voor studenten, na authenticatie met IRMA.
 
+  * [Demo Covid test uitslagen](https://demo.irma.dev/).
+    
+
 Deze lijst is ongetwijfeld niet volledig. Laat het vooral weten als er
 (stabiele) IRMA toepassingen zijn die hier ontbreken (op: irma 'at'
 privacybydesign.foundation).

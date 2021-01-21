@@ -14,6 +14,13 @@ Deze pagina bevat (links naar) persartikelen, opinies, blogs,
 etc. over IRMA, in omgekeerde chronologische volgorde. Voor actuele
 informatie volg IRMA op [Twitter](https://twitter.com/IRMA_privacy).
 
+## 2021
+
+  * [Digitale hersteloperatie
+    nodig](https://rog.pleio.nl/news/view/bae59e32-3103-46f2-9c61-621332c71227/nieuwe-verhalen-in-rog-magazine-deel3),
+    in Magazine voor Regie op Gegevens, nr. 3, jan 2021.
+
+
 ## 2020
 
   * Aankonding van [IRMA: nieuwe manier van
