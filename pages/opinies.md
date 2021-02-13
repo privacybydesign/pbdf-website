@@ -16,6 +16,12 @@ informatie volg IRMA op [Twitter](https://twitter.com/IRMA_privacy).
 
 ## 2021
 
+  * Artikel <em>Vertrouwelijk bellen met IRMA</em> in magazine
+    [Binnenlands Bestuur](https://www.binnenlandsbestuur.nl/), jan.
+    2021. [[deel1](../images/idbellen1.jpg),
+    [deel2](../images/idbellen2.jpg), [deel3](../images/idbellen3.jpg)]
+    over het project [IDbellen](https://www.idbellen.nl/).
+
   * [Digitale hersteloperatie
     nodig](https://rog.pleio.nl/news/view/bae59e32-3103-46f2-9c61-621332c71227/nieuwe-verhalen-in-rog-magazine-deel3),
     in Magazine voor Regie op Gegevens, nr. 3, jan 2021.
@@ -48,8 +54,9 @@ informatie volg IRMA op [Twitter](https://twitter.com/IRMA_privacy).
     van 2 april 2020 en het
     [persbericht](https://www.drechtsteden.nl/Nieuws/Innovatiebudget_voor_ID_Contact)
     voor een opvolg project *ID-contact* dat subsidie krijgt van het
-    ministerie van Binnenlandse zaken.  * Artikel [Privacyvriendelijke
-    authenticatieapp IRMA krijgt nieuw
+    ministerie van Binnenlandse zaken.  
+
+  * Artikel [Privacyvriendelijke authenticatieapp IRMA krijgt nieuw
     uiterlijk](https://tweakers.net/nieuws/168124/privacyvriendelijke-authenticatieapp-irma-krijgt-nieuw-uiterlijk.html)
     op tech website [Tweakers](https://tweakers.net) over de geheel
     vernieuwde IRMA app, gebaseerd op het

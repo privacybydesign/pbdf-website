@@ -43,7 +43,10 @@ persoonlijke titel en worden hiervoor niet betaald.
    ervaring als ICT-manager en als Security Officer binnen de Radboud
    Universiteit.
 
- * Monique Hennekens
+ * Monique Hennekens is raadsheer in opleiding bij het gerechtshof
+   Arnhem-Leeuwarden, team handel. Daarvoor was Monique advocaat met
+   als specialisatie het privacy- en IT-recht. Binnen de stichting
+   helpt Monique met de juridische aspecten rond IRMA.
 
  * Tim Vermeulen (t.vermeulen 'at' privacybydesign.foundation) is IT
    R&D Manager bij netwerkbedrijf Alliander. Zijn team werkt aan het

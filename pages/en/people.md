@@ -48,6 +48,11 @@ capacity and are not being paid for it.
    organizing funding and actually realizing and implementing these
    innovations.
 
+ * Monique Hennekens is a trainee judge at the court of appeal of
+   Arnhem-Leeuwarden. Before that, Monique was an attorney-at-law,
+   specialised in privacy and IT law. Monique helps the Privacy by
+   Design foundation with the legal aspects regarding IRMA.
+
  * Tim Vermeulen (t.vermeulen 'at' privacybydesign.foundation) is IT
    R&D Manager at network company Alliander. His teams works on
    embedding innovative IT solutions in the energy landscape. This
