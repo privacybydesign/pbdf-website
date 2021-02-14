@@ -40,14 +40,6 @@ capacity and are not being paid for it.
    medical date. He has ample experience as ICT-manager and as
    Security Officer within Radboud University.
 
- * Thea van Kemenade (t.vankemenade 'at' privacybydesign.foundation)
-   is business development consultant at Radboud Innovation, the
-   center for business and project development of Radboud
-   University. Her central role is bringing together public and
-   private, often open-innovation, partners for specific projects,
-   organizing funding and actually realizing and implementing these
-   innovations.
-
  * Monique Hennekens is a trainee judge at the court of appeal of
    Arnhem-Leeuwarden. Before that, Monique was an attorney-at-law,
    specialised in privacy and IT law. Monique helps the Privacy by

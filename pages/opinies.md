@@ -17,14 +17,15 @@ informatie volg IRMA op [Twitter](https://twitter.com/IRMA_privacy).
 ## 2021
 
   * Artikel <em>Vertrouwelijk bellen met IRMA</em> in magazine
-    [Binnenlands Bestuur](https://www.binnenlandsbestuur.nl/), jan.
-    2021. [[deel1](../images/idbellen1.jpg),
-    [deel2](../images/idbellen2.jpg), [deel3](../images/idbellen3.jpg)]
-    over het project [IDbellen](https://www.idbellen.nl/).
+    [Binnenlands Bestuur](https://www.binnenlandsbestuur.nl/),
+    jan. 2021. [[deel1](../images/idbellen1.jpg),
+    [deel2](../images/idbellen2.jpg),
+    [deel3](../images/idbellen3.jpg)] over het project
+    [IDbellen](https://www.idbellen.nl/).
 
   * [Digitale hersteloperatie
     nodig](https://rog.pleio.nl/news/view/bae59e32-3103-46f2-9c61-621332c71227/nieuwe-verhalen-in-rog-magazine-deel3),
-    in Magazine voor Regie op Gegevens, nr. 3, jan 2021.
+    in Magazine voor Regie op Gegevens, nr. 3, jan. 2021.
 
 
 ## 2020
