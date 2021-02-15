@@ -39,6 +39,42 @@ atmosphere is open and very much content-oriented.
 ### Upcoming IRMA meeting: Friday afternoon, March 5, 2021.
 
 
+**Programme:** 
+
+   1. 14:00 Opening
+
+   2. 14:05 Steven Gort (ICTU), "IRMA en Waardepapieren -- Visie op
+   attribuut gebasseerde credentials i.r.t. Publieke Dienstverlening"
+
+   3. 14:25 Joost Fleuren (Innovatielab KvK), "Know Your Customer
+   (KYC) check met delen bevoegdheden en machtigingen attributen,
+   i.s.m. Ivido"
+
+   3. 14:45 Henk Dieter Oordt (Tweede Golf), "ID-contact: betere
+   dienstverlening door jouw gemeente met meer grip op je gegevens"
+
+   4. 15:05 Marc De Jong (BZK), "Ontwikkelingen Digitale Overheid"
+
+   5. 15:20 Pauze
+
+   6. 15:30 Ineke van Gelder (Team Digitale Identiteit Amsterdam),
+   "Updates onderzoeken & next steps met IRMA in Amsterdam"
+
+   7. 15:50 Bernard van Gastel (Radboud Universiteit), "Locaal stemmen
+   met IRMA"
+
+   8. 16:10 [onbevestigd]
+
+   9. 16:30 Koen de Jonge (Procolix), "IRMA-meet"
+
+   10. 16:40 Sietse Ringers (SIDN), "Updates IRMA ontwikkelingen"
+
+   11. 16:50 Afsluiting
+
+   12. 17:00 Eind
+
+
+
 ### **Cancelled:** IRMA meeting: Friday afternoon, July 3, 2020.
 
 Due to Covid-19 restrictions this meeting is postponed until after the
