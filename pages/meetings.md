@@ -17,11 +17,11 @@ general and in IRMA in particular. The meetings usually draw between
 atmosphere is open and very much content-oriented.
 
 
+ * **Online location:** [IRMA-meet](https://www.irma-meet.nl/).
+
  * **Physical location:** SURFnet, Hoog Overborch (Hoog Catharijne), Utrecht
    [route](https://www.surf.nl/over-surf/contact/routebeschrijving-surf-surfmarket-en-surfnet/index.html),
    about 5 min. walking distance from Utrecht Central train station.
-
- * **Online location:** [IRMA-meet](https://www.irma-meet.nl/).
 
  * **Language:** mix of English and Dutch, depending on speaker and
      audience.
