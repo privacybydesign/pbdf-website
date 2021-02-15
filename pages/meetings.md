@@ -31,13 +31,15 @@ atmosphere is open and very much content-oriented.
    included (or deleted) from this list, please send an email to: irma
    'at' privacybydesign.foundation
 
- * **Participation** is free, but registration is appreciated by
-   sending a short message to the email address: dis-secr 'at'
-   cs.ru.nl
+ * **Participation** is free, but registration is appreciated for
+   physical meetings by sending a short message to the email address:
+   dis-secr 'at' cs.ru.nl
 
 
 ### Upcoming IRMA meeting: Friday afternoon, March 5, 2021.
 
+The meeting will take place via IRMA-meet. A link will be posted
+here later.
 
 **Programme:** 
 
