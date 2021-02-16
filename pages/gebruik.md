@@ -19,6 +19,10 @@ in te loggen.
   * [QRona](https://qrona.info/) voor het zelf registreren van 
     bezoekers, tegen corona.
 
+  * [IRMA-vote](https://www.ru.nl/ihub/research/research-projects/irma-vote/)
+    voor locaal stemmen met IRMA, voor het vergroten van
+    burgerparticipatie.
+
   * [ID-bellen](https://www.idbellen.nl/) voor (mobiel) bellen met je
     gemeente waarbij bellers eerst met IRMA bewijzen wie ze zijn.
 
