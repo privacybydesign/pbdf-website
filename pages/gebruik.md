@@ -37,6 +37,8 @@ in te loggen.
     en [Snelder](https://mijn.huisartsenpraktijksnelder.nl/),
     ondersteund door [Chipsoft](https://www.chipsoft.nl).
 
+    Zie ook de eigen uitleg [pagina](https://magazine.chipsoft.nl/irma-installeren-online/welkom/) en [video](https://www.youtube.com/watch?v=6OSS0REAb0g) van Chipsoft voor het gebruik van IRMA.
+
   * [Declaratie bij VGZ](https://www.vgz.nl/irma#/) voor
     zaakwaarnemers.
 
