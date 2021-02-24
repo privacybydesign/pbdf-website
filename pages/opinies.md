@@ -21,8 +21,8 @@ informatie volg IRMA op [Twitter](https://twitter.com/IRMA_privacy).
     over nepnieuws, deep fakes en het belang van digitale
     authenticatie en authenticiteit (bijv. met IRMA), in
     wetenschapsprogramma [Radio
-    Focus](https://www.nporadio1.nl/radio-focus), 23/2/2021 [podcast
-    link](https://plinkhq.com/i/791101885/e/1000510276076).
+    Focus](https://www.nporadio1.nl/radio-focus), 23/2/2021 [[podcast
+    link](https://plinkhq.com/i/791101885/e/1000510276076)].
 
   * Artikel <em>Vertrouwelijk bellen met IRMA</em> in magazine
     [Binnenlands Bestuur](https://www.binnenlandsbestuur.nl/),
