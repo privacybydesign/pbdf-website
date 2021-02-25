@@ -38,8 +38,37 @@ atmosphere is open and very much content-oriented.
 
 ### Upcoming IRMA meeting: Friday afternoon, March 5, 2021.
 
-The meeting will take place via IRMA-meet. A link will be posted
-here later.
+The meeting will take place via IRMA-meet. A link will be posted here
+later. Registration is not required. In principle, the meeting will be
+recorded and video clips of the separate talks will be made available
+on this page. You can participate passively, without appearing in any
+recording, and anonymously. But if you actively participate, for
+instance by engaging in discussions and/or switching on your camera,
+you may become part of the recording. Your choice to actively
+participate is taken as consent to record your participation and make
+it public via the recorded video.
+
+Meeting etiquette, for participants. 
+
+   * The meeting is hosted via a special version of the authenticated
+     irma-meet video service. For this special version you can choose
+     to either reveal your official name (from the
+     [BRP](https://services.nijmegen.nl/irma/gemeente/start)) or to
+     use a self-chosen name. In the latter case you can participate
+     anonymously. Please avoid choosing offensive names.
+
+   * Keep your microphone muted during the meeting, unless you wish to
+     ask a question or give a comment. Use the chat to communicate to
+     the host your wish to engage.  Please be brief and to the point
+     in your remarks/questions.
+
+   * Also keep your video camera off, in order to minimise the
+     traffic.
+
+The host of the meeting may intervene, and ultimately exclude you from
+the meeting, in case you do not follow this etiquette or disrupt the
+meeting in any other way.
+
 
 **Programme:** 
 
@@ -57,23 +86,21 @@ here later.
 
    4. 15:05 Marc De Jong (BZK), "Ontwikkelingen Digitale Overheid"
 
-   5. 15:20 Pauze
+   5. 15:25 Pauze
 
-   6. 15:30 Ineke van Gelder (Team Digitale Identiteit Amsterdam),
+   6. 15:35 Ineke van Gelder (Team Digitale Identiteit Amsterdam),
    "Updates onderzoeken & next steps met IRMA in Amsterdam"
 
-   7. 15:50 Bernard van Gastel (Radboud Universiteit), "Locaal stemmen
+   7. 15:55 Bernard van Gastel (Radboud Universiteit), "Locaal stemmen
    met IRMA"
 
-   8. 16:10 [onbevestigd]
+   8. 16:15 Koen de Jonge (Procolix), "IRMA-meet"
 
-   9. 16:30 Koen de Jonge (Procolix), "IRMA-meet"
+   9. 16:35 Sietse Ringers (SIDN), "Updates IRMA ontwikkelingen"
 
-   10. 16:40 Sietse Ringers (SIDN), "Updates IRMA ontwikkelingen"
+   10. 16:55 Afsluiting
 
-   11. 16:50 Afsluiting
-
-   12. 17:00 Eind
+   11. 17:00 Eind
 
 
 
