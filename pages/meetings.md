@@ -48,7 +48,7 @@ you may become part of the recording. Your choice to actively
 participate is taken as consent to record your participation and make
 it public via the recorded video.
 
-Meeting etiquette, for participants. 
+**Meeting etiquette, for participants**
 
    * The meeting is hosted via a special version of the authenticated
      irma-meet video service. For this special version you can choose
@@ -62,15 +62,18 @@ Meeting etiquette, for participants.
      the host your wish to engage.  Please be brief and to the point
      in your remarks/questions.
 
-   * Also keep your video camera off, in order to minimise the
-     traffic.
+   * You can also use the chat for general feedback or communication
+     to other participant. Please post only short and relevant
+     remarks.
+
+   * Keep also your video camera off, in order to minimise traffic.
 
 The host of the meeting may intervene, and ultimately exclude you from
 the meeting, in case you do not follow this etiquette or disrupt the
 meeting in any other way.
 
 
-**Programme:** 
+**Programme** 
 
    1. 14:00 Opening
 
