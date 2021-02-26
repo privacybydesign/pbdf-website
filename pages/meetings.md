@@ -89,21 +89,24 @@ meeting in any other way.
 
    4. 15:05 Marc De Jong (BZK), "Ontwikkelingen Digitale Overheid"
 
-   5. 15:25 Pauze
+   5. 15:20 Pauze
 
-   6. 15:35 Ineke van Gelder (Team Digitale Identiteit Amsterdam),
+   6. 15:30 Ineke van Gelder (Team Digitale Identiteit Amsterdam),
    "Updates onderzoeken & next steps met IRMA in Amsterdam"
 
-   7. 15:55 Bernard van Gastel (Radboud Universiteit), "Locaal stemmen
+   7. 15:50 Bernard van Gastel (Radboud Universiteit), "Locaal stemmen
    met IRMA"
 
-   8. 16:15 Koen de Jonge (Procolix), "IRMA-meet"
+   8. 16:10 Koen de Jonge (Procolix), "IRMA-meet"
 
-   9. 16:35 Sietse Ringers (SIDN), "Updates IRMA ontwikkelingen"
+   9. 16:25 Patrick Terranea (Zynyo), "IRMA-authenticatie voor 
+   document ondertekening"
 
-   10. 16:55 Afsluiting
+   10. 16:40 Sietse Ringers (SIDN), "Updates IRMA ontwikkelingen"
 
-   11. 17:00 Eind
+   11. 16:55 Afsluiting
+
+   12. 17:00 Eind
 
 
 
