@@ -75,6 +75,8 @@ meeting in any other way.
 
 **Programme** 
 
+This meeting will be in Dutch.
+
    1. 14:00 Opening
 
    2. 14:05 Steven Gort (ICTU), "IRMA en Waardepapieren -- Visie op
@@ -84,15 +86,17 @@ meeting in any other way.
    (KYC) check met delen bevoegdheden en machtigingen attributen,
    i.s.m. Ivido"
 
-   3. 14:45 Henk Dieter Oordt (Tweede Golf), "ID-contact: betere
-   dienstverlening door jouw gemeente met meer grip op je gegevens"
+   3. 14:45 Henk Dieter Oordt (Tweede Golf) en Lisa Bosma
+   (Drechtsteden), "ID-contact: betere dienstverlening door jouw
+   gemeente met meer grip op je gegevens"
 
    4. 15:05 Marc De Jong (BZK), "Ontwikkelingen Digitale Overheid"
 
    5. 15:20 Pauze
 
-   6. 15:30 Ineke van Gelder (Team Digitale Identiteit Amsterdam),
-   "Updates onderzoeken & next steps met IRMA in Amsterdam"
+   6. 15:30 Ineke van Gelder en Mike Alders (Team Digitale Identiteit
+   Amsterdam), "Updates onderzoeken & next steps met IRMA in
+   Amsterdam"
 
    7. 15:50 Bernard van Gastel (Radboud Universiteit), "Locaal stemmen
    met IRMA"
@@ -107,6 +111,7 @@ meeting in any other way.
    11. 16:55 Afsluiting
 
    12. 17:00 Eind
+
 
 
 
