@@ -75,7 +75,8 @@ meeting in any other way.
 
 **Programme** 
 
-This meeting will be in Dutch.
+This meeting will be in Dutch. The meeting link is
+[premium.irma-meet.nl/irma-talks](https://premium.irma-meet.nl/irma-talks)
 
    1. 14:00 Opening
 
