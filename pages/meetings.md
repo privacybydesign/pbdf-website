@@ -75,8 +75,13 @@ meeting in any other way.
 
 **Programme** 
 
-This meeting will be in Dutch. The meeting link is
-[premium.irma-meet.nl/irma-talks](https://premium.irma-meet.nl/irma-talks)
+*This meeting will be in Dutch*. De video link is
+[premium.irma-meet.nl/irma-talks](https://premium.irma-meet.nl/irma-talks). 
+
+Deze videodienst maakt gebruik van
+[BigBlueButton](https://bigbluebutton.org/), dat in principe in elke
+browser moet werken. Heb je toch problemen, probeer dan Google's
+Chrome browser. Die lijkt het soepelst te werken, op alle platformen.
 
    1. 14:00 Opening
 
