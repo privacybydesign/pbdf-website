@@ -103,7 +103,8 @@ Chrome browser. Die lijkt het soepelst te werken, op alle platformen.
 
    6. 15:30 Ineke van Gelder en Mike Alders (Team Digitale Identiteit
    Amsterdam), "Updates onderzoeken & next steps met IRMA in
-   Amsterdam"  
+   Amsterdam"
+   [[slides](../meeting-slides/slides-5-3-21/MijnAmsterdam-en-filmpje.pdf)]
 
    7. 15:50 Bernard van Gastel (Radboud Universiteit), "Locaal stemmen
    met IRMA"
