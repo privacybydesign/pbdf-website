@@ -96,7 +96,7 @@ Chrome browser. Die lijkt het soepelst te werken, op alle platformen.
    3. 14:45 Henk Dieter Oordt (Tweede Golf) en Lisa Bosma
    (Drechtsteden), "ID-contact: betere dienstverlening door jouw
    gemeente met meer grip op je gegevens"
-   [[slides](../meeting-slides/slides-5-3-21/ID-Contact-IRMA-meetup.pdf)]
+   [[slides](../meeting-slides/slides-5-3-21/ID-Contact-IRMA-meetup.pdf)] [[demo video](https://vimeo.com/519943741)]
 
    4. 15:05 Marc De Jong (BZK), "Ontwikkelingen Digitale Overheid"
 
