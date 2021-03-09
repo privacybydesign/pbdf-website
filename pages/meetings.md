@@ -116,6 +116,7 @@ Chrome browser. Die lijkt het soepelst te werken, op alle platformen.
    document ondertekening"
 
    10. 16:40 Sietse Ringers (SIDN), "Updates IRMA ontwikkelingen"
+   [[slides](../meeting-slides/slides-5-3-21/State-of-the-IRMA.pdf)]
 
    11. 16:55 Afsluiting
 
