@@ -83,40 +83,49 @@ Deze videodienst maakt gebruik van
 browser moet werken. Heb je toch problemen, probeer dan Google's
 Chrome browser. Die lijkt het soepelst te werken, op alle platformen.
 
+[Video's](https://www.youtube.com/playlist?list=PL4oSeW0AbF-kf39Wk5CKZ_D2RiHJQnNsq) van deze bijeenkomst.
+
    1. 14:00 Opening
 
    2. 14:05 Steven Gort (ICTU), "IRMA en Waardepapieren -- Visie op
    attribuut gebasseerde credentials i.r.t. Publieke Dienstverlening"
-   [[slides](../meeting-slides/slides-5-3-21/Kennissessie-IRMA-en-Waardepapieren.pdf)]
+   [[slides](../meeting-slides/slides-5-3-21/Kennissessie-IRMA-en-Waardepapieren.pdf)] [[video](https://www.youtube.com/watch?v=lfWGalGOXXs)]
 
    3. 14:25 Joost Fleuren (Innovatielab KvK), "Know Your Customer
    (KYC) check met delen bevoegdheden en machtigingen attributen,
    i.s.m. Ivido"
+   [[slides](../meeting-slides/slides-5-3-21/KVK-InnovatieLab-KYC.pdf)]
+   [[video](https://www.youtube.com/watch?v=eJuFp9tBDVw)]
 
    3. 14:45 Henk Dieter Oordt (Tweede Golf) en Lisa Bosma
    (Drechtsteden), "ID-contact: betere dienstverlening door jouw
    gemeente met meer grip op je gegevens"
-   [[slides](../meeting-slides/slides-5-3-21/ID-Contact-IRMA-meetup.pdf)] [[demo video](https://vimeo.com/519943741)]
+   [[slides](../meeting-slides/slides-5-3-21/ID-Contact-IRMA-meetup.pdf)]
+   [[demo video](https://vimeo.com/519943741)]
+   [[video](https://www.youtube.com/watch?v=DqiHoqWpi5c)]
 
    4. 15:05 Marc De Jong (BZK), "Ontwikkelingen Digitale Overheid"
+   [[video](https://www.youtube.com/watch?v=lLodiKAWSPc)]
 
    5. 15:20 Pauze
 
    6. 15:30 Ineke van Gelder en Mike Alders (Team Digitale Identiteit
    Amsterdam), "Updates onderzoeken & next steps met IRMA in
    Amsterdam"
-   [[slides](../meeting-slides/slides-5-3-21/MijnAmsterdam-en-filmpje.pdf)] [[video](https://www.youtube.com/watch?v=iuGt-5UnNZs)]
+   [[slides](../meeting-slides/slides-5-3-21/MijnAmsterdam-en-filmpje.pdf)] [[video](https://www.youtube.com/watch?v=iuGt-5UnNZs)] [[video](https://www.youtube.com/watch?v=WyMgVToU5Cw)]
 
    7. 15:50 Bernard van Gastel (Radboud Universiteit), "Locaal stemmen
-   met IRMA"
+   met IRMA" [[video](https://www.youtube.com/watch?v=cVFFoMNr8Vk)]
 
-   8. 16:10 Koen de Jonge (Procolix), "IRMA-meet"
+   8. 16:10 Koen de Jonge (Procolix), "IRMA-meet" 
 
-   9. 16:25 Patrick Terranea (Zynyo), "IRMA-authenticatie voor 
+   9. 16:25 Patrick Terranea (Zynyo), "IRMA-authenticatie voor
    document ondertekening"
+   [[video](https://www.youtube.com/watch?v=7LyLsoIR1CE)]
 
    10. 16:40 Sietse Ringers (SIDN), "Updates IRMA ontwikkelingen"
    [[slides](../meeting-slides/slides-5-3-21/State-of-the-IRMA.pdf)]
+   [[video](https://www.youtube.com/watch?v=PDACEbWLXVY)]
 
    11. 16:55 Afsluiting
 
