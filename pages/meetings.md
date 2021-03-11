@@ -36,12 +36,12 @@ atmosphere is open and very much content-oriented.
    dis-secr 'at' cs.ru.nl
 
 
-### Upcoming IRMA meeting: Friday afternoon, March 5, 2021.
+### IRMA meeting: Friday afternoon, March 5, 2021.
 
-The meeting will take place via IRMA-meet. A link will be posted here
-later. Registration is not required. In principle, the meeting will be
-recorded and video clips of the separate talks will be made available
-on this page. You can participate passively, without appearing in any
+This online meeting takes place via
+[IRMA-meet](https://premium.irma-meet.nl/irma-talks). Registration is
+not required. The video clips of the separate talks are made available
+below. You can participate passively, without appearing in any
 recording, and anonymously. But if you actively participate, for
 instance by engaging in discussions and/or switching on your camera,
 you may become part of the recording. Your choice to actively
@@ -83,7 +83,9 @@ Deze videodienst maakt gebruik van
 browser moet werken. Heb je toch problemen, probeer dan Google's
 Chrome browser. Die lijkt het soepelst te werken, op alle platformen.
 
-[Video's](https://www.youtube.com/playlist?list=PL4oSeW0AbF-kf39Wk5CKZ_D2RiHJQnNsq) van deze bijeenkomst.
+Alle
+[video's](https://www.youtube.com/playlist?list=PL4oSeW0AbF-kf39Wk5CKZ_D2RiHJQnNsq)
+van deze bijeenkomst.
 
    1. 14:00 Opening
 
