@@ -101,8 +101,8 @@ Chrome browser. Die lijkt het soepelst te werken, op alle platformen.
    (Drechtsteden), "ID-contact: betere dienstverlening door jouw
    gemeente met meer grip op je gegevens"
    [[slides](../meeting-slides/slides-5-3-21/ID-Contact-IRMA-meetup.pdf)]
-   [[demo video](https://vimeo.com/519943741)]
-   [[video](https://www.youtube.com/watch?v=DqiHoqWpi5c)]
+   [[video](https://www.youtube.com/watch?v=DqiHoqWpi5c)] [[demo
+   video](https://vimeo.com/519943741)]
 
    4. 15:05 Marc De Jong (BZK), "Ontwikkelingen Digitale Overheid"
    [[video](https://www.youtube.com/watch?v=lLodiKAWSPc)]
@@ -112,12 +112,15 @@ Chrome browser. Die lijkt het soepelst te werken, op alle platformen.
    6. 15:30 Ineke van Gelder en Mike Alders (Team Digitale Identiteit
    Amsterdam), "Updates onderzoeken & next steps met IRMA in
    Amsterdam"
-   [[slides](../meeting-slides/slides-5-3-21/MijnAmsterdam-en-filmpje.pdf)] [[video](https://www.youtube.com/watch?v=iuGt-5UnNZs)] [[video](https://www.youtube.com/watch?v=WyMgVToU5Cw)]
+   [[slides](../meeting-slides/slides-5-3-21/MijnAmsterdam-en-filmpje.pdf)]
+   [[video](https://www.youtube.com/watch?v=WyMgVToU5Cw)] [[video Hoe
+   werkt IRMA](https://www.youtube.com/watch?v=iuGt-5UnNZs)]
 
    7. 15:50 Bernard van Gastel (Radboud Universiteit), "Locaal stemmen
-   met IRMA" [[video](https://www.youtube.com/watch?v=cVFFoMNr8Vk)]
+   met IRMA" [[video](https://www.youtube.com/watch?v=wK-Aq4wDkw8)]
 
-   8. 16:10 Koen de Jonge (Procolix), "IRMA-meet" 
+   8. 16:10 Koen de Jonge (Procolix), "IRMA-meet"
+   [[video](https://www.youtube.com/watch?v=PGd78YDhMuQ)]
 
    9. 16:25 Patrick Terranea (Zynyo), "IRMA-authenticatie voor
    document ondertekening"
