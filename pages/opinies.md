@@ -16,6 +16,8 @@ informatie volg IRMA op [Twitter](https://twitter.com/IRMA_privacy).
 
 ## 2021
 
+  * Artikel [Een app in plaats van je paspoort](https://tweakers.net/reviews/8748/waar-staat-nederland-in-de-zoektocht-naar-een-digitaal-identiteitsbewijs.html) op tech website [Tweakers](https://tweakers.net) over de eID visie van de overheid, geinspireerd door IRMA, 23/3/21. [[locale copie](../pdf/EenAppInPlaatsVanJePaspoort-23-3-2021.pdf).
+
   * Radio interview [Echt of nep? De groeiende dreiging van
     deepfakes](https://www.nporadio1.nl/radio-focus/onderwerpen/72775-2021-02-23-echt-of-nep-de-groeiende-dreiging-van-deepfakes)
     over nepnieuws, deep fakes en het belang van digitale
@@ -24,7 +26,7 @@ informatie volg IRMA op [Twitter](https://twitter.com/IRMA_privacy).
     Focus](https://www.nporadio1.nl/radio-focus), 23/2/2021 [[podcast
     link](https://plinkhq.com/i/791101885/e/1000510276076)].
 
-  * Artikel <em>Vertrouwelijk bellen met IRMA</em> in magazine
+  * Artikel *Vertrouwelijk bellen met IRMA* in magazine
     [Binnenlands Bestuur](https://www.binnenlandsbestuur.nl/),
     jan. 2021. [[deel1](../images/idbellen1.jpeg),
     [deel2](../images/idbellen2.jpeg),
