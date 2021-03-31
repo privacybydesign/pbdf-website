@@ -39,9 +39,6 @@ in te loggen.
 
     Zie ook de eigen uitleg [pagina](https://magazine.chipsoft.nl/irma-installeren-online/welkom/) en [video](https://www.youtube.com/watch?v=6OSS0REAb0g) van Chipsoft voor het gebruik van IRMA.
 
-  * [Declaratie bij VGZ](https://www.vgz.nl/irma#/) voor
-    zaakwaarnemers.
-
   * [030 IRMA](https://www.030irma.nl/) voor het toevoegen van
     persoonsgegevens aan een pdf document.
 
