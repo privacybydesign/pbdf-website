@@ -45,7 +45,7 @@ Vooralsnog is deze attribuut uitgifte via surfconext alleen
 beschikbaar voor studenten en medewerkers van een beperkt aantal
 instellingen in het hoger onderwijs.  Studeert of werkt u aan zo'n
 instelling, maar komt deze niet voor in de lijst op de <a
-href="/uitgifte/surfnet?action=login">SURFconext
+href="/uitgifte/surfconext?action=login">SURFconext
 uitgifte pagina</a>, dan heeft uw instelling de aansluiting met de
 stichting <a href="https://privacybydesign.foundation/">Privacy by
 Design</a> niet "aangezet". In dat geval kunt u geen attributen via

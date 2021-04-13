@@ -64,8 +64,8 @@ verschillende andere partijen, waaronder in het bijzonder:
    with identity-based
    cryptography'](https://www.ngi.eu/news/2019/08/20/user-friendly-email-encryption-possible-with-identity-based-cryptography/).
 
- * [SURFnet](https://www.surfnet.nl), voor uitgifte en controle van
-   attributen via [surfconext](https://www.surfconext.nl);
+ * [SURF](https://www.surf.nl), voor uitgifte en controle van
+   attributen via [SURFconext](https://www.surfconext.nl);
 
  * [Nuts](https://nuts.nl), voor een open infrastructuur in de zorg,
    zie ook de portal voor zorgverleners

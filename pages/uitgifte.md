@@ -60,13 +60,13 @@ Verkrijg (enige variatie per netwerk): voornaam, achternaam, e-mailadres, geboor
 
 **Attributen via uw (Nederlandse) onderwijsinstelling**  
 Verkrijg: voornaam, achternaam, emailadres, instelling, medewerker/student, lokaal registratienummer  
-<a class="button" href="/uitgifte/surfnet">
-<img src="/images/surfnet.png">Laad attributen via SURFconext</a>  
+<a class="button" href="/uitgifte/surfconext">
+<img src="/images/surfconext.png">Laad attributen via SURFconext</a>  
 [Meer informatie](/uitgifte-surfconext)
 
 **Attributen via uw (internationale) onderwijsinstelling**  
 Verkrijg: voornaam, achternaam, emailadres, instelling, medewerker/student, lokaal registratienummer  
-<a class="button" href="/uitgifte/surfnet/edugain">
+<a class="button" href="/uitgifte/surfconext/edugain">
 <img src="/images/edugain.png">Laad attributen via eduGAIN</a>  
 Opmerking: dit is een experimentele aansluiting. We ontvangen graag feedback op irma 'at' privacybydesign.foundation.
 <!-- [Meer informatie](/uitgifte-surfconext) -->

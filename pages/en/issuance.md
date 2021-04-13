@@ -52,7 +52,7 @@ Attributes (differs per network): first name, family name, email address, birth 
 
 **Attributes via your educational institution**  
 Attributes: given name, family name, email address, institution, staff/student, local registration number  
-<a class="button" href="/issuance/surfnet/edugain">
+<a class="button" href="/issuance/surfconext/edugain">
 <img src="/images/edugain.png">Load attributes via eduGAIN</a>  
 Notice: this is an experimental service. We appreciate any feedback at irma 'at' privacybydesign.foundation, preferably with screenshots if something goes wrong.
 
@@ -79,8 +79,8 @@ Attributes: name, birth date, sex, address, zip code, city, BSN
 
 **Attributes via your dutch educational institute**  
 Attributes: given name, family name, email address, institution, staff/student, local registration number  
-<a class="button" href="/issuance/surfnet?action=login">
-<img src="/images/surfnet.png">Load attributes via SURFconext</a>  
+<a class="button" href="/issuance/surfconext?action=login">
+<img src="/images/surfconext.png">Load attributes via SURFconext</a>  
 [More information](/issuance-surfconext)
 
 **Attributen via the AGB-register --- issued by the foundation [nuts.nl](https://nuts.nl) from Vektis**  
