@@ -78,7 +78,7 @@ other parties, among which:
     encryption possible with identity-based
     cryptography'](https://www.ngi.eu/news/2019/08/20/user-friendly-email-encryption-possible-with-identity-based-cryptography/)
 
- * [SURFnet](https://www.surf.nl/en/services-and-products/surfconext/index.html),
+ * [SURF](https://www.surf.nl/en/services-and-products/surfconext/index.html),
    for issuing and verifying of attributes through SURFconext.
 
  * [Nuts](https://nuts.nl), for an open infrastructure in healthcare,

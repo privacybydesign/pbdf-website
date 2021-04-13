@@ -19,8 +19,8 @@ atmosphere is open and very much content-oriented.
 
  * **Online location:** [IRMA-meet](https://www.irma-meet.nl/).
 
- * **Physical location:** SURFnet, Hoog Overborch (Hoog Catharijne), Utrecht
-   [route](https://www.surf.nl/over-surf/contact/routebeschrijving-surf-surfmarket-en-surfnet/index.html),
+ * **Physical location:** SURF, Hoog Overborch (Hoog Catharijne), Utrecht
+   [route](https://www.surf.nl/contact-en-support/contact-met-surf),
    about 5 min. walking distance from Utrecht Central train station.
 
  * **Language:** mix of English and Dutch, depending on speaker and
