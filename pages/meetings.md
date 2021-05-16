@@ -36,7 +36,9 @@ atmosphere is open and very much content-oriented.
    dis-secr 'at' cs.ru.nl
 
 
-### IRMA meeting: Friday afternoon, March 5, 2021.
+### Upcomging IRMA meeting: Friday afternoon, June 25, 2021.
+
+The programme of this meeting will soon appear here.
 
 This online meeting takes place via
 [IRMA-meet](https://premium.irma-meet.nl/irma-talks). Registration is
@@ -72,6 +74,8 @@ The host of the meeting may intervene, and ultimately exclude you from
 the meeting, in case you do not follow this etiquette or disrupt the
 meeting in any other way.
 
+
+### Earlier IRMA meeting: Friday afternoon, March 5, 2021.
 
 **Programme** 
 
