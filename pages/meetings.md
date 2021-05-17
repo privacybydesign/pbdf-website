@@ -36,7 +36,7 @@ atmosphere is open and very much content-oriented.
    dis-secr 'at' cs.ru.nl
 
 
-### Upcomging IRMA meeting: Friday afternoon, June 25, 2021.
+### Upcoming IRMA meeting: Friday afternoon, June 25, 2021.
 
 The programme of this meeting will soon appear here.
 
