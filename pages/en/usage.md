@@ -36,6 +36,8 @@ Below is a list of websites where IRMA can now be used for login.
     [Snelder](https://mijn.huisartsenpraktijksnelder.nl/), supported
     by [Chipsoft](https://www.chipsoft.nl).
 
+  * Patient portal [Fonkelzorg](https://fonkelzorg.nl/patientenportaal/)
+
   * [030 IRMA](https://www.030irma.nl/) for adding personal data to a
     pdf document.
 

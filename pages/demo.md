@@ -33,6 +33,8 @@ Leeftijdscontrole
 href="/demo/18plus">18+ check</a> &nbsp; <a class="button"
 href="https://www.angrygames.nl/index.html">Angry Games demo</a>
 
+Met [uitleg](https://creativecode.github.io/irma-made-easy/posts/putting-an-age-check-on-a-static-website-using-irma/) voor ontwikkelaars.
+
 Registratie en verificatie om online films te kijken
 :    <a class="button"
 href="/demo/irmaTube">IRMATube</a>

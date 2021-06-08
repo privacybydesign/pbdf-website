@@ -73,7 +73,6 @@ als instrument tegen desinformatie*
    8. 15:40 - 16:00 Sietse Ringers (SIDN), *State of the IRMA*
 
 
-
 This online meeting takes place via
 [IRMA-meet](https://premium.irma-meet.nl/irma-talks). Registration is
 not required. The video clips of the separate talks are made available

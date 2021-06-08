@@ -33,6 +33,9 @@ Age verification
 href="/demo-en/18plus">18+ check</a> &nbsp; <a class="button"
 href="https://www.angrygames.nl/index.html">Angry Games demo</a>
 
+With [explanations](https://creativecode.github.io/irma-made-easy/posts/putting-an-age-check-on-a-static-website-using-irma/) for developers.
+
+
 Registration and verification for watching movies online
 :    <a class="button"
 href="/demo-en/irmaTube">IRMATube</a>

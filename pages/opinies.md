@@ -16,6 +16,16 @@ informatie volg IRMA op [Twitter](https://twitter.com/IRMA_privacy).
 
 ## 2021
 
+  * Live radio
+    [interview](https://www.nporadio1.nl/uitzendingen/eenvandaag/fefe7d5f-98b0-44ec-80b9-1a9ec7f02a2f/2021-06-04-eenvandaag)
+    over digitale identiteiten, i.h.b. over de nieuwe [Europese
+    plannnen](https://ec.europa.eu/commission/presscorner/detail/en/ip_21_2663) in relatie tot IRMA, bij radio programma
+    EenVandaag, 4/6/2021. Zie ook online [achtergrond](https://eenvandaag.avrotros.nl/item/europa-wil-volgend-jaar-met-digitaal-id-voor-iedereen-experimenteren-maar-met-onze-nederlandse-software-kan-dat-morgen-al/).
+
+  * Artikel [Apps voor veiligere authenticatie rukken
+    op](https://www.agconnect.nl/artikel/apps-voor-veiligere-authenticatie-rukken-op)
+    met een bespreking van IRMA, AGconnect, 17/5/2021
+
   * Artikel [Een app in plaats van je paspoort](https://tweakers.net/reviews/8748/waar-staat-nederland-in-de-zoektocht-naar-een-digitaal-identiteitsbewijs.html) op tech website [Tweakers](https://tweakers.net) over de eID visie van de overheid, geïnspireerd door IRMA, 23/3/21. [[locale copie](../pdf/EenAppInPlaatsVanJePaspoort-23-3-2021.pdf)].
 
   * Radio interview [Echt of nep? De groeiende dreiging van
