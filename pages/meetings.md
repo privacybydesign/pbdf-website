@@ -38,7 +38,41 @@ atmosphere is open and very much content-oriented.
 
 ### Upcoming IRMA meeting: Friday afternoon, June 25, 2021.
 
-The programme of this meeting will soon appear here.
+**Programme** 
+
+*This meeting will be in Dutch*. De video link is
+[premium.irma-meet.nl/irma-talks](https://premium.irma-meet.nl/irma-talks). 
+
+Deze videodienst maakt gebruik van
+[BigBlueButton](https://bigbluebutton.org/), dat in principe in elke
+browser moet werken. Heb je toch problemen, probeer dan Google's
+Chrome browser. Die lijkt het soepelst te werken, op alle platformen.
+
+   1. 14:00 Opening, welkom
+
+   2. 14:05 - 14:25 Marieke Brouwer (Gemeente Groningen) en Marloes
+van Unen (Gemeente Amsterdam), *IRMA-vote en pilots met
+burgerparticipatie in Groningen en Amsterdam*
+
+   3. 14:25 - 14:40 Leon Botros en Daniel Ostkamp (RU), *Versleutelde
+e-mail met IRMA: eerste prototype*
+
+   4. 14:40 - 14:55 Rowan Goemans en Laura Loenen (RU), *Cryptify:
+   versleutelde file transfer met IRMA*
+
+   5. 14:55 - 15:00 Koffie / thee / plas pauze
+
+   6. 15:00 - 15:20 Martijn van Dijk (RU, nu Gemeente Nijmegen),
+*Authenticiteit van berichten en hun afzender via IRMA handtekeningen
+als instrument tegen desinformatie*
+
+   7. 15:20 - 15:40 Reinder Rustema
+   ([petities.nl](https://petities.nl/)), *Petities en initiatieven
+   steunen met IRMA*
+
+   8. 15:40 - 16:00 Sietse Ringers (SIDN), *State of the IRMA*
+
+
 
 This online meeting takes place via
 [IRMA-meet](https://premium.irma-meet.nl/irma-talks). Registration is
