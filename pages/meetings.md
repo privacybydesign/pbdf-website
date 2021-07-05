@@ -40,6 +40,10 @@ atmosphere is open and very much content-oriented.
 
 **Programme** 
 
+Alle
+[video links](https://www.youtube.com/playlist?list=PL4oSeW0AbF-kf39Wk5CKZ_D2RiHJQnNsq)
+van deze bijeenkomst.
+
 *This meeting will be in Dutch*. De video link is
 [premium.irma-meet.nl/irma-talks](https://premium.irma-meet.nl/irma-talks). 
 
@@ -52,25 +56,27 @@ Chrome browser. Die lijkt het soepelst te werken, op alle platformen.
 
    2. 14:05 - 14:25 Marieke Brouwer (Gemeente Groningen) en Marloes
 van Unen (Gemeente Amsterdam), *IRMA-vote en pilots met
-burgerparticipatie in Groningen en Amsterdam*
+burgerparticipatie in Groningen en Amsterdam* [[video](https://www.youtube.com/watch?v=dDxw3Csd_2I)]
 
    3. 14:25 - 14:40 Leon Botros en Daniel Ostkamp (RU), *Versleutelde
-e-mail met IRMA: eerste prototype*
+e-mail met IRMA: eerste prototype* [[video](https://www.youtube.com/watch?v=B6NDA1Ouq1k)]
 
    4. 14:40 - 14:55 Rowan Goemans en Laura Loenen (RU), *Cryptify:
-   versleutelde file transfer met IRMA*
+   versleutelde file transfer met IRMA* [[video](https://www.youtube.com/watch?v=s3deWHy1uSc)]
 
    5. 14:55 - 15:00 Koffie / thee / plas pauze
 
    6. 15:00 - 15:20 Martijn van Dijk (RU, nu Gemeente Nijmegen),
 *Authenticiteit van berichten en hun afzender via IRMA handtekeningen
 als instrument tegen desinformatie*
+[[video](https://www.youtube.com/watch?v=gb9qUjCHV04)]
 
    7. 15:20 - 15:40 Reinder Rustema
    ([petities.nl](https://petities.nl/)), *Petities en initiatieven
-   steunen met IRMA*
+   steunen met IRMA* [[video](https://www.youtube.com/watch?v=ku5kxsoa2D4)]
 
-   8. 15:40 - 16:00 Sietse Ringers (SIDN), *State of the IRMA*
+   8. 15:40 - 16:00 Ivar Derksen (SIDN), *State of the IRMA*
+   [[video](https://www.youtube.com/watch?v=OeT9WUs6Zsk)]
 
 
 This online meeting takes place via
@@ -121,7 +127,7 @@ browser moet werken. Heb je toch problemen, probeer dan Google's
 Chrome browser. Die lijkt het soepelst te werken, op alle platformen.
 
 Alle
-[video's](https://www.youtube.com/playlist?list=PL4oSeW0AbF-kf39Wk5CKZ_D2RiHJQnNsq)
+[video links](https://www.youtube.com/playlist?list=PL4oSeW0AbF-kf39Wk5CKZ_D2RiHJQnNsq)
 van deze bijeenkomst.
 
    1. 14:00 Opening
