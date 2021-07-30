@@ -41,6 +41,10 @@ Registratie en verificatie om online films te kijken
 :    <a class="button"
 href="/demo/irmaTube">IRMATube</a>
 
+Geketende IRMA sessies
+:    <a class="button"
+href="/demo/irmaTubePremium">IRMATube Premium</a>
+
 Verificatie of iemand in leven is
 :    <a class="button"
 href="/demo/attestatiedevita">Attestatie de vita demo</a>

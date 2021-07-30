@@ -42,6 +42,10 @@ Registration and verification for watching movies online
 :    <a class="button"
 href="/demo-en/irmaTube">IRMATube</a>
 
+Chained IRMA sessions
+:    <a class="button"
+href="/demo/irmaTubePremium">IRMATube Premium</a>
+
 Verification whether someone is being alive
 :    <a class="button"
 href="/demo-en/beingalive">Attestatio de vita demo</a>
