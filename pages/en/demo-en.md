@@ -44,7 +44,7 @@ href="/demo-en/irmaTube">IRMATube</a>
 
 Chained IRMA sessions
 :    <a class="button"
-href="/demo/irmaTubePremium">IRMATube Premium</a>
+href="/demo-en/irmaTubePremium">IRMATube Premium</a>
 
 Verification whether someone is being alive
 :    <a class="button"
