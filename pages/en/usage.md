@@ -48,7 +48,7 @@ Below is a list of websites where IRMA can now be used for login.
     managing ones own IRMA app and for inspecting its usage.
 
   * [IRMA: nieuwe manier van
-    inloggen](https://www.amsterdam.nl/wonen-leefomgeving/innovatie/de-digitale-stad/irma-nieuwe-manier-inloggen/) demo website of the city of Amsterdam.
+    inloggen](https://www.amsterdam.nl/innovatie/digitalisering-technologie/irma-nieuwe-manier-inloggen/) demo website of the city of Amsterdam.
 
   * [Surfdrive online
     storage](https://www.surf.nl/en/news/pilot-surfdrive-for-students)

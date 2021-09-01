@@ -51,7 +51,7 @@ in te loggen.
     beheer van de eigen IRMA app en inzien van het gebruik ervan.
 
   * [IRMA: nieuwe manier van
-    inloggen](https://www.amsterdam.nl/wonen-leefomgeving/innovatie/de-digitale-stad/irma-nieuwe-manier-inloggen/) demo website van gemeente Amsterdam.
+    inloggen](https://www.amsterdam.nl/innovatie/digitalisering-technologie/irma-nieuwe-manier-inloggen/) demo website van gemeente Amsterdam.
 
   * [Surfdrive online
     opslag](https://www.surf.nl/nieuws/pilot-surfdrive-voor-studenten)
