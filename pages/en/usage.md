@@ -27,8 +27,11 @@ Below is a list of websites where IRMA can now be used for login.
   * [Helder.health](https://helder.health/) for medical doctors to
     get access to the dossiers of patients.
 
-  * [Ivido](https://platform.ivido.nl/) a personal health environment for 
-    everyone who signs up.
+  * [Ivido](https://platform.ivido.nl/) a personal health environment with
+    login via IRMA.
+
+  * [MIJNPGO](https://mijnpgo.org/) anoter personal health environment
+    with IRMA-login.
 
   * General Practioners [Medipark Uden](https://medipark.hix365.nl/)
     en [1e

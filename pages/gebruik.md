@@ -30,7 +30,10 @@ in te loggen.
     krijgen tot medische dossiers van pati&euml;nten.
 
   * [Ivido](https://platform.ivido.nl/) een persoonlijke gezondheidsomgeving
-    (PGO) voor iedereen die zich aanmeldt.
+    (PGO) met inloggen via IRMA.
+
+  * [MIJNPGO](https://mijnpgo.org/) een andere persoonlijke
+    gezondheidsomgeving (PGO) met IRMA-login.
 
   * Huisartspraktijken [Medipark Uden](https://medipark.hix365.nl/) en
     [1e lijn](https://1elijn.praktijkinfo.nl/onlinepatientomgeving/)
