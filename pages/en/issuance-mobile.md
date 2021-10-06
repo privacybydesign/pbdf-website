@@ -23,8 +23,7 @@ multiple times, with different phone numbers.
 
 As a first step of this issuance process, you provide your mobile
 phone number at the relevant [webpage](/uitgifte/telefoonnummer). A
-text message (SMS) is then sent to this number, coming from the phone
-number 06-5195.3392 of the foundation. The message contains both a
+text message (SMS) is then sent to this number, coming from SIDN-PBDF. The message contains both a
 one-time verification code and a verification link. There are now
 two ways to proceed:
 
