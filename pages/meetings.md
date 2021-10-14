@@ -36,7 +36,31 @@ atmosphere is open and very much content-oriented.
    dis-secr 'at' cs.ru.nl
 
 
-### Upcoming IRMA meeting: Friday afternoon, June 25, 2021.
+### Upcoming IRMA meeting: Friday afternoon, November 5, 2021.
+
+**Programme** 
+
+De bijeenkomst begint om 13:30, in zaal 002 op Drift 25, van de
+Universiteit van Utrecht, op loopafstand van Centraal Station
+Utrecht. Er is de volgende (onvolledige) lijst van sprekers /
+onderwerpen. Een tijdschema volgt binnenkort.
+
+ * Pieter van der Meulen (SURF - Trust and Identity). *Using IRMA as
+   an alternative to in person identity validation*
+
+ * Hessel van Oorschot (TakeNode), *Bescherm je creatieve werk met een
+   unieke code in minder dan een minuut*, zie ook
+   [TakeNode.org](https://www.takenode.org)
+
+ * David.Lamers (Rabobank), *Deep dive & learnings from Datakeeper*,
+   zie ook [Datakeeper](https://datakeeper.nl/)
+
+ * Sietse Ringers (SIDN), *State of the IRMA*
+
+
+
+
+### Earlier IRMA meeting: Friday afternoon, June 25, 2021.
 
 **Programme** 
 

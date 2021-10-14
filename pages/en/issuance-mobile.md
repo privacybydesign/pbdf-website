@@ -23,9 +23,9 @@ multiple times, with different phone numbers.
 
 As a first step of this issuance process, you provide your mobile
 phone number at the relevant [webpage](/uitgifte/telefoonnummer). A
-text message (SMS) is then sent to this number, coming from SIDN-PBDF. The message contains both a
-one-time verification code and a verification link. There are now
-two ways to proceed:
+text message (SMS) is then sent to this number, coming from
+SIDN-IRMA. The message contains both a one-time verification code and
+a verification link. There are now two ways to proceed:
 
  1. You enter this code at the same webpage. A QR-code then appears, which
     you can scan with your IRMA app on your phone.

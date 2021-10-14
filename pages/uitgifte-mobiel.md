@@ -23,7 +23,7 @@ Als eerste stap in dit uitgifte-proces voert u uw mobiele
 telefoonnummer in op de betreffende
 [webpagina](/uitgifte/telefoonnummer). U ontvangt dan een SMS bericht
 met zowel een eenmalige verificatie-code als verificatie-link. Het
-bericht komt van afzender SIDN-PBDF. Vervolgens
+bericht komt van afzender SIDN-IRMA. Vervolgens
 kunt u op twee manieren verder:
 
  1. U voert de code uit de SMS in op de webpagina. Vervolgens verschijnt
