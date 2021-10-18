@@ -15,6 +15,9 @@ Below is a list of websites where IRMA can now be used for login.
   * [IRMA-meet](https://irma-meet.nl/) for video calling where 
     participants first have to prove who they are.
 
+  * Access to your own insurance data at [Foundation
+    CIS](https://www.stichtingcis.nl/); so far available in Dutch only.
+
   * [QRona](https://qrona.info/) for registering your visitors, against
     COVID-19.
 

@@ -16,6 +16,9 @@ in te loggen.
   * [IRMA-meet](https://irma-meet.nl/) voor videobellen waarbij de
     deelnemers eerst moeten bewijzen wie ze zijn.
 
+  * Inzage in de eigen verzerkeringsgegevens bij [Stichting
+    CIS](https://www.stichtingcis.nl/).
+
   * [QRona](https://qrona.info/) voor het zelf registreren van 
     bezoekers, tegen corona.
 
