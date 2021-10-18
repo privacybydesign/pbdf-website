@@ -30,19 +30,20 @@ Health sector
   * [Helder.health](https://helder.health/) for medical doctors to
     get access to the dossiers of patients.
 
-Municipalities / Universities
+Municipalities
   * [IRMA: nieuwe manier van
     inloggen](https://www.amsterdam.nl/innovatie/digitalisering-technologie/irma-nieuwe-manier-inloggen/) demo website of the city of Amsterdam.
 
   * [ID-bellen](https://www.idbellen.nl/) for (mobile) calling with your
     municipality where callers first prove who they are with IRMA.
 
+  * [IRMA-vote](https://www.ru.nl/ihub/research/research-projects/irma-vote/)
+    for local voting IRMA, to increase citizen participation.
+
+Universities
   * [Surfdrive online
     storage](https://www.surf.nl/en/news/pilot-surfdrive-for-students)
     for students, af authentication with IRMA.
-
-  * [IRMA-vote](https://www.ru.nl/ihub/research/research-projects/irma-vote/)
-    for local voting IRMA, to increase citizen participation.
 
 Digital signatures
   * [030 IRMA](https://www.030irma.nl/) for adding personal data to a
@@ -51,7 +52,7 @@ Digital signatures
 Corona
   * [QRona](https://qrona.info/) for registering your visitors, against
     COVID-19.
-    
+
   * [Demo Covid test results](https://demo.irma.dev/).
 
 IRMA internally

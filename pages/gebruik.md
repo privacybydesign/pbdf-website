@@ -31,20 +31,21 @@ Zorgsector
   * [Helder.health](https://helder.health/) voor artsen om toegang te
     krijgen tot medische dossiers van pati&euml;nten.
 
-Gemeentes / Universiteiten
+Gemeentes
   * [IRMA: nieuwe manier van
     inloggen](https://www.amsterdam.nl/innovatie/digitalisering-technologie/irma-nieuwe-manier-inloggen/) demo website van gemeente Amsterdam.
 
   * [ID-bellen](https://www.idbellen.nl/) voor (mobiel) bellen met je
     gemeente waarbij bellers eerst met IRMA bewijzen wie ze zijn.
 
-  * [Surfdrive online
-    opslag](https://www.surf.nl/nieuws/pilot-surfdrive-voor-studenten)
-    voor studenten, na authenticatie met IRMA.
-
   * [IRMA-vote](https://www.ru.nl/ihub/research/research-projects/irma-vote/)
     voor locaal stemmen met IRMA, voor het vergroten van
     burgerparticipatie.
+
+Universiteiten
+  * [Surfdrive online
+    opslag](https://www.surf.nl/nieuws/pilot-surfdrive-voor-studenten)
+    voor studenten, na authenticatie met IRMA.
 
 Digitale handtekeningen
   * [030 IRMA](https://www.030irma.nl/) voor het toevoegen van
