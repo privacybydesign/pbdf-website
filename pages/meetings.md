@@ -48,6 +48,11 @@ onderwerpen. Een tijdschema volgt binnenkort.
  * Pieter van der Meulen (SURF - Trust and Identity). *Using IRMA as
    an alternative to in person identity validation*
 
+* Remko Hoekstra en Ewout van Haeften (Centraal InkoopBureau,
+  CIB). *Landelijke uitrol van de Gehandicapten Parkeer App:
+  fraudebestrijding met behulp van IRMA*, zie ook
+  [GPA](https://www.gpkapp.nl/zo-werkt-het)
+
  * Hessel van Oorschot (TakeNode), *Bescherm je creatieve werk met een
    unieke code in minder dan een minuut*, zie ook
    [TakeNode.org](https://www.takenode.org)
