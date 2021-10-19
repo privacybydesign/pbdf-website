@@ -45,6 +45,10 @@ Universities
     storage](https://www.surf.nl/en/news/pilot-surfdrive-for-students)
     for students, af authentication with IRMA.
 
+Insurances
+  * Access to your own insurance data at [Foundation
+    CIS](https://www.stichtingcis.nl/); so far available in Dutch only.
+
 Digital signatures
   * [030 IRMA](https://www.030irma.nl/) for adding personal data to a
     pdf document.

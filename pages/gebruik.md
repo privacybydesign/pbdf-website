@@ -47,6 +47,10 @@ Universiteiten
     opslag](https://www.surf.nl/nieuws/pilot-surfdrive-voor-studenten)
     voor studenten, na authenticatie met IRMA.
 
+Verzekeringen
+  * Inzage in de eigen verzerkeringsgegevens bij [Stichting
+    CIS](https://www.stichtingcis.nl/).
+
 Digitale handtekeningen
   * [030 IRMA](https://www.030irma.nl/) voor het toevoegen van
     persoonsgegevens aan een pdf document.
