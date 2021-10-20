@@ -13,6 +13,7 @@ translations:
 Zie hier een lijstje waar IRMA nu toegepast wordt.
 
 Zorgsector
+
   * [Ivido](https://platform.ivido.nl/) een persoonlijke gezondheidsomgeving
     (PGO) met inloggen via IRMA.
 
@@ -32,6 +33,7 @@ Zorgsector
     krijgen tot medische dossiers van pati&euml;nten.
 
 Gemeentes
+
   * [IRMA: nieuwe manier van
     inloggen](https://www.amsterdam.nl/innovatie/digitalisering-technologie/irma-nieuwe-manier-inloggen/) demo website van gemeente Amsterdam.
 
@@ -43,25 +45,30 @@ Gemeentes
     burgerparticipatie.
 
 Universiteiten
+
   * [Surfdrive online
     opslag](https://www.surf.nl/nieuws/pilot-surfdrive-voor-studenten)
     voor studenten, na authenticatie met IRMA.
 
 Verzekeringen
+
   * Inzage in de eigen verzerkeringsgegevens bij [Stichting
     CIS](https://www.stichtingcis.nl/).
 
 Digitale handtekeningen
+
   * [030 IRMA](https://www.030irma.nl/) voor het toevoegen van
     persoonsgegevens aan een pdf document.
 
 Corona
+
   * [QRona](https://qrona.info/) voor het zelf registreren van 
     bezoekers, tegen corona.
 
   * [Demo Covid test uitslagen](https://demo.irma.dev/).
 
 IRMA intern
+
   * [MijnIRMA](https://privacybydesign.foundation/mijnirma/) voor het
     beheer van de eigen IRMA app en inzien van het gebruik ervan.
 
