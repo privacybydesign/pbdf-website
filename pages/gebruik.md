@@ -10,28 +10,9 @@ translations:
 
 ---
 
-Ziehier een lijstje van websites waar IRMA nu gebruikt kan worden om
-in te loggen.
+Zie hier een lijstje waar IRMA nu toegepast wordt.
 
-  * [IRMA-meet](https://irma-meet.nl/) voor videobellen waarbij de
-    deelnemers eerst moeten bewijzen wie ze zijn.
-
-  * Inzage in de eigen verzerkeringsgegevens bij [Stichting
-    CIS](https://www.stichtingcis.nl/).
-
-  * [QRona](https://qrona.info/) voor het zelf registreren van 
-    bezoekers, tegen corona.
-
-  * [IRMA-vote](https://www.ru.nl/ihub/research/research-projects/irma-vote/)
-    voor locaal stemmen met IRMA, voor het vergroten van
-    burgerparticipatie.
-
-  * [ID-bellen](https://www.idbellen.nl/) voor (mobiel) bellen met je
-    gemeente waarbij bellers eerst met IRMA bewijzen wie ze zijn.
-
-  * [Helder.health](https://helder.health/) voor artsen om toegang te
-    krijgen tot medische dossiers van pati&euml;nten.
-
+Zorgsector
   * [Ivido](https://platform.ivido.nl/) een persoonlijke gezondheidsomgeving
     (PGO) met inloggen via IRMA.
 
@@ -47,20 +28,46 @@ in te loggen.
 
   * Patiëntenportaal [Fonkelzorg](https://fonkelzorg.nl/patientenportaal/)
 
-  * [030 IRMA](https://www.030irma.nl/) voor het toevoegen van
-    persoonsgegevens aan een pdf document.
+  * [Helder.health](https://helder.health/) voor artsen om toegang te
+    krijgen tot medische dossiers van pati&euml;nten.
 
-  * [MijnIRMA](https://privacybydesign.foundation/mijnirma/) voor het
-    beheer van de eigen IRMA app en inzien van het gebruik ervan.
-
+Gemeentes
   * [IRMA: nieuwe manier van
     inloggen](https://www.amsterdam.nl/innovatie/digitalisering-technologie/irma-nieuwe-manier-inloggen/) demo website van gemeente Amsterdam.
 
+  * [ID-bellen](https://www.idbellen.nl/) voor (mobiel) bellen met je
+    gemeente waarbij bellers eerst met IRMA bewijzen wie ze zijn.
+
+  * [IRMA-vote](https://www.ru.nl/ihub/research/research-projects/irma-vote/)
+    voor locaal stemmen met IRMA, voor het vergroten van
+    burgerparticipatie.
+
+Universiteiten
   * [Surfdrive online
     opslag](https://www.surf.nl/nieuws/pilot-surfdrive-voor-studenten)
     voor studenten, na authenticatie met IRMA.
 
+Verzekeringen
+  * Inzage in de eigen verzerkeringsgegevens bij [Stichting
+    CIS](https://www.stichtingcis.nl/).
+
+Digitale handtekeningen
+  * [030 IRMA](https://www.030irma.nl/) voor het toevoegen van
+    persoonsgegevens aan een pdf document.
+
+Corona
+  * [QRona](https://qrona.info/) voor het zelf registreren van 
+    bezoekers, tegen corona.
+
   * [Demo Covid test uitslagen](https://demo.irma.dev/).
+
+IRMA intern
+  * [MijnIRMA](https://privacybydesign.foundation/mijnirma/) voor het
+    beheer van de eigen IRMA app en inzien van het gebruik ervan.
+
+  * [IRMA-meet](https://irma-meet.nl/) voor videobellen waarbij de
+    deelnemers eerst moeten bewijzen wie ze zijn.
+
     
 
 Deze lijst is ongetwijfeld niet volledig. Laat het vooral weten als er
