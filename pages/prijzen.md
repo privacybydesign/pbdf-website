@@ -13,6 +13,17 @@ translations:
 Op deze pagina staan de prijzen die de stichting Privacy by Design
 ontvangen heeft voor het identiteitsplatform IRMA. 
 
+### 2021 Dutch Interactive Awards
+
+In de category *digital for good* is IRMA de **Winnaar Zilver**
+geworden, met de inzending [Een veilige ID op je
+mobiel](https://www.emerce.nl/nieuws/dit-winnaars-dutch-interactive-awards-2021). Belangrijke
+ontwerp bijdragen zijn geleverd door [Informaat](https://informaat.nl)
+en de [gemeente
+Amsterdam](https://informaat.nl/nl/cases/gemeente-amsterdam/).
+
+<br>
+
 ### ISOC.nl Internet Innovatie Award 2019
 
 <img align="left" src="../images/isoc-award-2019.jpg" alt="ISOC prijs"
