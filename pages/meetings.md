@@ -62,9 +62,8 @@ onderwerpen. Een tijdschema volgt binnenkort.
 
   5. 15:00 - 15:30 Pauze 
 
-  6. 15:30 - 16:00 Hessel van Oorschot (TakeNode), *Bescherm je
-     creatieve werk met een unieke code in minder dan een minuut*, zie
-     ook [TakeNode.org](https://www.takenode.org)
+  6. 15:30 - 16:00 Dennis Bor en Lian Vervoort (Radboud Universiteit),
+     *Twid: tegengaan van desinformatie op Twitter met IRMA*
 
   7. 16:00 - 16:30 Sietse Ringers en Martijn Sanders (SIDN), *State of
      the IRMA*
