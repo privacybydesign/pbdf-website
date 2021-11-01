@@ -15,12 +15,15 @@ ontvangen heeft voor het identiteitsplatform IRMA.
 
 ### 2021 Dutch Interactive Awards
 
-In de category *digital for good* is IRMA de **Winnaar Zilver**
-geworden, met de inzending [Een veilige ID op je
-mobiel](https://www.emerce.nl/nieuws/dit-winnaars-dutch-interactive-awards-2021). Belangrijke
-ontwerp bijdragen zijn geleverd door [Informaat](https://informaat.nl)
-en de [gemeente
-Amsterdam](https://informaat.nl/nl/cases/gemeente-amsterdam/).
+<img align="left" src="../images/dia-prijs-2021.jpeg" alt="DIA prijs"
+ style="border:10px solid white; width: 35%; height: 35%"/> In de
+ category *digital for good* is IRMA de **Winnaar Zilver** geworden,
+ met de inzending [Een veilige ID op je
+ mobiel](https://www.emerce.nl/nieuws/dit-winnaars-dutch-interactive-awards-2021). Belangrijke
+ ontwerp bijdragen zijn geleverd door
+ [Informaat](https://informaat.nl/nl/cases/gemeente-amsterdam/).  en
+ de [gemeente
+ Amsterdam](https://www.amsterdam.nl/nieuwsarchief/persberichten/2020/persberichten-touria-meliani/goed-id-amsterdam-werkt-nieuwe-manier).
 
 <br>
 
