@@ -23,9 +23,9 @@ has won with the identity platform IRMA.
  design contributions came from
  [Informaat](https://informaat.nl/en/cases/gemeente-amsterdam/) and
  the [city of
- Amsterdam](https://www.amsterdam.nl/nieuwsarchief/persberichten/2020/persberichten-touria-meliani/goed-id-amsterdam-werkt-nieuwe-manier).
+ Amsterdam](https://www.amsterdam.nl/nieuwsarchief/persberichten/2020/persberichten-touria-meliani/goed-id-amsterdam-werkt-nieuwe-manier). The
+ jury writes: "The thorough and broad approach that was chosen here should be commended."
 
-<br>
 <br>
 
 ### ISOC.nl Internet Innovation Award 2019

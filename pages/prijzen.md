@@ -23,9 +23,10 @@ ontvangen heeft voor het identiteitsplatform IRMA.
  ontwerp bijdragen zijn geleverd door
  [Informaat](https://informaat.nl/nl/cases/gemeente-amsterdam/).  en
  de [gemeente
- Amsterdam](https://www.amsterdam.nl/nieuwsarchief/persberichten/2020/persberichten-touria-meliani/goed-id-amsterdam-werkt-nieuwe-manier).
+ Amsterdam](https://www.amsterdam.nl/nieuwsarchief/persberichten/2020/persberichten-touria-meliani/goed-id-amsterdam-werkt-nieuwe-manier). De
+ jury schrijft: "Alle lof voor de grondige en veelomvattende aanpak
+ die men heeft gekozen."
 
-<br>
 <br>
 
 ### ISOC.nl Internet Innovatie Award 2019
