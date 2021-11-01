@@ -28,6 +28,7 @@ ontvangen heeft voor het identiteitsplatform IRMA.
  die men heeft gekozen."
 
 <br>
+<br>
 
 ### ISOC.nl Internet Innovatie Award 2019
 

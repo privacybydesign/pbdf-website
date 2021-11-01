@@ -27,6 +27,7 @@ has won with the identity platform IRMA.
  jury writes: "The thorough and broad approach that was chosen here should be commended."
 
 <br>
+<br>
 
 ### ISOC.nl Internet Innovation Award 2019
 
