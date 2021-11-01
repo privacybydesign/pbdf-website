@@ -13,7 +13,7 @@ translations:
 Op deze pagina staan de prijzen die de stichting Privacy by Design
 ontvangen heeft voor het identiteitsplatform IRMA. 
 
-### 2021 Dutch Interactive Awards
+### Dutch Interactive Awards 2021
 
 <img align="left" src="../images/dia-prijs-2021.jpeg" alt="DIA prijs"
  style="border:10px solid white; width: 35%; height: 35%"/> In de
@@ -25,6 +25,7 @@ ontvangen heeft voor het identiteitsplatform IRMA.
  de [gemeente
  Amsterdam](https://www.amsterdam.nl/nieuwsarchief/persberichten/2020/persberichten-touria-meliani/goed-id-amsterdam-werkt-nieuwe-manier).
 
+<br>
 <br>
 
 ### ISOC.nl Internet Innovatie Award 2019
