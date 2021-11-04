@@ -64,6 +64,10 @@ onderwerpen. Een tijdschema volgt binnenkort.
   6. 15:30 - 16:00 Sietse Ringers en Martijn Sanders (SIDN), *State of
      the IRMA*
 
+  7. 16:00 - 16:30 Peter Havekes (SURF - Trust and Identity), *Using
+     IRMA as an alternative to in person identity validation*.
+
+
 Ter afsluiting is er informeel napraten in [The Streetfood
 Club](https://thestreetfoodclub.nl/), Janskerkhof 9, Utrecht.
 
