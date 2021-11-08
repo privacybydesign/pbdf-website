@@ -60,7 +60,7 @@ Notice: this is an experimental service. We appreciate any feedback at irma 'at'
 
 **Mobile phone number attribute**  
 Attribute: mobile phone number attribute  
-<a class="button" href="/issuance/phonenumber">
+<a class="button" href="https://sidnsmsissuer.irmaconnect.nl/issuance/sms/">
 <img src="/images/mobile.png">Load mobile phone number attribute</a>  
 [More information](/issuance-mobile)
 
