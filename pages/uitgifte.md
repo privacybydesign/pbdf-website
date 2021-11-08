@@ -46,7 +46,7 @@ Verkrijg: e-mailadres
 
 **Mobiel telefoonnummer-attribuut**  
 Verkrijg: telefoonnummer  
-<a class="button" href="/uitgifte/telefoonnummer">
+<a class="button" href="https://sidnsmsissuer.irmaconnect.nl/uitgifte/sms/">
 <img src="/images/mobile.png">Laad mobiel nummer attribuut</a>  
 [Meer informatie](/uitgifte-mobiel)
 
