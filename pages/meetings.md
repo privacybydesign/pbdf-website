@@ -36,7 +36,7 @@ atmosphere is open and very much content-oriented.
    dis-secr 'at' cs.ru.nl
 
 
-### Upcoming IRMA meeting: Friday afternoon, November 5, 2021.
+### IRMA meeting: Friday afternoon, November 5, 2021.
 
 **Programme** 
 
@@ -50,22 +50,30 @@ onderwerpen. Een tijdschema volgt binnenkort.
   2. 13:30 - 14:00 Remko Hoekstra en Ewout van Haeften (Centraal
      InkoopBureau, CIB). *Landelijke uitrol van de Gehandicapten
      Parkeer App: fraudebestrijding met behulp van IRMA*, zie ook
-     [GPA](https://www.gpkapp.nl/zo-werkt-het)
+     [GPA](https://www.gpkapp.nl/zo-werkt-het). [[slides](../meeting-slides/slides-5-11-21/hoekstra-vanhaeften-gpa.pdf)]
+     [[video](https://www.youtube.com/watch?v=Imrh_5nMSfU)]
 
   3. 14:00 - 14:30 David Lamers en Joris Lange (Rabobank), *Deep dive
      & learnings from Datakeeper*, zie ook
-     [Datakeeper](https://datakeeper.nl/)
+     [Datakeeper](https://datakeeper.nl/). [[slides](../meeting-slides/slides-5-11-21/lamers-lange-datakeeper.pdf)]
+     [[video](https://www.youtube.com/watch?v=QdIaK2X_5DM)]
 
   4. 14:30 - 15:00 Pauze 
 
   5. 15:00 - 15:30 Dennis Bor en Lian Vervoort (Radboud Universiteit),
-     *Twid: tegengaan van desinformatie op Twitter met IRMA*
+  *Twid: tegengaan van desinformatie op Twitter met
+  IRMA*. [[slides](../meeting-slides/slides-5-11-21/vervoort-bor-twid.pdf)]
+  [[video](https://www.youtube.com/watch?v=KrXMINnrQHY)]
 
   6. 15:30 - 16:00 Sietse Ringers en Martijn Sanders (SIDN), *State of
      the IRMA*
+     [[slides](../meeting-slides/slides-5-11-21/ringers-sanders-state.pdf)]
+     [[video](https://www.youtube.com/watch?v=Y0SqLTmqtv4)]
 
   7. 16:00 - 16:30 Peter Havekes (SURF - Trust and Identity), *Using
-     IRMA as an alternative to in person identity validation*.
+     IRMA as an alternative to in person identity
+     validation*. [[slides](../meeting-slides/slides-5-11-21/havekes-vermeulen-rv.pdf)]
+     [[video](https://www.youtube.com/watch?v=pl5Ho3llf9k)]
 
 
 Ter afsluiting is er informeel napraten in [The Streetfood
