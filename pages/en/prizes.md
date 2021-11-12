@@ -15,7 +15,9 @@ has won with the identity platform IRMA.
 
 ### Dutch Interactive Awards 2021
 
-<img align="left" src="../images/dia-prijs-2021.jpeg" alt="DIA prijs"
+<img align="left" src="../images/dia-prijs-2021.jpeg" alt="DIA prize"
+ style="border:10px solid white; width: 35%; height: 35%"/> <img
+ align="left" src="../images/dia2-prijs-2021.jpeg" alt="DIA prize"
  style="border:10px solid white; width: 35%; height: 35%"/> In the
  category *digital for good* IRMA is the **Winner Silver** with the
  submission [A secure ID on your
@@ -24,9 +26,9 @@ has won with the identity platform IRMA.
  [Informaat](https://informaat.nl/en/cases/gemeente-amsterdam/) and
  the [city of
  Amsterdam](https://www.amsterdam.nl/nieuwsarchief/persberichten/2020/persberichten-touria-meliani/goed-id-amsterdam-werkt-nieuwe-manier). The
- jury writes: "The thorough and broad approach that was chosen here should be commended."
+ jury writes: "The thorough and broad approach that was chosen here
+ should be commended."
 
-<br>
 <br>
 
 ### ISOC.nl Internet Innovation Award 2019

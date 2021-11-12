@@ -16,6 +16,8 @@ ontvangen heeft voor het identiteitsplatform IRMA.
 ### Dutch Interactive Awards 2021
 
 <img align="left" src="../images/dia-prijs-2021.jpeg" alt="DIA prijs"
+ style="border:10px solid white; width: 35%; height: 35%"/> <img
+ align="left" src="../images/dia2-prijs-2021.jpeg" alt="DIA prijs"
  style="border:10px solid white; width: 35%; height: 35%"/> In de
  category *digital for good* is IRMA de **Winnaar Zilver** geworden,
  met de inzending [Een veilige ID op je
@@ -27,7 +29,6 @@ ontvangen heeft voor het identiteitsplatform IRMA.
  jury schrijft: "Alle lof voor de grondige en veelomvattende aanpak
  die men heeft gekozen."
 
-<br>
 <br>
 
 ### ISOC.nl Internet Innovatie Award 2019
