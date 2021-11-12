@@ -42,8 +42,7 @@ atmosphere is open and very much content-oriented.
 
 De bijeenkomst begint om 13:30, in zaal 002 op Drift 25, van de
 Universiteit van Utrecht, op loopafstand van Centraal Station
-Utrecht. Er is de volgende (onvolledige) lijst van sprekers /
-onderwerpen. Een tijdschema volgt binnenkort.
+Utrecht. 
 
   1. 13:30 Opening, welkom
 
