@@ -16,6 +16,20 @@ informatie volg IRMA op [Twitter](https://twitter.com/IRMA_privacy).
 
 ## 2021
 
+  * Interview [Is de Europese digitale identiteit echt het einde van
+    de
+    vrijheid?](https://www.agconnect.nl/artikel/de-europese-digitale-identiteit-echt-het-einde-van-de-vrijheid)
+    in IT-magazine AG Connect, 28/12/2021.
+
+  * IRMA genoemd als bestaand middel voor online leeftijdverificatie,
+    in [Deze ambitieuze Code moet het internet veiliger maken voor
+    kinderen](https://www.nrc.nl/nieuws/2021/12/12/deze-ambitieuze-code-moet-het-internet-veiliger-maken-voor-kinderen-a4068676),
+    in [NRC](https://www.nrc.nl/), 12/12/2021.
+
+  * Artikel [Wetenschappers waarschuwen voor een nieuwe digitale
+    identiteit](https://www.ftm.nl/artikelen/internationale-digid-lobby),
+    bij [Follow the Money](https://www.ftm.nl/), 11/12/2021.
+
   * Live radio
     [interview](https://www.nporadio1.nl/uitzendingen/eenvandaag/fefe7d5f-98b0-44ec-80b9-1a9ec7f02a2f/2021-06-04-eenvandaag)
     over digitale identiteiten, i.h.b. over de nieuwe [Europese
