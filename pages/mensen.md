@@ -66,16 +66,17 @@ ontwikkeling van de software and de webpagina's van de stichting.
 #### Actieve ontwikkelaars
 
 * Sietse Ringers
-* David Venhoek
 * Ivar Derksen
+* Maja Reißner
+* David Venhoek
 * Leon Botros
-* Hanna Schraffenberger
-* Fabian van den Broek
-* Tomas Harreveld
 * Bart Jacobs
 
 #### Voormalige ontwikkelaars
 
+* Hanna Schraffenberger
+* Fabian van den Broek
+* Tomas Harreveld
 * Ayke van Laethem
 * Koen van Ingen
 * Joost van Dijk

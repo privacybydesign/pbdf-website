@@ -63,16 +63,17 @@ been) active in developing software and web-pages of the foundation.
 #### Active developers
 
 * Sietse Ringers
-* David Venhoek
 * Ivar Derksen
+* Maja Reißner
+* David Venhoek
 * Leon Botros
-* Hanna Schraffenberger
-* Fabian van den Broek
-* Tomas Harreveld
 * Bart Jacobs
 
 #### Former developers
 
+* Hanna Schraffenberger
+* Fabian van den Broek
+* Tomas Harreveld
 * Ayke van Laethem
 * Koen van Ingen
 * Joost van Dijk
@@ -81,5 +82,3 @@ been) active in developing software and web-pages of the foundation.
 * Roland van Rijswijk-Deij
 * Pim Vullers
 * Bas Westerbaan
-
-
