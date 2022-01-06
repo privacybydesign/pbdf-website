@@ -16,6 +16,11 @@ informatie volg IRMA op [Twitter](https://twitter.com/IRMA_privacy).
 
 ## 2021
 
+  * Interview ['We hoeven niet alles te doen zoals Silicon Valley het
+voorschrijft'](../pdf/pvib-6-2021.pdf) met Bart Jacobs en Roelof
+Meijer, [Platform voor Informatiebeveiliging](https://www.pvib.nl/)
+(PvIB), NR 6, jaargang 2021.
+
   * Interview [Is de Europese digitale identiteit echt het einde van
     de
     vrijheid?](https://www.agconnect.nl/artikel/de-europese-digitale-identiteit-echt-het-einde-van-de-vrijheid)
