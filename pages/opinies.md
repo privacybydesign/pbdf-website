@@ -14,6 +14,13 @@ Deze pagina bevat (links naar) persartikelen, opinies, blogs,
 etc. over IRMA, in omgekeerde chronologische volgorde. Voor actuele
 informatie volg IRMA op [Twitter](https://twitter.com/IRMA_privacy).
 
+## 2022
+
+  * Artikel [Wie controleert straks onze digitale
+    identiteit](https://www.ftm.nl/artikelen/update-digitaal-id-bewijs),
+    bij [Follow the Money](https://www.ftm.nl/), 18/1/2022.
+
+
 ## 2021
 
   * Interview ['We hoeven niet alles te doen zoals Silicon Valley het
