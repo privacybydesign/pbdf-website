@@ -16,6 +16,14 @@ informatie volg IRMA op [Twitter](https://twitter.com/IRMA_privacy).
 
 ## 2022
 
+  * IRMA als voorbeeld genoemd in [Iedereen
+    gehoorzaam](https://www.groene.nl/artikel/iedereen-gehoorzaam),
+    Weekblad De Groene Amsterdammer, 21/2/2022.
+
+  * Artikel [Privacy-app IRMA wint prijs zonder
+    geld](https://www.agconnect.nl/artikel/privacy-app-irma-wint-prijs-zonder-geld)
+    in IT-magazine AG Connect, 9/2/2022.
+
   * Artikel [Wie controleert straks onze digitale
     identiteit](https://www.ftm.nl/artikelen/update-digitaal-id-bewijs),
     bij [Follow the Money](https://www.ftm.nl/), 18/1/2022.
