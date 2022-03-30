@@ -76,7 +76,7 @@ De bijeenkomst begint om 13:30, bij
 
   11. 16:45 - 17:00 Sietse Ringers (SIDN), *State of the IRMA*
 
-  12. 16:30 - 17: Borrel, aangeboden door SURF.
+  12. 17:00 - 18:00 Borrel, aangeboden door SURF.
 
 
 
