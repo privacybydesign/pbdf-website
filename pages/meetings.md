@@ -19,9 +19,9 @@ atmosphere is open and very much content-oriented.
 
  * **Online location:** [IRMA-meet](https://www.irma-meet.nl/).
 
-[//]: <>  * **Physical location:** SURF, Hoog Overborch (Hoog Catharijne), Utrecht
-[//]: <>    [route](https://www.surf.nl/contact-en-support/contact-met-surf),
-[//]: <>    about 5 min. walking distance from Utrecht Central train station.
+ * **Physical location:** SURF, Hoog Overborch (Hoog Catharijne), Utrecht
+   [route](https://www.surf.nl/contact-en-support/contact-met-surf),
+   about 5 min. walking distance from Utrecht Central train station.
 
  * **Language:** mix of English and Dutch, depending on speaker and
      audience.
@@ -36,7 +36,51 @@ atmosphere is open and very much content-oriented.
    dis-secr 'at' cs.ru.nl
 
 
-### IRMA meeting: Friday afternoon, November 5, 2021.
+
+### IRMA meeting: Friday afternoon, May 6, 2022.
+
+**Programme** 
+
+De bijeenkomst begint om 13:30, bij
+[SURF](https://www.surf.nl/contact-en-support/contact-met-surf).
+
+  1. 13:30 Opening, welkom
+
+  2. 13:30 - 14:00 Joost Fleuren (Kamer van Koophandel), *KVK
+  bevoegdheden en IRMA: waarom en hoe?*
+
+  3. 14:00 - 14:30 Allard Keuter (Signicat), *IRMA via de Signicat
+  broker, voor eIDs in NL en EU*
+
+  4. 14:30 - 14:45 Koen de Jonge (Procolix), *Know your customer with
+  IRMA*
+
+  5. 14:45 - 15:00 Daniel Ostkamp, Leon Botros (Radboud Universiteit),
+  *Encrypted e-mail met IRMA, als minimal lovable product*
+
+  6. 15:00 - 15:15 Mike Alders (Gemeente Amsterdam), *Je
+  identiteitsdocument in IRMA*. Als je je paspoort of ID-kaart
+  meeneemt, kun je het zelf ook proberen.
+
+  7. 15:15 - 15:45 Pauze
+
+  8. 15:45 - 16:15 Ingrid Rijper, Anne van Doorn (StichtingCIS),
+  *Ervaring met IRMA voor toegang tot centraal gedeelde
+  verzekeringsgegevens*
+
+  9. 16:15 - 16:30 Wout Slakhorst (Nedap / Nuts), *Machtigen met KvK
+  credential*
+
+  10. 16:30 - 16:45 Martijn Sanders (SIDN), *Stand van zaken nieuwe
+  IRMA UX*
+
+  11. 16:45 - 17:00 Sietse Ringers (SIDN), *State of the IRMA*
+
+  12. 16:30 - 17: Borrel, aangeboden door SURF.
+
+
+
+### Earlier IRMA meeting: Friday afternoon, November 5, 2021.
 
 **Programme** 
 
