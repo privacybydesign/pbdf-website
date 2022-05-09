@@ -37,7 +37,7 @@ atmosphere is open and very much content-oriented.
 
 
 
-### IRMA meeting: Friday afternoon, May 6, 2022.
+### Vorige IRMA meeting: Friday afternoon, May 6, 2022.
 
 **Programme** 
 
@@ -48,35 +48,35 @@ De bijeenkomst begint om 13:30, bij
 
   2. 13:30 - 14:00 Joost Fleuren (Kamer van Koophandel), *KVK
   bevoegdheden en IRMA: waarom en hoe?*
+  [[video](https://www.youtube.com/watch?v=IYckupZ3w10)]
 
   3. 14:00 - 14:30 Allard Keuter (Signicat), *IRMA via de Signicat
   broker, voor eIDs in NL en EU*
+  [[video](https://www.youtube.com/watch?v=tWdr-UrN6Hg)]
 
-  4. 14:30 - 14:45 Koen de Jonge (Procolix), *Know your customer with
-  IRMA*
-
-  5. 14:45 - 15:00 Daniel Ostkamp, Leon Botros (Radboud Universiteit),
+  4. 14:30 - 15:50 Daniel Ostkamp, Leon Botros (Radboud Universiteit),
   *Encrypted e-mail met IRMA, als minimal lovable product*
+  [[video](https://www.youtube.com/watch?v=tonNQQSPHiM)]
 
-  6. 15:00 - 15:15 Mike Alders (Gemeente Amsterdam), *Je
+  5. 15:50 - 15:10 Mike Alders (Gemeente Amsterdam), *Je
   identiteitsdocument in IRMA*. Als je je paspoort of ID-kaart
   meeneemt, kun je het zelf ook proberen.
+  [[video](https://www.youtube.com/watch?v=bPbg98nhdzI)]
 
-  7. 15:15 - 15:45 Pauze
+  6. 15:10 - 15:45 Pauze
 
-  8. 15:45 - 16:15 Ingrid Rijper, Anne van Doorn (StichtingCIS),
+  7. 15:45 - 16:15 Ingrid Rijper, Anne van Doorn (StichtingCIS),
   *Ervaring met IRMA voor toegang tot centraal gedeelde
   verzekeringsgegevens*
+  [[video](https://www.youtube.com/watch?v=-BtVH4kigaE)]
 
-  9. 16:15 - 16:30 Wout Slakhorst (Nedap / Nuts), *Machtigen met KvK
-  credential*
+  8. 16:15 - 16:30 Wout Slakhorst (Nedap / Nuts), *Machtigen met KvK
+  credential* [[video](https://www.youtube.com/watch?v=GBcvpWHZ-NI)]
 
-  10. 16:30 - 16:45 Martijn Sanders (SIDN), *Stand van zaken nieuwe
-  IRMA UX*
+  10. 16:30 - 17:00 Martijn Sanders, Sietse Ringers (SIDN), *State of
+  the IRMA* [[video](https://www.youtube.com/watch?v=8uWx5lzQvE0)]
 
-  11. 16:45 - 17:00 Sietse Ringers (SIDN), *State of the IRMA*
-
-  12. 17:00 - 18:00 Borrel, aangeboden door SURF.
+  11. 17:00 - 18:00 Borrel, aangeboden door SURF.
 
 
 
