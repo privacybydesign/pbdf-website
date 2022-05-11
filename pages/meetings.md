@@ -37,9 +37,9 @@ atmosphere is open and very much content-oriented.
 
 
 
-### Vorige IRMA meeting: Friday afternoon, May 6, 2022.
+### Vorige IRMA meeting: Vrijdagmiddag, 6 mei 2022.
 
-**Programme** 
+**Programma** 
 
 De bijeenkomst begint om 13:30, bij
 [SURF](https://www.surf.nl/contact-en-support/contact-met-surf).
