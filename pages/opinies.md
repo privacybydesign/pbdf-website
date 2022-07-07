@@ -16,6 +16,9 @@ informatie volg IRMA op [Twitter](https://twitter.com/IRMA_privacy).
 
 ## 2022
 
+  * ['Eindelijk' Digitaal ID-bewijs](/pdf/Telegraaf-2-7-2022.pdf) in:
+    [Telegraaf](https://www.telegraaf.nl/financieel/479714013/ook-het-id-bewijs-moet-straks-in-een-app), 2/7/2022.
+
   * IRMA als voorbeeld genoemd in [Iedereen
     gehoorzaam](https://www.groene.nl/artikel/iedereen-gehoorzaam),
     Weekblad De Groene Amsterdammer, 21/2/2022.

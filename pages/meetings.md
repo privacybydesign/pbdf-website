@@ -37,6 +37,12 @@ atmosphere is open and very much content-oriented.
 
 
 
+### Volgende IRMA meeting: Vrijdagmiddag, 30 september 2022.
+
+Het programma zal hier te zijner tijd bekend gemaakt worden.
+
+
+
 ### Vorige IRMA meeting: Vrijdagmiddag, 6 mei 2022.
 
 **Programma** 
