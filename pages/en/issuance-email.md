@@ -12,11 +12,6 @@ translations:
 You can add multiple e-mail addresses as attributes in your IRMA app,
 for instance your business address and your private address.
 
-When you registered your IRMA app, you may have provided an email
-address already, which is associated with your [MyIRMA](/myirma)
-account. This e-mail address has been issued as (first) attribute in
-your IRMA app.
-
 As a first step of the issuance process of an e-mail address, you
 provide your e-mail address in a textfield. A verification e-mail
 message is then sent to this address, containing a link. When you

@@ -44,8 +44,8 @@ tablet installeren vanuit de Android Playstore of Apple App Store.
 
 #### 1.2. Registratie
 
-Als u de IRMA app voor de eerste keer opent, kunt u in de begin
-schermen een IRMA account openen. Als u dat doet wordt u gevraagd om:
+Als u de IRMA app voor de eerste keer opent, moet u eerst de app
+instellen. U wordt gevraagd om:
 
  * een PIN code van 5 cijfers
 
@@ -72,9 +72,9 @@ stichting, op de [MijnIRMA](/mijnirma)
 webpagina. [Hieronder](#mijnirma) wordt daar meer informatie over
 gegeven. Het opgeven van een email adres is niet verplicht. Als u dat
 niet doet weet de stichting niets anders van u dan een willekeurige
-gebruikersnaam die automatisch voor u gegenereerd is.  U kunt die
-gebruikersnaam zien, na succesvolle registratie, door te klikken op
-"MijnIRMA login" in het attributen overzicht in de IRMA app.
+gebruikersnaam, de app-ID, die automatisch voor u gegenereerd is. 
+U kunt uw app-ID zien, na succesvolle registratie, door te klikken
+op "Meer" en naar de onderkant van het scherm te gaan.
 
 Als u een email adres toevoegt, gebruik dan wel een adres dat echt (en
 exclusief) van u is en dat u nog lang zult gebruiken. U krijgt direct
@@ -173,22 +173,22 @@ mogelijkheden.
   registreren.
 
 * U kunt op de MijnIRMA pagina ook beheren welk email adres aan uw
-  account gekoppeld is.
+  IRMA app gekoppeld is.
 
 Inloggen op de MijnIRMA webpagina kan op twee manieren:
 
 1. Met IRMA zelf, via uw "MijnIRMA login" attribuut.
 2. Door uw email adres in te typen; u krijgt dan een link toegestuurd
-   op dit adres, die u toegang geeft tot uw account.
+   op dit adres, die u toegang geeft tot uw MijnIRMA.
 
 Deze laatste optie kunt u alleen gebruiken wanneer u eerder een email
-adres aan uw account gekoppeld heeft. Dit is vooral nuttig wanneer uw
+adres aan uw IRMA app gekoppeld heeft. Dit is vooral nuttig wanneer uw
 telefoon gestolen is --- en de eerste optie niet werkt. Als u uw mail
 op een ander apparaat leest, kunt u vandaaruit inloggen op MijnIRMA en
-uw IRMA account stopzetten.
+uw IRMA app blokkeren.
 
 Omwille van deze tweede manier van inloggen is het verstandig
-een email adres aan uw IRMA account te koppelen. 
+een email adres aan uw IRMA app te koppelen. 
 
 
 ### <a name="achtergrond"></a>3. Wat gebeurt er op de achtergrond?
@@ -230,7 +230,7 @@ MijnIRMA server kan via IRMA, maar ook via een link die per email
 toegestuurd wordt naar een geregistreerd adres. Als uw telefoon
 gestolen wordt, heeft de dief mogelijk ook toegang tot uw
 email. Hij/zij kan daarmee ook op uw MijnIRMA inloggen. Maar het enige
-wat de dief daar kan doen is uw account stopzetten. Als het goed is
+wat de dief daar kan doen is uw IRMA app blokkeren. Als het goed is
 heeft u dat zelf al gedaan zodra u de diefstal bemerkt.
 
 Kortom: de MijnIRMA server biedt u extra bescherming en controle

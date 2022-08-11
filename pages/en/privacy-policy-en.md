@@ -21,7 +21,7 @@ phone or tablet. The foundation has a cooperation agreement and also a
 data processing agreement with
 [SIDN](https://www.sidn.nl/en/news-and-blogs/sidn-and-privacy-by-design-join-forces-for-privacy-friendly-electronic-identities-based-on-irma).
 As part of this cooperation, SIDN handles the registration of new IRMA
-users. In this registration process SIDN only stores a user's email
+users. In this registration process SIDN only stores an arbitrary username (the app ID), a user's email
 address, if the user explicitly so chooses, together with a very
 limited set of historical usage data, as will be explained below.
 
@@ -41,7 +41,7 @@ attributes.
 The Privacy by Design foundation and SIDN process personal data in
 three different ways.
 
-1. **Continuously.** At registration an arbitrary username is
+1. **Continuously.** At registration an arbitrary username (the app ID) is
    automatically created for a new user of IRMA. The user can choose
    to associate a self-chosen email address with this IRMA
    account. This is not necessary, but optional. The email address is
@@ -49,7 +49,7 @@ three different ways.
    removes or cancels his/her account, in the [MyIRMA](/myirma)
    environment.
 
-   The arbitrarily chosen username is a pseudonym that identifies an
+   The app ID is a pseudonym that identifies an
    account at the foundation. The (optionally added) email address 
    can be used for communication with the user, for instance for
    logging into [MyIRMA](/myirma). SIDN keeps the email

@@ -46,9 +46,8 @@ or tablet via the Android Playstore or the Apple App store.
 
 #### 1.2. Registration
 
-When you open the IRMA app for the first time, you can open an IRMA
-account via the start screens. When you do so, you are asked to
-provide:
+When you open the IRMA app for the first time, you have to set it up.
+You are asked to provide:
 
  * a PIN code of 5 digits
 
@@ -73,11 +72,10 @@ registration at the foundation, on the [MyIRMA](/myirma) webpage.
 [Below](#myirma) more information will be given about this.  Adding an
 email address is optional, not compulsory. If you do not add it, the
 foundation knows nothing about you except an automatically generated
-random username. You can see this username, after successful
-registration, by tapping on "MyIRMA login" in the attributes overview
-in your IRMA app.
+random username, the app ID. You can see this username, after successful
+registration, by tapping on "More" and going to the bottom of the screen.
 
-When you choose to associate an email address to your account, please
+When you choose to associate an email address to your IRMA app, please
 use an address that actually belongs to you --- and to no-one else ---
 and that you will be able to use for a longer period of time. You will
 immediately receive an email message at this address with a link for
@@ -178,22 +176,22 @@ possibilities.
   re-register from the start.
 
 * At the MyIRMA webpage you can also manage which email address, if
-  any, is associated with your account.
+  any, is associated with your IRMA app.
 
 Logging into the MyIRMA webpage can be done in two ways:
 
 1. With IRMA itself, via your email attribute.
 2. By typing in your email address; you then receive a fresh link by email,
-   which gives you access to your account.
+   which gives you access to your MyIRMA.
 
 The latter, second option can only be used when you have (earlier)
-associated an email address with your account. This is especially
+associated an email address with your IRMA app. This is especially
 useful when your phone is stolen (in which case the first option is
 not available). When you read your email on another device, you can
-login from there into MyIRMA and disable your account.
+login from there into MyIRMA and disable your IRMA app.
 
 Because of this second option it is wise to associate an email
-address with your IRMA account.
+address with your IRMA app.
 
 
 ### <a name="hood"></a>3. What happens under the hood?
@@ -231,8 +229,8 @@ app on your phone is strictly required. What you can do on the server
 side is described [above](#myirma). Logging into the MyIRMA server can
 be done via IRMA, but also via a link that is sent by email. If your
 phone has been stolen, the thief probably also has access to your
-email. Hence he/she can log into your MyIRMA account. But the only
-thing that the thief can do there is disable your account. Hopefully,
+email. Hence he/she can log into your MyIRMA. But the only
+thing that the thief can do there is disable your IRMA app. Hopefully,
 by then, you have already done this yourself.
 
 To summarize: the MyIRMA server offers additional protection and
@@ -266,7 +264,7 @@ The picture below summarizes the two roles of the Privacy by Design
 foundation. On the one hand, the foundation issues several attributes
 for personalization of your IRMA app. On the other hand, it operates
 the MyIRMA server, for inspection of your own IRMA usage and for
-possibly blocking your account.
+possibly blocking your IRMA app.
 
 <p align="center"><img src="../images/Rollen_Stichting_en.png" alt="IRMA
 uitgever" style="width: 70%; height: 70%"/></p>
