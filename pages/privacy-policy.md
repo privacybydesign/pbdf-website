@@ -22,7 +22,7 @@ samenwerkingsovereenkomst en een verwerkersovereenkomst met
 [SIDN](https://www.sidn.nl/nieuws-en-blogs/sidn-en-privacy-by-design-bundelen-krachten-voor-privacyvriendelijke-elektronische-identiteiten-via-irma).
 Als onderdeel van deze overeenkomst is SIDN uitvoerder bij de
 registratie van nieuwe IRMA gebruikers.  Daarbij bewaart SIDN per
-gebruiker enkel een willekeurig gebruikersnaam (een pseudoniem), en,
+gebruiker enkel een willekeurig gebruikersnaam (het app-ID), en,
 alleen als de gebruiker dat zelf expliciet wil, een e-mailadres, en
 daarnaast een zeer beperkte verzameling historische gebruiksgegevens,
 zoals hieronder nader verklaard wordt.
@@ -45,14 +45,14 @@ Door de stichtingen Privacy by Design en SIDN worden op drie manieren
 persoonsgegevens verwerkt.
 
 1. **Continu.** Bij registratie wordt voor een nieuwe gebruiker van
-   IRMA een willekeurige gebruikersnaam automatisch gecreëerd. Als de
+   IRMA een willekeurige gebruikersnaam (de app-ID) automatisch gecreëerd. Als de
    gebruiker daar zelf voor kiest wordt een zelfgekozen e-mailadres
    aan dit account gekoppeld. Dit is echter niet noodzakelijk. Het
    e-mailadres wordt door SIDN bewaard en beschermd, totdat de
    gebruiker de gegevens wijzigt of verwijdert of het account opheft,
    in de [mijnIRMA](/mijnirma) omgeving.
 
-   De willekeurig gekozen gebruikersnaam is een pseudoniem waarmee de
+   De app-ID is een pseudoniem waarmee de
    accounts onderscheiden worden. Het (eventueel toegevoegde) e-mailadres
    wordt gebruikt voor communicatie met de gebruiker,
    bijvoorbeeld bij login op [mijnIRMA](/mijnirma). De stichting en
