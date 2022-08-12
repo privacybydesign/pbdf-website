@@ -24,8 +24,8 @@ nl:
         url: /irma-controleur/
       - title: IRMA in detail
         url: /irma-uitleg/
-      - title: Mijn IRMA
-        url: /mijnirma/
+      - title: MijnIRMA
+        url: https://my.irma.app/nl
       - title: IRMA Dashboard
         url: /dashboard/
       - title: Videos en tekeningen
@@ -92,8 +92,8 @@ en:
         url: /irma-verifier/
       - title: IRMA in detail
         url: /irma-explanation/
-      - title: My IRMA
-        url: /myirma/
+      - title: MyIRMA
+        url: https://my.irma.app/
       - title: IRMA Dashboard
         url: /dashboard/
       - title: Videos and drawings
