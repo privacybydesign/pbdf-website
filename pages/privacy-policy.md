@@ -52,7 +52,7 @@ persoonsgegevens verwerkt.
    gebruiker de gegevens wijzigt of verwijdert of het account opheft,
    in de [mijnIRMA](/mijnirma) omgeving.
 
-   De app-ID is een pseudoniem waarmee de
+   Het app-ID is een pseudoniem waarmee de
    accounts onderscheiden worden. Het (eventueel toegevoegde) e-mailadres
    wordt gebruikt voor communicatie met de gebruiker,
    bijvoorbeeld bij login op [mijnIRMA](/mijnirma). De stichting en

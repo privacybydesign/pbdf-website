@@ -72,7 +72,7 @@ stichting, op de [MijnIRMA](/mijnirma)
 webpagina. [Hieronder](#mijnirma) wordt daar meer informatie over
 gegeven. Het opgeven van een email adres is niet verplicht. Als u dat
 niet doet weet de stichting niets anders van u dan een willekeurige
-gebruikersnaam, de app-ID, die automatisch voor u gegenereerd is. 
+gebruikersnaam, het app-ID, die automatisch voor u gegenereerd is. 
 U kunt uw app-ID zien, na succesvolle registratie, door te klikken
 op "Meer" en naar de onderkant van het scherm te gaan.
 
