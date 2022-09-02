@@ -43,7 +43,7 @@ Registration and verification for watching movies online
 href="/demo-en/irmaTube">IRMATube</a>
 
 Chained IRMA sessions
-:    <a class="button"
+:    <a class="button" style="cursor: not-allowed;" disabled
 href="/demo-en/irmaTubePremium">IRMATube Premium</a>
 
 Verification whether someone is being alive
