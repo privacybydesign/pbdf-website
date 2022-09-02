@@ -41,6 +41,34 @@ atmosphere is open and very much content-oriented.
 
 Het programma zal hier te zijner tijd bekend gemaakt worden.
 
+**Programma** 
+
+De bijeenkomst begint om 13:30, bij
+[SURF](https://www.surf.nl/contact-en-support/contact-met-surf).
+
+  1. 13:30 Opening, welkom
+
+  2. 13:30 - 14:00 Marlies Rikken, Niels van Dijk (SURF), *eduID en
+  SSI volgens SURF*
+
+  3. 14:00 - 14:45 Laurens Debackere (Digitaal Vlaanderen), *An
+  introduction to identity & authentication in the Flemish Solid
+  ecosystem*
+
+  4. 14:45 - 15:00 Merel Brandon (RU), *Ontwikkeling Postguard email
+  versleuteling*
+
+  5. 15:00 - 15:30 Pauze
+
+  6. 15:30 - 16:00 Bart Kerver (IT Projectleider UZI pilots, VWS),
+  *UZI-pas ontwikkelingen*
+
+  7. 16:00 - 16:15 Harm van Stekelenburg (RU),
+  *IRMA in het nieuwe community netwerk PubHubs*
+
+  8. 16:15 - 16:45 Martijn Sanders (SIDN), *State of the IRMA*
+
+  9. 17:00 Drinks
 
 
 ### Vorige IRMA meeting: Vrijdagmiddag, 6 mei 2022.
