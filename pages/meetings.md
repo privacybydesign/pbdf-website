@@ -68,7 +68,7 @@ De bijeenkomst begint om 13:30, bij
 
   8. 16:15 - 16:45 Martijn Sanders (SIDN), *State of the IRMA*
 
-  9. 17:00 Drinks
+  9. 16:45 Drinks
 
 
 ### Vorige IRMA meeting: Vrijdagmiddag, 6 mei 2022.
