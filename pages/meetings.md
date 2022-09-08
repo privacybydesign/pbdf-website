@@ -60,15 +60,14 @@ De bijeenkomst begint om 13:30, bij
 
   5. 15:00 - 15:30 Pauze
 
-  6. 15:30 - 16:00 Bart Kerver (IT Projectleider UZI pilots, VWS),
-  *UZI-pas ontwikkelingen*
+  6. 15:30 - 16:00 Bart Kerver (VWS), *UZI-pas ontwikkelingen*
 
   7. 16:00 - 16:15 Harm van Stekelenburg (RU),
   *IRMA in het nieuwe community netwerk PubHubs*
 
   8. 16:15 - 16:45 Martijn Sanders (SIDN), *State of the IRMA*
 
-  9. 16:45 Drinks
+  9. 16:45re Drinks
 
 
 ### Vorige IRMA meeting: Vrijdagmiddag, 6 mei 2022.
