@@ -65,9 +65,12 @@ De bijeenkomst begint om 13:30, bij
   7. 16:00 - 16:15 Harm van Stekelenburg (RU),
   *IRMA in het nieuwe community netwerk PubHubs*
 
-  8. 16:15 - 16:45 Martijn Sanders (SIDN), *State of the IRMA*
+  8. 16:00 - 16:15 Koen de Jonge (Procolix),
+  *Met IRMA de cloud in*
 
-  9. 16:45re Drinks
+  9. 16:30 - 17:00 Martijn Sanders (SIDN), *State of the IRMA*
+
+  10. 17:00 Drinks
 
 
 ### Vorige IRMA meeting: Vrijdagmiddag, 6 mei 2022.
