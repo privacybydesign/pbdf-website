@@ -65,7 +65,7 @@ De bijeenkomst begint om 13:30, bij
   7. 16:00 - 16:15 Harm van Stekelenburg (RU),
   *IRMA in het nieuwe community netwerk PubHubs*
 
-  8. 16:00 - 16:15 Koen de Jonge (Procolix),
+  8. 16:15 - 16:30 Koen de Jonge (Procolix),
   *Met IRMA de cloud in*
 
   9. 16:30 - 17:00 Martijn Sanders (SIDN), *State of the IRMA*
