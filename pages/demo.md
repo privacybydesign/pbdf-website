@@ -42,7 +42,7 @@ Registratie en verificatie om online films te kijken
 href="/demo/irmaTube">IRMATube</a>
 
 Geketende IRMA sessies
-:    <a class="button" style="cursor: not-allowed;" disabled
+:    <a class="button"
 href="/demo/irmaTubePremium">IRMATube Premium</a>
 
 Verificatie of iemand in leven is
