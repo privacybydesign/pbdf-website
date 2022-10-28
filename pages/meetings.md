@@ -49,26 +49,30 @@ De bijeenkomst begint om 13:30, bij
   1. 13:30 Opening, welkom
 
   2. 13:30 - 14:00 Marlies Rikken, Niels van Dijk (SURF), *eduID en
-  SSI volgens SURF*
+  SSI volgens SURF* [[video](https://www.youtube.com/watch?v=3ABM234pNzo)]
 
   3. 14:00 - 14:45 Laurens Debackere (Digitaal Vlaanderen), *An
   introduction to identity & authentication in the Flemish Solid
-  ecosystem*
+  ecosystem* [[video](https://www.youtube.com/watch?v=jZIzLmnBB98)]
 
-  4. 14:45 - 15:00 Merel Brandon (RU), *Ontwikkeling Postguard email
-  versleuteling*
+  4. 14:45 - 15:00 Daniel Ostkamp (RU), *Ontwikkeling Postguard email
+  versleuteling* [[video](https://www.youtube.com/watch?v=6qHOe0ADd4I)]
 
   5. 15:00 - 15:30 Pauze
 
   6. 15:30 - 16:00 Bart Kerver (VWS), *UZI-pas ontwikkelingen*
+  [[video](https://www.youtube.com/watch?v=b-FPdFIgaoE)]
 
-  7. 16:00 - 16:15 Harm van Stekelenburg (RU),
+  7. 16:00 - 16:15 Jan den Besten (RU),
   *IRMA in het nieuwe community netwerk PubHubs*
+  [[video](https://www.youtube.com/watch?v=HY7SyIHnIck)]
 
   8. 16:15 - 16:30 Koen de Jonge (Procolix),
   *Met IRMA de cloud in*
+  [[video](https://www.youtube.com/watch?v=Kchnxjfa51I)]
 
-  9. 16:30 - 17:00 Martijn Sanders (SIDN), *State of the IRMA*
+  9. 16:30 - 17:00 Martijn Sanders en Ivar Derksen (SIDN), *State of
+  the IRMA* [[video](https://www.youtube.com/watch?v=AAD6bJSRkho)]
 
   10. 17:00 Drinks
 
