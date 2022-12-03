@@ -79,16 +79,6 @@ verschillende andere partijen, waaronder in het bijzonder:
  * [Open Universiteit](https://www.ou.nl/), voor gezamenlijke IRMA
    software ontwikkeling.
 
-<> De stichting ontvangt externe financiering uit de volgende projecten.
-
-<>  * *Connecting (with) IRMA* (2018), via het [SIDNfonds](https://www.sidnfonds.nl/projecten), zie ihb. deze [project pagina](https://www.sidnfonds.nl/projecten/connecting-with-irma).
-
-<>  * *Citizen Science* (2018-2020), via het Europees Fonds voor Regionale
-<>     Ontwikkeling (EFRO), zie [EFRO projecten in Gelderland](https://www.europaomdehoek.nl/projecten/?radius=&projectProvince[]=Gelderland).
-
-<>  * *Chronische Pijn* (2018-2020), via het Europees Fonds voor Regionale
-<>     Ontwikkeling (EFRO), zie [EFRO projecten in Gelderland](https://www.europaomdehoek.nl/projecten/?radius=&projectProvince[]=Gelderland).
-
 <div id="videoModal" class="reveal-modal large" data-reveal="">
   <div class="flex-video widescreen vimeo" style="display: block;">
     <iframe width="1280" height="720" src="https://www.youtube-nocookie.com/embed/ctz-GoIL6W0?start=217" frameborder="0" allowfullscreen></iframe>
