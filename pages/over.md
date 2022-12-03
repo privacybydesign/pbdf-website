@@ -28,9 +28,9 @@ Het eerste jaarverslag, met daarin onder andere een overzicht van de
 uitgeoefende activiteiten en een financiële verantwoording, is hier
 te vinden. 
 
-* [Jaarverslag 2029](/pdf/pbdf_jaarverslag-2020.pdf)
+* [Jaarverslag 2020](/pdf/pbdf_jaarverslag_2020.pdf)
 
-* [Jaarverslag 2019](/pdf/pbdf_jaarverslag-2019.pdf)
+* [Jaarverslag 2019](/pdf/pbdf_jaarverslag_2019.pdf)
 
 * [Jaarverslag 2018](/pdf/jaarverslag-2018.pdf)
 
