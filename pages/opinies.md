@@ -16,6 +16,10 @@ informatie volg IRMA op [Twitter](https://twitter.com/IRMA_privacy).
 
 ## 2022
 
+  * [IRMA-ontwikkelaar SIDN neemt deel aan EU-pilot voor digitale
+    identiteitswallet](https://tweakers.net/nieuws/204604/irma-ontwikkelaar-sidn-neemt-deel-aan-eu-pilot-voor-digitale-identiteitswallet.html),
+    Tweakers, 16/12/2022.
+
   * ['Eindelijk' Digitaal ID-bewijs](/pdf/Telegraaf-2-7-2022.pdf) in:
     [Telegraaf](https://www.telegraaf.nl/financieel/479714013/ook-het-id-bewijs-moet-straks-in-een-app), 2/7/2022.
 
