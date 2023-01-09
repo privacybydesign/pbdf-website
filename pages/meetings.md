@@ -43,7 +43,7 @@ Het programma zal hier te zijner tijd bekend gemaakt worden.
 
 
 
-### Volgende IRMA meeting: Vrijdagmiddag, 30 september 2022.
+### Vorige IRMA meeting: Vrijdagmiddag, 30 september 2022.
 
 **Programma** 
 
