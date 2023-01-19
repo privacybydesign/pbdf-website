@@ -39,8 +39,37 @@ atmosphere is open and very much content-oriented.
 
 ### Volgende IRMA meeting: Vrijdagmiddag, 3 februari 2023.
 
-Het programma zal hier te zijner tijd bekend gemaakt worden.
+**Programma** 
 
+De bijeenkomst begint om 13:30, bij
+[SURF](https://www.surf.nl/contact-en-support/contact-met-surf).
+
+  1. 13:30 Opening, welkom
+
+  2. 13:30 - 14:00 Tim Speelman (Beleidsmedewerker Digitale
+  Identiteit, BZK), *Europese Digitale Identiteit en de publieke
+  voorbeeldwallet*
+
+  3. 14:00 - 14:30 Wilbert Junte (Stichting CIS) en Bas Maat (Achmea),
+  *IRMA & verzekeren*
+
+  4. 14:30 - 15:00 Michiel Mayer (KvK) en Robert van Altena (VerID),
+  *IRMA & KvK*
+
+  5. 15:00 - 15:15 Gijs Nijman (Joindata), *Bedrijfsidentificatie in
+  de agrisector*
+
+  6. 15:15 - 15:30 Jos Kuijpers (Lead software developer, OnePlanet)
+  *IRMA & OpenPlanet Data Platform*
+
+  7. 15:30 - 16:00 Pauze
+
+  8. 16:00 - 16:30 Martijn Sanders (SIDN), *State of the IRMA*
+
+  9. 16:30 - 17:00 Martijn van Dam (stichting datakluis), *De
+  Nederlandse Datakluis*
+
+  10. 17:00 Borrel
 
 
 ### Vorige IRMA meeting: Vrijdagmiddag, 30 september 2022.
