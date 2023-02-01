@@ -66,10 +66,10 @@ De bijeenkomst begint om 13:30, bij
 
   8. 16:00 - 16:30 Martijn Sanders (SIDN), *State of the IRMA*
 
-  9. 16:30 - 17:00 Martijn van Dam (stichting datakluis), *De
-  Nederlandse Datakluis*
+  9. 16:30 - 17:00 **Canceled, postponed to next meeting:** Martijn
+  van Dam (stichting datakluis), *De Nederlandse Datakluis*
 
-  10. 17:00 Borrel
+  10. 16:30 Borrel
 
 
 ### Vorige IRMA meeting: Vrijdagmiddag, 30 september 2022.
