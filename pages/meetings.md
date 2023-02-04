@@ -17,8 +17,6 @@ general and in IRMA in particular. The meetings usually draw between
 atmosphere is open and very much content-oriented.
 
 
- * **Online location:** [IRMA-meet](https://www.irma-meet.nl/).
-
  * **Physical location:** SURF, Hoog Overborch (Hoog Catharijne), Utrecht
    [route](https://www.surf.nl/contact-en-support/contact-met-surf),
    about 5 min. walking distance from Utrecht Central train station.
@@ -37,7 +35,7 @@ atmosphere is open and very much content-oriented.
 
 
 
-### Volgende IRMA meeting: Vrijdagmiddag, 3 februari 2023.
+### IRMA meeting: Vrijdagmiddag, 3 februari 2023.
 
 **Programma** 
 
@@ -46,28 +44,26 @@ De bijeenkomst begint om 13:30, bij
 
   1. 13:30 Opening, welkom
 
-  2. 13:30 - 14:00 Tim Speelman (Beleidsmedewerker Digitale
-  Identiteit, BZK), *Europese Digitale Identiteit en de publieke
-  voorbeeldwallet*
+  2. 13:30 - 14:00 Wilbert Junte (Stichting CIS) en Bas Maat (Achmea),
+  *IRMA & verzekeren* [[video](https://www.youtube.com/watch?v=VQNwFSKinCg&list=PL4oSeW0AbF-kf39Wk5CKZ_D2RiHJQnNsq)]
 
-  3. 14:00 - 14:30 Wilbert Junte (Stichting CIS) en Bas Maat (Achmea),
-  *IRMA & verzekeren*
+  3. 14:00 - 14:30 Tim Speelman (Beleidsmedewerker Digitale
+  Identiteit, BZK), *Europese Digitale Identiteit en de publieke
+  voorbeeldwallet* [[video](https://www.youtube.com/watch?v=tqwLjATve5Q&list=PL4oSeW0AbF-kf39Wk5CKZ_D2RiHJQnNsq)]
 
   4. 14:30 - 15:00 Michiel Mayer (KvK) en Robert van Altena (VerID),
-  *IRMA & KvK*
+  *IRMA & KvK* [[video](https://www.youtube.com/watch?v=ka8sjmsH3ZA&list=PL4oSeW0AbF-kf39Wk5CKZ_D2RiHJQnNsq)]
 
-  5. 15:00 - 15:15 Gijs Nijman (Joindata), *Bedrijfsidentificatie in
-  de agrisector*
+  5. 15:00 - 15:30 Pauze
 
-  6. 15:15 - 15:30 Jos Kuijpers (Lead software developer, OnePlanet)
-  *IRMA & OpenPlanet Data Platform*
+  6. 15:30 - 15:45 Gijs Nijman (Joindata), *Bedrijfsidentificatie in
+  de agrisector* [[video](https://www.youtube.com/watch?v=n2haWJOD5SQ&list=PL4oSeW0AbF-kf39Wk5CKZ_D2RiHJQnNsq)]
 
-  7. 15:30 - 16:00 Pauze
+  7. 15:45 - 16:00 Jos Kuijpers (Lead software developer, OnePlanet)
+  *IRMA & OpenPlanet Data Platform* [[video](https://www.youtube.com/watch?v=CyMml2N7NfI&list=PL4oSeW0AbF-kf39Wk5CKZ_D2RiHJQnNsq)]
 
   8. 16:00 - 16:30 Martijn Sanders (SIDN), *State of the IRMA*
-
-  9. 16:30 - 17:00 **Canceled, postponed to next meeting:** Martijn
-  van Dam (stichting datakluis), *De Nederlandse Datakluis*
+  [[video](https://www.youtube.com/watch?v=_IzUOome1E4&list=PL4oSeW0AbF-kf39Wk5CKZ_D2RiHJQnNsq)]
 
   10. 16:30 Borrel
 
