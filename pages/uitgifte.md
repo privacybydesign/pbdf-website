@@ -38,6 +38,12 @@ Verkrijg: naam, geboortedatum, geslacht, adres, postcode, plaats, BSN
 <img src="/images/nijmegen.png">Laad attributen uit de BRP</a>  
 [Meer informatie](/uitgifte-brp)
 
+**Attributen uit het handelsregister van de Kamber van Koophandel (KvK)**  
+Verkrijg: organisatienaam, KvK/RSIN nummer, rechtspersoon, eigen functie, bevoegdheid
+<a class="button" href="https://organisatiegegevens.signicat.nl">
+<img src="/images/kvk-logo.jpeg">Laad attributen uit de KvK</a>  
+
+
 **E-mailadres attribuut**  
 Verkrijg: e-mailadres  
 <a class="button" href="https://sidnemailissuer.irmaconnect.nl/uitgifte/email/">
