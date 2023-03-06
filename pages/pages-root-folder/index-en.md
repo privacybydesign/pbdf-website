@@ -11,10 +11,10 @@ homepage: true
 image:
   title: pbd.png
 widget1:
-  title: Renewed IRMA app
-  url: https://irma.app/?lang=en
-  image: screenshot-en.png
-  text: The IRMA app has a completely renewed interface, with personal data conveniently organised in cards. Try it yourself!
+  title: IRMA becomes Yivi
+  url: https://www.yivi.app/en
+  image: yivi-app-onboarding-en.png
+  text: From 4 April 2023, the IRMA app will have a completely new name, interface and an improvement in usability and security. Check out the new website.
 widget2:
   title: Video calls with certainty
   url: https://irma-meet.nl
@@ -63,8 +63,7 @@ The foundation welcomes collaboration with others to get IRMA up and
 running.  Pilots are now being prepared with the help of a number of
 other parties, among which:
 
- * [SIDN](https://www.sidn.nl/?language_id=2) for extending usage and
-   improving availability of IRMA, also in the long run.
+ * [SIDN](https://www.sidn.nl/?language_id=2) for maintaining and developing IRMA. IRMA becomes Yivi at April 4, 2023.
 
  * The [Radboud University](https://www.ru.nl/english/), for (strong)
    authentication of student and employees and for digital signing of,
