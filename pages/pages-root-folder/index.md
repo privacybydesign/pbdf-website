@@ -10,10 +10,10 @@ homepage: true
 image:
   title: pbd.png
 widget1:
-  title: Vernieuwde IRMA app
-  url: https://irma.app/?lang=nl
-  image: screenshot-nl.png
-  text: De IRMA app heeft een volledig vernieuwd uiterlijk, nu met persoonlijke gegevens in handige en overzichtelijke kaartjes. Probeer het zelf uit.
+  title: IRMA wordt Yivi
+  url: https://yivi.app/
+  image: yivi-app-onboarding-nl.png
+  text: De IRMA-app krijgt vanaf 4 april 2023 een volledig nieuwe naam, uiterlijk en een verbetering in het gebruikersgemak. Bekijk alvast de nieuwe website.
 widget2:
   title: Weet met wie je video belt
   url: https://irma-meet.nl
@@ -49,8 +49,7 @@ De stichting werkt graag samen met anderen om IRMA van de grond te
 krijgen. Pilots zijn in voorbereiding, in samenwerking met
 verschillende andere partijen, waaronder in het bijzonder:
 
- * [SIDN](https://sidn.nl) voor verbetering van het gebruik en
-   de beschikbaarheid van IRMA, ook voor de lange termijn.
+ * [SIDN](https://sidn.nl) voor beheer en de doorontwikkeling van IRMA. IRMA wordt vanaf 4 april 2023 Yivi.
 
  * de [Radboud Universiteit](https://www.ru.nl), voor (sterke)
    authenticatie van studenten en medewerkers en digitale
