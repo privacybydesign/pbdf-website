@@ -34,6 +34,10 @@ atmosphere is open and very much content-oriented.
    dis-secr 'at' cs.ru.nl
 
 
+### Volgende IRMA meeting: Vrijdagmiddag, 26 mei 2023.
+
+**Programma volgt spoedig** 
+
 
 ### IRMA meeting: Vrijdagmiddag, 3 februari 2023.
 
