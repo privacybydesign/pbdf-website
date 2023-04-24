@@ -36,7 +36,32 @@ atmosphere is open and very much content-oriented.
 
 ### Volgende IRMA meeting: Vrijdagmiddag, 26 mei 2023.
 
-**Programma volgt spoedig** 
+**Programma** 
+
+De bijeenkomst begint om 13:30, bij
+[SURF](https://www.surf.nl/contact-en-support/contact-met-surf).
+
+  1. 13:30 Opening, welkom
+
+  2. 13:30 - 14:00, Martijn van Dam (stichting datakluis), *De
+  Nederlandse Datakluis*
+
+  3. 14:00 - 14:45, Wendy van den Eeckhout en Marnix Dessing
+  (gemeente Nijmegen), *Uitgifte en gebruik van attributen*
+
+  4. 14:45 - 15:15 Sietse Ringers (ICTU), *De publieke
+  voorbeeldwallet: techniek en context*
+
+  5. 15:15 - 15:45 pauze
+
+  6. 15:45 - 16:15 Job Doesburg (Radboud), *Maatregelen tegen overvraging*
+
+  7. 16:15 - 16:45 Niels van Dijk (SURF), *SURF proof of concept met
+  educatie wallet*
+
+  8. 16:45 - 17:00 Martijn Sanders (SIDN), *State of the IRMA*
+
+  9. 17:00: borrel, aangeboden door SURF
 
 
 ### IRMA meeting: Vrijdagmiddag, 3 februari 2023.
