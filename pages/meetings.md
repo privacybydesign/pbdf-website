@@ -2,7 +2,7 @@
 layout: page
 header:
   image_fullwidth: header_poly2.png
-  title: IRMA meetings
+  title: Yivi meetings
 meta_title: Meetings
 permalink: /meetings/
 language: nl
@@ -10,12 +10,11 @@ translations:
   en: /meetings
 ---
 
-About two or three times per year an *IRMA meeting* is organised, free
+About two or three times per year a *Yivi meeting* is organised, free
 of charge, open to everyone interested in identity management in
-general and in IRMA in particular. The meetings usually draw between
+general and in Yivi in particular. The meetings usually draw between
 25 and 50 participants, from industry, government and academia. The
 atmosphere is open and very much content-oriented.
-
 
  * **Physical location:** SURF, Hoog Overborch (Hoog Catharijne), Utrecht
    [route](https://www.surf.nl/contact-en-support/contact-met-surf),
