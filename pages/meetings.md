@@ -34,7 +34,42 @@ atmosphere is open and very much content-oriented.
    dis-secr 'at' cs.ru.nl
 
 
-### Volgende IRMA meeting: Vrijdagmiddag, 26 mei 2023.
+### Volgende Yivi meeting: Vrijdagmiddag, 10 nov. 2023 bij SIDN
+
+**Programma** 
+
+De bijeenkomst begint om 13:30, bij
+[SIDN](https://www.sidn.nl/over-sidn/contact). **Let op** de
+bijeenkomst is deze keer bij SIDN in Arnhem, en dus **niet bij SURF**
+in Utrecht, zoals gebruikelijk. De precieze locatie is: SIDN, Meander
+501, 6825 MD Arnhem, Bedrijfsrestaurant 3e etage
+
+  1. 13:30 Opening, welkom
+
+  2. 13:30 - 14:00, Joost van Dijk (Yubico), "FIDO en webgebaseerde
+  digital identity wallets"
+
+  3. 14:00 - 14:30, Theo Hooghiemstra (Hooghiemstra en Partners),
+  *Authenticatie in de zorg*
+
+  4. 14:30 - 15:00 Peter Eikelboom (SIDN), *Europese en nationale
+  identity ontwikkelingen*
+
+  5. 15:00 - 15:30 pauze
+
+  6. 15:30 - 16:00, iHub team (Radboud), *Yivi handtekeningen voor
+  files, mails & posts*
+
+  7. 16:00 - 16:30, Job Doesburg (Radboud), *Maatregelen tegen overvraging in 
+  SSI en Yivi*
+
+  8. 16:30 - 17:00, Martijn Sanders (SIDN), *Yivi ontwikkelingen*
+
+  9. 17:00: borrel, aangeboden door SIDN
+
+
+
+### Yivi meeting: Vrijdagmiddag, 26 mei 2023.
 
 **Programma** 
 
