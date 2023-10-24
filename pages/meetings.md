@@ -16,21 +16,13 @@ general and in Yivi in particular. The meetings usually draw between
 25 and 50 participants, from industry, government and academia. The
 atmosphere is open and very much content-oriented.
 
- * **Physical location:** SURF, Hoog Overborch (Hoog Catharijne), Utrecht
-   [route](https://www.surf.nl/contact-en-support/contact-met-surf),
-   about 5 min. walking distance from Utrecht Central train station.
-
  * **Language:** mix of English and Dutch, depending on speaker and
      audience.
 
  * **Announcements:** via the IRMA mailing list and via
    [Twitter](https://twitter.com/IRMA_privacy/). If you like to be
-   included (or deleted) from this list, please send an email to: irma
+   included (or deleted) from this list, please send an email to: b.jacobs
    'at' privacybydesign.foundation
-
- * **Participation** is free, but registration is appreciated for
-   physical meetings by sending a short message to the email address:
-   dis-secr 'at' cs.ru.nl
 
 
 ### Volgende Yivi meeting: Vrijdagmiddag, 10 nov. 2023 bij SIDN
@@ -41,7 +33,10 @@ De bijeenkomst begint om 13:30, bij
 [SIDN](https://www.sidn.nl/over-sidn/contact). **Let op** de
 bijeenkomst is deze keer bij SIDN in Arnhem, en dus **niet bij SURF**
 in Utrecht, zoals gebruikelijk. De precieze locatie is: SIDN, Meander
-501, 6825 MD Arnhem, Bedrijfsrestaurant 3e etage
+501, 6825 MD Arnhem, Bedrijfsrestaurant 3e etage.
+
+Deze keer is aanmelding **verplicht** i.v.m. toegangsbadges.
+Gebruik a.u.b. deze [link](https://www.meetup.com/yivi-meetup-the-identity-wallet/events/296926331/)
 
   1. 13:30 Opening, welkom
 
