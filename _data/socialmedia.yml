@@ -11,7 +11,7 @@
 - name: Twitter
   url: http://twitter.com/phlow
   class: icon-twitter
-  title: "The Privacy by Design Foundation develops IRMA: privacy-preserving, user friendly and secure authentication."
+  title: "The Privacy by Design Foundation develops and maintains Yivi: privacy-preserving, user friendly and secure authentication."
 #
 # - name: Mixcloud
 #   url: http://www.mixcloud.com/phlow/

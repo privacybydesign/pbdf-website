@@ -4,7 +4,7 @@ nl:
     url: /
     side: left
 
-  - title: Download IRMA app
+  - title: Download Yivi app
     side: left
     url: /download/
 
@@ -12,19 +12,19 @@ nl:
     side: left
     url: /uitgifte/
 
-  - title: Over IRMA
+  - title: Over Yivi
     url: /irma/
     side: left
     dropdown:
-      - title: IRMA demo's
+      - title: Yivi demo's
         url: /demo/
-      - title: Van start met IRMA
+      - title: Van start met Yivi
         url: /irma-begin/
-      - title: Integreer IRMA in uw website
+      - title: Integreer Yivi in uw website
         url: /irma-controleur/
-      - title: IRMA in detail
+      - title: Yivi in detail
         url: /irma-uitleg/
-      - title: MijnIRMA
+      - title: MijnYivi
         url: https://my.irma.app/nl
       - title: Videos en tekeningen
         url: /videos/
@@ -70,7 +70,7 @@ en:
     url: "/en"
     side: left
 
-  - title: Download IRMA app
+  - title: Download Yivi app
     side: left
     url: /download-en/
 
@@ -78,21 +78,21 @@ en:
     side: left
     url: /issuance/
 
-  - title: About IRMA
+  - title: About Yivi
     url: /irma-en/
     side: left
     dropdown:
-      - title: IRMA demos
+      - title: Yivi demos
         url: /demo-en/
-      - title: Starting with IRMA
+      - title: Starting with Yivi
         url: /irma-start/
-      - title: Integrating IRMA in your website
+      - title: Integrating Yivi in your website
         url: /irma-verifier/
-      - title: IRMA in detail
+      - title: Yivi in detail
         url: /irma-explanation/
-      - title: MyIRMA
+      - title: MyYivi
         url: https://my.irma.app/
-      - title: IRMA Dashboard
+      - title: Yivi Dashboard
         url: /dashboard/
       - title: Videos and drawings
         url: /videos-en/

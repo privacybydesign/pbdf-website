@@ -2,7 +2,7 @@
 layout: page
 header:
   image_fullwidth: header_poly2.png
-  title: IRMA demo's
+  title: Yivi demo's
 permalink: /demo/
 language: nl
 translations:
@@ -10,7 +10,7 @@ translations:
 ---
 
 Deze pagina geeft uitleg over verschillende mogelijke toepassingen van
-IRMA, om jezelf bekend te maken maar ook om zelf een digitale
+Yivi, om jezelf bekend te maken maar ook om zelf een digitale
 handtekeningen te zetten.  Bij ieder van de onderstaande knoppen wordt
 verdere uitleg gegeven. Gedetailleerde
 [uitleg](https://creativecode.github.io/irma-made-easy/posts/putting-an-age-check-on-a-static-website-using-irma/)
@@ -21,8 +21,8 @@ voor ontwikkelaars is beschikbaar.
 Login met e-mail adres
 :   <a class="button" href="/demo/mail">E-mail login</a>
 
-IRMA handtekeningen voor toestemmingen en verklaringen
-:    <a class="button" href="/demo/ondertekenen">IRMA handtekening</a>
+Yivi handtekeningen voor toestemmingen en verklaringen
+:    <a class="button" href="/demo/ondertekenen">Yivi handtekening</a>
 
 Adres opgave via automatisch invullen van velden
 :    <a class="button"
@@ -39,11 +39,11 @@ href="https://www.angrygames.nl/index.html">Angry Games demo</a>
 
 Registratie en verificatie om online films te kijken
 :    <a class="button"
-href="/demo/irmaTube">IRMATube</a>
+href="/demo/irmaTube">YiviTube</a>
 
-Geketende IRMA sessies
+Geketende Yivi sessies
 :    <a class="button"
-href="/demo/irmaTubePremium">IRMATube Premium</a>
+href="/demo/irmaTubePremium">YiviTube Premium</a>
 
 Verificatie of iemand in leven is
 :    <a class="button"

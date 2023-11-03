@@ -51,35 +51,39 @@ persoonlijke titel en worden hiervoor niet betaald.
    inpassen van innovatieve IT oplossingen in het
    energielandschap. Dit zijn technieken zoals Blockchain, Augmented
    Reality en Continuous Delivery platforms. Tim zet zich in om de
-   Yivi-technology te gebruiken in het energiedomein.
+   Yivi-technology te gebruiken in het bijzonder in het energiedomein.
 
 
-[//]: <> ### Ontwikkelaars
+<!-- 
 
-[//]: <> Sietse Ringers (s.ringers 'at' privacybydesign.foundation) is *chief
-[//]: <> architect* en *lead developer* van de stichting Privacy by
-[//]: <> Design. Daarnaast zijn door de volgende mensen actief (geweest) bij de
-[//]: <> ontwikkeling van de software and de webpagina's van de stichting.
+### Ontwikkelaars 
 
-[//]: <> #### Actieve ontwikkelaars
+Sietse Ringers (s.ringers 'at' privacybydesign.foundation) is *chief 
+architect* en *lead developer* van de stichting Privacy by
+Design. Daarnaast zijn door de volgende mensen actief (geweest) bij de
+ontwikkeling van de software and de webpagina's van de stichting.
 
-[//]: <> * Sietse Ringers
-[//]: <> * Ivar Derksen
-[//]: <> * Maja Reißner
-[//]: <> * David Venhoek
-[//]: <> * Leon Botros
-[//]: <> * Bart Jacobs
+#### Actieve ontwikkelaars
 
-[//]: <> #### Voormalige ontwikkelaars
+* Sietse Ringers
+* Ivar Derksen
+* Maja Reißner
+* David Venhoek
+* Leon Botros
+* Bart Jacobs
 
-[//]: <> * Hanna Schraffenberger
-[//]: <> * Fabian van den Broek
-[//]: <> * Tomas Harreveld
-[//]: <> * Ayke van Laethem
-[//]: <> * Koen van Ingen
-[//]: <> * Joost van Dijk
-[//]: <> * [Maarten Everts](https://nn8.nl/)
-[//]: <> * Wouter Lueks
-[//]: <> * Roland van Rijswijk-Deij
-[//]: <> * Pim Vullers
-[//]: <> * Bas Westerbaan
+#### Voormalige ontwikkelaars
+
+* Hanna Schraffenberger
+* Fabian van den Broek
+* Tomas Harreveld
+* Ayke van Laethem
+* Koen van Ingen
+* Joost van Dijk
+* [Maarten Everts](https://nn8.nl/)
+* Wouter Lueks
+* Roland van Rijswijk-Deij
+* Pim Vullers
+* Bas Westerbaan
+
+-->

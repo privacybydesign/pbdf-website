@@ -10,7 +10,7 @@ translations:
   en: /support
 ---
 
-De stichting Privacy by Design ontwikkelt en onderhoudt de IRMA-app
+De stichting Privacy by Design ontwikkelt en onderhoudt de Yivi-app
 voor privacy-vriendelijk inloggen en ondertekenen. Dat gebeurt zonder
 winstoogmerk, en zonder misbruik van persoonsgegevens. Vindt u dat
 belangrijk? Dan kunt u hieronder uw morele steun omzetten in

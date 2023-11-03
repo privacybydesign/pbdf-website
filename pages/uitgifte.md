@@ -21,7 +21,7 @@ translations:
   }
 </style>
 
-Hier kunt u attributen in de [IRMA app](/download) op uw telefoon
+Hier kunt u attributen in de [Yivi app](/download) op uw telefoon
 zetten en zo een persoonlijk 'paspoort' samenstellen. De stichting
 Privacy by Design ondertekent deze attributen digitaal, zodat
 controleurs de herkomst en integriteit kunnen checken. Vervolgens kunt
