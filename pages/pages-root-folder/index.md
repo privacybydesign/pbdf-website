@@ -18,12 +18,12 @@ widget2:
   title: Gemeente Nijmegen breidt Yivi inlog uit
   url: https://www.nijmegen.nl/diensten/privacy/yivi-nieuwe-manier-van-inloggen/
   image: wethouder-van-elferen-open-yivi.jpeg
-  text: "Nijmegen biedt burgers meer mogelijkheden om met Yivi in te loggen, juist om privacy-vriendelijker met gegevens om te gaan."
+  text: "Wethouder van Elferen lanceert meer mogelijkheden voor burgers om met Yivi in te loggen, juist om privacy-vriendelijker met hun gegevens om te gaan."
 widget3:
   title: Handelsregistergegevens nu in Yivi
   url: https://organisatiegegevens.signicat.nl/
   image: kvk-logo.jpeg
-  text: "Een boost voor de digitale economie via zekerheid over online transacties en zaken doen: wie is bevoegd voor welke organisatie, via eenvoudige check."
+  text: "Een boost voor de digitale economie via zekerheid over online transacties en zaken doen: wie is bevoegd voor welke organisatie, via eenvoudige check. Bij deze uitgifte van attributen worden de kosten die de KvK vraagt voor de gegevens doorberekend."
 ---
 
 ### Stichting Privacy by Design
@@ -44,16 +44,22 @@ eigenschappen (attributen) van uzelf onthullen (zoals: ik ben boven de
 weggeeft. Via zulke attributen kunt u zichzelf authenticeren
 bijvoorbeeld om in te loggen op een webpagina.
 
-[Yivi](https://yivi.app/)
-
-<img src="/images/yivi-app-onboarding-nl.png" style="float: right; width: 20%; padding: 15px" />
-
-
 Ook kunt u met Yivi attribuut-gebaseerde handtekeningen zetten, zie
 [Yivi in detail](/irma-uitleg) voor meer informatie.
 
-<p style="margin-bottom: 0;">De stichting heeft twee belangrijke
-operationele rollen met betrekking tot Yivi:</p>
+<img src="/images/yivi-app-onboarding-nl.png" style="float: right; width: 20%; padding: 15px" />
+
+Yivi is oorspronkelijk ontwikkeld onder de naam IRMA, binnen de
+Radboud Universiteit. In die tijd is de naam niet wettelijk
+beschermd. Met het toenemend gebruik van de app is het noodzakelijk om
+de eigen naam goed te beschermen, om op te kunnen treden tegen
+vervalsers. Daarom is in 2023 een nieuwe naam gekozen:
+[Yivi](https://yivi.app/)
+
+
+<p style="margin-bottom: 0;">De stichting Privacy by Design heeft twee
+belangrijke operationele verantwoordelijkheden met betrekking tot
+Yivi:</p>
 
 1. Ontwikkeling en beheer van de [Yivi
 software](http://github.com/privacybydesign).
@@ -63,10 +69,9 @@ software](http://github.com/privacybydesign).
 ## Samenwerking
 
 De stichting Privacy by Design is in 2016 voortgekomen uit de [Digital
-Security](http://www.ru.nl/ds/) onderzoeksgroep van de Radboud
-Universiteit en het Privacy and Identity Lab
-[PI.lab](http://www.pilab.nl). De stichting is een onafhankelijke
-non-profit spin-off.
+Security](http://www.ru.nl/ds/) en [iHub](https://ihub.ru.nl/)
+onderzoeksgroepen van de Radboud Universiteit. De stichting is een
+onafhankelijke non-profit spin-off.
 
 De stichting werkt graag samen met anderen om Yivi van de grond te
 krijgen. Pilots zijn in voorbereiding, in samenwerking met
