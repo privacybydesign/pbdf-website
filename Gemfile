@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'jekyll', '3.6.3'
+gem 'jekyll', '3.9.3'
 
 gem 'webrick'
 
@@ -12,4 +12,4 @@ end
 
 gem 'asciidoctor', '~> 1.5.8'
 gem 'coderay', '1.1.1'
-
+gem 'kramdown-parser-gfm'

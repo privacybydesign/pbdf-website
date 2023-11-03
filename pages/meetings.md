@@ -19,7 +19,7 @@ atmosphere is open and very much content-oriented.
  * **Language:** mix of English and Dutch, depending on speaker and
      audience.
 
- * **Announcements:** via the IRMA mailing list and via
+ * **Announcements:** via the IRMA/Yivi mailing list and via
    [Twitter](https://twitter.com/IRMA_privacy/). If you like to be
    included (or deleted) from this list, please send an email to: b.jacobs
    'at' privacybydesign.foundation
