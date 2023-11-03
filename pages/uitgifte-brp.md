@@ -29,7 +29,7 @@ gemeente in Nederland heeft toegang tot de BRP om burgers van dienst
 te kunnen zijn. Gemeenten hebben niet alleen toegang tot gegevens van
 hun eigen burgers, maar ook van burgers in andere gemeenten.
 
-De gemeente [Nijmegen](https://www.nijmegen.nl) geeft IRMA attributen
+De gemeente [Nijmegen](https://www.nijmegen.nl) geeft Yivi attributen
 uit vanuit de BRP. Deze dienst is beschikbaar voor
 iedereen die in de BRP geregistreerd staat en kan inloggen met
 [DigiD](https://www.digid.nl). 
@@ -58,7 +58,7 @@ geen rol.
 
 De geldigheid van deze attributen is vooralsnog gezet op *drie
 maanden*. Deze termijn is in de huidige eerste fase bewust kort
-gekozen. Op termijn zal deze uitgifte van IRMA attributen vanuit de
+gekozen. Op termijn zal deze uitgifte van Yivi attributen vanuit de
 BRP mogelijk ook door andere gemeenten, of door gemeenten gezamenlijk,
 uitgevoerd worden.
 

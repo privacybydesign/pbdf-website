@@ -12,8 +12,8 @@ image:
 widget1:
   title: Yivi voor beschermde post (files en e-mails)
   url: https://postguard.eu/
-  image: postguard_logo.jpeg
-  text: "Het open source PostGuard project biedt versleuteling en digitale ondertekening van bestanden en e-mails. Via Yivi wordt gegarandeerd dat alleen de beoogde ontvanger de post kan lezen. Ook is duidelijk wie de afzender is, via een diagital handtekening."
+  image: postguard-logo.png
+  text: "Het open source PostGuard project biedt versleuteling en digitale ondertekening van bestanden en e-mails. Via Yivi wordt gegarandeerd dat alleen de beoogde ontvanger de post kan lezen. Ook is duidelijk wie de afzender is, via een diagitale handtekening."
 widget2:
   title: Gemeente Nijmegen breidt Yivi inlog uit
   url: https://www.nijmegen.nl/diensten/privacy/yivi-nieuwe-manier-van-inloggen/

@@ -26,22 +26,12 @@ nl:
         url: /irma-uitleg/
       - title: MijnYivi
         url: https://my.irma.app/nl
-      - title: Videos en tekeningen
-        url: /videos/
-      - title: Pers en opinies
-        url: /opinies/
-      - title: Reviews
-        url: /reviews/
-      - title: Prijzen en awards
-        url: /prijzen/
       - title: Meetings
         url: /meetings/
       - title: Publicaties
         url: /publicaties/
       - title: Technische documentatie
         url: https://irma.app/docs
-      - title: Gebruik naam en logo
-        url: /naam-en-logo/
 
   - title: Over de stichting
     side: right
@@ -92,24 +82,10 @@ en:
         url: /irma-explanation/
       - title: MyYivi
         url: https://my.irma.app/
-      - title: Yivi Dashboard
-        url: /dashboard/
-      - title: Videos and drawings
-        url: /videos-en/
-      - title: Press (in Dutch)
-        url: /opinies/
-      - title: Reviews
-        url: /reviews-en/
-      - title: Prizes and awards
-        url: /prizes/
       - title: Meetings
         url: /meetings/
-      - title: Publications
-        url: /publications/
       - title: Technical documentation
         url: https://irma.app/docs
-      - title: Name and logo usage
-        url: /name-and-logo/
 
   - title: About the foundation
     side: right

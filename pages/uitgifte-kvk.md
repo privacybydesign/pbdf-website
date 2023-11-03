@@ -17,7 +17,7 @@ handelsnaam, vestigingsplaats, bevoegdheden, etc. Dit register biedt
 zekerheid voor iedereen die zaken wil doen met een (onbekende)
 organisatie.
 
-Gegevens uit dit handelsregister kunnen toegevoegd worden in de IRMA
+Gegevens uit dit handelsregister kunnen toegevoegd worden in de Yivi
 app, in de vorm van een KvK-kaartje met relevante gegevens. Deze
 toevoeging (uitgifte) wordt uitgevoerd door het bedrijf
 [Signicat](https://www.signicat.com/nl/) in opdracht van

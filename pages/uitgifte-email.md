@@ -9,7 +9,7 @@ translations:
   en: /issuance-email
 ---
 
-U kunt meerdere e-mailadressen toevoegen als attribuut in uw IRMA app,
+U kunt meerdere e-mailadressen toevoegen als attribuut in uw Yivi app,
 bijv. uw zakelijke adres en ook uw privé adres.
 
 Als eerste stap in het uitgifte-proces van een e-mail adres voert u uw
@@ -25,13 +25,8 @@ gekeken hoe dit probleem het beste opgelost kan worden.)
 
 De geldigheid van dit e-mail attribuut is *een jaar*.
 
-**Opmerking:**
-Vanaf 30 November 2020 worden e-mail attributen niet meer uitgegeven
-door de stichting Privacy by Design, maar door
-[SIDN](https://www.sidn.nl).
-
-SIDN verwijdert dit e-mailadres na uitgifte uit de systemen.
-In het kader van onderhoud en monitoring houdt SIDN logs bij van uitgiftes.
+SIDN verwijdert dit e-mailadres na uitgifte uit de systemen.  In het
+kader van onderhoud en monitoring houdt SIDN logs bij van uitgiftes.
 Het logbestand wordt automatisch verwijderd na verloop van tijd.
 Bovendien staat het e-mailadres hier niet in vermeld.
 
