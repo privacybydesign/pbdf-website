@@ -22,14 +22,12 @@ capacity and are not being paid for it.
    societally relevant security and privacy topics, such as medical
    privacy, public transport travel cards, electronic voting.
 
- * **Secretary**: Jaap Akkermans (j.akkermans 'at'
-   privacybydesign.foundation) 
+ * **Secretary**: Monique Hennekens
 
-   Jaap Akkermans has been active for more than 20 years in
-   ICT-consultancy. Before that he was involved with ICT-policy within
-   the government. His background is in physics. In addition, he
-   studied economics of R&D. Within the foundation he is especially
-   interested in business cases for IRMA.
+   Monique Hennekens is a judge at the court of appeal of
+   Arnhem-Leeuwarden. Before that, Monique was an attorney-at-law,
+   specialised in privacy and IT law. Monique helps the Privacy by
+   Design foundation with the legal aspects regarding Yivi.
 
  * **Treasurer**:  Jean Popma (j.popma 'at' privacybydesign.foundation) 
 
@@ -40,20 +38,21 @@ capacity and are not being paid for it.
    medical date. He has ample experience as ICT-manager and as
    Security Officer within Radboud University.
 
- * Monique Hennekens is a trainee judge at the court of appeal of
-   Arnhem-Leeuwarden. Before that, Monique was an attorney-at-law,
-   specialised in privacy and IT law. Monique helps the Privacy by
-   Design foundation with the legal aspects regarding IRMA.
+ * [Martijn van der Linden](https://nl.linkedin.com/in/mmjvdlinden) is
+   Teamleider Quality and Development of the municipality Oss. Earlier
+   he worked for the city of Nijmegen where he was closely involved
+   with the pioneering Yivi (at the time: IRMA) developments there.
 
- * Tim Vermeulen (t.vermeulen 'at' privacybydesign.foundation) is IT
-   R&D Manager at network company Alliander. His teams works on
-   embedding innovative IT solutions in the energy landscape. This
-   involves techniques like Blockchain, Augmented Reality en
-   Continuous Delivery platforms. Tim focuses on using IRMA technology
-   within the energy domain.
+ * [Tim Vermeulen](https://www.linkedin.com/in/timverm/) (t.vermeulen
+   'at' privacybydesign.foundation) is IT R&D Manager at network
+   company Alliander. His teams works on embedding innovative IT
+   solutions in the energy landscape. This involves techniques like
+   Blockchain, Augmented Reality en Continuous Delivery platforms. Tim
+   focuses on using Yivi technology within the energy domain.
 
 
-### Developers
+
+<!-- ### Developers
 
 Sietse Ringers (s.ringers 'at' privacybydesign.foundation) is *chief
 architect* and *lead developer* of the Privacy by
@@ -82,3 +81,5 @@ been) active in developing software and web-pages of the foundation.
 * Roland van Rijswijk-Deij
 * Pim Vullers
 * Bas Westerbaan
+ 
+-->

@@ -44,14 +44,15 @@ persoonlijke titel en worden hiervoor niet betaald.
  * [Martijn van der Linden](https://nl.linkedin.com/in/mmjvdlinden) is
    Teamleider Kwaliteit & Ontwikkeling van de gemeente Oss. Voorheen
    werkte hij voor de gemeente Nijmegen en was hij nauw betrokken bij
-   de Yivi (toen: IRMA) ontwikkelingen aldaar.
+   de eerste Yivi (toen: IRMA) ontwikkelingen aldaar.
 
- * Tim Vermeulen (t.vermeulen 'at' privacybydesign.foundation) is IT
-   R&D Manager bij netwerkbedrijf Alliander. Zijn team werkt aan het
-   inpassen van innovatieve IT oplossingen in het
-   energielandschap. Dit zijn technieken zoals Blockchain, Augmented
-   Reality en Continuous Delivery platforms. Tim zet zich in om de
-   Yivi-technology te gebruiken in het bijzonder in het energiedomein.
+ * [Tim Vermeulen](https://www.linkedin.com/in/timverm/) (t.vermeulen
+   'at' privacybydesign.foundation) is IT R&D Manager bij
+   netwerkbedrijf Alliander. Zijn team werkt aan het inpassen van
+   innovatieve IT oplossingen in het energielandschap. Dit zijn
+   technieken zoals Blockchain, Augmented Reality en Continuous
+   Delivery platforms. Tim zet zich in om de Yivi-technology te
+   gebruiken in het bijzonder in het energiedomein.
 
 
 <!-- 

@@ -2,7 +2,7 @@
 layout: page
 header:
   image_fullwidth: header_poly2.png
-  title: IRMA in detail
+  title: Yivi in detail
 permalink: /irma-explanation/
 language: en
 translations:
@@ -10,27 +10,27 @@ translations:
 ---
 
 <a name="top"></a> This page explains the ideas behind the identity
-platform IRMA. It also explains how the system works and has been
+platform Yivi. It also explains how the system works and has been
 designed. The following topics will be discussed.
 
- 1. [What is IRMA all about?](#topic)
+ 1. [What is Yivi all about?](#topic)
  2. [Why would you wish to use attributes instead of identities?](#why)
  3. [How do I obtain and use attributes?](#how)
  4. [What if I renew or loose my phone?](#lost)
- 5. [How does IRMA differ from other authentication systems?](#architecture)
- 6. [How does IRMA work under the hood?](#hood)
- 7. [Which privacy guarantees does IRMA provide, and which not?](#guarantees)
- 8. [Which values does the IRMA technology embody?](#values)
+ 5. [How does Yivi differ from other authentication systems?](#architecture)
+ 6. [How does Yivi work under the hood?](#hood)
+ 7. [Which privacy guarantees does Yivi provide, and which not?](#guarantees)
+ 8. [Which values does the Yivi technology embody?](#values)
  9. [What are attribute-based signatures?](#signature)
- 10. [What are IRMA's disadvantages?](#disadvantages)
+ 10. [What are Yivi's disadvantages?](#disadvantages)
  11. [How can I participate or contribute?](#contribute)
 
 These questions will be addressed one by one below. Elsewhere there
-are shorter explanations, for [IRMA app users](/irma-start) and for
-[IRMA verifiers](/irma-verifier).
+are shorter explanations, for [Yivi app users](/irma-start) and for
+[Yivi verifiers](/irma-verifier).
 
 
-### <a name="topic"></a>1. What is IRMA all about?
+### <a name="topic"></a>1. What is Yivi all about?
 
 In many countries, when you buy a bottle of whiskey, you are obliged
 to prove that you are older than 18. You don't have to prove who you
@@ -38,17 +38,16 @@ are. Just this personal property, that you are over 18, suffices
 for the whiskey purchase. Such personal properties will be called
 *attributes*.
 
-IRMA is the name for a system that allows you to do precisely this.
-IRMA stands for *I Reveal My Attributes*. IRMA empowers you to
-disclose online, via your mobile phone, certain attributes of yourself
-("over 18"), but at the same time hide other attributes (like your
-name, or phone number). IRMA protects your privacy in this way. This
-privacy-protection is intrinsic to the system, which is called
-*privacy by design*. In the most recent European data protection
-regulation such privacy by design is legally required for new
-ICT-systems.
+Yivi is the name for a system that allows you to do precisely this.
+Yivi empowers you to disclose online, via your mobile phone, certain
+attributes of yourself ("over 18"), but at the same time hide other
+attributes (like your name, or phone number). Yivi protects your
+privacy in this way. This privacy-protection is intrinsic to the
+system, which is called *privacy by design*. In the most recent
+European data protection regulation such privacy by design is legally
+required for new ICT-systems.
 
-Apart from intrinsic privacy-protection, IRMA also protects against
+Apart from intrinsic privacy-protection, Yivi also protects against
 identity fraud: if your name and date of birth are not revealed at
 all, they cannot be abused.
 
@@ -98,7 +97,7 @@ relevant information that is required for a certain transaction:
   webshop. And possible an age limit attribute is required if the item
   that you purchase is not intended for minors.
 
-In short, IRMA is about attribute-based authentication: it is not
+In short, Yivi is about attribute-based authentication: it is not
 about *who* you are, but *what* you are. This is very natural and
 intuitive. When you visit a doctor in a hospital you may wish to know
 his/her name for communication, but a much more important attribute is
@@ -107,7 +106,7 @@ non-digital world we rely very much on context: the person wears a
 white coat and receives you in an office in a building that says
 "hospital" above it entrance. But in the online world such context
 information is often missing (or is easy to fabricate), so that we
-have to use attributes like in IRMA for trusted interaction.
+have to use attributes like in Yivi for trusted interaction.
 
 [To the top](#top)
 
@@ -132,7 +131,7 @@ Usage of attributes, instead of identities, has additional advantages.
 * It is privacy-friendly because of *data minimization*. Only those
   attributes which are relevant and necessary for a transaction need
   to be disclosed.
-* It provides the user, at least with IRMA, real control and
+* It provides the user, at least with Yivi, real control and
   transparency about who is requesting to see which attributes.
 * It is flexible and can be used in many situations.
 * It prevents linking of different transactions, as long as
@@ -169,16 +168,16 @@ women or for children.
 
 ### <a name="how"></a>3. How do I obtain and use attributes?
 
-In the IRMA identity platform your personal attributes are securely
-stored in the IRMA app on your own phone (or tablet) --- and nowhere
+In the Yivi identity platform your personal attributes are securely
+stored in the Yivi app on your own phone (or tablet) --- and nowhere
 else. The app is protected via your own PIN code. This personal PIN
-ensures that no-one else can use your attributes in your IRMA app, and
+ensures that no-one else can use your attributes in your Yivi app, and
 thus steal your identity. Of course, it is important that, in
 addition, your phone has its own login pattern or code. But on top of
-that, the IRMA app has its own PIN, just like various apps from mobile
+that, the Yivi app has its own PIN, just like various apps from mobile
 banking have their own PIN.
 
-Attributes that hold for you can be downloaded to your IRMA app on
+Attributes that hold for you can be downloaded to your Yivi app on
 your phone. Typically this is done via the [web](/issuance), but it is
 also possible to do this in a face-to-face scenario at a counter. An
 organization that provides attributes is called an *attribute issuer*,
@@ -207,27 +206,27 @@ as:
   forces whose identifying data are typically not revealed
 * etc.
 
-IRMA attributes are [available](../issuance/) from many sources -- but
+Yivi attributes are [available](../issuance/) from many sources -- but
 not from all of the ones listed above. The Privacy by Design
 foundation keeps a [public
 register](/attribute-index/en) of
-all available IRMA credentials (sets of attributes).
+all available Yivi credentials (sets of attributes).
 
 If you wish to obtain certain attributes from such an issuer you first
 have to authenticate (prove who you are) to this issuer. Subsequently,
 this issuer can look up in its own database which attributes it knows
 about you, and you can choose from the available attributes which ones
-to download to your IRMA app on your phone, digitally signed by the
+to download to your Yivi app on your phone, digitally signed by the
 issuer. Concretely, in order to obtain attributes from your bank,
 you have to log into your bank first. This is precisely what happens
 with [iDIN](/issuance-idin).
 
-Once your IRMA app contains a collection of attributes, you can start
+Once your Yivi app contains a collection of attributes, you can start
 using them in various transactions. In such transactions the other
 side (think of a webshop) may ask you, for instance, what your home
 address (attribute) is. After you have explicitly agreed to such a
 request, and typed in your PIN code, this attribute is revealed by the
-IRMA app to the webshop. By performing some cryptographic checks, the
+Yivi app to the webshop. By performing some cryptographic checks, the
 webshop can verify that the attribute is genuine, has not expired, has
 not been manipulated, has been issued by a specific issuer, and also
 that it really belongs to you (actually: to your phone). This
@@ -235,11 +234,11 @@ requesting party, who wants to see some of your attributes, is called
 a *verifier*, or sometimes a *relying party*. There is a special
 [verifier page](/irma-verifier) explaining what this role amounts to.
 
-It is built into the IRMA system that these verifiers must make very
-clear to you which attributes they request to see. You, as an IRMA
+It is built into the Yivi system that these verifiers must make very
+clear to you which attributes they request to see. You, as an Yivi
 user, have to explicitly agree to the release of those attributes. In
 this way it is clear and transparent who wants to know what about you.
-The IRMA app keeps its own log, so that you can see later which verifier
+The Yivi app keeps its own log, so that you can see later which verifier
 has requested which attributes (at what time), and what you have
 revealed. If there are verifiers who request disproportionately much
 information from users, you can file a complaint, based on these logs,
@@ -247,33 +246,35 @@ for instance with your (national) data protection authority.
 
 (The Privacy by Design foundation also keeps a minimal log of all your
 transactions, in order to enable you to detect possible abuse, see the
-[MyIRMA explanation](/irma-start/#myirma). This log gives you no
+[MyYivi explanation](/irma-start/#myirma). This log gives you no
 information about the attributes that have been requested and/or
 shown, and can not be used for complaints.)
 
-Attributes in IRMA carry a digital signature of the issuer. Via this
+Attributes in Yivi carry a digital signature of the issuer. Via this
 signature the verifier can check the origin and the integrity of
 attributes. Attributes have an expiry date, which can also be checked
 by the verifier. If attributes have expired, they need to be refreshed
 by the user, by returning to the original issuer. This works just like
 for passports, identity cards, or driver's licenses: at some stage
-they expire, and you need to get it re-issued. Refreshing of IRMA
+they expire, and you need to get it re-issued. Refreshing of Yivi
 attributes is much simpler, however, since it can be done online.
 
-The three pictures below give a schematic overview, first of
-downloading attributes at an issuer, and subsequently, of
-using attributes at two different web-shops.
+The three pictures (still involving the old name IRMA for Yivi) below
+give a schematic overview, first of downloading attributes at an
+issuer, and subsequently, of using attributes at two different
+web-shops.
+
 <hr>
-<p align="center"><img src="../images/Transactions_IRMA_voorbereiding_en.png" alt="IRMA preparation" style="width: 55%; height: 55%"/></p>
+<p align="center"><img src="../images/Transactions_IRMA_voorbereiding_en.png" alt="Yivi preparation" style="width: 55%; height: 55%"/></p>
 <hr>
-<p align="center"><img src="../images/Transactions_IRMA_eerste_gebruik_en.png" alt="IRMA first use" style="width: 50%; height: 50%"/></p>
+<p align="center"><img src="../images/Transactions_IRMA_eerste_gebruik_en.png" alt="Yivi first use" style="width: 50%; height: 50%"/></p>
 <hr>
-<p align="center"><img src="../images/Transactions_IRMA_enzovoort_en.png" alt="IRMA and so on" style="width: 50%; height: 50%"/></p>
+<p align="center"><img src="../images/Transactions_IRMA_enzovoort_en.png" alt="Yivi and so on" style="width: 50%; height: 50%"/></p>
 <hr>
 
 This downloading of attributes is a natural form of modern *identity
 management*. It allows you to assemble and maintain your own personal
-digital passport in your IRMA app. Such personal data management is a
+digital passport in your Yivi app. Such personal data management is a
 bit like installing and removing apps on your phone or tablet.
 
 [To the top](#top)
@@ -281,49 +282,49 @@ bit like installing and removing apps on your phone or tablet.
 
 ### <a name="lost"></a>4. What if I renew or loose my phone?
 
-Your IRMA attributes are stored only on your own phone and nowhere
-else. This is a deliberate design choice of the IRMA platform, as part
+Your Yivi attributes are stored only on your own phone and nowhere
+else. This is a deliberate design choice of the Yivi platform, as part
 of *privacy by design*. The disadvantage is that with a renewal (or
 loss) of your phone, in principle, you have to reload all attributes
 into your new phone. This is comparable to an ordinary passport: when
 you lose it, a new one is needed.
 
 In case of theft or loss of your phone your attributes are protected
-against misuse by the thief or finder by your IRMA PIN. Since this PIN
+against misuse by the thief or finder by your Yivi PIN. Since this PIN
 has to be entered each time when you disclose or receive attributes, the
 thief or finder of your phone will be unable to do anything with your
 attributes. However, it is still wise to immediately block your
-IRMA app via the [MyIRMA](../myirma) portal.
+Yivi app via the [MyYivi](../myirma) portal.
 
 The Privacy by Design foundation is working on *backup* functionality
 for attributes. It allows you to restore these attributes from this
 back-up into your new phone. The attributes in the old phone are then
-disabled. This back-up functionality will be added to the IRMA app in
+disabled. This back-up functionality will be added to the Yivi app in
 due course, via the regular update mechanism.
 
 [To the top](#top)
 
 
-### <a name="architecture"></a>5. How does IRMA differ from other authentication systems?
+### <a name="architecture"></a>5. How does Yivi differ from other authentication systems?
 
-IRMA differs in essential ways from other identity management systems,
+Yivi differs in essential ways from other identity management systems,
 such as [Facebook
 login](https://developers.facebook.com/docs/facebook-login), or
-[iDIN](http://www.idin.nl) in the Netherlands. IRMA has a
+[iDIN](http://www.idin.nl) in the Netherlands. Yivi has a
 *decentralized* architecture. Your attributes are stored only locally,
 on your phone, and not centrally in the computer systems of some
-"identity broker". When you use IRMA to prove to a webshop that you
-are older than 18, your IRMA app communicates directly with the
-webshop, without intermediary parties. In the IRMA set-up there are,
+"identity broker". When you use Yivi to prove to a webshop that you
+are older than 18, your Yivi app communicates directly with the
+webshop, without intermediary parties. In the Yivi set-up there are,
 in principle, no third parties who can monitor and record:
 
 * which attributes you have
 * where you use them
 * when you use them.
 
-In this manner IRMA offers optimal privacy protection, by design.
+In this manner Yivi offers optimal privacy protection, by design.
 
-To compare: if website X does not use IRMA for user authentication,
+To compare: if website X does not use Yivi for user authentication,
 but let's say Facebook login, you are re-directed to Facebook when you
 wish to login at X. After logging into Facebook, using your Facebook
 credentials, Facebook gives website X certain information about
@@ -345,64 +346,65 @@ the Netherlands have set up. When you authenticate via iDIN, your bank
 can see whether you login to a liquor store or to a psychiatric
 clinic. The banks [promise](https://www.idin.nl/consumenten) that they
 will not use this information for other purposes, for instance, when
-they decide whether or not you will get a mortgage. In IRMA's
+they decide whether or not you will get a mortgage. In Yivi's
 decentralized architecture such uncomfortable issues do not arise at
 all. In addition, relying parties, such as web-shops, need to pay the
 banks per iDIN authentication session. The prices are a real concern
-for them, and have already led to complaints. Again, with IRMA there
+for them, and have already led to complaints. Again, with Yivi there
 are no such artificial costs imposed by the chosen (centralized)
 architecture.
 
-The difference between a decentralized (IRMA) and centralized
-(non-IRMA) set-up is sketched below.
+The difference between a decentralized (Yivi) and centralized
+(non-Yivi) set-up is sketched below (using pictures still involving
+the old name IRMA for Yivi).
 <p align="center"><img src="../images/Transactions_all_lowres_en.png" alt="summary" style="width: 100%; height: 100%"/></p>
 
-It may be clear that in the non-IRMA set-up the issuer of attributes
+It may be clear that in the non-Yivi set-up the issuer of attributes
 is a *privacy hotspot* who facilitates and sees all
 transactions. Moreover, in the centralized architecture a (malicious)
 issuer can completely take over your identity and impersonate you. You
 have no way to stop this, or even notice it --- until possibly later
 when you are confronted with the consequences. In the decentralized
-IRMA set-up you have genuine control over the usage of your own
+Yivi set-up you have genuine control over the usage of your own
 attributes: you directly disclose your own attributes yourself, every
 time only after explicit consent, without (unnecessary) interference
 of third parties. This is similar to the way you can disclose your
 (physical) passport yourself, without dependence on others.
 
-In the IRMA system there are no such *privacy hotspots*. At a
-meta-level, IRMA does involve some level of coordination about how
+In the Yivi system there are no such *privacy hotspots*. At a
+meta-level, Yivi does involve some level of coordination about how
 attributes and credentials are organized and which cryptographic
 (public) keys are needed at which stage. This coordinating role is
 fulfilled by the Privacy by Design foundation. But: the foundation can
 not see at all which attributes are used where.
 
-The Privacy by Design foundation does not monopolize IRMA and its
+The Privacy by Design foundation does not monopolize Yivi and its
 technology. The software is open source and is freely available, for
 everyone to use. Also other parties can play the coordinating and/or
 issuing roles that the foundation is playing at this stage. In fact,
 it would be better if [iDIN](/issuance-idin) or the [BIG
-register](/issuance-big) would directly issue IRMA attributes
+register](/issuance-big) would directly issue Yivi attributes
 themselves, instead of the foundation doing so indirectly ---
 currently, hopefully temporarily.
 
 Decentralized and centralized identity management systems do not
 exclude each other. In fact, they can work well together, for instance
-in the case of iDIN providing attributes for IRMA. IRMA can best be
+in the case of iDIN providing attributes for Yivi. Yivi can best be
 used for applications where privacy plays a (big) role and where
 attributes are needed that can not be organized easily in a
 centralized manner, for instance because of legal restrictions or lack
-of trust in central storage among users. IRMA can also handle
+of trust in central storage among users. Yivi can also handle
 "temporary" attributes, like an entry ticket for a concert, containing
 the name, date and location of the concert. In principle, you can buy
-such a ticket online and download it as attribute to your IRMA app. At
+such a ticket online and download it as attribute to your Yivi app. At
 the entrance of the concert you can disclose the ticket for
 verification, and subsequently delete it from your phone. (Such
 tickets are strictly personal non-transferable, because they are
-cryptographically connected to your own personal IRMA app.)
+cryptographically connected to your own personal Yivi app.)
 
-A subtle point is whether IRMA outperforms centralized architectures
+A subtle point is whether Yivi outperforms centralized architectures
 since such architectures intrinsically have a single-point-of-failure;
-if it goes down all authentication is disabled. In fact, IRMA also
+if it goes down all authentication is disabled. In fact, Yivi also
 involves a small central *keyshare* component, as will be explained in
 more detail [next](#hood), so that users can inspect and disable their
 usage, if needed. This central component plays a role in each
@@ -413,14 +415,14 @@ single-point-of-failure too.
 [To the top](#top)
 
 
-### <a name="hood"></a>6. How does IRMA work under the hood?
+### <a name="hood"></a>6. How does Yivi work under the hood?
 
 This section overlaps to some extent with the
-[explanations](/irma-start) for getting started with IRMA, especially
+[explanations](/irma-start) for getting started with Yivi, especially
 its last part about [registration](/irma-start/#hood).
 
-Technical details of IRMA will be given below, explaining why IRMA
-works in a privacy-friendly and secure manner. IRMA is based on
+Technical details of Yivi will be given below, explaining why Yivi
+works in a privacy-friendly and secure manner. Yivi is based on
 non-trivial cryptography for attribute-based credentials. These
 credentials are containers for attributes, equipped with an expiry
 date and a digital signature, produced by the issuer. The underlying
@@ -432,13 +434,13 @@ contributes to confidence.
 
 IBM has made its only implementation of Idemix publicly available,
 free of charge. The Privacy by Design foundation has developed its
-own, different, independent, open source [IRMA
+own, different, independent, open source [Yivi
 implementation](https://credentials.github.io/). The rights on this
-IRMA implementation are jointly in the hands of the foundation and
+Yivi implementation are jointly in the hands of the foundation and
 Radboud University --- where the initial parts of the implementation
 were developed.
 
-As mentioned, individual IRMA attributes are combined in a credential.
+As mentioned, individual Yivi attributes are combined in a credential.
 For instance, you can have a credential containing the following
 attributes:
 
@@ -451,9 +453,9 @@ national) authorities. You, as user, can decide, per transaction, to
 disclose any subset of these attributes. In the above example, you can
 for instance disclose your nationality, without revealing where or
 when you were born. This *selective disclosure* property is the
-basis of IRMA's privacy by design.
+basis of Yivi's privacy by design.
 
-The party that offers such credentials according to the IRMA protocols
+The party that offers such credentials according to the Yivi protocols
 is called an *issuer*. During the issuing process, the issuer puts
 a so called *blind* digital signature on the credential. This has
 two important consequences.
@@ -491,17 +493,17 @@ explanations](/irma-verifier) elsewhere. Small web-shops may wish to
 outsource such attribute verifications to third parties, just like
 they often outsource payment processing. This is possible, but is not
 ideal for privacy, since these external verifiers see many
-attributes. Such a third party may offer IRMA attribute verification
+attributes. Such a third party may offer Yivi attribute verification
 as a commercial service.
 
 Credentials are cryptographically bound to a mobile phone, and to each
 other, via a personal secret cryptographic key. This private key is
-crucial for the security of the IRMA app; it must be stored securely.
+crucial for the security of the Yivi app; it must be stored securely.
 Such secure local storage is difficult on a mobile phone, since the
 device may be rooted or hacked. That is why a small but crucial part
 of this private key is stored outside the phone on a so-called
 *keyshare-server* that is operated by the Privacy by Design
-foundation. The IRMA PIN code is checked by the keyshare server, see
+foundation. The Yivi PIN code is checked by the keyshare server, see
 the [more detailed explanations](/irma-start/#hood) elsewhere. Only
 when the PIN checks out, will the server participate with its own
 small part of the secret personal key, and can attributes be
@@ -509,18 +511,18 @@ disclosed. The keyshare sever will not see the attributes themselves,
 nor to whom they are disclosed.
 
 This entire secret personal cryptographic key, and thus the
-cooperation of the keyshare server, is necessary for each IRMA
+cooperation of the keyshare server, is necessary for each Yivi
 operation, such as receiving and disclosing of attributes. As long as
 my key stays under my control, my attributes cannot be used by
-others. Thus, my attributes cannot be transferred to other user IRMA
+others. Thus, my attributes cannot be transferred to other user Yivi
 users --- unless I somehow also transfer my secret key.
 
 
 [To the top](#top)
 
-### <a name="guarantees"></a>7. Which privacy guarantees does IRMA provide, and which not?
+### <a name="guarantees"></a>7. Which privacy guarantees does Yivi provide, and which not?
 
-The following terminology is used for IRMA's privacy guarantees.
+The following terminology is used for Yivi's privacy guarantees.
 
 * **Issuer unlinkability.** This means that an issuer of attributes
     can not trace the disclosures of these attributes by a user, even
@@ -535,7 +537,7 @@ The following terminology is used for IRMA's privacy guarantees.
     the same person is behind both disclosures.
 
 These properties are built into the underlying cryptographic system
-(Idemix) on which IRMA is based. Nevertheless, it is still possible
+(Idemix) on which Yivi is based. Nevertheless, it is still possible
 that privacy-sensitive information leaks out, for instance the
 IP-address involved, or the "fingerprint" of the browser. The above
 webshop may conclude, rightly or not, that the same person is involved
@@ -543,49 +545,49 @@ because both attribute disclosures come from the same IP-address.
 
 Protection against this is possible, for instance via anonymization
 technologies, such as [Tor](https://www.torproject.org). But such
-protection is not built into IRMA.
+protection is not built into Yivi.
 
 
 
 
-### <a name="values"></a>8. Which values does the IRMA technology embody?
+### <a name="values"></a>8. Which values does the Yivi technology embody?
 
 Authentication requirements, and information flows, reflect the power
 relations in society. In general, the more powerful parties impose
 authentication requirements and mechanisms on the less powerful
 parties. The Privacy by Design foundation is well aware of these
 societally important issues and aims to use value-laden design in
-offering IRMA as a transparent open identity platform for proportional
+offering Yivi as a transparent open identity platform for proportional
 and contextual authentication that empowers, instead of weakens,
 users. This context-dependence is related to [Helen
 Nissenbaum](http://www.nyu.edu/projects/nissenbaum/)'s interpretation
 of privacy as contextual integrity.
 
-IRMA works via freely available open source software. Everyone can
+Yivi works via freely available open source software. Everyone can
 inspect and judge how it works. This contributes to confidence, not
-only in the proper functioning of the IRMA system, but also in order
+only in the proper functioning of the Yivi system, but also in order
 to check that there are no hidden back-doors in the system. Such
 transparency is essential for broad voluntary usage and acceptance of
-sensitive ICT-infrastructure, like for authentication. With IRMA there
+sensitive ICT-infrastructure, like for authentication. With Yivi there
 is no commercial lock-in, and there is no extorted trust. Even if the
-foundation somehow goes down, the IRMA software will still be there
+foundation somehow goes down, the Yivi software will still be there
 and can be maintained and continued by others.
 
-Thus, IRMA is not about plundering or deceiving users, or about
+Thus, Yivi is not about plundering or deceiving users, or about
 surreptitiously steering them commercially or politically, but about
 encountering them transparently, with dignity, respecting their
 autonomy and privacy.
 
-IRMA is based on properties of individuals (attributes) whose source
+Yivi is based on properties of individuals (attributes) whose source
 is explicitly visible, namely in the form of the issuer who commits
 itself via digital signatures to the validity of these attributes.
-IRMA is thus about "objective" properties and qualifications of people,
+Yivi is thus about "objective" properties and qualifications of people,
 where the objectivity lies in the verifiable origin of attributes.
-In this way IRMA distinguishes itself from "subjective" reputation-based
+In this way Yivi distinguishes itself from "subjective" reputation-based
 systems, in which qualifications can be manipulated relatively
 easily and their origin is seldom transparent.
 
-IRMA does not exclude commercial activities surrounding
+Yivi does not exclude commercial activities surrounding
 authentication. But these commercial activities work best *on top of*
 an open basic infrastructure, and not in its core. Internet protocols
 like TCP and IP are also open, and form the basis for the success of
@@ -598,8 +600,8 @@ on top of TCP/IP.
 
 ### <a name="signature"></a>9. What are attribute-based signatures?
 
-IRMA is primarily a system for attribute-based authentication: with
-IRMA you can selectively disclose attributes about yourself. But IRMA
+Yivi is primarily a system for attribute-based authentication: with
+Yivi you can selectively disclose attributes about yourself. But Yivi
 offers more, namely attribute-based digital signatures. This is still
 in an experimental phase.
 
@@ -633,46 +635,46 @@ really comes from a particular citizen. Also payment orders can be
 realized via attribute-based signatures, by including the bank account
 number of the signer as attribute in the signature.
 
-Attribute-based signatures are supported by the IRMA
+Attribute-based signatures are supported by the Yivi
 software. Attribute-based signatures form a novel concept with
 unprecedented application possibilities.
 
 [To the top](#top)
 
 
-### <a name="disadvantages"></a>10. What are IRMA's disadvantages?
+### <a name="disadvantages"></a>10. What are Yivi's disadvantages?
 
-The most important advantage of IRMA is: the user maintains and fully
+The most important advantage of Yivi is: the user maintains and fully
 controls his/her own attributes. But this is at the same time a
-disadvantage: an IRMA user will have to do this actively. This
-requires some effort, and also some level of understanding how IRMA
+disadvantage: an Yivi user will have to do this actively. This
+requires some effort, and also some level of understanding how Yivi
 works and what has to be done.
 
 Your identity is a very valuable asset, which you have to handle with
 care in the digital world. This is something we still have to learn
-collectively. With IRMA it becomes transparent which of your
+collectively. With Yivi it becomes transparent which of your
 attributes are requested where. You first have to load those
-attributes into the IRMA app on your mobile phone. And when these
+attributes into the Yivi app on your mobile phone. And when these
 attributes expire, you will have to renew them. And when you replace
 your phone itself, you will have to reload all your attributes into
-(the IRMA app on) your new device. All of this is a "hassle", which is
-part of careful dealing with your digital identity. IRMA puts you in
+(the Yivi app on) your new device. All of this is a "hassle", which is
+part of careful dealing with your digital identity. Yivi puts you in
 control and helps you to handle your digital identity with the same
 care that you have for your passport.
 
 These are (possible) disadvantages for users. A "system" disadvantage
 is that the traditional intermediary way of making money does not work
-with IRMA: users cannot be profiled by attribute issuers, and there
+with Yivi: users cannot be profiled by attribute issuers, and there
 are no third parties that have to be payed for each authentication
-session, see [above](#architecture). For IRMA users this may actually
+session, see [above](#architecture). For Yivi users this may actually
 be an advantage.
 
-However, the identity platform IRMA is economically viable. Issuance
+However, the identity platform Yivi is economically viable. Issuance
 and verification of attributes may form a commercial service, which
 can be performed by third parties. Also, the Privacy by Design
 foundation may issue certain specialized credentials for a
 fee. Possibly, in order to maintain its activities in the long-term
-future, the foundation may start charging IRMA users, for instance a
+future, the foundation may start charging Yivi users, for instance a
 couple of Euros per year, for a basic set of attributes.
 
 
@@ -680,12 +682,12 @@ couple of Euros per year, for a basic set of attributes.
 
 ### <a name="contribute"></a>11. How can I participate or contribute?
 
-IRMA is an identity platform that is being built up from below, and is
-not imposed from above. IRMA will have to prove itself, via convincing
+Yivi is an identity platform that is being built up from below, and is
+not imposed from above. Yivi will have to prove itself, via convincing
 applications. Several parties are currently working on this.
 
 Do you value careful, privacy-friendly interaction with your
-customers, and do you have a good idea for an IRMA application,
+customers, and do you have a good idea for an Yivi application,
 for instance in your webshop or within your organization, do
 [contact](/contact-en) the Privacy by Design foundation.
 For instance, the foundation can:
@@ -701,7 +703,7 @@ such advice, in order to maintain its own activities. The foundation
 is a not-for-profit organization, without commercial targets.
 
 Even if you do not have a concrete application in mind, but wish to
-contribute to the IRMA development, via your efforts or via a
+contribute to the Yivi development, via your efforts or via a
 financial contribution, do [get in touch](/contact-en).
 
 [To the top](#top)

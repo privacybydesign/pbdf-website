@@ -21,7 +21,7 @@ translations:
   }
 </style>
 
-Here you can (re)load attributes into the [IRMA app](/download-en) on your
+Here you can (re)load attributes into the [Yivi app](/download-en) on your
 phone, in order to compose a personal 'passport'.  The Privacy by
 Design foundation digitally signs these attributes, so that verifiers
 can check their origin and integrity. You can subsequently use these
@@ -34,7 +34,7 @@ into his/her phone.
 
 ### International attributes
 
-The following attributes can be loaded into an IRMA app by anyone on earth.
+The following attributes can be loaded into an Yivi app by anyone on earth.
 
 **E-mail address attribute**  
 Attribute: e-mail address  
@@ -43,18 +43,18 @@ Attribute: e-mail address
 [More information](/issuance-email)
 
 **Social media attributes**  
-Attributes (differs per network): first name, family name, email address, birth date, username  
-<a class="button" href="/issuance/social/twitter">
-<img src="/images/twitter.png">Load attributes via Twitter</a>  
+<!-- Attributes (differs per network): first name, family name, email address, birth date, username  -->
+<!-- <a class="button" href="/issuance/social/twitter"> -->
+<!-- <img src="/images/twitter.png">Load attributes via Twitter</a>   -->
 <a class="button" href="/issuance/social/linkedin">
 <img src="/images/linkedin.png">Load attributes via LinkedIn</a>  
 [More information](/issuance-socialmedia)
 
-**Attributes via your educational institution**  
-Attributes: given name, family name, email address, institution, staff/student, local registration number  
-<a class="button" href="/issuance/surfconext/edugain">
-<img src="/images/edugain.png">Load attributes via eduGAIN</a>  
-Notice: this is an experimental service. We appreciate any feedback at irma 'at' privacybydesign.foundation, preferably with screenshots if something goes wrong.
+<!-- **Attributes via your educational institution**   -->
+<!-- Attributes: given name, family name, email address, institution, staff/student, local registration number   -->
+<!-- <a class="button" href="/issuance/surfconext/edugain">  -->
+<!-- <img src="/images/edugain.png">Load attributes via eduGAIN</a>   -->
+<!-- Notice: this is an experimental service. We appreciate any feedback at irma 'at' privacybydesign.foundation, preferably with screenshots if something goes wrong.  -->
 
 ### Attributes for Europe
 
@@ -88,27 +88,27 @@ Attributen: [AGB-code](https://www.agbcode.nl/) of a medical professional, for d
 <a class="button" href="https://irma-agb.nuts.nl/">
 <img src="/images/agb-code.gif">Load attributes via AGB</a>  
 
-**Attributes via iDIN**  
-Attributes: initials, family name, date of birth, gender, address, postal code, city  
-<a class="button" href="/uitgifte/idin">
-<img src="/images/idin.png">Load attributes via iDIN</a>  
-[More information](/issuance-idin)
+<!-- **Attributes via iDIN**  
+<!-- Attributes: initials, family name, date of birth, gender, address, postal code, city   -->
+<!-- <a class="button" href="/uitgifte/idin"> -->
+<!-- <img src="/images/idin.png">Load attributes via iDIN</a>   -->
+<!-- [More information](/issuance-idin) -->
 
-**Attributes via iDEAL**  
-Attributes: IBAN, account holder, BIC  
-<a class="button" href="/uitgifte/ideal">
-<img src="/images/ideal.png">Load attributes via iDEAL</a>  
-More information about these attributes can be found on the issuance page itself.
-This information is only available in Dutch.
+<!-- **Attributes via iDEAL**   -->
+<!-- Attributes: IBAN, account holder, BIC   -->
+<!-- <a class="button" href="/uitgifte/ideal"> -->
+<!-- <img src="/images/ideal.png">Load attributes via iDEAL</a>   -->
+<!-- More information about these attributes can be found on the issuance page itself. -->
+<!-- This information is only available in Dutch. -->
 
-**Attributes via the BIG-register --- based on iDIN data (Experimental)**  
-Attributes: BIG-number, date of BIG-registration, medical profession, medical specialisms  
-<a class="button" style="cursor: not-allowed;" disabled>
-<img src="/images/big.png">Load attributes via BIG</a>  
-This service has been disabled due to a breaking change at the BIG-register. Medical professionals can still load AGB attributes, see above. [More information](/issuance-big)
+<!-- **Attributes via the BIG-register --- based on iDIN data (Experimental)**   -->
+<!-- Attributes: BIG-number, date of BIG-registration, medical profession, medical specialisms   -->
+<!-- <a class="button" style="cursor: not-allowed;" disabled>
+<!-- <img src="/images/big.png">Load attributes via BIG</a>   -->
+<!-- This service has been disabled due to a breaking change at the BIG-register. Medical professionals can still load AGB attributes, see above. [More information](/issuance-big) -->
 
-**Attributes via the [diploma register of DUO](https://duo.nl/particulier/diplomas/mijn-diplomas.jsp) (disabled temporarily)**    
-Attributes: school and/or study diploma   
-<a class="button" style="cursor: not-allowed;" disabled>
-<img src="/images/diploma-logo.png">Load attributes via DUO</a>  
-This experimental service has been temporarily disabled due to a change in the diploma documentation by DUO. We are happy to receive feedback about possible use-cases via irma 'at' privacybydesign.foundation. ([more information](/issuance-diploma))
+<!-- **Attributes via the [diploma register of DUO](https://duo.nl/particulier/diplomas/mijn-diplomas.jsp) (disabled temporarily)**     -->
+<!-- Attributes: school and/or study diploma    -->
+<!-- <a class="button" style="cursor: not-allowed;" disabled> -->
+<!-- <img src="/images/diploma-logo.png">Load attributes via DUO</a>   -->
+<!-- This experimental service has been temporarily disabled due to a change in the diploma documentation by DUO. We are happy to receive feedback about possible use-cases via irma 'at' privacybydesign.foundation. ([more information](/issuance-diploma)) -->

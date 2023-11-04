@@ -1,10 +1,10 @@
 ---
 layout: page
-meta_title: IRMA verifier
-teaser: I operate a webpage where I would like my customers to log in. How can I do that with IRMA? What are the costs?
+meta_title: Yivi verifier
+teaser: I operate a webpage where I would like my customers to log in. How can I do that with Yivi? What are the costs?
 header:
   image_fullwidth: header_poly2.png
-  title: Integrate IRMA in your website
+  title: Integrate Yivi in your website
 permalink: /irma-verifier/
 language: en
 translations:
@@ -15,25 +15,25 @@ translations:
 webshop or of a service provider, and you would like to know something
 more about your users. This "something" can be an email address or a
 (mobile) phone number, or a home address, or a minimum age, or a
-membership number. IRMA provides a mechanism that allows users to
+membership number. Yivi provides a mechanism that allows users to
 prove to you in a reliable manner what these personal attributes are.
 
-The Privacy by Design foundation has developed IRMA software that
+The Privacy by Design foundation has developed Yivi software that
 allows you to verify such attributes. This software is open source and
 is freely available. In principle, the only thing that you have to do
-to start using IRMA is to integrate this software into your own
+to start using Yivi is to integrate this software into your own
 webpage.
 
 In practice, a bit more is required. Below, several topics are
-discussed which are directly relevant for verification of IRMA
-attributes. General explanations about how IRMA works can be found
+discussed which are directly relevant for verification of Yivi
+attributes. General explanations about how Yivi works can be found
 [elsewhere](/irma-explanation).
 
  1. [Which attributes of my users can I verify?](#whichattributen)
- 2. [How do I integrate IRMA software in my webpage?](#software)
+ 2. [How do I integrate Yivi software in my webpage?](#software)
  3. [Can I also issue attributes myself to my customers?](#issue)
- 4. [What are the costs of using IRMA?](#costs)
- 5. [What level of certainty does IRMA provide?](#level)
+ 4. [What are the costs of using Yivi?](#costs)
+ 5. [What level of certainty does Yivi provide?](#level)
  6. [Is the foundation certified? Which guarantees exist?](#certification)
 
 Below, these questions will be answered one by one.
@@ -43,9 +43,9 @@ Below, these questions will be answered one by one.
 In principle you can choose yourself which attributes you wish to
 verify in order to authenticate a user. A practical requirement is
 that users must be able to somehow obtain the attributes that you want
-to verify. The Privacy by Design Foundation offers IRMA users, after
+to verify. The Privacy by Design Foundation offers Yivi users, after
 registration, the possibility to load a number of attributes into
-their IRMA app --- see the [issuance](/issuance)
+their Yivi app --- see the [issuance](/issuance)
 webpage. Subsequently, you can verify these attributes.
 
 It is expected that the range of attributes will grow in the future.
@@ -66,11 +66,11 @@ user to a website where the attribute is available. After loading the
 relevant attribute, the user can authenticate at your website.
 
 It is up to you to ask for all sorts of attributes from your users.
-But please be careful: upon logging into your website with IRMA, your
+But please be careful: upon logging into your website with Yivi, your
 customers must explicitly agree to reveal these attributes to you.
 When you ask too many, non-relevant or non-necessary, attributes, you
 may scare away (potential) customers. An important idea underlying
-IRMA is that only strictly necessary attributes should be requested at
+Yivi is that only strictly necessary attributes should be requested at
 login. European privacy laws require *data minimization* and
 *purpose binding*, so that you are allowed to process only those
 personal data of your customers that are strictly necessary for the
@@ -78,9 +78,9 @@ service that you offer.
 
 [To the top](#top)
 
-### <a name="software"></a>2. How do I integrate IRMA software in my webpage?
+### <a name="software"></a>2. How do I integrate Yivi software in my webpage?
 
-All software for verification of IRMA attributes is open source and
+All software for verification of Yivi attributes is open source and
 freely [available](https://credentials.github.io/) to everyone. There
 are several ways to deploy this software.
 
@@ -92,23 +92,23 @@ are several ways to deploy this software.
    company, you can ask this company to do the integration for you.
 
  * Possibly, commercial parties will emerge that will offer
-   verification of IRMA attributes as a service.
+   verification of Yivi attributes as a service.
 
  * In particular, existing *Payment Service Providers* may start
    offering such attribute verification services, together with their
    existing payment processing services.
 
 The Privacy by Design foundation will not offer attribute verification
-services. The foundation focuses on operating the IRMA infrastructure
+services. The foundation focuses on operating the Yivi infrastructure
 and on issuing a basic set of attributes. In the current initial phase
 the foundation can offer advice, but it will not do this
 free-of-charge. For more information, feel free to [get in
 touch](/contact-en).
 
-To summarize: IRMA can be used without any costs, at least if you do
+To summarize: Yivi can be used without any costs, at least if you do
 everything yourself.
 
-The video below provides a tutorial for integrating IRMA attribute
+The video below provides a tutorial for integrating Yivi attribute
 verification in your website. For more information, see the
 [technical documentation](/documentation).
 
@@ -125,7 +125,7 @@ your own organization, such as membership numbers or specific loyalty
 statuses, like bronze, silver, gold, platinum, etc. This is possible,
 but requires some preparation.
 
-The Privacy by Design foundation runs the IRMA infrastructure. An
+The Privacy by Design foundation runs the Yivi infrastructure. An
 important part of this work is keeping a register of all possible
 attributes. This register must provider transparency and clarity,
 so that each user knows the meanings of the various attributes.
@@ -145,24 +145,24 @@ is freely available. There are several options.
    the foundation does the issuing of new attributes for you --- just
    like it already now [issues](/issuance) several attributes.
 
- * Possibly, service providers will emerge who issue IRMA attributes
+ * Possibly, service providers will emerge who issue Yivi attributes
    for others on a commercial basis.
 
 [To the top](#top)
 
 
-### <a name="costs"></a>4. What are the costs of using IRMA?
+### <a name="costs"></a>4. What are the costs of using Yivi?
 
-For the time being the usage of IRMA is free of charge, both for users
+For the time being the usage of Yivi is free of charge, both for users
 and for verifiers (like web-shops). Of course you will have your own
-costs for setting up and maintaining your own web-pages in which IRMA
+costs for setting up and maintaining your own web-pages in which Yivi
 is integrated. Those costs depend on who does the actual work, in
 which manner, see [above](#software).
 
 The Privacy by Design foundation is a non-profit
-organization. However, if it comes to large scale usage of IRMA, it is
+organization. However, if it comes to large scale usage of Yivi, it is
 important that the foundation has a stable financial position in order
-to maintain the IRMA infrastructure. As described above, the
+to maintain the Yivi infrastructure. As described above, the
 foundation does ask money for certain activities (advice, issuing of
 attributes, software adaptations). In addition, the foundation depends
 on subsidies and support of third parties.
@@ -170,12 +170,12 @@ on subsidies and support of third parties.
 [To the top](#top)
 
 
-### <a name="level"></a>5. What level of certainty does IRMA provide?
+### <a name="level"></a>5. What level of certainty does Yivi provide?
 
 Within the area of *identity management* different assurance levels
 for authentication are distinguished, such as "low", "substantial",
 "high". Often such levels are assigned to specific authentication
-means (such as a chip-card).  Within the IRMA ecosystem assurance
+means (such as a chip-card).  Within the Yivi ecosystem assurance
 levels can be assigned to attributes, or, to be more precise, to
 credentials (sets of attributes). The assurance level of such a
 credential is determined by the manner of authentication that precedes
@@ -186,14 +186,14 @@ to an attribute that is issued after e-banking authentication. And the
 level *high* could be used for attributes that are issued (on the
 spot) only after face-2-face authentication at a counter.
 
-Because there are many ways to issue IRMA attributes, the IRMA
+Because there are many ways to issue Yivi attributes, the Yivi
 platform does not standardly use such levels of assurance. Every
 verifier can determine itself which attributes it does or does not
 accept. A verifier can, for instance, accept an "older than 18"
 attribute if it has been issued by the foundation, but not if it has
 been issued by, say, Facebook.
 
-Experiments are being carried out with issuance of IRMA attributes
+Experiments are being carried out with issuance of Yivi attributes
 for specific applications that require higher assurance levels.
 
 
@@ -206,15 +206,15 @@ for specific applications that require higher assurance levels.
 The Privacy by Design foundation is *not* certified, for instance,
 according to the ISO 27010 norm. At this stage the foundation is too
 small for this --- and insufficiently wealthy. The foundation intends,
-at some time in the future when IRMA is being used more extensively,
+at some time in the future when Yivi is being used more extensively,
 to obtain such certification.
 
 At this stage the foundation offers its operational services for free,
 as "best effort". The foundation offers no guarantees and accepts at
-this stage no liability for matters that possibly go wrong in IRMA
+this stage no liability for matters that possibly go wrong in Yivi
 usage. The foundation tries to solve (reported) problems as soon as
-possible. The responsibility for IRMA usage lies entirely with the
-user (the carrier or IRMA attributes), with the verifier of
+possible. The responsibility for Yivi usage lies entirely with the
+user (the carrier or Yivi attributes), with the verifier of
 attributes, and with the issuer of attributes (if any), not being the
 foundation itself.
 
