@@ -25,7 +25,7 @@ atmosphere is open and very much content-oriented.
    'at' privacybydesign.foundation
 
 
-### Volgende Yivi meeting: Vrijdagmiddag, 10 nov. 2023 bij SIDN
+### Yivi meeting: Vrijdagmiddag, 10 nov. 2023 bij SIDN
 
 **Programma** 
 
@@ -35,29 +35,26 @@ bijeenkomst is deze keer bij SIDN in Arnhem, en dus **niet bij SURF**
 in Utrecht, zoals gebruikelijk. De precieze locatie is: SIDN, Meander
 501, 6825 MD Arnhem, Bedrijfsrestaurant 3e etage.
 
-Deze keer is aanmelding **verplicht** i.v.m. toegangsbadges.
-Gebruik a.u.b. deze [link](https://www.meetup.com/yivi-meetup-the-identity-wallet/events/296926331/)
-
   1. 13:30 Opening, welkom
 
   2. 13:30 - 14:00, Joost van Dijk (Yubico), "FIDO en webgebaseerde
-  digital identity wallets"
+  digital identity wallets" [[video](https://youtu.be/wP9-y1OSmY0?si=z4pQL0yfko0dLi1I)]
 
   3. 14:00 - 14:30, Theo Hooghiemstra (Hooghiemstra en Partners),
-  *Authenticatie in de zorg*
+  *Authenticatie in de zorg* [[video](https://www.youtube.com/watch?v=5S4pHvoHZdk&list=PL4oSeW0AbF-kf39Wk5CKZ_D2RiHJQnNsq&index=2)]
 
   4. 14:30 - 15:00 Peter Eikelboom (SIDN), *Europese en nationale
-  identity ontwikkelingen*
+  identity ontwikkelingen* [[video](https://youtu.be/De9c_LLH_hQ?si=9hgmFhXA1bJk0lms)]
 
   5. 15:00 - 15:30 pauze
 
   6. 15:30 - 16:00, iHub team (Radboud), *Yivi handtekeningen voor
-  files, mails & posts*
+  files, mails & posts* [[video](https://youtu.be/B5xXb6XJWhY?si=eoa7OVbnLZMVXneP)]
 
   7. 16:00 - 16:30, Job Doesburg (Radboud), *Maatregelen tegen overvraging in 
-  SSI en Yivi*
+  SSI en Yivi* [[video](https://www.youtube.com/watch?v=PHf2VbXaIe0)]
 
-  8. 16:30 - 17:00, Martijn Sanders (SIDN), *Yivi ontwikkelingen*
+  8. 16:30 - 17:00, Martijn Sanders (SIDN), *Yivi ontwikkelingen* [[video](https://youtu.be/y9pRk6fCO1M?si=7bx8K_iUZsndsS2C)]
 
   9. 17:00: borrel, aangeboden door SIDN
 

@@ -79,7 +79,8 @@ De stichting werkt graag samen met anderen om Yivi van de grond te
 krijgen. Pilots zijn in voorbereiding, in samenwerking met
 verschillende andere partijen, waaronder in het bijzonder:
 
- * [SIDN](https://sidn.nl) voor beheer en de doorontwikkeling van Yivi. 
+ * [SIDN](https://sidn.nl) voor beheer en de doorontwikkeling van Yivi,
+   tot 1 april 2024, zie [persbericht](https://www.sidn.nl/nieuws-en-blogs/sidn-draagt-yivi-weer-over-aan-stichting-privacy-by-design).
 
  * de [Radboud Universiteit](https://www.ru.nl), voor (sterke)
    authenticatie van studenten en medewerkers en digitale
