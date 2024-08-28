@@ -12,15 +12,15 @@ translations:
 ---
 
 Meer in het bijzonder richt de stichting zich op de ontwikkeling en
-het gebruik van het eigen systeem [IRMA](/irma), een afkorting voor *I
-Reveal My Attributes*.  Met IRMA kunt u op een privacy-vriendelijke,
+het gebruik van de eigen identity wallet [Yivi](/irma), oorspronkelijk
+IRMA geheten.  Met Yivi kunt u op een privacy-vriendelijke,
 beveiligde manier eigenschappen (attributen) van uzelf onthullen
 (zoals: ik ben boven de 18), zonder dat u andere, niet-relevante
 informatie over uzelf weggeeft. Via zulke attributen kunt u zichzelf
 *authenticeren* bijvoorbeeld om in te loggen op een webpagina.
 
-Ook kunt u met IRMA attribuut-gebaseerde handtekeningen zetten,
-zie [IRMA](/irma-uitleg) voor meer informatie.
+Ook kunt u met Yivi attribuut-gebaseerde handtekeningen zetten,
+zie [Yivi](/irma-uitleg) voor meer informatie.
 
 ### Verslagen en verantwoording
 

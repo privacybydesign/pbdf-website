@@ -13,7 +13,7 @@ translations:
 
  * Email: info 'at' privacybydesign.foundation
  * For email addresses of the board members, see [People](/people)
- * Follow Yivi developments on [Twitter](https://twitter.com/IRMA_privacy)
+ * Follow Yivi developments on [Mastodon](https://mastodon.nl/@yivi_privacybydesign)
  * Donate Bitcoins to the foundation on account/address: **13RJFgBP2XDqQDY2R3mYzwwUqwYX56AeM5**
  * Postal address: Toernooiveld 212, 6525 EC Nijmegen, The Netherlands
  * Chamber of Commerce registration number: 67144128; fiscal (RSIN) number: 856848359

@@ -24,6 +24,12 @@ atmosphere is open and very much content-oriented.
    included (or deleted) from this list, please send an email to: b.jacobs
    'at' privacybydesign.foundation
 
+### Yivi meeting: Vrijdagmiddag, 11 okt. 2024 bij SURF
+
+**Programma** 
+
+Verschijnt binnenkort
+
 
 ### Yivi meeting: Vrijdagmiddag, 10 nov. 2023 bij SIDN
 
